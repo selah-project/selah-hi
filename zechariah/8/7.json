@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "यह यहवे सेबाओत का वचन है: सुन! मैं अपनी जनता को ⟨את⟩ पूर्व देश से और सूर्यास्त देश से बचाता हूँ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "वचन है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओत"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "सुन!"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचाता हूँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपनी जनता को"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरी जनता को"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश से"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "और देश से"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "प्रवेश"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:11.900958824Z",
+  "model": "glm-5.2"
+}

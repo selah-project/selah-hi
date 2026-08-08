@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "तब यहवे का वचन यिर्मयाहू के पास आया, कहने कोः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब … आया"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:26.915415277Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "“तुम ⟨את⟩ प्रांगण को चारों ओर लगाओ, और तुम ⟨את⟩ प्रांगण-द्वार का परदा रखो।”",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "तुम लगाओ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रांगण"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "प्रांगण"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "तुम रखो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परदा"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "परदा"
+    },
+    {
+      "surface": "שער",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "प्रांगण"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:41.524496464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "⟨उन्होंने⟩ देखा, इस प्रकार ⟨वे⟩ चकित हुए; ⟨वे⟩ घबराए, ⟨वे⟩ जल्दी भागे।",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "⟨वे⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "चकित हुए"
+    },
+    {
+      "surface": "נבहלו",
+      "gloss": "घबराए"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "जल्दी भागे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:22.361790013Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और उसने ⟨את⟩ अपने रथ जोते, और ⟨את⟩ अपनी जाति को अपने साथ लिया।",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "और उसने जोते"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने रथ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "अपने रथ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अपनी जाति"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "अपनी जाति को"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लिया"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "अपने साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:04:13.869327840Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "तब वृक्षों ने दाखलता से कहा: तू चल, तू हम पर राज कर।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "वृक्षों ने"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "दाखलता से"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "तू चल"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "राज कर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हम पर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:07:27.481292698Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "बेहतर है प्रकट गाली, ⟨बजाय⟩ छिपी प्रेम ⟨से⟩।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "बेहतर है"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "गाली"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "प्रकट"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "प्रेम"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "छिपी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:47.024092711Z",
+  "model": "glm-5.2"
+}

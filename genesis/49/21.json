@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "नफ्तली ⟨है⟩ एक छोड़ी हुई हिरणी — वह देता है सुन्दर वचन।",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्तली"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "हिरणी"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "छोड़ी हुई"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "देता है"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "सुन्दर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:58:28.015937420Z",
+  "model": "glm-5.2"
+}

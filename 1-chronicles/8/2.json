@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "नोचा चौथा, और राफा पाँचवा।",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "नोचा"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथा"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "और राफा"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचवा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:45.284998235Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "पहिले दिन में तुम्हारे लिए पवित्र मिकरा ⟨होगा⟩; हर किसी सेवा-काम को न करो।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "मिकरा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:52.741361224Z",
+  "model": "glm-5.2"
+}

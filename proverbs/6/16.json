@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "छः ⟨हैं जो⟩ यहवे घृणा करता ⟨है⟩, और सात ⟨हैं⟩ ⟨उसकी⟩ नफ़्शो की घृणित बातें:",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "घृणा करता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "घृणित बातें"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "उसकी नफ़्शो"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:44.274911697Z",
+  "model": "glm-5.2"
+}

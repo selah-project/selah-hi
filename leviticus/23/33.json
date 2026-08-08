@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और यहवे ने मोशे से बात की, कहकर:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:23.111742360Z",
+  "model": "glm-5.2"
+}

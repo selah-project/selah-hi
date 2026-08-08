@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "फलकियों से खोखला, तू उसे बनाए; जैसा उसने तुझे ⟨את⟩ पर्वत पर दिखाया, वैसे ही बनाएँ।",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "खोखला"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "फलकियों से"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू बनाए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "उसने दिखाया"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "तुझे"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वत पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "वैसे ही"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "बनाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:42.898859412Z",
+  "model": "glm-5.2"
+}

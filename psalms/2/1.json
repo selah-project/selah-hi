@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "क्यों राष्ट्र उमड़े, और जातियाँ व्यर्थ बुदबुदाएँ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "उमड़े"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "राष्ट्र"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "और जातियाँ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "बुदबुदाएँ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "व्यर्थ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:24.050268717Z",
+  "model": "glm-5.2"
+}

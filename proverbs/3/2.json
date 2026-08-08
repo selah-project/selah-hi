@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "क्योंकि दिनों की लम्बाई और जीवन के वर्ष और शालोम तुझे बढ़ाएँगे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों की"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "और वर्ष"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन के"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "और शालोम"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "बढ़ाएँगे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:59.317556782Z",
+  "model": "glm-5.2"
+}

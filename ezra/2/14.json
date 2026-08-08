@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बिग्वय के बन्नों की ⟨संख्या⟩ दो हज़ार, पचास, और छः।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…के बन्नों की"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "बिग्वय"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "और छः"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:58.272944362Z",
+  "model": "glm-5.2"
+}

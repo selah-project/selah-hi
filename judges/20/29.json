@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यिस्राएल ने घात लगाये गिबा के सामने, चारों ओर।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "और रखा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल ने"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "घात लगाये"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबा"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:12:43.373549661Z",
+  "model": "glm-5.2"
+}

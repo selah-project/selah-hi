@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और उसने ⟨את⟩ मोआब को प्रहार किया; और मोआबी दावीद के दास बन गए — मन्नत उठाने वाले।",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "और उसने प्रहार किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआब को"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "और ⟨वे⟩ थे"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबी"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दास"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दावीद के"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "उठाने वाले"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मन्नत"
+    }
+  ],
+  "timestamp": "2026-08-08T01:17:06.495143354Z",
+  "model": "glm-5.2"
+}

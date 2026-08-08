@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "अपने नेक निकट के विरुद्ध बुराई के लिए मत खोद, और वह तेरे साथ सुरक्षित बैठा ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "खोद"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तेरे नेक निकट"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई के लिए"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "और वह"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बैठा"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "सुरक्षित"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:24.915433945Z",
+  "model": "glm-5.2"
+}

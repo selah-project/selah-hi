@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "कोलाहलकारिणी ⟨है⟩ वह और विद्रोहिणी; उसके घर में उसके चरण ठहरते नहीं।",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "कोलाहलकारिणी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "और विद्रोहिणी"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "उसके घर में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ठहरते"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "उसके चरण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:48.482935544Z",
+  "model": "glm-5.2"
+}

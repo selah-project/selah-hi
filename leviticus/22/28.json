@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और बैल या भेड़ — उसे और ⟨את⟩ उसके बच्चे को तुम एक ही दिन में न बलि काटो।",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "और बैल"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "שה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके बच्चे को"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसके बच्चे को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "तुम बलि काटो"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक ही"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:30.745167165Z",
+  "model": "glm-5.2"
+}

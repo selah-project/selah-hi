@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "दो बातें मैंने तुझसे माँगी हैं — मुझसे इनकार न कर मेरे मरने से पहले।",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "दो बातें"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "मैंने माँगी हैं"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "इनकार कर"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "से पहले"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मेरे मरने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:20.676397815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "“थोड़ी नींद, थोड़ी ऊँघ, थोड़ा हाथों का गले लगाना लेटने ⟨के लिए⟩ —”",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ी"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ी"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ऊँघ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "गले लगाना"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथों का"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "लेटने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:01.346772610Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तू ने उनका सब बदला देखा — उनके सब विचार ⟨मेरे विरुद्ध⟩।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "तू ने देखा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "उनका बदला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "उनके विचार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨मेरे विरुद्ध⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:41.291955424Z",
+  "model": "glm-5.2"
+}

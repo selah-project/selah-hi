@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 16:34",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "जिस तरह यहवे ने मोशे को आज्ञा दी, वैसे ही अहरोन ने उसे ⟨את⟩ ⟨the⟩⟨edut⟩ के सामने रख दिया, रखवाली के लिए।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जिस तरह"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "मשה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויניחהו",
+      "gloss": "उसे रख दिया"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन ने"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "⟨the⟩⟨edut⟩"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "रखवाली के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T02:06:16.015400325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तोहू की नगरी टूट-फूट गई; प्रवेश से हर घर बन्द हो गया।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "टूट-फूट गई"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "तोहू"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बन्द हो गया"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "प्रवेश से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:59:14.661713357Z",
+  "model": "glm-5.2"
+}

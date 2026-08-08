@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और यहवे ने सीनय पर्वत पर मोशे से कहा, ये कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और ⟨उसने⟩ कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वत पर"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनय"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ये कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:21.936879596Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और वश्ती रानी ने भी अहश्वेरोश के राजभवन में स्त्रियों के लिए एक मिश्ता बनाई।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "वश्ती"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनाई"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "मिश्ता"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रियों के लिए"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन में"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "राज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अहश्वेरोश"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:37.448417797Z",
+  "model": "glm-5.2"
+}

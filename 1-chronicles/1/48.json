@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और सम्ला की मृत्यु हुई, और उसके स्थान पर नदी के रेखोबोत का शाऊल राजा बना।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मृत्यु हुई"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "सम्ला"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और राजा बना"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसके स्थान पर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "रेखोबोत"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:18.092595264Z",
+  "model": "glm-5.2"
+}

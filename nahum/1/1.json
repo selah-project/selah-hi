@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "निनवे का भार; नहूम हएलकोशी के दर्शन का पुस्तक।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवे"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "नहूम"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "हएलकोशी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:00.676274610Z",
+  "model": "glm-5.2"
+}

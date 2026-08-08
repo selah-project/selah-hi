@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और जो उसके बन्द रहने के सब दिनों में हबियत में आए, वह सन्ध्या ⟨तक⟩ अशुद्ध हो जाएगा।",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "और आने वाला"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨में⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "हबियत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनों"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "उसके बन्द रहने के"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध होगा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨तक⟩"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "सन्ध्या"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:52.354291704Z",
+  "model": "glm-5.2"
+}

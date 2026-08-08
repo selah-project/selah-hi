@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "परदेशी हूँ मैं ⟨⟨इस⟩⟩ पृथ्वी पर; अपनी आज्ञाएँ मुझसे न छिपा।",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "परदेशी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "हूँ मैं"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वी पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "छिपा"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "अपनी आज्ञाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:04.709119816Z",
+  "model": "glm-5.2"
+}

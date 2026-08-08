@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और यहवे के दास मोशे के मरने के बाद यहवे ने मोशे के सेवक नून के बेटे यहोशुा से कहा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरने"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:57:27.798831258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "लेवाना के बेटे, खगाबा के बेटे, शल्माय के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लेवाना"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "खगाबा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "शल्माय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:27.711781896Z",
+  "model": "glm-5.2"
+}

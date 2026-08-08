@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "ये गत में हाराफा के लिए जन्मे थे, और वे दावीद के हाथ में और उसके दासों के हाथ में गिरे।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ये"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "जन्मे"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "हाराफा के लिए"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "गत में"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "और गिरे"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "और हाथ में"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "उसके दासों"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:10.886329514Z",
+  "model": "glm-5.2"
+}

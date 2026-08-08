@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "मद्य ⟨है⟩ एक उपहासक, हल्ला करता ⟨है⟩ नशा; और हर वह जो उसमें भटकता है, बुद्धिमान नहीं होगा।",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "उपहासक"
+    },
+    {
+      "surface": "היין",
+      "gloss": "मद्य"
+    },
+    {
+      "surface": "המה",
+      "gloss": "हल्ला करता है"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "नशा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "भटकता है"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "बुद्धिमान होगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:32.731632921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 91,
+  "translation": "तुम डरो नहीं ⟨किसी⟩ भय से रात में, न ⟨किसी⟩ बाण से जो उड़ता है दिन में;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "तुम डरो"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "भय से"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "बाण से"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "जो उड़ता है"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:45.238326482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ⟨वह⟩ हुआ, जब सारे युद्ध के पुरुष लोगों के मध्य से मर कर समाप्त हो गए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "वे समाप्त हो गए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध के"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मर कर"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "मध्य से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगों के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:24.161518068Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "आकाशों में बैठा ⟨वह⟩ हँसेगा; अदोनाय उनका उपहास करेगा।",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "बैठा"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाशों में"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "हँसेगा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "उपहास करेगा"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उनका"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:24.050686937Z",
+  "model": "glm-5.2"
+}

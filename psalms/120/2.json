@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 120,
+  "translation": "यहवे, मेरी प्राण-शक्ति को झूठे होंठों से, कपटी जीभ से बचा!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "बचा"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी प्राण-शक्ति को"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "होंठों से"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "जीभ से"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कपटी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:11.749718221Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "दलायाह के पुत्र, तोबियाह के पुत्र, नकोदा के पुत्र — छह सौ बयालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के पुत्र"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "दलायाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के पुत्र"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "तोबियाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के पुत्र"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नकोदा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "और चालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-08T01:01:38.611264855Z",
+  "model": "glm-5.2"
+}

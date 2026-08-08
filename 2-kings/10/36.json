@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और वे दिन जो येहू ने इस्राएल पर राज किया, बीस और आठ वर्ष, शोमरोन में।",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "और वे दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज किया"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "येहू ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "और आठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "शोमरोन में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:49:12.289995208Z",
+  "model": "glm-5.2"
+}

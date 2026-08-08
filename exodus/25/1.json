@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और यहवे ने मोशे से बात की, कहके:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहके"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:56.518506128Z",
+  "model": "glm-5.2"
+}

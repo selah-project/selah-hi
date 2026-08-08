@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और इस महीने के पन्द्रह ⟨दिन⟩ में यहवे का मत्सोत का चग ⟨है⟩; सात दिनों तक मत्सोत खाओ।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "और पाँच में"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के लिए"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "חג",
+      "gloss": "चग"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "मत्सोत का"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों तक"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्सोत"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाओ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:52.741240077Z",
+  "model": "glm-5.2"
+}

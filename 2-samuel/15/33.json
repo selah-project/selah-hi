@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और दाविद ने उससे कहा: “यदि तू मेरे साथ चला गया, तो तू मेरे लिए बोझ बन जाएगा।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "तू चला गया"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "והית",
+      "gloss": "और तू बन जाएगा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "बोझ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:29:28.762065179Z",
+  "model": "glm-5.2"
+}

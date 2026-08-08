@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "⟨(⟩पहले हएमीम उसमें बसते थे — एक बड़ा, बहुसंख्यक और ऊँचा लोग, अनाकियों के समान —",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "हएमीम"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसते थे"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "और बहुसंख्यक"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "और ऊँचा"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "अनाकियों के समान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:36.519650787Z",
+  "model": "glm-5.2"
+}

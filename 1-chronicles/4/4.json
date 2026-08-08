@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 4:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और पनूएल, गदोर का पिता, और एजेर, खूशा का पिता। ये खूर के बेटे ⟨हैं⟩, एफ्राता की पहिली-सन्तान, बेत-लेखेम का पिता।",
+  "tokens": [
+    {
+      "surface": "ופנואל",
+      "gloss": "और पनूएल"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "गदोर"
+    },
+    {
+      "surface": "ועזר",
+      "gloss": "और एजेर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "खूशा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חור",
+      "gloss": "खूर"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "पहिली-सन्तान"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "एफ्राता"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:01.563615993Z",
+  "model": "glm-5.2"
+}

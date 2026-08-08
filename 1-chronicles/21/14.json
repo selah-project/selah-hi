@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यहवे ने यिसराएल में महामारी दी, और यिसराएल में से सत्तर हज़ार पुरुष गिरे।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और दिया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिसराएल में"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "और गिरे"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिसराएल में से"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:34.780990154Z",
+  "model": "glm-5.2"
+}

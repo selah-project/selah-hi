@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तू एक दास को उसके स्वामी के हाथ न सौंपे, जो उसके स्वामी के पास से तेरे पास बच निकले।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "तू सौंपे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "एक दास को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के हाथ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "उसके स्वामी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "बच निकले"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "के पास से"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "उसके स्वामी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:49.782868267Z",
+  "model": "glm-5.2"
+}

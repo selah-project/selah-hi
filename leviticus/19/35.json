@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तुम न्याय में, माप में, तौल में, और तरल-माप में कोई अन्याय न करो।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "तुम करो"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्याय में"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "माप में"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "तौल में"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "और तरल-माप में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:32.508381392Z",
+  "model": "glm-5.2"
+}

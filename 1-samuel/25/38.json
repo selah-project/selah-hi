@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और लगभग दस दिन बाद हुआ, और यहवे ने ⟨את⟩ नाबाल को मारा, और वह मर गया।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "लगभग दस"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन बाद"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "और मारा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाबाल को"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और वह मर गया"
+    }
+  ],
+  "timestamp": "2026-08-07T21:22:46.491108614Z",
+  "model": "glm-5.2"
+}

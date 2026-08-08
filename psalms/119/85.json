@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "दम्भियों ने मेरे लिए गड्ढे खोदे, जो ⟨वे⟩ तोराह के अनुसार नहीं हैं।",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "खोदे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "दम्भियों ने"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "गड्ढे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "तोराह के अनुसार"
+    }
+  ],
+  "timestamp": "2026-08-08T00:47:59.865328967Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और अब तू कहता है, ‘जा, अपने आदोनी से कह: सुन, एलियाहू यहाँ है।’”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "अपने आदोनी से"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    }
+  ],
+  "timestamp": "2026-08-07T21:42:36.419034649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और यहवे ने मोशे से बात की, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:46.127352106Z",
+  "model": "glm-5.2"
+}

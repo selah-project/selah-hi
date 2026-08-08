@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और तू ⟨नहीं⟩ चुराएगा।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "चुराएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:34.084551180Z",
+  "model": "glm-5.2"
+}

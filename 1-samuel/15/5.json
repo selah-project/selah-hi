@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और शाऊल अमलेक के नगर तक आया, और नाले में घात लगाया।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमलेक"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "और घात लगाया"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाले में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:18:02.259720896Z",
+  "model": "glm-5.2"
+}

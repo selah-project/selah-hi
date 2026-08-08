@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और ज़िल्पा — लेआ की दासी — ने याकोव को दूसरा पुत्र जना।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "और ... जना"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ज़िल्पा"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआ की"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव को"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:12.993989166Z",
+  "model": "glm-5.2"
+}

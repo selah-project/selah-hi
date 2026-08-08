@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और यहवे ने मुझ पर तुम्हारे कारण रोष किया, और उसने मेरी न सुनी; और यहवे ने मुझसे कहा: “तुम्हें पर्याप्त है; इस बात में मुझसे और न बोलो।”",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "और रोष किया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "तुम्हारे कारण"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनी"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "רב",
+      "gloss": "पर्याप्त"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "बोलो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलना"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "बात में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:35.324812001Z",
+  "model": "glm-5.2"
+}

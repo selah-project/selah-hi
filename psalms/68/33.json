@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 68,
+  "translation": "पृथ्वी के राज्यों, एलोहीम को गाओ; अदोनाय को बजाओ — सेला।",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "राज्यों"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम को"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "बजाओ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय को"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:52.222614065Z",
+  "model": "glm-5.2"
+}

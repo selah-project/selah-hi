@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तब मैंने अपने स्वामी से कहा, “कदाचित वह स्त्री मेरे पीछे न आए।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "तब मैंने ... कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अपने स्वामी"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "कदाचित"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "आएगी"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "वह स्त्री"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "मेरे पीछे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:47:41.152506115Z",
+  "model": "glm-5.2"
+}

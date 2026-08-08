@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यहूदा के लिए: नचशोन अम्मीनदब का पुत्र।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदा के लिए"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "नचशोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "अम्मीनदब"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:47.385317845Z",
+  "model": "glm-5.2"
+}

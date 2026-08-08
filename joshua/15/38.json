@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और दिलान और हम्मित्सपे और योक्तएल",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "और दिलान"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "और हम्मित्सपे"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "और योक्तएल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:51.606447978Z",
+  "model": "glm-5.2"
+}

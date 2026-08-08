@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "वे स्तब्ध रहें अपनी लज्जा के कारण से, जो मुझसे कहते हैं: “हेआ! हेआ!”",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "स्तब्ध रहें"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण से"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "वजह से"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "उनकी लज्जा"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "जो कहते हैं"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हेआ!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हेआ!"
+    }
+  ],
+  "timestamp": "2026-08-07T22:59:10.405432110Z",
+  "model": "glm-5.2"
+}

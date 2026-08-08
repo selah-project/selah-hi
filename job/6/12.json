@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "क्या पत्थरों का बल मेरा बल है, क्या मेरा माँस ताम्बे का है?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बल"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थरों का"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "मेरा बल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "मेरा माँस"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ताम्बे का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:52:27.065751262Z",
+  "model": "glm-5.2"
+}

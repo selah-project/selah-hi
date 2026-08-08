@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ये वचन, जिन्हें मैं तुझे आज आज्ञा देता हूँ, तेरे हृदय पर रहेंगे।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "और रहेंगे"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हें"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुझे आज्ञा देता हूँ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तेरे हृदय"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:56.743881336Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "तब यहवे ने फरौन के ⟨את⟩ हृदय को सुदृढ़ किया, और उसने उनकी नहीं सुनी, जैसा यहवे ने मोशे से कहा था।",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "और सुदृढ़ किया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हृदय को"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन के"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनी"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनकी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहा था"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:18.962576564Z",
+  "model": "glm-5.2"
+}

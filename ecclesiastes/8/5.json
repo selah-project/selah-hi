@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "मित्स्वा का रक्षक किसी बुरे बात को नहीं जानता, और समय और मिश्पाट को एक बुद्धिमान का हृदय जानता है।",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "रक्षक"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "मित्स्वा का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात को"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरे"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "और मिश्पाट को"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता है"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:37.879641911Z",
+  "model": "glm-5.2"
+}

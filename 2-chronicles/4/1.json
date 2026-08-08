@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उसने एक ताम्र में से बनाया, बीस हाथ उसकी लम्बाई और बीस हाथ उसकी चौड़ाई और दस हाथ उसकी ऊँचाई।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने बनाया"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "में से"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्र"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "उसकी लम्बाई"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "उसकी चौड़ाई"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "और दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "उसकी ऊँचाई"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:28.745161543Z",
+  "model": "glm-5.2"
+}

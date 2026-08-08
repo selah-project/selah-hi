@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "“उसे ले लो, और उस पर अपनी आँखें लगाओ; उसे कोई बुरी चीज़ मत करो, परन्तु जैसा वह तुझसे कहे, वैसा ही उसके साथ करो।”",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "उसे ले लो"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "अपनी आँखें"
+    },
+    {
+      "surface": "שים",
+      "gloss": "लगाओ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "करो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कोई चीज़"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "परन्तु"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "कहे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "वैसा ही"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करो"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:22:03.755483152Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "“मैं — देख, मेरी बरित तेरे साथ ⟨है⟩, और तू बहुत से गोयिम का पिता बनेगा।”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "मेरी बरित"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तेरे साथ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "और तू बनेगा"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "המון",
+      "gloss": "बहुत से"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयिम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:32.181751336Z",
+  "model": "glm-5.2"
+}

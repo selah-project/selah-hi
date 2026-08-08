@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "“उसका कथन जो एल के वचन सुनता है, जो शद्दय का दर्शन देखता है, गिरते हुए और खुली हुई आँखों के साथ —",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनता"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय का"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "देखता"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिरते हुए"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "और खुली हुई"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखों के साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:34.058277422Z",
+  "model": "glm-5.2"
+}

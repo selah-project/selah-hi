@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यहवे ने गाद से, दावीद के दृष्टावलोकक को बात की, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद से"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "दृष्टावलोकक को"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:27.500914521Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यहवे ने ⟨את⟩ नातान को दावीद के पास भेजा, और वह उसके पास आया, और उससे कहा: “एक नगर में दो पुरुष थे; एक धनी और एक दरिद्र।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "और भेजा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नातान को"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "और एक"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "दरिद्र"
+    }
+  ],
+  "timestamp": "2026-08-07T21:28:44.033765291Z",
+  "model": "glm-5.2"
+}

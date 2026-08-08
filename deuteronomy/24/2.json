@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "“और वह उसके घर से निकले, और जाए और किसी दूसरे पुरुष की हो जाए।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और वह निकले"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "उसके घर से"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "और जाए"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "और हो जाए"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "किसी पुरुष की"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसरे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:05.036088429Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "हमारे पिता बाधित हुए, और वे नहीं ⟨रहे⟩; हम उनके अधर्मों को उठाते हैं।",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "हमारे पिता"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "बाधित हुए"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "उनके अधर्मों को"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "उठाते हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:19.440436896Z",
+  "model": "glm-5.2"
+}

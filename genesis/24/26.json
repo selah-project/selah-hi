@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और वह मनुष्य झुका और यहवे को प्रणाम किया।",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "और झुका"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "वह मनुष्य"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "और प्रणाम किया"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे को"
+    }
+  ],
+  "timestamp": "2026-08-08T02:02:49.322449473Z",
+  "model": "glm-5.2"
+}

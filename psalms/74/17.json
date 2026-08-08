@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 74,
+  "translation": "तू ने पृथ्वी के सब सीमाओं को स्थापित किया; ग्रीष्म और शरद तू ने ⟨उन्हें⟩ गढ़ा।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "स्थापित किया"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "सीमाओं"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ग्रीष्म"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "और शरद"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "गढ़ा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:36.540014348Z",
+  "model": "glm-5.2"
+}

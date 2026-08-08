@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "तब यहवे ने मोशे से बात की, कहके—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब…बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहके"
+    }
+  ],
+  "timestamp": "2026-08-08T02:17:18.845858833Z",
+  "model": "glm-5.2"
+}

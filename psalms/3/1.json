@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "दाविद का गीत, जब वह अपने बेटे अबशालोम के सामने से भागा।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "जब वह भागा"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "अपने बेटे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:41.976038828Z",
+  "model": "glm-5.2"
+}

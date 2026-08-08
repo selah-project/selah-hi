@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और उन्होंने कहा, एक-दूसरे से, “देखो, स्वप्नों का बढ़ा आदमी यह आ रहा है!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "और उन्होंने कहा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक व्यक्ति"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपने भाई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बढ़ा आदमी"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "स्वप्नों का"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा है"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:44.117405480Z",
+  "model": "glm-5.2"
+}

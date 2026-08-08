@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 30:11",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "केवल आशेर और मनश्शे और ज़बूलून से कुछ लोग नम्र हुए और यरूशलयिम आए।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "आशेर से"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "और मनश्शे"
+    },
+    {
+      "surface": "ומזבלון",
+      "gloss": "और ज़बूलून"
+    },
+    {
+      "surface": "נכנעו",
+      "gloss": "नम्र हुए"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:11:10.538745731Z",
+  "model": "glm-5.2"
+}

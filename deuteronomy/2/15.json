@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और भी यहवे का हाथ उन पर ⟨था⟩ उन्हें छावनी के मध्य से समाप्त करने के लिए — जब तक कि वे समाप्त नहीं हो गए।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "था"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "उन्हें समाप्त करने के लिए"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "मध्य से"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "वे समाप्त हो गए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:24.161422451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हम अपने हृदय को ⟨की⟩ ओर हाथों ⟨की⟩ ओर एल ⟨की⟩ ओर आकाश में उठाएँ।",
+  "tokens": [
+    {
+      "surface": "נִשָּׂא",
+      "gloss": "हम उठाएँ"
+    },
+    {
+      "surface": "לְבָבֵנוּ",
+      "gloss": "हमारा हृदय"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "כַּפַּיִם",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "בַּשָּׁמָיִם",
+      "gloss": "आकाश में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:01.302586711Z",
+  "model": "glm-5.2"
+}

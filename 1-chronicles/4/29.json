@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और बिल्हा में, और एत्सेम में, और तोलद में।",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "और बिल्हा में"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "और एत्सेम में"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "और तोलद में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:47.609749284Z",
+  "model": "glm-5.2"
+}

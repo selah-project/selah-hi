@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "अशम वह ⟨है⟩ — अपराधी है, यहवे के विरुद्ध अपराधी हो गया।",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "अशम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अपराधी है"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अपराधी हो गया"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के विरुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:16.426356917Z",
+  "model": "glm-5.2"
+}

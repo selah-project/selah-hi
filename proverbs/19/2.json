@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "साथ ही, बिना ज्ञान ⟨के⟩ प्राण अच्छे नहीं हैं, और पैरों से जल्दबाजी करने वाला पाप करता है।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "साथ ही"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "और जल्दबाज"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "पैरों से"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "पाप करता है"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:45.147911555Z",
+  "model": "glm-5.2"
+}

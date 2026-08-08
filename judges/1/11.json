@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब वह वहाँ से चला दबीर के बासियों के पास, और दबीर का नाम पहले था सेफर का शहर।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "तब चला"
+    },
+    {
+      "surface": "משם",
+      "gloss": "वहाँ से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "बासियों"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "दबीर के"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "दबीर का"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "शहर"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "सेफर का"
+    }
+  ],
+  "timestamp": "2026-08-07T21:04:02.327855505Z",
+  "model": "glm-5.2"
+}

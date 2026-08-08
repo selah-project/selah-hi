@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "तब राजा ने भेजा और यहूदा और यरूशलम के सब वयोवृद्धों को इकट्ठा किया।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "तब भेजा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "और इकट्ठा किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब वयोवृद्धों को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "वयोवृद्धों को"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "और यरूशलम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:12:44.339666602Z",
+  "model": "glm-5.2"
+}

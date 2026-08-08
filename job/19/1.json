@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तब अय्योब ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब उत्तर दिया"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब ने"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:53:35.496636577Z",
+  "model": "glm-5.2"
+}

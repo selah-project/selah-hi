@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "देखो, मैंने तुम्हें जातियों में छोटा बनाया; तुम बहुत तिरस्कृत ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "छोटा"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "मैंने तुम्हें बनाया"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जातियों में"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "तिरस्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:28.416029522Z",
+  "model": "glm-5.2"
+}

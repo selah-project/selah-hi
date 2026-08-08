@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और नोअ ने वह सब किया जैसा यहवे ने उसे आज्ञा दिया था।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोअ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जैसा सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "उसे आज्ञा दिया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:36.470202931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "तब बिल्दद ⟨ह⟩शूही ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब ... उत्तर दिया"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "बिल्दद"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "⟨ह⟩शूही"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:25:43.256240288Z",
+  "model": "glm-5.2"
+}

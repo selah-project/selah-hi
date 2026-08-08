@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "याजकों में से हर पुरुष ⟨את⟩ उसे खाए; ⟨वह⟩ परम-पवित्र ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "याजकों में से"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "परम-पवित्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:35.870309114Z",
+  "model": "glm-5.2"
+}

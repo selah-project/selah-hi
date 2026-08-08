@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और ⟨את⟩ एक नर के साथ तू स्त्री के मिथुन-सेवन की तरह न लेटना — घृणित ⟨क्रिया⟩ वह है।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "एक नर को"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "एक नर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "तू लेटना"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "मिथुन-सेवन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री की"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:23.885423785Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "उनके गणित—यहूदा के गोत्र के—चौहत्तर हज़ार छह सौ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनके गणित"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "के गोत्र"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "और सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:27:35.679473625Z",
+  "model": "glm-5.2"
+}

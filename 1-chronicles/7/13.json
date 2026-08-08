@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "नफ्तली के बेटे: यहत्सीएल और गूनी और येत्सेर और शल्लूम — बिल्हा के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ्तली"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "यहत्सीएल"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "और गूनी"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "और येत्सेर"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "और शल्लूम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:14.260850482Z",
+  "model": "glm-5.2"
+}

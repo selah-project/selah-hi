@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "महतोद्देश्य के लिए, कोरह के बेटों के लिए, अलमोथ पर, एक गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महतोद्देश्य के लिए"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों के लिए"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "अलमोथ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "एक गीत"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:33.278424557Z",
+  "model": "glm-5.2"
+}

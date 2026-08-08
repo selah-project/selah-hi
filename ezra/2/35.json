@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "सनाह के बेटे, तीन हज़ार छह सौ और तीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "सनाह"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:59.354564539Z",
+  "model": "glm-5.2"
+}

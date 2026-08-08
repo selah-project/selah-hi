@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "मत कह, “मैं बुराई का बदला लूँगा”; यहवे की प्रतीक्षा कर, और वह तुझे बचाएगा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तू कह"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "मैं बदला लूँगा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "प्रतीक्षा कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "और वह बचाएगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:57.239780834Z",
+  "model": "glm-5.2"
+}

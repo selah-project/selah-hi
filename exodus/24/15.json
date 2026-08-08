@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और मोशे हार की ओर चढ़ा, और बादल ने ⟨את⟩ हार को ढक लिया।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "और चढ़ा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "हार"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "और ढक लिया"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हार"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "हार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:32.954046306Z",
+  "model": "glm-5.2"
+}

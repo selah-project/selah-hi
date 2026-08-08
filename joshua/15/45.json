@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "एक्रोन, उसकी बस्तियाँ और उसके गाँव:",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "एक्रोन"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "और उसकी बस्तियाँ"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "और उसके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:22.743083199Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "यहवे ने ऐसा कहा: यहूदा के राजा के भवन में उतर जाओ, और वहाँ ⟨את⟩ यह वचन बोलो,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यहो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רד",
+      "gloss": "उतर जाओ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "और बोलो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यह वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T22:16:53.112533779Z",
+  "model": "glm-5.2"
+}

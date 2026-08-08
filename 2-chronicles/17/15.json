@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और उसके अधीन यहोहानन प्रधान, और उसके साथ दो लाख अस्सी हज़ार।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और उसके अधीन"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "यहोहानन"
+    },
+    {
+      "surface": "השר",
+      "gloss": "प्रधान"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "और उसके साथ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो लाख"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "और अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:26.705340503Z",
+  "model": "glm-5.2"
+}

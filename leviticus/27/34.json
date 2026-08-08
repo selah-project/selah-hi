@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "ये ⟨वे⟩ आज्ञाएँ हैं जिन्हें यहवे ने मोशे को ⟨את⟩, यिस्राएल के बेटों के लिए, सीनय पर्वत पर आज्ञा दी।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "⟨वे⟩ आज्ञाएँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हें"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे को"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वत पर"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनय"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:37.056370916Z",
+  "model": "glm-5.2"
+}

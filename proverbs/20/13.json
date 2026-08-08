@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "नींद से प्रेम मत कर, कहीं ऐसा न हो कि तू वंचित हो जाए; अपनी आँखें खोल, रोटी से तृप्त हो।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "प्रेम कर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कहीं ऐसा न हो कि"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "वंचित हो जाए"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "अपनी आँखें"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "तृप्त हो"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:00.918215415Z",
+  "model": "glm-5.2"
+}

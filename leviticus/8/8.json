@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उसने उस पर ⟨את⟩ छाती-सजावट रखी, और छाती-सजावट में ⟨את⟩ ऊरीम और ⟨את⟩ तुम्मीम रखे।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "और रखी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "छाती-सजावट"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-सजावट"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "और रखे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-सजावट"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊरीम"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ऊरीम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "तुम्मीम"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "तुम्मीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:22.849217397Z",
+  "model": "glm-5.2"
+}

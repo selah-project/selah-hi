@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "सुन! वह रात निर्जन हो; उसमें हर्ष-गान न आवे।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "वह रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "निर्जन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "हर्ष-गान"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:55.478289492Z",
+  "model": "glm-5.2"
+}

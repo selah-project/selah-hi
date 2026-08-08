@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "⟨जो⟩ बात सुनने से पहले उत्तर देता ⟨है⟩ — यह उसके लिए मूर्खता और लज्जा है।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "उत्तर देता है"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "से पहले"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनने"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "היא",
+      "gloss": "यह"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "और लज्जा"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:09.553862801Z",
+  "model": "glm-5.2"
+}

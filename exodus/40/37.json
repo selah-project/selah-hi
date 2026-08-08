@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और यदि बादल न चढ़ता, तो वे न रवाना होते, जब तक ⟨कि⟩ वह चढ़ने का दिन ⟨नहीं⟩ होता।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ता"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "रवाना होते"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक ⟨कि⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "उसका चढ़ना"
+    }
+  ],
+  "timestamp": "2026-08-08T02:10:16.068059668Z",
+  "model": "glm-5.2"
+}

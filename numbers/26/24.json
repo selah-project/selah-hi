@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "लेयाशूब — हयाशूबी कुल; लेशिम्रोन — हशिम्रोनी कुल।",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "लेयाशूब"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "हयाशूबी"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "लेशिम्रोन"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "हशिम्रोनी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:59.878959822Z",
+  "model": "glm-5.2"
+}

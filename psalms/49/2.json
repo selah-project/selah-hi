@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "सुनो यह, हे सब जातियाँ; कान लगाओ, हे सब संसार के बासिन्दे।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "जातियाँ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "कान लगाओ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बासिन्दे"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "संसार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:44.338059310Z",
+  "model": "glm-5.2"
+}

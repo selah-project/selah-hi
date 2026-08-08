@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "एक वचन अदोनाय ने भेजा याकोव में, और वह गिरा यिस्राएल में।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "एक वचन"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "याकोब में"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "और गिरा"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:57:28.696498873Z",
+  "model": "glm-5.2"
+}

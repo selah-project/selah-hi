@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "तब फरौह ने योसेफ से कहा: “मेरे स्वप्न में सुन, मैं नदी के किनारे खड़ा था।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "मेरे स्वप्न में"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "खड़ा था"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "नदी के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:55:23.820799336Z",
+  "model": "glm-5.2"
+}

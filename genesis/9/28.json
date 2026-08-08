@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और नूह जल-प्रलय के बाद तीन सौ पचास वर्ष जीवित रहा।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "और जीवित रहा"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नूह"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "जल-प्रलय"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:39.896371335Z",
+  "model": "glm-5.2"
+}

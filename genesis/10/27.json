@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और ⟨את⟩ हदोराम और ⟨את⟩ उज़ाल और ⟨את⟩ दिक्लाह।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हदोराम"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "हदोराम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उज़ाल"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "उज़ाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "दिक्लाह"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "दिक्लाह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:23.154446791Z",
+  "model": "glm-5.2"
+}

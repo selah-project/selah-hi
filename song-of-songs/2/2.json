@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "कँटीलियों के बीच एक कमल-पुष्प की तरह, ऐसे ही मेरी प्रिया है कन्याओं के बीच।",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "एक कमल-पुष्प की तरह"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "कँटीलियों"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसे ही"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "मेरी प्रिया है"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "कन्याओं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:57.082553606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "हर समय तेरे वस्त्र सफ़ेद रहें, और तेरे सिर पर तैल की कमी न हो।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "रहें"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "तेरे वस्त्र"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "सफ़ेद"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "और तैल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तेरे सिर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "की कमी हो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:47.298547619Z",
+  "model": "glm-5.2"
+}

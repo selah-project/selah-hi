@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बन्ये ज़त्तू के, आठ सौ उनतालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बन्ये"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ज़त्तू"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "और पाँच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:14.096328996Z",
+  "model": "glm-5.2"
+}

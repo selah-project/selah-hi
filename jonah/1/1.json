@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और यहवे का वचन योनह अमित्तय के पुत्र के पास आया, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योनह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "अमित्तय"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:48.755323316Z",
+  "model": "glm-5.2"
+}

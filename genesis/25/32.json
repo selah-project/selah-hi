@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और एसाव ने कहा, देख, मैं मरने जा रहा हूँ, और यह ज्येष्ठता मुझे क्या लाभ देगी?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव ने"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जा रहा हूँ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरने"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "और क्यों"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ज्येष्ठता"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:28.502633376Z",
+  "model": "glm-5.2"
+}

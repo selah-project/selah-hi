@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "उन्हें दे, यहवे — तू क्या देगा? उन्हें दे: गर्भ जो गिर जाए और स्तन जो सूख जाएँ।",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "तू देगा"
+    },
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "गर्भ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "जो गिर जाए"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "और स्तन"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "जो सूख जाएँ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:37:23.280572415Z",
+  "model": "glm-5.2"
+}

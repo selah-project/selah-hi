@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "प्रमुख कोरह, प्रमुख गाताम, प्रमुख अमालेक; ये प्रमुख हैं एलीफाज के, एदोम देश में; ये हैं अदा के बेटे।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "गाताम"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफाज"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:21.627901811Z",
+  "model": "glm-5.2"
+}

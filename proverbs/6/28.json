@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यदि कोई पुरुष अंगारों पर चलता है, तो क्या उसके पाँव नहीं जलते?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "चलता है"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "अंगारों"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "उसके पाँव"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "जलते"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:00.316110165Z",
+  "model": "glm-5.2"
+}

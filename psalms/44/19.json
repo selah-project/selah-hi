@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "⟨हमारा⟩ हृदय पीछे नहीं हटा, और हमारे कदम तेरे मार्ग से झुककर नहीं भटके।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "हटा"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हमारा हृदय"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "और झुककर भटके"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "हमारे कदम"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "तेरे मार्ग"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:08.154160012Z",
+  "model": "glm-5.2"
+}

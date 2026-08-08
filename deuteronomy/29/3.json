@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और यहवे ने तुम्हें जानने के लिए हृदय और देखने के लिए आँखें और सुनने के लिए कान नहीं दिए, इस दिन तक।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जानने के लिए"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "और आँखें"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखने के लिए"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "और कान"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुनने के लिए"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "इस दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:23.323468193Z",
+  "model": "glm-5.2"
+}

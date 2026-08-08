@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "यरीहो का राजा, एक; हाऐई का राजा, जो बेथ-एल के पास ⟨है⟩, एक।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाअई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-08T02:22:42.717680739Z",
+  "model": "glm-5.2"
+}

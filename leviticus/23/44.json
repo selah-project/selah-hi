@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और मोशे ने बताए ⟨את⟩ यहवे के नियत-समय, इस्राएल के बेटों के पास।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और उसने बताए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के नियत-समय"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "नियत-समय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:56.058476794Z",
+  "model": "glm-5.2"
+}

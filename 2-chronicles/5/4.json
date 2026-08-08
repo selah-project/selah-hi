@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और यिस्राएल के सब ⟨வ்⟩ वयोवृद्ध आए, और लेवियों ने ⟨வ்⟩ ताबूत को उठाया।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "वयोवृद्ध"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "और उठाया"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवियों ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ताबूत"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ताबूत को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:50.805664969Z",
+  "model": "glm-5.2"
+}

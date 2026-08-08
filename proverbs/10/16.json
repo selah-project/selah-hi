@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "धर्मी का कार्य जीवन के लिए ⟨है⟩, दुष्ट का लाभ पाप के लिए ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी का"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "जीवन के लिए"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट का"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:45.679890533Z",
+  "model": "glm-5.2"
+}

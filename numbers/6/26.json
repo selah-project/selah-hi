@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यहवे अपना मुख ⟨तेरे⟩ ओर उठाए और तुझे शालोम दे।",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "उठाए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "अपना मुख"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे ओर"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "और दे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:32.851087822Z",
+  "model": "glm-5.2"
+}

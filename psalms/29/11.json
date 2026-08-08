@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "यहवे अपने जन को ओज देगा, यहवे अपने जन को ⟨את⟩ बशालोम में आशीर्वाद देगा।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ओज"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "अपने जन को"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "आशीर्वाद देगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने जन को"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "अपने जन को"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "बशालोम में"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:45.390688783Z",
+  "model": "glm-5.2"
+}

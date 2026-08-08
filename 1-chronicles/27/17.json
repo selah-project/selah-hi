@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "लेवी के लिए — खशब्याह कमुएल का पुत्र; अहरोन के लिए — त्सादोक।",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "लेवी के लिए"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "खशब्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "कमुएल"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोन के लिए"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    }
+  ],
+  "timestamp": "2026-08-08T01:05:13.580826035Z",
+  "model": "glm-5.2"
+}

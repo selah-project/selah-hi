@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "उस दिन शूशन दुर्ग में मारे गए लोगों की संख्या राजा के सामने आई।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आई"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "संख्या"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "मारे गए लोगों"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "शूशन"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:41:53.848870581Z",
+  "model": "glm-5.2"
+}

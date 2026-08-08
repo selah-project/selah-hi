@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे यहोशू के साथ था; और उसकी ख्याति सारी पृथ्वी में ⟨थी⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोशू के साथ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और थी"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "उसकी ख्याति"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:57:55.133579427Z",
+  "model": "glm-5.2"
+}

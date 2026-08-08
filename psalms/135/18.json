@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 135,
+  "translation": "उनके बनाने वाले उनके समान होंगे, सब जो उन पर भरोसा ⟨करते हैं⟩।",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "उनके समान"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होंगे"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "उनके बनाने वाले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उन पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:31.504837484Z",
+  "model": "glm-5.2"
+}

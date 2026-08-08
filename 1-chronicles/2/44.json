@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और शमा ने ⟨את⟩ रहम को जन्म दिया — योर्केआम का पिता; और रेकेम ने ⟨את⟩ शम्माय को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "और शमा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रहम को"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "रहम"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "योर्केआम"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "और रेकेम"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शम्माय को"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:53.899474788Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "लादान के बेटे — प्रमुख येकिएल, और ज़ेताम, और योएल — तीन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "लादान"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "येकिएल"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "और ज़ेताम"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "और योएल"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-08T03:15:58.161472943Z",
+  "model": "glm-5.2"
+}

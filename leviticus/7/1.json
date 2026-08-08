@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यह ⟨है⟩ हाशाम की तोराह — पवित्रों का पवित्र ⟨है⟩ वह।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "की तोराह"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "हाशाम"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्रों का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:35.722700889Z",
+  "model": "glm-5.2"
+}

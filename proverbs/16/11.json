@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "तराजू और न्याय के बाट यहवे के हैं; कोष की सम्पूर्ण पाषाण ⟨हैं⟩ उसका कार्य।",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "तराजू"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "और बाट"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के हैं"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "उसका कार्य"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पाषाण"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "कोष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:59.731998774Z",
+  "model": "glm-5.2"
+}

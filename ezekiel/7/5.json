@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "इस प्रकार अदोनाय यहवे ने कहा: एक बुराई, एक बुराई, देख, आ रही ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आ रही है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:26:35.561654314Z",
+  "model": "glm-5.2"
+}

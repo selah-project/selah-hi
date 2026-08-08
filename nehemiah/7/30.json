@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "रामा और गेबा के पुरूष छह सौ इक्कीस।",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֤י",
+      "gloss": "के पुरूष"
+    },
+    {
+      "surface": "הָֽרָמָה֙",
+      "gloss": "रामा"
+    },
+    {
+      "surface": "וָגָ֔בַע",
+      "gloss": "और गेबा"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וְאֶחָֽד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:19.810895716Z",
+  "model": "glm-5.2"
+}

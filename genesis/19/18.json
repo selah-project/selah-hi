@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और लूत ने उनसे कहा: “हे नहीं, अदोनाय, नहीं!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लूत"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נא",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:49.582682818Z",
+  "model": "glm-5.2"
+}

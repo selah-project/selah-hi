@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨वह⟩ अपने घर के द्वार पर बैठती है, नगर के ऊँचे स्थान पर एक आसन पर।",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "और बैठती है"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "द्वार पर"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "अपने घर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "एक आसन"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ऊँचे स्थान"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:04.054170820Z",
+  "model": "glm-5.2"
+}

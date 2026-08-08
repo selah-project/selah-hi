@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "पहले माह में, माह के चौदहवें दिन, साँझ को, तुम मत्सोत खाओ; माह के इक्कीसवें दिन तक, साँझ को।",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "पहले में"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "माह"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "साँझ को"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "मत्सोत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "इक्कीस"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "माह"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "साँझ को"
+    }
+  ],
+  "timestamp": "2026-08-07T20:04:04.021011421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और कहेंगे सब जातियाँ, “किसलिए यहवे ने इस देश के साथ ऐसा किया? क्या है यह बड़ा भयानक कोप का भड़क?”",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "और कहेंगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातियाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "किसलिए"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "देश के साथ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या है"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "भड़क"
+    },
+    {
+      "surface": "האף",
+      "gloss": "कोप का"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:20.236878071Z",
+  "model": "glm-5.2"
+}

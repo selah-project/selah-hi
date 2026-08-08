@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और अहरोन एक सौ तेईस वर्ष का था जब होर हार पर अपनी मृत्यु के समय ⟨मरा⟩।",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "और अहरोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "और सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "अपनी मृत्यु के समय"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "हार पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:57.745381716Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "दसवें वर्ष में, दसवें मास में, मास के बारहवें दिन, यहवे का वचन मेरे पास था, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "दसवीं"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "दसवें"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "बारह में"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "मास के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:33:51.280831425Z",
+  "model": "glm-5.2"
+}

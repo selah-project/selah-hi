@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "व्यर्थ से प्राप्त धन घट जाता है, और हाथ से इकट्ठा करने वाला बढ़ाएगा।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "व्यर्थ से प्राप्त"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "घट जाता है"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "और इकट्ठा करने वाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ़ाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:50.659966584Z",
+  "model": "glm-5.2"
+}

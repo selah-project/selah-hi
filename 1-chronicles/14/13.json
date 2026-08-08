@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और फिलिश्तियों ने फिर बढ़कर घाटी में फैल गए।",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "और बढ़ाए"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "फिलिश्तियों ने"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "और फैल गए"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "घाटी में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:44.585449940Z",
+  "model": "glm-5.2"
+}

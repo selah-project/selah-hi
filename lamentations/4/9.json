@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तलवार के घातित भले थे अकाल के घातित से, क्योंकि वे बह गए, छलनी होकर, खेत के उपज के बिना।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "भले थे"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "घातित"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार के"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "घातित से"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "अकाल के"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "क्योंकि वे"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "बह गए"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "छलनी होकर"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "उपज के बिना"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:19.915192179Z",
+  "model": "glm-5.2"
+}

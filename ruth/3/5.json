@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और उसने उससे कहा, “सब कुछ जो तू कहेगी मैं करूँगा।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "तू कहेगी"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "मैं करूँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:35:12.688587065Z",
+  "model": "glm-5.2"
+}

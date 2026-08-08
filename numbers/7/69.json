@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक बैल, बछड़ा, एक मेढ़ा, एक मेमना, अपने वर्ष का पुत्र, ओला के लिए।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "अपने वर्ष"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ओला के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:57.418840783Z",
+  "model": "glm-5.2"
+}

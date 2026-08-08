@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और एलोन और तिमनाथा और एक्रोन।",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "और एलोन"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "और तिमनाथा"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "और एक्रोन"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:13.016770974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "वे मित्का से निकले और चश्मोना में डेरे में ठहरे।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "मित्का से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरे में ठहरे"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "चश्मोना में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:56.399555218Z",
+  "model": "glm-5.2"
+}

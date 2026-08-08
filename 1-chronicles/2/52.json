@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और शोबल के पुत्र थे, किर्यत-यारिम के पिता: हारोए, ⟨और⟩ आधा मनूहोत।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और थे"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "शोबल के"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत-यारिम"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "के"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "हारोए"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "मनूहोत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:00.051357190Z",
+  "model": "glm-5.2"
+}

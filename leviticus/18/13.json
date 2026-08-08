@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरी माता की बहिन का नंगत्व तू न खोल; क्योंकि वह तेरी माता की स्वजाति है।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगत्व"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिन"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तेरी माता की"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "स्वजाति"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तेरी माता की"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:40.057227491Z",
+  "model": "glm-5.2"
+}

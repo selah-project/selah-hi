@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "अपना हाथ उस पर रख; युद्ध को स्मरण — फिर नहीं!",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "रख"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "स्मरण"
+    },
+    {
+      "surface": "מלחमה",
+      "gloss": "युद्ध को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "फिर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:01.689154375Z",
+  "model": "glm-5.2"
+}

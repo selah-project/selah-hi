@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "“देखो, तुम सब इस्राएल के पुत्र हो; अपना वचन और सलाह यहाँ दो।”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तुम सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपना"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "और सलाह"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "यहाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:11:40.384182160Z",
+  "model": "glm-5.2"
+}

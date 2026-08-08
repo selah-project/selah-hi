@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "ये ⟨हैं⟩ एसाव के पुत्रों के नाम: एलीफ़ज़, एसाव की पत्नी अदा का पुत्र; रेउएल, एसाव की पत्नी बश्मत का पुत्र।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफ़ज़"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदा"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बश्मत"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:56.406221909Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और सुनो, एक स्त्री उससे मिलने ⟨को⟩ ⟨आई⟩ — वेश्या का वेश और कपटी हृदय ⟨वाली⟩।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "और सुनो"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक स्त्री"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "उससे मिलने"
+    },
+    {
+      "surface": "שית",
+      "gloss": "वेश"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या का"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "और कपटी"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:48.482845138Z",
+  "model": "glm-5.2"
+}

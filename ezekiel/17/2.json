@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "हे मनुष्य के पुत्र, एक पहेली पूछ और एक मशल कहो बेइत यिस्राएल के प्रति।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "पूछ"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "पहेली"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "और कहो"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मशल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:30:11.769151239Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक बछड़ा, बेन-बाकार; एक मेढ़ा; एक मेमना, अपने वर्ष का पुत्र, चढ़ावे के लिए;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछड़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बाकार"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "मेमना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "अपने वर्ष"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "चढ़ावे के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:46.648427989Z",
+  "model": "glm-5.2"
+}

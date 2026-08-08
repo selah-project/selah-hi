@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और यहवे का वचन योना के पास दूसरी बार आया, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दूसरी बार"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:26.701389907Z",
+  "model": "glm-5.2"
+}

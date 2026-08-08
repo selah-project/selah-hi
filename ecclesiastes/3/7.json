@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "फाड़ने का समय, और सीने का समय; चुप रहने का समय, और बोलने का समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "फाड़ने का"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "सीने का"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "चुप रहने का"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोलने का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:04.011453654Z",
+  "model": "glm-5.2"
+}

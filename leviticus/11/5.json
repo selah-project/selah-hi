@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨את⟩ शफान को, क्योंकि वह गरा चबाता है परन्तु फरसा नहीं फाड़ता — वह तुम्हारे लिए अशुद्ध है।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "शफान"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "शफान"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "चबाता है"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "गरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "और फरसा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "फाड़ता"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:55.066066064Z",
+  "model": "glm-5.2"
+}

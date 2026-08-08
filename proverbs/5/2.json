@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "ताकि ⟨तू⟩ विवेक की रक्षा करे, और ज्ञान की रक्षा तेरे ओठ करें।",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "ताकि ⟨तू⟩ रक्षा करे"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "विवेक"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "और ज्ञान"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "तेरे ओठ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "की रक्षा करें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:35.199763197Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "वे मोसेरोत से निकले और बने-याकान में डेरे में ठहरे।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "मोसेरोत से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरे में ठहरे"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "बने-याकान में"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:56.399911424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उसका पहिलौठा पुत्र ⟨था⟩ अब्दोन, और त्सूर, और कीश, और बाल, और नादब।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "और उसका पुत्र"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहिलौठा"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "अब्दोन"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "और त्सूर"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "और कीश"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "और बाल"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "और नादब"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:39.108081850Z",
+  "model": "glm-5.2"
+}

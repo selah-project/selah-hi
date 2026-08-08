@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 27:11",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और यदि कोई अशुद्ध पशु है जिसे उसमें से यहवे के लिए करबान नहीं लाते, तो वह पशु को याजक के सामने खड़ा करे।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "लाते"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "उसमें से"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "करबान"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "तो खड़ा करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पशु"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:27:29.517200800Z",
+  "model": "glm-5.2"
+}

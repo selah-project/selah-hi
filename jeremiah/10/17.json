@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "अपनी बस्ती देश से इकट्ठी कर, हे घेराबन्दी में बैठने वाली!",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "इकट्ठी कर"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश से"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "अपनी बस्ती"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "हे बैठने वाली"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "घेराबन्दी में"
+    }
+  ],
+  "timestamp": "2026-08-07T22:13:06.405717737Z",
+  "model": "glm-5.2"
+}

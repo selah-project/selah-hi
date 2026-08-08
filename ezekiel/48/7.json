@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और रूबेन की सीमा के साथ, पूर्व ओर से लेकर पश्चिम ओर तक, यहूदा ⟨की एक भागीदारी⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … के साथ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:38:59.536861329Z",
+  "model": "glm-5.2"
+}

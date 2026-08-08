@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "तेरी ओर पुकारे और बच निकले; तेरे भरोसे रहे और न शर्मसार हुए।",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "तेरी ओर"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "पुकारे"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "और बच निकले"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तेरे भरोसे"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "शर्मसार हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:08.321099731Z",
+  "model": "glm-5.2"
+}

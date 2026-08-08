@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और योयारीब के लिए मत्तेनै; यदअयाह के लिए उज़्ज़ी।",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "और योयारीब के लिए"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "मत्तेनै"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "यदअयाह के लिए"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज़्ज़ी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:10.109158364Z",
+  "model": "glm-5.2"
+}

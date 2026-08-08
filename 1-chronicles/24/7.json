@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और पहला गोरल यहोयारीब के लिए निकला; दूसरा यदायाह के लिए।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहला"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "यहोयारीब के लिए"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "यदायाह के लिए"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:40.793347643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "त्सेनान और चदशाह और मिग्दल-गाद",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "त्सेनान"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "और चदशाह"
+    },
+    {
+      "surface": "ומגדל גד",
+      "gloss": "और मिग्दल-गाद"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:51.606228165Z",
+  "model": "glm-5.2"
+}

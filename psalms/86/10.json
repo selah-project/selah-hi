@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 86,
+  "translation": "क्योंकि तू महान् है और आश्चर्य्यकर्म करता है; तू अकेला एलोहीम है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान्"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "और करता है"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "आश्चर्य्यकर्म"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेला"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:44.368184622Z",
+  "model": "glm-5.2"
+}

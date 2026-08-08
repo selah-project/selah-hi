@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "अज़गद के बेटे — एक हज़ार दो सौ बीस ⟨और⟩ दो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "अज़गद"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हज़ार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:01.252699205Z",
+  "model": "glm-5.2"
+}

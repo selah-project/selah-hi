@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और तहोम के स्रोत बन्द हो गए, और आकाश की जालियाँ, और आकाश से वर्षा रुक गई।",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "और बन्द हो गए"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "तहोम के"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "और जालियाँ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश की"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "और रुक गई"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "वर्षा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.587648131Z",
+  "model": "glm-5.2"
+}

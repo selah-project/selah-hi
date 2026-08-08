@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "यहवे तुझे पागलपन और अंधेपन और हृदय के विस्मय से प्रहार करेगा।",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "तुझे प्रहार करेगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "पागलपन"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "और अंधेपन"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "और विस्मय"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हृदय के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:27.264680744Z",
+  "model": "glm-5.2"
+}

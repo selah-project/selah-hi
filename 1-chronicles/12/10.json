@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "एज़र प्रथम, ओबद्याह द्वितीय, एलिआब तृतीय।",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "एज़र"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रथम"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ओबद्याह"
+    },
+    {
+      "surface": "השני",
+      "gloss": "द्वितीय"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तृतीय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:13.458494496Z",
+  "model": "glm-5.2"
+}

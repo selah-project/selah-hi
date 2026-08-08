@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और सारह ने कहा, “हँसी ने मेरे लिए किया है एलोहीम; हर वह ⟨जो⟩ सुनता है, हँसेगा मेरे लिए।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "और-कहा"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारह"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "हँसी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर वह"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "सुननेवाला"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "हँसेगा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:10.840042396Z",
+  "model": "glm-5.2"
+}

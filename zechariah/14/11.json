@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "“और ⟨लोग⟩ उसमें बसेंगे, और चेरमेम फिर न होगा, और यरूशलम निश्चिन्त बसी रहेगी।”",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "और बसेंगे"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "और चेरमेम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "और बसी रहेगी"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलम"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "निश्चिन्त"
+    }
+  ],
+  "timestamp": "2026-08-07T22:52:45.443284552Z",
+  "model": "glm-5.2"
+}

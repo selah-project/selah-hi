@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यहवे ने मोशे से बात की, कहकर —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:59.597586483Z",
+  "model": "glm-5.2"
+}

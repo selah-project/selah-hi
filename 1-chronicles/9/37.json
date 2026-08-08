@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और गदोर, और अह्यो, और ज़कर्याह, और मिक्लोत।",
+  "tokens": [
+    {
+      "surface": "וּגְד֣וֹר",
+      "gloss": "और गदोर"
+    },
+    {
+      "surface": "וְאַחְי֔וֹ",
+      "gloss": "और अह्यो"
+    },
+    {
+      "surface": "וּזְכַרְיָ֖ה",
+      "gloss": "और ज़कर्याह"
+    },
+    {
+      "surface": "וּמִקְלֽוֹת",
+      "gloss": "और मिक्लोत"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:13.325261951Z",
+  "model": "glm-5.2"
+}

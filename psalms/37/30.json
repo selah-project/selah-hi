@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "धर्मी का मुख बुद्धि गुनगुनाता ⟨है⟩, और उसकी जीभ न्याय बोलती ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी का"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "गुनगुनाता"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "और उसकी जीभ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोलती"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:09.518631708Z",
+  "model": "glm-5.2"
+}

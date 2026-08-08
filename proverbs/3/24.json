@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "यदि तू लेटे, तो न डर; और तू लेटेगा और तेरी नींद मीठी होगी।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "तू लेटे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "डर"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "और तू लेटेगा"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "और मीठी होगी"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "तेरी नींद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:49.466408606Z",
+  "model": "glm-5.2"
+}

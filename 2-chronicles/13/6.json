@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और उठा यरोबाम नबत का बेटा, शलोमोह का दास, दावीद का बेटा, और विद्रोह किया अपने अधिपति के विरुद्ध।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "और उठा"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "नबत"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "और विद्रोह किया"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "अपने अधिपति के"
+    }
+  ],
+  "timestamp": "2026-08-08T01:06:28.077868291Z",
+  "model": "glm-5.2"
+}

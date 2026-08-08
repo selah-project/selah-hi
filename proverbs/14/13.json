@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "बर्बादी भी हँसी में हृदय दुखता ⟨है⟩, और उसका अन्त आनन्द ⟨है⟩ शोक।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "बर्बादी भी"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "हँसी में"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "दुखता ⟨है⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "और उसका अन्त"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनन्द"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "शोक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:27.382937224Z",
+  "model": "glm-5.2"
+}

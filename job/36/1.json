@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और एलीहू ने ⟨फिर होकर⟩ कहा।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "और ⟨फिर होकर⟩"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "एलीहू ने"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:48.782387254Z",
+  "model": "glm-5.2"
+}

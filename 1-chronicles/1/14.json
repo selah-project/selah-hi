@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और ⟨את⟩ हयेबूसी और ⟨את⟩ हअमोरी और ⟨את⟩ हगिर्गशी।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हयेबूसी"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "हयेबूसी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हअमोरी"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "हअमोरी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हगिर्गशी"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "हगिर्गशी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:26.009031574Z",
+  "model": "glm-5.2"
+}

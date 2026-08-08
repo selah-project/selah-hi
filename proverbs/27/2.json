@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "कोई अपरिचित तेरी प्रशंसा करे, और न तेरा मुँह; परदेशी, और न तेरे ओठ।",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "तेरी प्रशंसा करे"
+    },
+    {
+      "surface": "זר",
+      "gloss": "कोई अपरिचित"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तेरा मुँह"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "परदेशी"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "तेरे ओठ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:50.788861692Z",
+  "model": "glm-5.2"
+}

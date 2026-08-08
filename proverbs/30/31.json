@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "कटिबद्ध-कमर-वाला, या बकरा, और राजा — उसके साथ अप्रतिरोध्य ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "कटिबद्ध-कमर-वाला"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "कमर"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "और राजा"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "अप्रतिरोध्य"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:22.926871054Z",
+  "model": "glm-5.2"
+}

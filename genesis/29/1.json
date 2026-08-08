@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "तब याकोब ने ⟨अपने⟩ पाँव उठाए और चला, और पूर्वदेशीयों की भूमि में आया।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "और उठाए"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब ने"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "अपने पाँव"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और चला"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "की भूमि में"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "पूर्व"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:54.466452546Z",
+  "model": "glm-5.2"
+}

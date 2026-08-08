@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और नादाब के पुत्र ⟨थे⟩ सेलेद और अप्पयिम; और सेलेद मर गया, उसके पुत्र नहीं थे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "सेलेद"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "और अप्पयिम"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मर गया"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "सेलेद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:42.251216758Z",
+  "model": "glm-5.2"
+}

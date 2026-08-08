@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "“और अब, हे मेरे बेटे, मेरी आज्ञा सुनो, ⟨जो⟩ मैं तुम्हें आज्ञा देता हूँ ⟨את⟩।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे बेटे"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "मेरी आज्ञा"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "⟨जो⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा देता हूँ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "तुम्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:53.992962150Z",
+  "model": "glm-5.2"
+}

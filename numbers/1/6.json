@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "शिमोन के लिए: शलूमिएल त्सूरिशद्दय का पुत्र।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "शिमोन के लिए"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "शलूमिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "त्सूरिशद्दय"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:47.385216638Z",
+  "model": "glm-5.2"
+}

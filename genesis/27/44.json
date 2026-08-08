@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और तू उसके साथ रह कुछ दिन, जब तक कि लौट जाए तेरे भाई का क्रोध।",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "और तू रह"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "कुछ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जब तक कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौट जाए"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरे भाई का"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:20.680341057Z",
+  "model": "glm-5.2"
+}

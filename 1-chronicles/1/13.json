@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और कनान ने जन्म दिया ⟨את⟩ जेठे बेटे त्सिदोन को और ⟨את⟩ खेत को।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "और कनान ने"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सिदोन"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "त्सिदोन"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "जेठे बेटे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:26.008809619Z",
+  "model": "glm-5.2"
+}

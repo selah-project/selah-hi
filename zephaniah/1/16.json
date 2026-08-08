@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "शोफार और युद्ध-कूक का दिन — दुर्ग नगरों पर और ऊँचे कोनों पर।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शोफार"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "और युद्ध-कूक"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगरों"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "कोनों"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ऊँचे"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:02.629737692Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "यदियाएल शिम्री का पुत्र, और उसका भाई योहा ⟨का⟩ हतीती",
+  "tokens": [
+    {
+      "surface": "יְדִֽיעֲאֵל֙",
+      "gloss": "यदियाएल"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שִׁמְרִ֔י",
+      "gloss": "शिम्री"
+    },
+    {
+      "surface": "וְיֹחָ֥א",
+      "gloss": "और योहा"
+    },
+    {
+      "surface": "אָחִ֖יו",
+      "gloss": "उसका भाई"
+    },
+    {
+      "surface": "הַתִּיצִֽי",
+      "gloss": "हतीती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:49.794903106Z",
+  "model": "glm-5.2"
+}

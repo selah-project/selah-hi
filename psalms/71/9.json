@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 71,
+  "translation": "बुढ़ापे के समय मुझे न फेंक; मेरे बल के समाप्त होने पर मुझे न त्याग।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "फेंक"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "बुढ़ापे"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "समाप्त होने पर"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "मेरे बल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "त्याग"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:31.155243082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "इस कारण उसने बेरएल को बुलाया—बेर लहय रोई; देखो, ⟨यह⟩ कदेश और बेरेद के बीच है।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "उसने बुलाया"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "बेर को"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "लहय"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "रोई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कदेश"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और बीच"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "बेरेद"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:45.517077032Z",
+  "model": "glm-5.2"
+}

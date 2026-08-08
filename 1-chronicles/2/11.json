@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और नचशोन ने जन्म दिया ⟨את⟩ सल्मा को, और सल्मा ने जन्म दिया ⟨את⟩ बोअज़ को।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "और नचशोन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सल्मा"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "सल्मा"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "और सल्मा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअज़"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज़"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.048732449Z",
+  "model": "glm-5.2"
+}

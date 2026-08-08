@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और प्रभात को हुआ, और दावीद ने योआब को एक पत्र लिखा, और उरिय्याह के हाथ भेजा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "प्रभात को"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "और लिखा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "एक पत्र"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "और भेजा"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T21:27:55.856201856Z",
+  "model": "glm-5.2"
+}

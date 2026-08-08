@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "“इसलिए यहवे सेनाओं ने यों कहा है: इसलिए कि तुमने ⟨את⟩ मेरे वचनों की नहीं सुनी,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यों"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओट ने"
+    },
+    {
+      "surface": "יען",
+      "gloss": "इसलिए कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "तुमने सुनी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरे वचनों को"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "मेरे वचनों की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:17:12.183111694Z",
+  "model": "glm-5.2"
+}

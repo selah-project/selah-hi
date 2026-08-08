@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "इरा हयित्री, गारेब हयित्री।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "हयित्री"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "गारेब"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "हयित्री"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:24.599560091Z",
+  "model": "glm-5.2"
+}

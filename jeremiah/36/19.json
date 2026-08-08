@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और प्रधानों ने बारूक से कहा: “जा, छिप जा — तू और यिर्मयाहू — और कोई भी यह न जाने कि तुम कहाँ हो।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "और उन्होंने कहा"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "प्रधानों ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूक"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "छिप जा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "और यिर्मयाहू"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "और कोई भी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाने"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम हो"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:57.089542024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "मज़मोर — गीत ⟨⟩ बैठक के ⟨⟩, दाविद का।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मोर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "बैठक के"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "बैठक"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:40.272711374Z",
+  "model": "glm-5.2"
+}

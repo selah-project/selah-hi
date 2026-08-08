@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और अहरोन दोनों बकरों पर गोरल डाले — एक गोरल यहवे के लिये, और एक गोरल अजाज़ेल के लिये।",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "और डाले"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दोनों"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "बकरों"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिये"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "और गोरल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "अजाज़ेल के लिये"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:46.780386462Z",
+  "model": "glm-5.2"
+}

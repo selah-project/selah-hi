@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "गली हुई मूर्ति के एलोहीम अपने लिए न बनाओ।",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "गली हुई मूर्ति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनाओ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपने लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:13:00.839918182Z",
+  "model": "glm-5.2"
+}

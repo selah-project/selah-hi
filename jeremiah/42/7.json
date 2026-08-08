@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और दस दिनों के अन्त में यहवे का वचन यिर्मयाहू के पास ⟨आया⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "के अन्त में"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हुआ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    }
+  ],
+  "timestamp": "2026-08-08T00:28:50.558322732Z",
+  "model": "glm-5.2"
+}

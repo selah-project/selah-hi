@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "अपने दास पर भलाई कर, कि मैं जीवित रहूँ और तेरा वचन रखूँ।",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "भलाई कर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "अपने दास"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "कि मैं जीवित रहूँ"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "और रखूँ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "तेरा वचन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:04.708844637Z",
+  "model": "glm-5.2"
+}

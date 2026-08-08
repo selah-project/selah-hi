@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "बुद्धि से एक घर बनाया जाता है, और समझ से वह स्थिर होता है।",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "बुद्धि से"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनाया जाता है"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "और समझ से"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "स्थिर होता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:20.923992613Z",
+  "model": "glm-5.2"
+}

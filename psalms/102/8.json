@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 102,
+  "translation": "मैं जागता रहा, और ⟨मैं⟩ ⟨हूँ⟩ एकान्त पक्षी के समान छत पर।",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "मैं जागता रहा"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "और मैं हूँ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "पक्षी के समान"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "एकान्त"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:52.391851982Z",
+  "model": "glm-5.2"
+}

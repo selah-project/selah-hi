@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तब यहवे ने मलअ्क से कहा, और ⟨उसने⟩ अपनी तलवार म्यान में वापस रखी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "मलअ्क से"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और वापस रखी"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "अपनी तलवार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "म्यान"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:54.658229616Z",
+  "model": "glm-5.2"
+}

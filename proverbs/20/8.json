@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "राजा ⟨जो⟩ न्याय-सिंहासन पर बैठता है — अपनी आँखों से सब बुराई को भटकाता है।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बैठता है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "भटकाता है"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "अपनी आँखों से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:01.748368192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ये ⟨हैं⟩ एसाव की वंशावली, एदोम के पिता ⟨की⟩, सेईर पर्वत में।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वत में"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:56.406039422Z",
+  "model": "glm-5.2"
+}

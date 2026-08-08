@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "यहवे, तू ने मेरा अत्याचार देखा है — मेरा न्याय न्याय कर!",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "तू ने देखा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "मेरा अत्याचार"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "न्याय कर"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "मेरा न्याय"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:41.291728039Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 49:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "दान रास्ते पर साँप बने, ओझड़ पगडंडी पर, जो घोड़े की एड़ी काटता है, और उसका सवार पीछे गिर पड़े।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "वह बने"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "साँप"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "रास्ते"
+    },
+    {
+      "surface": "שפיפן",
+      "gloss": "ओझड़"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "पगडंडी"
+    },
+    {
+      "surface": "הנשך",
+      "gloss": "काटनेवाला"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "एड़ी"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "घोड़े की"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "और गिरे"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "उसका सवार"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:58:52.239559191Z",
+  "model": "glm-5.2"
+}

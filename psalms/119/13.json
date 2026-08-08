@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "मेरे होंठों से मैंने ⟨हाँ⟩ ⟨तेरे⟩ मुख के सब नियमों को गिना।",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "मेरे होंठों से"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "मैंने गिना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "नियमों को"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "मुख के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:02.319452014Z",
+  "model": "glm-5.2"
+}

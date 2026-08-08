@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 71,
+  "translation": "आप में, यहवे, मैंने शरण ली; अनन्तकाल तक मुझे लज्जित न ⟨होने देना⟩।",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "आप में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "मैंने शरण ली"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "लज्जित होऊँगा"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "अनन्तकाल तक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:08.558027890Z",
+  "model": "glm-5.2"
+}

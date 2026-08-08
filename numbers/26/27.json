@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 26:27",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "ये हैं ज़बूलूनी के कुल, उनके गिने गए ⟨के अनुसार⟩ — साठ हज़ार और पाँच सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "ज़बूलूनी"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "उनके गिने गए"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:01.322960698Z",
+  "model": "glm-5.2"
+}

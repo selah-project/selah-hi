@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और उस दिन यहवे का क्रोध भड़ा, और उसने शपथ खाई, कहकर:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "और भड़ा"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "और उसने शपथ खाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:15.791666741Z",
+  "model": "glm-5.2"
+}

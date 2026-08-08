@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हाय ⟨है⟩ विद्रोहिणी और मलिन ⟨है⟩ वह नगर, वह उत्पीड़क नगर!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "विद्रोहिणी"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "और मलिन"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "वह नगर"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "वह उत्पीड़क"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:09.742884104Z",
+  "model": "glm-5.2"
+}

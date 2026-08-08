@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और पहाड़ में: शामीर, और यत्तीर, और सोकोह:",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "और पहाड़ में"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "शामीर"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "और यत्तीर"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "और सोकोह"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:22.743728349Z",
+  "model": "glm-5.2"
+}

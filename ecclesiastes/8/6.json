@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "क्योंकि हर इच्छा के लिए एक समय और मिश्पाट है, क्योंकि मनुष्य की बुराई उस पर भारी है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर … के लिए"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "עת",
+      "gloss": "एक समय"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "और मिश्पाट"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य की"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "भारी है"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:37.879836913Z",
+  "model": "glm-5.2"
+}

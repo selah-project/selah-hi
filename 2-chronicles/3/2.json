@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और वह बनाना आरम्भ किया, दूसरे माह में, दूसरे ⟨दिन⟩, अपने राज्य के चौथे वर्ष में।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "और आरम्भ किया"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाना"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "माह में"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चौथे"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "अपने राज्य के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:54.522148369Z",
+  "model": "glm-5.2"
+}

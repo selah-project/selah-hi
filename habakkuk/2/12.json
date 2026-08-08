@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "हाय! रक्त से नगर बनाने वाले को, और अन्याय से नगर टिकाने वाले को!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाने वाले को"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "रक्त से"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "और टिकाने वाले को"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "अन्याय से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:18.930734256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और खात्सर-गद्दाह, और चेश्मोन, और बेत-पालेत।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "और खात्सर"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "गद्दाह"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "और चेश्मोन"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेत"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पालेत"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:51.922428777Z",
+  "model": "glm-5.2"
+}

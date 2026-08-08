@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 11:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "“आओ, हम उतरें और वहाँ उनकी भाषा को मिला दें, ताकि एक पुरुष अपने सखे की भाषा न सुने।”",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "आओ"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "हम उतरें"
+    },
+    {
+      "surface": "ונבלה",
+      "gloss": "और … मिला दें"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "שפתם",
+      "gloss": "उनकी भाषा को"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "सुने"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक पुरुष"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "भाषा"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपने सखे की"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:19.782735758Z",
+  "model": "glm-5.2"
+}

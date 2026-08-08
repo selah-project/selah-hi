@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "गिबौन के बेटे: पचानवे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबौन"
+    },
+    {
+      "surface": "תשעिझ",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "और पाँच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:12.250310513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "यह क्यों ⟨है⟩ — मूर्ख के हाथ में दाम, बुद्धि खरीदने के लिए, और उसका हृदय नहीं ⟨है⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "दाम"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "खरीदने के लिए"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "और हृदय"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:56.187401871Z",
+  "model": "glm-5.2"
+}

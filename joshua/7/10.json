@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यहवे ने यहोशू से कहा, “उठ, तू ⟨क्यों⟩ इस प्रकार अपने चेहरे पर गिर पड़ा है?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "זה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "गिर पड़ा है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "अपने चेहरे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:58:10.681824888Z",
+  "model": "glm-5.2"
+}

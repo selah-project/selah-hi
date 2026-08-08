@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "आओ, यहवे के कार्य देखो, जो ⟨उसने⟩ पृथ्वी में उजाड़पन रखे हैं।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आओ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "रखे हैं"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "उजाड़पन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वी में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:36.788301663Z",
+  "model": "glm-5.2"
+}

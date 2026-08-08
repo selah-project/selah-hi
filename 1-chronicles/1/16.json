@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और ⟨את⟩ हअर्वादी और ⟨את⟩ हत्सेमारी और ⟨את⟩ हखमाती।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हअर्वादी"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "हअर्वादी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हत्सेमारी"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "हत्सेमारी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हखमाती"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "हखमाती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:26.009258508Z",
+  "model": "glm-5.2"
+}

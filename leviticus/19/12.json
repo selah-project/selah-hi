@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और मेरे नाम से झूठी शपथ न लो, और तू ⟨את⟩ नाम को अपने एलोहीम का अपवित्र न करे; मैं यहवे हूँ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "शपथ लो"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "मेरे नाम से"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "झूठी"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "और तू अपवित्र करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम को"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम को"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपने एलोहीम का"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:08.873072018Z",
+  "model": "glm-5.2"
+}

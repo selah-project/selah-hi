@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और योबाब मरा, और उसके स्थान पर हुशाम राजा बना — तेमानी देश का।",
+  "tokens": [
+    {
+      "surface": "וי׮ת",
+      "gloss": "और मरा"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबाब"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और राजा बना"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसके स्थान पर"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "हुशाम"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश का"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "तेमानी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:20.027340129Z",
+  "model": "glm-5.2"
+}

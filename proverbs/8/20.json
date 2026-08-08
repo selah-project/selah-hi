@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "धर्म के मार्ग में मैं विचरण करती हूँ, न्याय के मार्गों के बीच ⟨चलती हूँ⟩।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "मार्ग में"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धर्म"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "मैं विचरण करती हूँ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "मार्गों"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:22.448714387Z",
+  "model": "glm-5.2"
+}

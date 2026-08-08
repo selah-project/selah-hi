@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "इसलिए सभी हाथ ढीले होंगे और हर एक मनुष्य का हृदय पिघल जाएगा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ढीले होंगे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मनुष्य का"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "पिघल जाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:57:20.266275231Z",
+  "model": "glm-5.2"
+}

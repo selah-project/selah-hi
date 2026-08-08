@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "लाश मी गर्भ से नहीं मरा? मैं उदर से निकला और मर गया?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "गर्भ से"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मैं मरा"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "उदर से"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "मैं निकला"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "और मर गया"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:37.899126821Z",
+  "model": "glm-5.2"
+}

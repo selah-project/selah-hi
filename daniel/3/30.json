@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तब राजा ने बाबेल प्रान्त में शद्रक, मेशक और अबेद-नगो को उन्नत किया।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "उन्नत किया"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "शद्रक को"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "मेशक को"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "और अबेद"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "नगो को"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "प्रान्त में"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:58:28.835251731Z",
+  "model": "glm-5.2"
+}

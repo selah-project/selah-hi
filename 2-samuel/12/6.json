@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और ⟨את⟩ भेड़ का वह चौगुना बराबर करेगा, इसलिए कि उसने ⟨את⟩ यह बात की और इसलिए कि उसने दया नहीं की।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "भेड़"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "ישलם",
+      "gloss": "वह चुकाएगा"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "चौगुना"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "इसलिए कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसने"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "की"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और इसलिए कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "दया की"
+    }
+  ],
+  "timestamp": "2026-08-07T21:28:21.713969632Z",
+  "model": "glm-5.2"
+}

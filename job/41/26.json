@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "⟨את⟩ हर उच्च चीज़ को वह देखता है; वह राजा है हर घमंड के बेटों पर।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हर उच्च चीज़"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "उच्च"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "वह देखता है"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "घमंड"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:05.956633893Z",
+  "model": "glm-5.2"
+}

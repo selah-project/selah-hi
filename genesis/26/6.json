@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और यित्सखाक ने गरार में निवास किया।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "और ने निवास किया"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सखाक"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "गरार में"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:53.166000484Z",
+  "model": "glm-5.2"
+}

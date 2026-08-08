@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "क्योंकि अदोनाय सदा के लिए त्यागता ⟨नहीं⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨नहीं⟩"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "त्यागता"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:18.220551102Z",
+  "model": "glm-5.2"
+}

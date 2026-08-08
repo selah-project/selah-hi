@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब योआब बेन-त्सरूयाह ने जाना कि राजा का मन अब्शालोम के प्रति ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "तब जाना"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "त्सरूयाह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "על",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अब्शालोम"
+    }
+  ],
+  "timestamp": "2026-08-07T21:28:43.829396609Z",
+  "model": "glm-5.2"
+}

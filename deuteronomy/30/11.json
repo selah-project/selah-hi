@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "क्योंकि यह आज्ञा, जो मैं आज तुझे आदेश देता हूँ, वह तुझसे छिपी हुई नहीं ⟨है⟩ और न वह दूर है;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "यह-आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुझे-आदेश-देता-हूँ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "छिपी-हुई\/अद्भुत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और-न"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:11.317069767Z",
+  "model": "glm-5.2"
+}

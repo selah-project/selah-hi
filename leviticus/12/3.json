@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और आठवें दिन ⟨उसकी⟩ अन्तछ्दद के मांस का खतना किया जाएगा।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और … दिन"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठवें"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "खतना किया जाएगा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "उसकी अन्तछ्दद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:37.663706353Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 115,
+  "translation": "उनके मूर्ति चाँदी और सोना ⟨हैं⟩, मनुष्यों के हाथों का काम।",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "उनके मूर्ति"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "और सोना"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हाथों का"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्यों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:24.547284164Z",
+  "model": "glm-5.2"
+}

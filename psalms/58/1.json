@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 58,
+  "translation": "महत्वपूर्ण रचना, दाऊद की, विनाश मत कर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महत्वपूर्ण रचना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "विनाश मत कर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद की"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "उत्कीर्णन-रचना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:36.634576909Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बारहवें दिन नप्ताली के बेटों का नसी अहीरा बेन एनान था।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "… दिन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नसी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "… के बेटों का"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नप्ताली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अहीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:00.974308971Z",
+  "model": "glm-5.2"
+}

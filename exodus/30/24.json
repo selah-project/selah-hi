@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और कसीया पाँच सौ, पवित्र-शेकेल के अनुसार, और जैतून का तेल एक हीन;",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "और-कसीया"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "शेकेल-के-अनुसार"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "और-तेल"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून-का"
+    },
+    {
+      "surface": "הין",
+      "gloss": "एक-हीन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:27.576526327Z",
+  "model": "glm-5.2"
+}

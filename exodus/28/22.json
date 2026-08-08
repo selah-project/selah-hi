@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तू छाती-वस्त्र पर बनी हुई शृंखलाएँ बनाए — लचीले काम की, शुद्ध सोने की।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बनाए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाती-वस्त्र"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "शृंखलाएँ"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "बनी हुई"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "लचीले"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:05.237011008Z",
+  "model": "glm-5.2"
+}

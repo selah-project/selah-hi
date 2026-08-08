@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तू क्रोध से उनका पीछा करेगा और उन्हें यहवे के आकाशों के नीचे से विनष्ट कर देगा।",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "तू पीछा करेगा"
+    },
+    {
+      "surface": "באף",
+      "gloss": "क्रोध से"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "और तू उन्हें विनष्ट करेगा"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "के नीचे से"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "आकाशों"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:40.914439407Z",
+  "model": "glm-5.2"
+}

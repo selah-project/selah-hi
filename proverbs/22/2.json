@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "धनी और दरिद्र मिलते हैं, ⟨सबका⟩ बनाने वाला यहवे ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "और दरिद्र"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "मिलते हैं"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाने वाला"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सबका"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:43.866360517Z",
+  "model": "glm-5.2"
+}

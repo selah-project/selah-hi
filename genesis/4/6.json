@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यहवे ने कैन से कहा: क्यों तुझे क्रोध जागा, और क्यों तेरा मुख गिरा?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से\/की ओर"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कैन"
+    },
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "जला\/क्रोध जागा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "और क्यों"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तेरे मुख"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:32.865572979Z",
+  "model": "glm-5.2"
+}

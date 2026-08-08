@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और उसकी बहन दूर खड़ी रही, यह जानने के लिए कि उसके साथ क्या किया जाएगा।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "और खड़ी रही"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "उसकी बहन"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "यह जानने के लिए"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "किया जाएगा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:54.573668270Z",
+  "model": "glm-5.2"
+}

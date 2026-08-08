@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "लम्बी है मिट्टी से ⟨उसकी⟩ माप, और चौड़ी है समुद्र से।",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "लम्बी है"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "मिट्टी से"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "माप"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "और चौड़ी है"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:26:17.959377078Z",
+  "model": "glm-5.2"
+}

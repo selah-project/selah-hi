@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 1:19",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "हे इस्राएल के सुन्दर, तेरी बामोत पर वध किया गया — कैसे गिरे बलवान!",
+  "tokens": [
+    {
+      "surface": "הצבי",
+      "gloss": "हे सुन्दर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "तेरी बामोत"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "वध किया गया"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-08-07T21:24:24.261663447Z",
+  "model": "glm-5.2"
+}

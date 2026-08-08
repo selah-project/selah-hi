@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "मनुष्य के पुत्र, अंगूर के पेड़ का लकड़ी सब लकड़ी से क्या है, ⟨कि⟩ वह डाली जो वन के पेड़ों में थी?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "है"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "अंगूर के पेड़ का"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब … से"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "वह डाली"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थी"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "पेड़ों में"
+    },
+    {
+      "surface": "היער",
+      "gloss": "वन के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:29:11.884783268Z",
+  "model": "glm-5.2"
+}

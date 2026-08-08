@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और वह अपने भाइयों के पास लौटा और कहा, “⟨ה⟩ बालक ⟨नहीं है⟩, और मैं — मैं कहाँ जाऊँ?”",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "और वह लौटा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "अपने भाइयों"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "⟨ה⟩ बालक"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨नहीं है⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "בא",
+      "gloss": "जाऊँ"
+    }
+  ],
+  "timestamp": "2026-08-08T02:03:45.601058410Z",
+  "model": "glm-5.2"
+}

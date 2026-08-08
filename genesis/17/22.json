@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और उसके साथ बोलना समाप्त करके, एलोहीम अवराहाम के पास से ऊपर गया।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "और समाप्त करके"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोलना"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "और ऊपर गया"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "के पास से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:16.034991114Z",
+  "model": "glm-5.2"
+}

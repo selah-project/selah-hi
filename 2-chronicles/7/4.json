@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और राजा और सब जन यहवे के सामने जबाह बलिदान कर रहे ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "और राजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "बलिदान कर रहे"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "जबाह"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:44.966504078Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "सुनो और कान लगाओ, घमण्ड न करो, क्योंकि यहवे ने बोला है।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "और कान लगाओ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "घमण्ड करो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोला है"
+    }
+  ],
+  "timestamp": "2026-08-08T00:24:39.532241554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "क्या कोई बात ⟨है⟩ जिसके बारे में कहा जाए, “देख, यह नया है?” अनादि कालों से वह पहले ही हो चुका है जो हमसे पहले था।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "क्या ⟨है⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कोई बात"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "जिसके बारे में कहा जाए"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "है"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "पहले ही"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हो चुका है"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "अनादि कालों से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "हमसे पहले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.456204628Z",
+  "model": "glm-5.2"
+}

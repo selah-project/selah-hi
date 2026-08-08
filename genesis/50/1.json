@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "और योसेफ अपने पिता के चेहरे पर गिरा और उस पर रोया और उसे चूमा।",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "और गिरा"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपने पिता के"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "और रोया"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "और चूमा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:29.397055691Z",
+  "model": "glm-5.2"
+}

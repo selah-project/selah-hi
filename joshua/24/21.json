@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और ⟨वह⟩ जनता ने यहोशू से कहा, “नहीं, क्योंकि ⟨हम⟩ यहवे की सेवा करेंगे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "हम सेवा करेंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:03:57.990906030Z",
+  "model": "glm-5.2"
+}

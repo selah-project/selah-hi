@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अनातोत के पुरुष: सौ अट्ठाईस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "और आठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:12.250587666Z",
+  "model": "glm-5.2"
+}

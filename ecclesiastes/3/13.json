@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और भी, कि प्रत्येक मनुष्य खाए और पीए, और अपने सब परिश्रम में अच्छा देखे—यह एलोहीम का दान है।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "कि खाए"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "और पीए"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देखे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "अपने सब"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "परिश्रम में"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "दान"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम का"
+    },
+    {
+      "surface": "היא",
+      "gloss": "यह है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:32.337431849Z",
+  "model": "glm-5.2"
+}

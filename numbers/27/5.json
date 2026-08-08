@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "तब मोशे ने ⟨את⟩ उनका न्याय यहवे के सामने प्रस्तुत किया।",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "तब…प्रस्तुत किया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उनका न्याय"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "उनका न्याय"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:42.804400347Z",
+  "model": "glm-5.2"
+}

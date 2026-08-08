@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "बाप न मारे जाएँ बेटों के कारण, और बेटे न मारे जाएँ बापों के कारण; प्रत्येक अपने पाप में मारा जाए।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मारे जाएँ"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बाप"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मारे जाएँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "बापों"
+    },
+    {
+      "surface": "איש",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "अपने पाप में"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "मारा जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:54.265630038Z",
+  "model": "glm-5.2"
+}

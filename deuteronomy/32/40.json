@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्योंकि मैं आकाश की ओर अपना हाथ उठाऊँगा और कहूँगा: जब तक मैं जीवित हूँ — सदा के लिए!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "मैं … उठाऊँगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "और कहूँगा"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं हूँ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदा के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:54.452307619Z",
+  "model": "glm-5.2"
+}

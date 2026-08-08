@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "“जितने दिन वह यहवे के लिए अलग रहे, वह किसी मृत व्यक्ति के पास न जाए।”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जितने"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "वह अलग रहे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मृत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:04.172326890Z",
+  "model": "glm-5.2"
+}

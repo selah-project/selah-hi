@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और यिस्राएल का राजा और यहूदा का राजा यहोशापात रामोत गिलाद की ओर चढ़ गए।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "और चढ़ गए"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "और यहोशापात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "रामोत"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:57.084901640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 16:2",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और बैत-एल से लूज़ की ओर निकलता ⟨था⟩, और अर्की की सीमा तक, अतारोत तक गुज़रता ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकलता"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बैत-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल से"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "लूज़ की ओर"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "और गुज़रता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "अर्की"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "अतारोत"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:29.497807553Z",
+  "model": "glm-5.2"
+}

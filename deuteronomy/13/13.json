@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "कि तू सुने अपने नगरों में से एक में, जो यहवे तेरा एलोहीम तुझे वहाँ बसने के लिए दे रहा है, कहते हुए कि",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "तू सुने"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "एक में"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "अपने नगरों"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरा एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दे रहा है"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बसने के लिए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:07.319756668Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "यरबाम राजा के अठारहवें वर्ष में अबिय्या यहूदा पर राजा बना।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरबाम"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और राजा बना"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिय्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-08-08T01:06:20.029329108Z",
+  "model": "glm-5.2"
+}

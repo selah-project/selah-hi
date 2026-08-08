@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और उसने उससे कहा, “यदि तेरा उपस्थिति नहीं चलता, तो हमें यहाँ से ऊपर न उठा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और ⟨उसने⟩ कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तेरा उपस्थिति"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "चलता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "हमें ऊपर उठा"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "यहाँ से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:12:15.323059552Z",
+  "model": "glm-5.2"
+}

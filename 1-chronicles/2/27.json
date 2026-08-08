@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और राम के बेटे हुए — यरहमएल का बकोर — माअत्स, और यामीन, और एकेर।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "बकोर"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमएल"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "माअत्स"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "और यामीन"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "और एकेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.531227572Z",
+  "model": "glm-5.2"
+}

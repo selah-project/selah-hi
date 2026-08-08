@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "और उसके बाद मैं ⟨את⟩ बनि अम्मोन की बंधुआई को लौटाऊँगा, यहवे का यकीनन।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "और उसके बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "मैं लौटाऊँगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बंधुआई"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "बंधुआई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनि"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "यकीनन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:49.140245334Z",
+  "model": "glm-5.2"
+}

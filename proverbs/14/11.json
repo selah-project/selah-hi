@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "दुष्टों का घर नष्ट हो जाएगा, और यीहरों का तम्बू फलेगा-फूलेगा।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों का"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "नष्ट हो जाएगा"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "और तम्बू"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "यीहरों का"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "फलेगा-फूलेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:08.886740463Z",
+  "model": "glm-5.2"
+}

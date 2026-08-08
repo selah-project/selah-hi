@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और शाऊल के चाचा ने कहा, “मुझे बता दो, कि शमुएल ने तुमसे क्या कहा?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "चाचा ने"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल के"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बता दो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुमसे"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल ने"
+    }
+  ],
+  "timestamp": "2026-08-07T21:16:20.835655643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और मिस्रयिम पर एक नया राजा उठा, जो योसेफ को नहीं जानता था।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "और उठा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता था"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योसेफ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:16.255073486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और यहवे का वचन मेरे पास आया, यह कहने को:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हुआ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "यह कहने को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:25:54.256967188Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और उसने उस स्थान का नाम तबएरा रखा, क्योंकि उनमें यहवे की आग भड़की थी।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "और उसने … रखा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "उस स्थान का"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "तबएरा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "भड़की थी"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनमें"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    }
+  ],
+  "timestamp": "2026-08-08T02:14:55.365956183Z",
+  "model": "glm-5.2"
+}

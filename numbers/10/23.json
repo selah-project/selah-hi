@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और मनश्‍शे के वंश-समूह के सेना-दल पर गमलीएल था, जो पदह-त्सूर का पुत्र था।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और के ऊपर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना-दल"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "वंश-समूह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों के"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "गमलीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "पदह-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सूर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:18.122453774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "अनुशासन दे अपने पुत्र को, क्योंकि आशा ⟨है⟩; और उसके विनाश की ओर अपनी नफश को न उठा।",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "अनुशासन दे"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "अपने पुत्र को"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और … न"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "उसके विनाश की ओर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "अपनी नफश को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:18.419103211Z",
+  "model": "glm-5.2"
+}

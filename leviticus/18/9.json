@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरी बहिन का नग्नता — तेरे पिता की बेटी या तेरी माता की बेटी, घर में उत्पन्न या बाहर उत्पन्न — उनकी नग्नता तू न खोल।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "तेरी बहिन"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरे पिता"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "तेरी माता"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "उत्पन्न"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "उत्पन्न"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "उनकी नग्नता"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:12.227791281Z",
+  "model": "glm-5.2"
+}

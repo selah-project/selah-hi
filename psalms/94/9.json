@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 94,
+  "translation": "जो कान लगाता है, क्या वह नहीं सुनेगा? जो आँख बनाता है, क्या वह नहीं देखेगा?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "जो लगाता है"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "क्या नहीं"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनेगा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "बनाता है"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "क्या नहीं"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "देखेगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:24.802429645Z",
+  "model": "glm-5.2"
+}

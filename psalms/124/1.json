@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 124,
+  "translation": "महलों का गीत, दाऊद के लिए। यदि यहवे हमारे लिए न होता — अब इस्राएल कहे,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "महलों का"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद के लिए"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "यदि न होता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "जो होता"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहे"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-08T03:06:16.416951911Z",
+  "model": "glm-5.2"
+}

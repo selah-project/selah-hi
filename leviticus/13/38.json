@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और एक पुरुष या एक स्त्री — जब उनके चमड़े के मांस में धब्बे हों, धब्बे उजले;",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "और एक पुरुष"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक स्त्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हों"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "चमड़े में"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "उनके मांस"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "धब्बे"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "धब्बे"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "उजले"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:41.341836884Z",
+  "model": "glm-5.2"
+}

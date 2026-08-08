@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "लिए होशेया बिन अज़ज़याहू ⟨था⟩; लिए मनश्शे के आधे कुल के योएल बिन पदायाहू ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "लिए"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "होशेया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिन"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "अज़ज़याहू"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "लिए"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिन"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "पदायाहू"
+    }
+  ],
+  "timestamp": "2026-08-08T03:16:39.516336645Z",
+  "model": "glm-5.2"
+}

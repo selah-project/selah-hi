@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "⟨את⟩ एक समुद्र, और ⟨את⟩ बारह बैलों को ⟨जो⟩ उसके नीचे ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक समुद्र"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बारह बैलों को"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसके नीचे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:25.776064035Z",
+  "model": "glm-5.2"
+}

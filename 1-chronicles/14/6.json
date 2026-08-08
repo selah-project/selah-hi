@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और नोगा, और नेफेग, और याफीय।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "और नोगा"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "और नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "और याफीय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:52.056787297Z",
+  "model": "glm-5.2"
+}

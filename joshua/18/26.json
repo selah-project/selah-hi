@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और ⟨ह⟩मिस्पे, और ⟨ह⟩कफीरा, और ⟨ह⟩मोत्सा;",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "और ⟨ह⟩मिस्पे"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "और ⟨ह⟩कफीरा"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "और ⟨ह⟩मोत्सा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:43.972442110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और तेरे लिए छड़िया ⟨हो⟩ शिविर के बाहर, और तू वहाँ बाहर जाएगा।",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "और छड़िया"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविर के"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "और तू जाएगा"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहर"
+    }
+  ],
+  "timestamp": "2026-08-08T02:20:07.841026056Z",
+  "model": "glm-5.2"
+}

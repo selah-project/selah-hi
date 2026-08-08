@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "सम्पूर्ण बाकी बची कुलें, कुल कुल अलग, और उनकी स्त्रियाँ अलग।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "कुलें"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "बाकी बची"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "और उनकी स्त्रियाँ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:55.672694669Z",
+  "model": "glm-5.2"
+}

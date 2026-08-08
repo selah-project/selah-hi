@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "“क्योंकि मैं यहवे हूँ, मैं नहीं बदला, और तुम, याकोव के पुत्रों, तुम समाप्त नहीं हुए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "मैं बदला"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "और तुम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "तुम समाप्त हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:57.063362137Z",
+  "model": "glm-5.2"
+}

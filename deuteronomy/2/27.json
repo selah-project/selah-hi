@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मैं तेरे देश में पार जाऊँ, मार्ग से मार्ग चलूँ, न दाहिनी ओर न बाईं ओर मुडूँगा।",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "मैं पार जाऊँ"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "तेरे देश में"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग से"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "चलूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "मुडूँगा"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दाहिनी ओर"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "और बाईं ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:06.396780906Z",
+  "model": "glm-5.2"
+}

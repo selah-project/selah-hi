@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "यहवे सेनाओं ⟨है⟩ हमारे साथ, ⟨הै⟩ हमारा मिसगब याकोब का एलोहीम। सेला।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओं"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमारे साथ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "मिसगब"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारा"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…का एलोहीम"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-08T03:04:04.783852502Z",
+  "model": "glm-5.2"
+}

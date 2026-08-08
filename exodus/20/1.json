@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और एलोहीम ने ⟨את⟩ सब ⟨हे⟩ दबरीम ⟨हे⟩ हैं कहकर बोले:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और-बोले"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "दबरीम"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "हैं"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:45.491133650Z",
+  "model": "glm-5.2"
+}

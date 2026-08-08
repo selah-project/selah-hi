@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और उसी रात एलोहीम ने वैसा ही किया; और फली पर अकेले सूखापन रहा, और सारी पृथ्वी पर ओस थी।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "כן",
+      "gloss": "वैसा ही"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "सूखापन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "फली"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओस"
+    }
+  ],
+  "timestamp": "2026-08-07T21:06:39.169688477Z",
+  "model": "glm-5.2"
+}

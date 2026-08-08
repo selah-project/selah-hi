@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और ⟨את⟩ अतारोत-शोफान को और ⟨את⟩ याजेर को और योग्बहा को।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अतारोत-शोफान"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अतारोत"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "शोफान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "याजेर"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "याजेर"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "और योग्बहा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:25.227908722Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और यहवे ने मोशे से बात की, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और उसने बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:44.683150963Z",
+  "model": "glm-5.2"
+}

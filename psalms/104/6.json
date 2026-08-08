@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "थहाव ⟨को⟩ वस्त्र के समान तूने ढँका ⟨था⟩ — पहाड़ों पर जल खड़े ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "थहाव"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "वस्त्र के समान"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "तूने ढँका था"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़ों"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "खड़े थे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:25.329358649Z",
+  "model": "glm-5.2"
+}

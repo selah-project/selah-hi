@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और उम्मा, और अफेक, और रेखोब; बाईस नगर और उनके गाँव।",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "और उम्मा"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "और अफेक"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "और रेखोब"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "और उनके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:21.183972872Z",
+  "model": "glm-5.2"
+}

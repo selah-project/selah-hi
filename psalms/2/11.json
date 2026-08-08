@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "भय के साथ यहवे की ⟨את⟩ सेवा करो; और कम्पन के साथ आनन्द मनाओ।",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "भय के साथ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "और आनन्द मनाओ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "कम्पन के साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:31.462514947Z",
+  "model": "glm-5.2"
+}

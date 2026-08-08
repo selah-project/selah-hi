@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यिसराएल ने विद्रोह किया दावीद के घर के विरुद्ध, इस दिन तक।",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "और … ने विद्रोह किया"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसराएल"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "… के घर के विरुद्ध"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "इस दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:51.142801505Z",
+  "model": "glm-5.2"
+}

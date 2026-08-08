@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "बसने वाला और किराये का मज़दूर उसमें से नहीं खाएगा।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "बसने वाला"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "और किराये का मज़दूर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाएगा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:03:41.200431787Z",
+  "model": "glm-5.2"
+}

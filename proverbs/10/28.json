@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "धर्मियों की आशा ⟨है⟩ आनन्द, और दुष्टों की आशा नष्ट होगी।",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मियों की"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनन्द"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "और आशा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों की"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "नष्ट होगी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:01.586178129Z",
+  "model": "glm-5.2"
+}

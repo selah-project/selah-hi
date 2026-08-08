@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "मैं ने ⟨את⟩ सब ⟨the⟩ काम देखे हैं जो सूर्य के तले किए गए हैं, और देखो, सब व्यर्थता और वायु का दुःख ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "मैं ने देखे हैं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "काम"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "जो किए गए हैं"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के तले"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थता"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "और दुःख"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वायु"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:32.001318133Z",
+  "model": "glm-5.2"
+}

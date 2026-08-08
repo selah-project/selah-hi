@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और मोशेह परौह के पास से निकला, और उसने यहवे से प्रार्थना की।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "के पास से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "परौह"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "और उसने प्रार्थना की"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:35.401654440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 81,
+  "translation": "चाँदनी में शोफर बजाओ; हमारे चग के दिन पर, कसे हुए समय पर!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "बजाओ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "चाँदनी में"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शोफर"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "कसे हुए समय पर"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "के दिन पर"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "हमारे चग"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:02.376096032Z",
+  "model": "glm-5.2"
+}

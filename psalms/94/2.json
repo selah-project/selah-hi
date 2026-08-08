@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 94,
+  "translation": "उठ, पृथ्वी के न्यायी, घमंडियों पर ⟨को⟩ उनका प्रतिफल लौटा!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    },
+    {
+      "surface": "השב",
+      "gloss": "लौटा"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "प्रतिफल"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨को⟩"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "घमंडियों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:34.399625564Z",
+  "model": "glm-5.2"
+}

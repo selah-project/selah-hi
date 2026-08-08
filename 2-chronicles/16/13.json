@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 16:13",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और आसा अपने पितरों के साथ सो गया, और अपने राज्य के वर्ष चालीस और एक में मरा।",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "और सो गया"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "अपने पितरों"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मरा"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "और एक"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "अपने राज्य के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:09.625876543Z",
+  "model": "glm-5.2"
+}

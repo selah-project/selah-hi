@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "वह अपने घर की चाल-चलन पर निगरानी रखती ⟨है⟩, और आलस की रोटी नहीं खाती।",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "निगरानी रखती है"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "चाल-चलन"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "अपने घर की"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "और रोटी"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "आलस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:12.099641309Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "देख, मैंने आज तेरे सामने ⟨את⟩ जीवन और ⟨את⟩ भलाई और ⟨את⟩ मृत्यु और ⟨את⟩ बुराई रखे हैं।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मैंने रखे हैं"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तेरे सामने"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जीवन"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "भलाई"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "मृत्यु"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मृत्यु"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बुराई"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:24.800508195Z",
+  "model": "glm-5.2"
+}

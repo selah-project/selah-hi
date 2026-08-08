@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "चोर के साथ साझीदार अपनी नफ़्श को घृणा करता है; श्राप सुनता है और बताता नहीं।",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "साझीदार"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "चोर"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "घृणा करता है"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "अपनी नफ़्श को"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "श्राप"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनता है"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:07.308470419Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "उसका कोई समान ⟨नहीं⟩ धूल पर; वह बिना भय के बनाया गया है।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "⟨नहीं⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूल"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "उसका समान"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "बनाया गया"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "חת",
+      "gloss": "भय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:05.956452197Z",
+  "model": "glm-5.2"
+}

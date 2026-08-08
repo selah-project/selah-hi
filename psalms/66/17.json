@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 66,
+  "translation": "उसकी ओर मेरे मुख ने पुकारा, और वरण-गान ⟨है⟩ मेरी जीभ के नीचे।",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "उसकी ओर"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरे मुख ने"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "पुकारा"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "और वरण-गान"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "मेरी जीभ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:36.162154116Z",
+  "model": "glm-5.2"
+}

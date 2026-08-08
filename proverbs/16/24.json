@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "प्रिय वचन शहद की छत्ती हैं — ⟨⟩प्राण के लिए मीठे और हड्डियों के लिए चिकित्सा।",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "छत्ती"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "शहद की"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "प्रिय"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "मीठे"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "प्राण के लिए"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "और चिकित्सा"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "हड्डियों के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:30.828078673Z",
+  "model": "glm-5.2"
+}

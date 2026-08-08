@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "הַדָּבָר אֲשֶׁר חָזָה יְשַׁעְיָהוּ בֶּן אָמוֹץ עַל יְהוּדָה וִירוּשָׁלָיִם",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "הדבר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "חזה"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ישעיהו"
+    },
+    {
+      "surface": "בן",
+      "gloss": "בן"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "אמוץ"
+    },
+    {
+      "surface": "על",
+      "gloss": "על"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "וירושלם"
+    }
+  ],
+  "timestamp": "2026-08-08T02:34:42.907207677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और हुआ, जब इस्राएल के पुत्रों ने यहवे की ओर पुकारा, मिद्यान के कारण,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "पुकारा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों ने"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "‹कारण›"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    }
+  ],
+  "timestamp": "2026-08-07T21:06:06.317415804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और यहवे ने कहा, “देख, मेरे पास एक स्थान ⟨है⟩, और तू उस चट्टान पर खड़ा ⟨होगा⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "और तू खड़ा होगा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "उस चट्टान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:11:57.853094119Z",
+  "model": "glm-5.2"
+}

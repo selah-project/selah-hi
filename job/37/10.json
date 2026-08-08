@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "एल के श्वास से बर्फ़ दी जाती ⟨है⟩, और जलों की चौड़ाई जम ⟨जाती है⟩।",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "श्वास से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दी जाती"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "बर्फ़"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "और चौड़ाई"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जलों की"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "जम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:08.398430053Z",
+  "model": "glm-5.2"
+}

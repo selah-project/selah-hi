@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "देखो, सब ये एल करता है — पुरुष के साथ दो बार, तीन बार,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "करता है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बार"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:17.123947058Z",
+  "model": "glm-5.2"
+}

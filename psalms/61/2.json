@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 61,
+  "translation": "हे एलोहीम, मेरी रुलाई सुन; मेरी प्रार्थना पर कान लगा।",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "मेरी रुलाई"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "कान लगा"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "मेरी प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:40.331183111Z",
+  "model": "glm-5.2"
+}

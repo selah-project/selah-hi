@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "“क्या इस समय से तू ने मुझे 'मेरे पिता' नहीं पुकारा — 'मेरे यौवन का मित्र तू है'?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "क्या नहीं"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "इस समय से"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "तू ने पुकारा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "मेरे पिता"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "मित्र"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "मेरे यौवन का"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:29.008951098Z",
+  "model": "glm-5.2"
+}

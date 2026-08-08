@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और उसका अबी यित्सहाक ने उससे कहा, पास आओ, हे मेरे बेटे, और मुझे चूमो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "उसके अबी ने"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "पास आओ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "हे"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "और चूमो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे बेटे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:21.350344191Z",
+  "model": "glm-5.2"
+}

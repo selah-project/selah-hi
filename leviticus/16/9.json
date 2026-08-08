@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और अहरोन उस बकरे को समीप लाए जिस पर यहवे के लिए गोरल चढ़ा, और उसे पापबलि करे।",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "और समीप लाए"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उस बकरे को"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "उस बकरे को"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिस"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ा"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "और उसे करे"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापबलि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:32.928730548Z",
+  "model": "glm-5.2"
+}

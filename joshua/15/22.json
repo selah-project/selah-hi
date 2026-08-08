@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और कीना और दीमोना और अदअदा।",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "और कीना"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "और दीमोना"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "और अदअदा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:49.564797357Z",
+  "model": "glm-5.2"
+}

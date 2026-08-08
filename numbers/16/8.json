@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और मोशे ने कोरह से कहा: सुनो, आग्रह करता हूँ, हे लेवी के पुत्रो!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आग्रह करता हूँ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे पुत्रो"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:17.622687386Z",
+  "model": "glm-5.2"
+}

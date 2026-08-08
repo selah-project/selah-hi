@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "नेबो के पुत्र, बावन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:00.961997354Z",
+  "model": "glm-5.2"
+}

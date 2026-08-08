@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "“यहाँ से जा, और तू पूर्व की ओर मुड़, और नहल छरीत में छिप जा — जो यर्दन के सामने ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "यहाँ से"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "और तू मुड़"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व की ओर"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "और छिप जा"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नहल में"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "छरीत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    }
+  ],
+  "timestamp": "2026-08-07T21:42:12.526371699Z",
+  "model": "glm-5.2"
+}

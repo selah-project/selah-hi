@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "“तुम ⟨את⟩ कुण्डी को मोआद-तम्बू और ⟨את⟩ वेदी के बीच रखो, और तुम वहाँ जल रखो।”",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "तुम रखो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कुण्डी"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "कुण्डी"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोआद"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "तुम रखो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:41.524378613Z",
+  "model": "glm-5.2"
+}

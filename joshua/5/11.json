@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 5:11",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और पेसह के अगले दिन देश के अनाज से मत्सोत और कलूआ खाया, ठीक उसी दिन।",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "और खाया"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "अनाज से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश के"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "अगले दिन"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पेसह के"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्सोत"
+    },
+    {
+      "surface": "וקלוי",
+      "gloss": "और कलूआ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ठीक उसी"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:46.049398729Z",
+  "model": "glm-5.2"
+}

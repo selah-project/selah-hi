@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 146,
+  "translation": "हल्लू-याह! हे मेरी नफश, तू यहवे का ⟨את⟩ स्तुति कर।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "स्तुति कर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हे मेरी नफश"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:07.941745788Z",
+  "model": "glm-5.2"
+}

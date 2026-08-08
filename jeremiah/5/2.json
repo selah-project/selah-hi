@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और यदि वे कहते हैं, “यहवे जीवित ⟨है⟩,” तो भी वे झूठ की शपथ लेते हैं।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "वे कहते हैं"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "तो भी"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "झूठ की"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "शपथ लेते हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T22:12:12.667690978Z",
+  "model": "glm-5.2"
+}

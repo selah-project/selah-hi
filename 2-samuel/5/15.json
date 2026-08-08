@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और यिब्हार और एलीशूआ और नेफेग और यापिय।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "और यिब्हार"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "और एलीशूआ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "और नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "और यापिय"
+    }
+  ],
+  "timestamp": "2026-08-07T21:26:32.825945159Z",
+  "model": "glm-5.2"
+}

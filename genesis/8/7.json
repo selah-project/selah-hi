@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उसने ⟨את⟩ कौवे को बाहर भेजा, और वह बाहर जाता और लौटता रहा, जब तक जल पृथ्वी से सूख नहीं गए।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "और भेजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कौवे को"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "कौवे"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "और वह निकला"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "बाहर जाना"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "और लौटना"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "सूख जाने"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:23.021539669Z",
+  "model": "glm-5.2"
+}

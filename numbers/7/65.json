@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "numbers 7:65",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और सलामी-बलि के लिए बैल दो, एड़े पाँच, बकरे पाँच, एक वर्ष के मेमने पाँच; यह गिदोनी पुत्र अबीदान का चढ़ावा था।",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "और बलि के लिए"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "सलामी"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "एड़े"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "बकरे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "अबीदान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "गिदोनी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:55.250899992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और अय्यूब ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "और उत्तर दिया"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:31.853584906Z",
+  "model": "glm-5.2"
+}

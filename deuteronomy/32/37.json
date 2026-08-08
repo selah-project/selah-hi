@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और ⟨वह⟩ कहेगा: “उनके एलोहीम कहाँ हैं, उनका चट्टान जिसमें उन्होंने शरण ली?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "और ⟨वह⟩ कहेगा"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "उनके एलोहीम"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "जिसमें उन्होंने शरण ली"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:54.451768916Z",
+  "model": "glm-5.2"
+}

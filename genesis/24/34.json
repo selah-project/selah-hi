@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और उसने कहा, “अवराहम का दास मैं ⟨हूँ⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    }
+  ],
+  "timestamp": "2026-08-07T19:47:42.570861548Z",
+  "model": "glm-5.2"
+}

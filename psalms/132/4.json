@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 132,
+  "translation": "“यदि मैं अपनी आँखों को नींद दूँ, अपनी पलकों को ऊँघ,”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "मैं दूँ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "अपनी आँखों को"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "अपनी पलकों को"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ऊँघ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:09.998908298Z",
+  "model": "glm-5.2"
+}

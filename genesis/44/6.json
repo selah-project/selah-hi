@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "और उसने उन्हें पकड़ लिया, और उनसे ⟨את⟩ ये बातें बोली।",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "और उसने उन्हें पकड़ लिया"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "और बोली"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ये बातें"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातें"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    }
+  ],
+  "timestamp": "2026-08-07T19:56:33.554873813Z",
+  "model": "glm-5.2"
+}

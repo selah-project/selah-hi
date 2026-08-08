@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 61,
+  "translation": "वाद्य-संगीत पर, दावीद का।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨महासंगीतक को⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "वाद्य-संगीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:40.330901149Z",
+  "model": "glm-5.2"
+}

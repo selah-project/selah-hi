@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तूने समुद्र को रौंदा, अपने घोड़े ⟨रौंडते हुए⟩, बहुत जल का थूक।",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "तूने रौंदा"
+    },
+    {
+      "surface": "בים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "तेरे घोड़े"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "थूक"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:32.321821078Z",
+  "model": "glm-5.2"
+}

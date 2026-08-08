@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और एसाव सेइर पहाड़ में बस गया — एसाव ⟨ही⟩ एदोम है।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "और बस गया"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाड़ में"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ही⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम है"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:22.965718884Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और तू उसे ⟨את⟩ शुद्ध सोने से मढ़े, और तू उसके लिए चारों ओर सोने का एक जाल बनाए।",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "और तू मढ़े"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बनाए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "זר",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने का"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:12.185520849Z",
+  "model": "glm-5.2"
+}

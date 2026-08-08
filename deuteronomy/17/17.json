@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "“और वह अपने लिए स्त्रियों को न बढ़ाए, और उसका हृदय न भटके; और चाँदी और सुनारा वह अपने लिए अत्यन्त न बढ़ाए।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "वह बढ़ाए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रियों को"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "वह भटके"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "उसका हृदय"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "और चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "और सुनारा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "वह बढ़ाए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:34.141186427Z",
+  "model": "glm-5.2"
+}

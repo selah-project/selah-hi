@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "जब नातान ⟨ह⟩नबी उसके पास आया, जब वह बत-शेवा के पास गया ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "जब … आया"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨ह⟩नबी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "בא",
+      "gloss": "गया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेवा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:56.438283504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "बाहर तलवार ⟨से⟩ वंचित करेगी और भीतर-कक्षों में भय; वर्ष व कुँवारी, दूध पीता शिशु वृद्ध पुरुष के साथ।",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "वंचित करेगी"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "और भीतर-कक्षों में"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "גם",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "גם",
+      "gloss": "व"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "कुँवारी"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "दूध पीता शिशु"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "वृद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:54.315390401Z",
+  "model": "glm-5.2"
+}

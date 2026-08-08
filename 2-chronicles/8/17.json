@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "तब शलोमोह अत्स्योन-गेबेर को और एलोत को, समुद्र के तट पर एदोम के देश में गया।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गया"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "अत्स्योन-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गेबेर को"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और … को"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "एलोत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "तट"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:47.815584635Z",
+  "model": "glm-5.2"
+}

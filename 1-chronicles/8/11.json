@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और हुशीम से उसने जन्म दिया ⟨את⟩ अवीतूब और ⟨את⟩ एलपाल को।",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "और हुशीम से"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "उसने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवीतूब"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "अवीतूब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "एलपाल"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एलपाल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:49.992917999Z",
+  "model": "glm-5.2"
+}

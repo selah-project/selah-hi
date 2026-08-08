@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "दाग़ ⟨के बदले⟩ दाग़, घाव ⟨के बदले⟩ घाव, चोट ⟨के बदले⟩ चोट।",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "दाग़"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "दाग़"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "घाव"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "घाव"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "חבורा",
+      "gloss": "चोट"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:19.464238530Z",
+  "model": "glm-5.2"
+}

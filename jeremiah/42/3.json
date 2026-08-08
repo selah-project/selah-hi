@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "“और यहवे तेरे एलोहीम हमें वह मार्ग बताए जिसमें हम चलें, और ⟨את⟩ वह बात जो हम करें।”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "और बताए"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मार्ग को"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "वह मार्ग"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसमें"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "हम चलें"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बात को"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वह बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "हम करें"
+    }
+  ],
+  "timestamp": "2026-08-07T22:22:03.705554807Z",
+  "model": "glm-5.2"
+}

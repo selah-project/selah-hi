@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 89,
+  "translation": "मस्कील, एइतन हएज़राही का।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "मस्कील"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "एइतन का"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "हएज़राही"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:47.252467576Z",
+  "model": "glm-5.2"
+}

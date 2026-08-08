@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "और यूसुफ ने उनसे कहा: “मत डरो, क्योंकि क्या मैं एलोहीम के स्थान पर हूँ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डरो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "क्या … के स्थान पर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:31.573683696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तो जनता ने मुझसे कहा: क्या तू हमें नहीं बताएगा कि ये बातें हमारे लिए क्या हैं, जो तू ऐसा कर रहा है?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "तो कहा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता ने"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "क्या नहीं"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "तू बताएगा"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कि क्या"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये बातें"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर रहा है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:32:36.530884256Z",
+  "model": "glm-5.2"
+}

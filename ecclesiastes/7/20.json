@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "क्योंकि धरती पर ऐसा कोई धर्मी मनुष्य नहीं जो भलाई करे और पाप न करे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "धरती पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "पाप करे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:18.717536755Z",
+  "model": "glm-5.2"
+}

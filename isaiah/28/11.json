@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "क्योंकि बड़बड़ाती हुई ओठों और दूसरी जीभ से वह इस जाति से बात करेगा,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "बड़बड़ाती हुई"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओठों"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "और जीभ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "दूसरी"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "वह बात करेगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "इस जाति"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T21:59:56.983861338Z",
+  "model": "glm-5.2"
+}

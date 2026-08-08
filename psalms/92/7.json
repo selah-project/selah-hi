@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 92,
+  "translation": "एक बेसमझ मनुष्य नहीं जानता, और एक मूर्ख इसे नहीं समझता —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बेसमझ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "और एक मूर्ख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझता"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इसे"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:21.692376482Z",
+  "model": "glm-5.2"
+}

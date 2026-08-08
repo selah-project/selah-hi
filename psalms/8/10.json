@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "यहवे, अदोनायनु, ⟨कितना⟩ भव्य ⟨है⟩ तेरा नाम सम्पूर्ण पृथ्वी में!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "अदोनायनु"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कितना"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "भव्य"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तेरा नाम"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:41:45.678368112Z",
+  "model": "glm-5.2"
+}

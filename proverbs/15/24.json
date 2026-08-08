@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "जीवन का मार्ग ऊपर ⟨जाता है⟩ समझदार के लिए, इसलिए कि ⟨वह⟩ नीचे की शिओल से बच जाए।",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन का"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "समझदार के लिए"
+    },
+    {
+      "surface": "למען",
+      "gloss": "इसलिए कि"
+    },
+    {
+      "surface": "סור",
+      "gloss": "बच जाए"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "शिओल से"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "नीचे की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:51.311625802Z",
+  "model": "glm-5.2"
+}

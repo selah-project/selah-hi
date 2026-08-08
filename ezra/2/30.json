@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मग्बीश के पुत्र, एक सौ छप्पन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "मग्बीश"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "और छह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:00.962215150Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और उसके सात पुत्र और तीन पुत्रियाँ थे।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨थे⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "और तीन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "पुत्रियाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:30.352486591Z",
+  "model": "glm-5.2"
+}

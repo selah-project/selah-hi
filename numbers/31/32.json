@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और वह मल्कोअह — लूट का शेष जो सेना की सेना ने लूटा था — यह था: भेड़ें छः लाख, सत्तर हज़ार और पाँच हज़ार।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और … था"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "मल्कोअह"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "लूट का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "लूटा था"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सेना की"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेना ने"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ें"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "लाख"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:01.645211820Z",
+  "model": "glm-5.2"
+}

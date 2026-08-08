@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "सरलों को त्यागो और जीवो; और समझ के मार्ग में दृढ़ चलो।",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "त्यागो"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "सरलों को"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "और जीवो"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "और दृढ़ चलो"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग में"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:21.463683264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "लोद, और ओनो, बढ़ई-घाटी।",
+  "tokens": [
+    {
+      "surface": "לֹ֥ד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "וְאוֹנ֖וֹ",
+      "gloss": "और ओनो"
+    },
+    {
+      "surface": "גֵּ֥י",
+      "gloss": "घाटी"
+    },
+    {
+      "surface": "הַחֲרָשִֽׁים",
+      "gloss": "बढ़ई-"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:25.042237857Z",
+  "model": "glm-5.2"
+}

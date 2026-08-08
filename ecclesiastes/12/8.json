@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "“हेबेल हेबलिम,” कहता ⟨है⟩ हक्कोहेलेत, “सब हेबेल ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "हेबलिम"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "हक्कोहेलेत"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:39.902082072Z",
+  "model": "glm-5.2"
+}

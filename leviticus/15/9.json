@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और हर ⟨वह⟩ काठी जिस पर स्रावी ⟨वह⟩ सवार होता है, अशुद्ध हो जाएगा।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "काठी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिस पर"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "सवार होता है"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "स्रावी"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध हो जाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:51.784513375Z",
+  "model": "glm-5.2"
+}

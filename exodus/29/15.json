@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और ⟨את⟩ ⟨the⟩ एक मेढ़े को तू ले, और अहरोन और उसके पुत्र अपने हाथों को ⟨את⟩ मेढ़े के सिर पर टिकाएँ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "मेढ़े"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "⟨the⟩ मेढ़े"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "तू ले"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "और टिकाएँ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "और उसके पुत्र"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने हाथों को"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "अपने हाथों को"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "⟨the⟩ मेढ़े"
+    }
+  ],
+  "timestamp": "2026-08-08T02:08:15.349042725Z",
+  "model": "glm-5.2"
+}

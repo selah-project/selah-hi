@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और ⟨את⟩ अहरोन का नाम लेवी की छड़ पर लिखो, क्योंकि उनके पिता-कुलों के मुखिया के लिए एक ही छड़ ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "लिखो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "छड़"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "छड़"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक ही"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "मुखिया के लिए"
+    },
+    {
+      "surface": "בית",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "उनके पिता-"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:45.300710824Z",
+  "model": "glm-5.2"
+}

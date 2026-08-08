@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और जिस दिन उसमें कैसा हुआ मांस दिखाई दे, अशुद्ध है वह।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और जिस दिन"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "दिखाई दे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "חי",
+      "gloss": "कैसा हुआ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध है वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:03.439941600Z",
+  "model": "glm-5.2"
+}

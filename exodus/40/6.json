@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "“तुम ⟨את⟩ ओला-वेदी को मीशकान, मोआद-तम्बू के प्रवेश के सामने रखो।”",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "तुम रखो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओला-वेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ओला"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "प्रवेश"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "मीशकान"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोआद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:41.524258177Z",
+  "model": "glm-5.2"
+}

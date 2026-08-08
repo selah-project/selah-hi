@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और गाद दावीद के पास आया और उससे कहा: यह कहता है यहवे: ग्रहण कर अपने लिए —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ग्रहण कर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपने लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:27.501250589Z",
+  "model": "glm-5.2"
+}

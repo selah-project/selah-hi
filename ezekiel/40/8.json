@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और उसने ⟨את⟩ फाटक के आले को मापा, भीतर की ओर से — एक छड़।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "और उसने मापा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फाटक के आले को"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "आले"
+    },
+    {
+      "surface": "השער",
+      "gloss": "फाटक के"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "भीतर की ओर से"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "छड़"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:37:16.694909378Z",
+  "model": "glm-5.2"
+}

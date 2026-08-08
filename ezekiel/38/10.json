@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 38:10",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "“यहो कहता है אदोनाय यहवे: और उस दिन होगा, विचार तेरे हृदय पर चढ़ेंगे, और तू बुरी योजना सोचेगा।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यहो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "और होगा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़ेंगे"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तेरे हृदय"
+    },
+    {
+      "surface": "וחשבת",
+      "gloss": "और तू सोचेगा"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "योजना"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरी"
+    }
+  ],
+  "timestamp": "2026-08-08T02:55:46.280122231Z",
+  "model": "glm-5.2"
+}

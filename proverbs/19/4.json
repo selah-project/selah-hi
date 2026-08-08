@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "धन बहुत से मित्रों को बढ़ाता है, और दरिद्र अपने मित्र से अलग हो जाता है।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "बढ़ाता है"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "मित्रों को"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत से"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "और दरिद्र"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "अपने मित्र से"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "अलग हो जाता है"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:46.328393424Z",
+  "model": "glm-5.2"
+}

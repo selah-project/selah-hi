@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 96,
+  "translation": "यहवे को गाओ एक नया गीत; यहवे को गाओ, हे सम्पूर्ण पृथ्वी।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे को"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हे सम्पूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:56.608177925Z",
+  "model": "glm-5.2"
+}

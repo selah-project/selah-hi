@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और सेनाओं के यहवे का वचन मेरे पास आया:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हुआ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओं के"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:13.424177212Z",
+  "model": "glm-5.2"
+}

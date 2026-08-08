@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "तेरा स्रोत धन्य हो, और तू अपनी जवानी की पत्नी से आनन्द ले।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "तेरा स्रोत"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "और आनन्दित हो"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "की पत्नी से"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "तेरी जवानी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:11.696089835Z",
+  "model": "glm-5.2"
+}

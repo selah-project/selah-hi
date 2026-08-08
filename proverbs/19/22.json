@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "मनुष्य की लालसा ⟨तो⟩ उसका धैर्य ⟨है⟩, और दरिद्र मनुष्य से बेहतर है झूठा।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "लालसा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य की"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "उसका धैर्य"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "और बेहतर है"
+    },
+    {
+      "surface": "רש",
+      "gloss": "दरिद्र"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मनुष्य से"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:58.778644259Z",
+  "model": "glm-5.2"
+}

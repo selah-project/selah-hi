@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "हारिम के पुत्र — हज़ार सत्रह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारिम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:08.311742334Z",
+  "model": "glm-5.2"
+}

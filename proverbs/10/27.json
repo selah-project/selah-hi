@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "यहवे का भय दिनों को बढ़ाता ⟨है⟩, और दुष्टों के वर्ष छोटे होंगे।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "बढ़ाता"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "और वर्ष"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों के"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "छोटे होंगे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:01.585906067Z",
+  "model": "glm-5.2"
+}

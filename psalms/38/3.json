@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "क्योंकि तेरे बाण मुझ में धँस गए, और तेरा हाथ मुझ पर भारी हो गया ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "तेरे बाण"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "धँस गए"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझ में"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "और भारी हो गया"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तेरा हाथ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:59:07.005849434Z",
+  "model": "glm-5.2"
+}

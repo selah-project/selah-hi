@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यरुब्बाल, योआश का पुत्र, चला और अपने घर में बस गया।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और चला"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "यरुब्बाल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और बस गया"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "अपने घर में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:07:48.456516059Z",
+  "model": "glm-5.2"
+}

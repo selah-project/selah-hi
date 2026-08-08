@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "वह दिन — वह अँधियारा हो; एलोअह उसे ऊपर से न ढूँढ़े, और उस पर प्रकाश न चमके।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "वह दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँधियारा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "वह ढूँढ़े"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "चमके"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:31.853774306Z",
+  "model": "glm-5.2"
+}

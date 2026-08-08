@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "यहवे तुझे हर बुराई से रक्षेगा; वह ⟨את⟩ तेरी नफश को रखेगा।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "तुझे रक्षेगा"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हर … से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "रखेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेरी नफश"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "तेरी नफश"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:49.729240591Z",
+  "model": "glm-5.2"
+}

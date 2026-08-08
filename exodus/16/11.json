@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और यहवे ने मोशे से बात की, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:05:07.805958222Z",
+  "model": "glm-5.2"
+}

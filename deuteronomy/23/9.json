@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "बेटे जो उनके लिए जन्म लेंगे, तीसरी पीढ़ी, वे उनके लिए यहवे की मण्डली में प्रवेश करेंगे।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "जन्म लेंगे"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "तीसरी"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "प्रवेश करेंगे"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "मण्डली में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.507449300Z",
+  "model": "glm-5.2"
+}

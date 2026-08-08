@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और बलि के मांस से बचा हुआ तीसरे दिन आग में जलाया जाएगा।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "और-बचा हुआ"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "मांस से"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "बलि के"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरे"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "जलाया जाएगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:31.088993703Z",
+  "model": "glm-5.2"
+}

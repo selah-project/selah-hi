@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और वे एलिम से प्रस्थान करके निकट डेरा डाला।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "और वे प्रस्थान करके गए"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "एलिम से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और उन्होंने डेरा डाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "निकट"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सूफ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:59.149250864Z",
+  "model": "glm-5.2"
+}

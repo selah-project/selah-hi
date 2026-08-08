@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "लो तुम लोगों में से बारह पुरुष चुनो — एक पुरुष, एक पुरुष प्रत्येक शब्त से।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "लो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगों"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(बारह में से)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक पुरुष"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक पुरुष"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "शब्त से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:57:15.097194165Z",
+  "model": "glm-5.2"
+}

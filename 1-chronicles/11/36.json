@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "खेफेर हमखेराती, अखिया हपलोनी।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "खेफेर"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "हमखेराती"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "अखिया"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "हपलोनी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:35.900084527Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "संगीत-निर्देशक के लिए। दावीद का मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशक के लिए"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "लדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:44.118159205Z",
+  "model": "glm-5.2"
+}

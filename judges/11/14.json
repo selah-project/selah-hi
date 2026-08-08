@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यिफ्ताह ने फिर और दूत भेजे अम्मोनियों के राजा के पास,",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "और फिर जोड़ा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफ्ताह ने"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "और भेजा"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों के"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    }
+  ],
+  "timestamp": "2026-08-07T21:09:08.208751970Z",
+  "model": "glm-5.2"
+}

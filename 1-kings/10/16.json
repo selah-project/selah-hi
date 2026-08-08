@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और राजा शलोमोह ने दो सौ ढाल बनाई — ठुमा हुआ सोना; एक ढाल पर छह सौ सोना चढ़ता था।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और बनाई"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह ने"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ठुमा हुआ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ता था"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T21:38:41.968434149Z",
+  "model": "glm-5.2"
+}

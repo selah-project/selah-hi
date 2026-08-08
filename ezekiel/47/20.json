@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 47,
+  "translation": "“और पश्चिम की ओर — उस बड़ा समुद्र, सीमा से, खमात में प्रवेश के सामने तक; यह पश्चिम की ओर ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "और की ओर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "הים",
+      "gloss": "वह समुद्र"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "सीमा से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "प्रवेश"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमात"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "पश्चिम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:38:58.609344918Z",
+  "model": "glm-5.2"
+}

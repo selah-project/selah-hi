@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 113,
+  "translation": "यहवे का नाम धन्य ⟨हो⟩, अब से और ⟨⟩ सदा के लिए।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अब से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:38.764299966Z",
+  "model": "glm-5.2"
+}

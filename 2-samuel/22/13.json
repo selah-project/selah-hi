@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "उसके सामने से चमक के कारण अंगारे प्रज्वलित हुए — आग के।",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "चमक के कारण"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "उसके सामने से"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "प्रज्वलित हुए"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "अंगारे"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:45.654707327Z",
+  "model": "glm-5.2"
+}

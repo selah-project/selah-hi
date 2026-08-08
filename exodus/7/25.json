@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और सात दिन भर गए, यहवे के ⟨את⟩ नदी को मारने के बाद।",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "और भर गए"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "मारने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नदी"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:16.397335569Z",
+  "model": "glm-5.2"
+}

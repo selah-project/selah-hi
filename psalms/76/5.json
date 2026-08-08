@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 76,
+  "translation": "प्रकाशमय ⟨है⟩ तू, प्रतापी पर्वत-लुटेरों से भी अधिक।",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "प्रकाशमय"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "प्रतापी"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "पर्वत-लुटेरों से भी अधिक"
+    },
+    {
+      "surface": "טרף",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:08.805779806Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨में से⟩ ⟨हैं⟩ याजकों के: यदअयाह, और यहोयारिब, और याखीन।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और ⟨में से⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "याजकों के"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदअयाह"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "और यहोयारिब"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "और याखीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:26.991256372Z",
+  "model": "glm-5.2"
+}

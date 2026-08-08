@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "तेरी कनपटी पर्दे के पीछे बीजाणु के फाल के समान है।",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "फाल के समान"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "बीजाणु के"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "तेरी कनपटी"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "के पीछे"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "तेरे पर्दे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:11.342874797Z",
+  "model": "glm-5.2"
+}

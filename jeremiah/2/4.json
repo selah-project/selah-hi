@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "सुनो यहवे का वचन, हे याकोव के घर, और इस्राएल के घर के सब वंशो:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "वंशों"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:44.352392822Z",
+  "model": "glm-5.2"
+}

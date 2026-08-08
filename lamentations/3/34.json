@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "कि अपने पैरों के नीचे पृथ्वी के सभी बद्ध-बन्दियों को कुचलना,",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "कुचलना"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "अपने पैरों"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "बद्ध-बन्दियों को"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:16.657894264Z",
+  "model": "glm-5.2"
+}

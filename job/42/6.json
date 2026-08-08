@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "इसलिए ⟨मैं⟩ मना करता हूँ और मुझे खेद है, धूल और राख पर।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "मैं मना करता हूँ"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "और मुझे खेद है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूल"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "और राख"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:12.028232767Z",
+  "model": "glm-5.2"
+}

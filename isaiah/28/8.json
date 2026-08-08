@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "क्योंकि सब मेज़ उल्टी से भर गए हैं, गन्दगी — बिना ⟨स्वच्छ⟩ स्थान।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "मेज़"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भर गए हैं"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "उल्टी से"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "गन्दगी"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    }
+  ],
+  "timestamp": "2026-08-07T22:00:02.479421394Z",
+  "model": "glm-5.2"
+}

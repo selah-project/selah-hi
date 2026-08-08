@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे ने मोशे से कहा, लेकर यह कि:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेकर यह कि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:29.761955017Z",
+  "model": "glm-5.2"
+}

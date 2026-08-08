@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "वह भयानक और भीषण है; उससे ही उसका न्याय और उसकी प्रताप निकलती है।",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "भयानक"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "और भीषण"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे ही"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "उसका न्याय"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "और उसकी प्रताप"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलती है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:51.820050440Z",
+  "model": "glm-5.2"
+}

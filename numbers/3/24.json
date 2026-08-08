@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और ला-गेरशुनी के पिता-कुल का नेता एल्यासाफ लाएल का पुत्र।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "और नेता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता-"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "ला-गेरशुनी के"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "लाएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:28:31.627091821Z",
+  "model": "glm-5.2"
+}

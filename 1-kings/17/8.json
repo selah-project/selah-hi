@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "तो यहवे का वचन उसके पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "तो ⟨यह⟩ हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:41:50.087565450Z",
+  "model": "glm-5.2"
+}

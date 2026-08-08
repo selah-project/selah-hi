@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 73,
+  "translation": "देखो, ये दुष्ट हैं, और उन्नति के सहज लोग संपत्ति बढ़ाते हैं।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "और सहज लोग"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "उन्नति के"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "बढ़ाते हैं"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "संपत्ति"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:25.304209814Z",
+  "model": "glm-5.2"
+}

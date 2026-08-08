@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "क्योंकि तू ऐसा एल नहीं है जो दुष्टता में अभिराम रखता हो; बुराई तेरे पास ठहरेगी नहीं।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "अभिराम रखता हो"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टता"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "तेरे पास ठहरेगी"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-08-08T00:41:01.809396356Z",
+  "model": "glm-5.2"
+}

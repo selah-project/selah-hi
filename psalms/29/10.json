@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "यहवे मब्बुल पर बैठा, और यहवे राजा बनकर बैठा ⟨है⟩ लेओलाम।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "मब्बुल पर"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बैठा"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और बैठा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा बनकर"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "लेओलाम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:45.390610019Z",
+  "model": "glm-5.2"
+}

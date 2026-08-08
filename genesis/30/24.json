@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और उसने ⟨את⟩ उसका नाम योसेफ बुलाया, कहकर, “यहवे मुझे एक और बेटा जोड़े।”",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "और उसने बुलाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसका नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "जोड़े"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "एक और"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:58.651010890Z",
+  "model": "glm-5.2"
+}

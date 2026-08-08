@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और लावन ने कहा, “देख, काश ⟨ऐसा⟩ तेरे वचन के अनुसार हो।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लावन"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देख"
+    },
+    {
+      "surface": "לו",
+      "gloss": "काश"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "तेरे वचन के अनुसार"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:09.307048439Z",
+  "model": "glm-5.2"
+}

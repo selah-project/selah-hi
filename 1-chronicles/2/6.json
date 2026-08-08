@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ज़ेरख के बेटे: ज़िम्री और एतान और हेमान और कलकोल और दारा — उन सब के सब पाँच।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरख"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ज़िम्री"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "और एतान"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "और हेमान"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "और कलकोल"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "और दारा"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "उन सब के सब"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:37.140607197Z",
+  "model": "glm-5.2"
+}

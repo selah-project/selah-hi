@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यहवे का वचन शमअयाहू, एलोहीम के जन के पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "शमअयाहू"
+    },
+    {
+      "surface": "איש",
+      "gloss": "जन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T01:06:17.445810389Z",
+  "model": "glm-5.2"
+}

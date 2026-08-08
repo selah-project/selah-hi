@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यहवे ने मोशे और अहरोन से बात की, उनसे कहकर:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:18.172617938Z",
+  "model": "glm-5.2"
+}

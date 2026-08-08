@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 103,
+  "translation": "हे मेरी नफश, यहवे को धन्यवाद दे, और उसके सब कार्यों को मत भूल।",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "धन्यवाद दे"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "हे मेरी नफश"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे को"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और मत"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "भूल"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "उसके कार्यों को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:06.019459010Z",
+  "model": "glm-5.2"
+}

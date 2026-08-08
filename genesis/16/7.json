@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और यहवे के दूत ने उसे जल-स्रोत के पास, जंगल में, स्रोत के पास, शूर के मार्ग पर पा लिया।",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "और पा लिया"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत ने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "עין",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "העין",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग पर"
+    },
+    {
+      "surface": "שור",
+      "gloss": "शूर के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:38.009392981Z",
+  "model": "glm-5.2"
+}

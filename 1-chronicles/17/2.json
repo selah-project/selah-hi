@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "तब नतन ने दावीद से कहा: “तेरे हृदय में जो कुछ ⟨है⟩ सब कर, क्योंकि एलोहीम तेरे साथ ⟨है।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब ... ने कहा"
+    },
+    {
+      "surface": "नתן",
+      "gloss": "नतन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो कुछ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तेरे हृदय में"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:44.576013649Z",
+  "model": "glm-5.2"
+}

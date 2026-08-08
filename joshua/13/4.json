@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 13:4",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "दक्षिण से सारा कनानी भूमि, और त्सोरियों का मेअरा, अफेका तक, अमोरी की सीमा तक।",
+  "tokens": [
+    {
+      "surface": "מתימן",
+      "gloss": "दक्षिण से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "कनानी"
+    },
+    {
+      "surface": "ומערה",
+      "gloss": "और मेअरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לצידנים",
+      "gloss": "त्सोरियों का"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "अफेका"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "अमोरी"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:27.596317378Z",
+  "model": "glm-5.2"
+}

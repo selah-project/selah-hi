@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "मरारी के पुत्र: महली, उसका पुत्र लिब्नी, उसका पुत्र शिमी, उसका पुत्र उज्जा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लिब्नी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका-पुत्र"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका-पुत्र"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "उज्जा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका-पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.685868680Z",
+  "model": "glm-5.2"
+}

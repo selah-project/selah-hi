@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "चौक के सभी पर्दे चारों ओर बटी हुई ससल-सनी ⟨से⟩ ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "पर्दे"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "चौक"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ससल-सनी"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "बटी हुई"
+    }
+  ],
+  "timestamp": "2026-08-07T20:14:18.244254313Z",
+  "model": "glm-5.2"
+}

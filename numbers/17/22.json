@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और मोशेह ने ⟨את⟩ छड़ियों को यहवे के सामने गवाही के तम्बू में रखा।",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "और रखा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "छड़ियों को"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "छड़ियों"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:18.724021145Z",
+  "model": "glm-5.2"
+}

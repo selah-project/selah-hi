@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "ग्यारह दिन होरेब से, सेईर पर्वत के मार्ग से, कदेश-बर्नेा तक ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ग्यारह में से एक"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "होरेब से"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "मार्ग से"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कदेश-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "बर्नेा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:46.581587817Z",
+  "model": "glm-5.2"
+}

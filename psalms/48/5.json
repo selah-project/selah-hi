@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "क्योंकि देखो, राजा इकट्ठे हुए, वे साथ आगे बढ़े।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "इकट्ठे हुए"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "आगे बढ़े"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:22.361512199Z",
+  "model": "glm-5.2"
+}

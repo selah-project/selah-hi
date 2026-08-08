@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "अनातोत के पुरुष, एक सौ बीस और आठ।",
+  "tokens": [
+    {
+      "surface": "אַנְש׵ֵ֣י",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "עֲנָת֔וֹת",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וּשְׁמֹנָֽה",
+      "gloss": "और आठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:03.428760807Z",
+  "model": "glm-5.2"
+}

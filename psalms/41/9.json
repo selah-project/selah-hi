@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "बेलिय्यल का वचन उसमें ढाला गया, और जिसने लेट लिया वह फिर नहीं उठेगा।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बेलिय्यल"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ढाला गया"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "और जिसने"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "लेट लिया"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "उठेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:59:13.949591366Z",
+  "model": "glm-5.2"
+}

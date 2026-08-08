@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और दावीद तब गढ़ में था, और पलिश्तियों का चौकी-दल तब बेत-लेखेम में था।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "और दावीद"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "गढ़ में"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "और चौकी-दल"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तियों का"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:44.046673047Z",
+  "model": "glm-5.2"
+}

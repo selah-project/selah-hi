@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "चाँदी के लिए भट्टी और सोने के लिए क्रोस; और हृदयों का परीक्षक यहवे है।",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "भट्टी"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "चाँदी के लिए"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "और क्रोस"
+    },
+    {
+      "surface": "לזהब",
+      "gloss": "सोने के लिए"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "और परीक्षक"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "हृदयों का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:09.803547108Z",
+  "model": "glm-5.2"
+}

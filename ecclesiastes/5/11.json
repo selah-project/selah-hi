@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "मीठी ⟨है⟩ ⟨है⟩ उस मज़दूर की नींद ⟨जो⟩ चाहे थोड़ा खाए और चाहे बहुत; और उस धनी की सन्तृप्ति उसे नींद लेने नहीं देती।",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "मीठी"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "की नींद"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "उस मज़दूर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "चाहे"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "और चाहे"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाए"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "और सन्तृप्ति"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "उस धनी की"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "देती"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "नींद लेने"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:49.682887621Z",
+  "model": "glm-5.2"
+}

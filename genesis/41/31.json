@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "और उसके बाद के उस अकाल के कारण देश में बहुतायत नहीं जानी जाएगी, क्योंकि वह अत्यन्त भारी है।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानी जाएगी"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "बहुतायत"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "उसके"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    }
+  ],
+  "timestamp": "2026-08-07T19:55:29.573936077Z",
+  "model": "glm-5.2"
+}

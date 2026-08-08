@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "“तेरे आकाश जो तेरे सिर के ऊपर हैं वे ताम्बा बनेंगे, और वह पृथ्वी जो तेरे नीचे है वह लोहा बनेगी।”",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "वे बनेंगे"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "तेरे आकाश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तेरे सिर"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ताम्बा"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "और वह पृथ्वी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "तेरे नीचे"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "लोहा"
+    }
+  ],
+  "timestamp": "2026-08-08T02:20:50.166897966Z",
+  "model": "glm-5.2"
+}

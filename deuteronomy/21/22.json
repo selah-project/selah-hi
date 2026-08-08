@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "“और यदि किसी मनुष्य में मृत्यु-योग्य अपराध हो, और उसे मार डाला जाए, और तू उसे ⟨את⟩ लकड़ी पर लटकाए,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "“और यदि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "किसी मनुष्य में"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "मृत्यु-योग्य"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यु"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "और मारा गया"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "और तू लटकाए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:28.446297256Z",
+  "model": "glm-5.2"
+}

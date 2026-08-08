@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और उस दिन ⟨होगा⟩: एक पुरुष एक बछड़ी-गाय और दो भेड़ें जीवित रखेगा।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और ⟨होगा⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जीवित रखेगा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक पुरुष"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "एक बछड़ी"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाय"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़ें"
+    }
+  ],
+  "timestamp": "2026-08-08T01:09:51.137568295Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 56,
+  "translation": "जिस दिन मैं डरूँ, मैं तुझ पर भरोसा करूँगा।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "जिस दिन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "मैं डरूँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझ पर"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "भरोसा करूँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:37.358348613Z",
+  "model": "glm-5.2"
+}

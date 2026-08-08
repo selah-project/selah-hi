@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "इन सब बातों के अनुसार और इस सम्पूर्ण दर्शन के अनुसार, ऐसे ही नातान ने दावीद से कहा।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "सब के अनुसार"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातों"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "और सब के अनुसार"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसे ही"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ने कहा"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:41.037937627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और जिकलाग में, और मेखोना और उसकी बेटियों में।",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "और जिकलाग में"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "और मेखोना"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "और उसकी बेटियों में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:42.473729365Z",
+  "model": "glm-5.2"
+}

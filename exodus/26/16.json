@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "दस हाथ ⟨होगी⟩ एक तख्त की लम्बाई, और हाथ और आधा हाथ ⟨होगा⟩ एक तख्त की चौड़ाई।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "एक तख्त की"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "और हाथ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "और आधा"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौड़ाई"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "एक तख्त की"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:32.829946482Z",
+  "model": "glm-5.2"
+}

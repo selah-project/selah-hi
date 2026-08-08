@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और ऐसा हुआ — उस दिन गिरने वाले सब, पुरुष से लेकर स्त्री तक, बारह हज़ार, हाई के सब लोग थे।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ऐसा हुआ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "गिरने वाले"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "पुरुष से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "लेकर तक"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाई के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:58:28.729096187Z",
+  "model": "glm-5.2"
+}

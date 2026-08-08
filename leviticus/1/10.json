@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और यदि उसका करबान है — मेमनों में से या बकरियों में से — ओला के लिए, तो वह एक नर, तमीम, को समर्पित करे।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "छोटे पशुओं"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "उसका करबान"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "मेमनों"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "बकरियों"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ओला के लिए"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "तमीम"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "उसे समर्पित करे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:15.257548583Z",
+  "model": "glm-5.2"
+}

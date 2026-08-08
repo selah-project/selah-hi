@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "ये हैं एत्सेर के बेटे: बिलहान और जावान और अकान।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "और जावान"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "और अकान"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:20.385487820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "हर चतुर व्यक्ति ज्ञान से काम करता है, परन्तु कसील मूर्खता फैलाता है।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर व्यक्ति"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "काम करता है"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "ज्ञान से"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "परन्तु कसील"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "फैलाता है"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:16.497065751Z",
+  "model": "glm-5.2"
+}

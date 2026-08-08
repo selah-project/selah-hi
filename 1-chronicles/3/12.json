@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "अमत्स्याहु उसका पुत्र, अजर्याह उसका पुत्र, योताम उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "अमत्स्याहु"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "योताम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:34.156945864Z",
+  "model": "glm-5.2"
+}

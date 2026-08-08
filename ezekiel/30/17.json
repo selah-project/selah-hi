@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "अवेन के बालक और पी-बेसेत के मुख तलवार से गिरेंगे, और वे बन्दीत्व में जाएँगी।",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवेन"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "और मुख"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "बेसेत"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "तलवार से"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरेंगे"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और वे"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "बन्दीत्व में"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "जाएँगी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:33:29.222618667Z",
+  "model": "glm-5.2"
+}

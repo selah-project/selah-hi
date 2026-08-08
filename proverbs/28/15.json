@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "गरजता हुआ शेर और मारनेवाला भालू — दीन जनता पर राज्य करता हुआ दुष्ट।",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "शेर"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "गरजता हुआ"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "और भालू"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "मारनेवाला"
+    },
+    {
+      "surface": "משל",
+      "gloss": "राज्य करता हुआ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:04.681295667Z",
+  "model": "glm-5.2"
+}

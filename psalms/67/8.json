@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 67,
+  "translation": "हमें आशीष दें एलोहीम, और भय मानें ⟨את⟩ ⟨उसे⟩ पृथ्वी के सब सीमान्त।",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "हमें आशीष दें"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "और भय मानें"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "सीमान्त"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:44.580540356Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 13:24",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "उस स्थान को नहल एश्कोल कहा गया — उस एश्कोल के कारण जिसे बने यिसरएल ने वहाँ से काटा था।",
+  "tokens": [
+    {
+      "surface": "למקום",
+      "gloss": "स्थान को"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "कहा गया"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नहल"
+    },
+    {
+      "surface": "אשכול",
+      "gloss": "एश्कोल"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "האשכול",
+      "gloss": "उस गुच्छे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "काटा था"
+    },
+    {
+      "surface": "משם",
+      "gloss": "वहाँ से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बने"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसरएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:26.147719975Z",
+  "model": "glm-5.2"
+}

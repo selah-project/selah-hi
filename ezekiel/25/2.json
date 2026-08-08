@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "मनुष्य के पुत्र, अपना मुख बन्याम्मोन के बाटों की ओर रख, और उन पर भविष्यवाणी कर:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "שים",
+      "gloss": "रख"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तेरा मुख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बाटों"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन के"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "और भविष्यवाणी कर"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    }
+  ],
+  "timestamp": "2026-08-07T22:32:47.682252676Z",
+  "model": "glm-5.2"
+}

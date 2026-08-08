@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "तो मैं मुड़ा और पहाड़ से उतरा, और पहाड़ आग से बल रहा था, और वाचा के दो लुख मेरी दोनों हथेलियों पर थे।",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "और मैं मुड़ा"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "और उतरा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "और पहाड़"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बल रहा था"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग से"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "लुख"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दोनों"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हथेलियों"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:13.347615739Z",
+  "model": "glm-5.2"
+}

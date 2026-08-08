@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यित्हार का पुत्र, कहात का पुत्र, लेवी का पुत्र, इस्राएल का पुत्र।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्हार"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.324018383Z",
+  "model": "glm-5.2"
+}

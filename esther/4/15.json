@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तब एस्तेर ने मर्दोखी को उत्तर देने के लिए कहा:",
+  "tokens": [
+    {
+      "surface": "ותאमר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर ने"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "उत्तर देने के लिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मर्दोखी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:40:21.644679716Z",
+  "model": "glm-5.2"
+}

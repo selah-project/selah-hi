@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और मशह ने कहा: “यह ⟨वह⟩ वचन ⟨है⟩ जो यहवे ने आज्ञा दिया — तुम करो, और यहवे का तेज तुम्हें दिखाई देगा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मशह"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "तुम करो"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "और दिखाई देगा"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:31.919816298Z",
+  "model": "glm-5.2"
+}

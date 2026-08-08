@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और यित्सखाक के दिन ⟨हुए⟩ सौ वर्ष और अस्सी वर्ष।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "और वे थे"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सखाक"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "और अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:32.374021054Z",
+  "model": "glm-5.2"
+}

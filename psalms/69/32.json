@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 69,
+  "translation": "यह यहवे को सिंगड़ी-खुरों वाले बछड़े से भी अधिक भाएगा।",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "अधिक भाएगा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे को"
+    },
+    {
+      "surface": "משור",
+      "gloss": "बैल से"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बछड़े"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "सिंगड़ी वाले"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "खुरों वाले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:37.618211606Z",
+  "model": "glm-5.2"
+}

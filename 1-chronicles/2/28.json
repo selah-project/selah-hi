@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ओनाम के बेटे हुए — शम्माय और यादा; और शम्माय के बेटे नदब और अबीशूर हुए।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनाम"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "और यादा"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नदब"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "और अबीशूर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.531325815Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यिश्पान, और एवेर, और एलिएल —",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "और यिश्पान"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "और एवेर"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "और एलिएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:33.157742138Z",
+  "model": "glm-5.2"
+}

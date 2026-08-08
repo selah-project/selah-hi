@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "कसील का मुँह उसके लिए विनाश ⟨है⟩, और उसके होंठ उसकी नफ्श का फन्दा हैं।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुँह"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "कसील का"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "और उसके होंठ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फन्दा"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "उसकी नफ्श का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:32.815733749Z",
+  "model": "glm-5.2"
+}

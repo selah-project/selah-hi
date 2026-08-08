@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 131,
+  "translation": "यिस्राएल यहवे पर आशा करे, ⟨मेट⟩ अब से और सदा के लिए।",
+  "tokens": [
+    {
+      "surface": "יַחֵ֣ל",
+      "gloss": "आशा करे"
+    },
+    {
+      "surface": "יִ֭שְׂרָאֵל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מֵֽ֝עַתָּ֗ה",
+      "gloss": "अब से"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "और"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "सदा के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T03:06:33.307067738Z",
+  "model": "glm-5.2"
+}

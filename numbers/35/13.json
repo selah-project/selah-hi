@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और ⟨जो⟩ नगर तुम दो, छः शरण-नगर तुम्हारे लिए ⟨होंगे⟩।",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "और ⟨जो⟩ नगर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जो⟩"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तुम दो"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "शरण"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨होंगे⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:44.620855182Z",
+  "model": "glm-5.2"
+}

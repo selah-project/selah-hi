@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "उनके गणित — शिमोन के ⟨से⟩ गोत्र के — नौ और पचास हज़ार और तीन सौ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनके गणित"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र के ⟨से⟩"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "और पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "और तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:27:29.430179418Z",
+  "model": "glm-5.2"
+}

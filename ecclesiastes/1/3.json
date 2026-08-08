@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "मनुष्य के सारे श्रम में, जिसमें वह धूप के नीचे श्रम करता ⟨है⟩, उसे क्या लाभ ⟨है⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "मनुष्य को"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "उसके श्रम"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "जिसमें वह श्रम करता ⟨है⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "हשमש",
+      "gloss": "धूप"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:00.189130197Z",
+  "model": "glm-5.2"
+}

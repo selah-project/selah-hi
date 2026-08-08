@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 11:7",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यहोशुआ आया, और सारा युद्ध-जन उसके साथ, मेरोम के जलों पर अचानक उन पर, और वे उन पर टूट पड़े।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מי",
+      "gloss": "जलों"
+    },
+    {
+      "surface": "मרום",
+      "gloss": "मेरोम के"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "और वे टूट पड़े"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उन पर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:15.441765240Z",
+  "model": "glm-5.2"
+}

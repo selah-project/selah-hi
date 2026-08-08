@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "वे सब तेरी ओर देखते हैं, कि तू उन्हें भोजन दे उसके समय पर।",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "वे सब"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरी ओर"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "देखते हैं"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "कि दे"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "उन्हें भोजन"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "उसके समय पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:28.532767246Z",
+  "model": "glm-5.2"
+}

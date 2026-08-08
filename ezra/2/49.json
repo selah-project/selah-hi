@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "उज्जा के पुत्र, पसेह के पुत्र, बसै के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्जा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पसेह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "बसै"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.484008187Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ये अहरोन के पुत्र हैं — एलाज़र उसका पुत्र, पिनहस उसका पुत्र, अबीशूअ उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़र"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिनहस"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "अबीशूअ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:46.054938433Z",
+  "model": "glm-5.2"
+}

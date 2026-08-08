@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और इब्सान मरा, और बेत-लेहेम में दफ़नाया गया।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मरा"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "इब्सान"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "और दफ़नाया गया"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    }
+  ],
+  "timestamp": "2026-08-07T21:08:38.979271311Z",
+  "model": "glm-5.2"
+}

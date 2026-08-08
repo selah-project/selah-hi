@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "और यह तेरे लिए यहवे की ओर से चिह्न ⟨है⟩, कि यहवे ⟨את⟩ इस बात को करेगा जो उसने कही है।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "האות",
+      "gloss": "चिह्न"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "इस बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "उसने कही"
+    }
+  ],
+  "timestamp": "2026-08-07T22:02:23.805936367Z",
+  "model": "glm-5.2"
+}

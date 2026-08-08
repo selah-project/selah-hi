@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तू उनका कल्याण और उनका भला नहीं माँगेगा, अपने सब दिनों में, सदा के लिए।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "तू माँगेगा"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "उनका कल्याण"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "और उनका भला"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "तेरे दिनों में"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.743628715Z",
+  "model": "glm-5.2"
+}

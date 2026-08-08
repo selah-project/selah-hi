@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "तुम अपने एलोहीम यहवे के प्रति ऐसा न करना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "तुम करना"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के प्रति"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "अपने एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:29.171474673Z",
+  "model": "glm-5.2"
+}

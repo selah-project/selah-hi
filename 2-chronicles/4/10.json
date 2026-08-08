@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और ⟨את⟩ हुए समुद्र को उसने दाहिनी कन्धे पर, पूर्व की ओर, दक्षिण के सामने रखा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हुए समुद्र को"
+    },
+    {
+      "surface": "הים",
+      "gloss": "हुए समुद्र"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "उसने रखा"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "कन्धे पर"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "दाहिनी"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व की ओर"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "दक्षिण"
+    }
+  ],
+  "timestamp": "2026-08-08T03:17:23.756066089Z",
+  "model": "glm-5.2"
+}

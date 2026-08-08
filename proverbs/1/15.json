@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "हे मेरे बेटे, उनके साथ उस मार्ग पर मत चल; अपने पैर को उनके पगडंडी से रोक।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे बेटे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "चल"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "उस मार्ग पर"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "उनके साथ"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "रोक"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "अपने पैर को"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "उनके पगडंडी से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:45.705916329Z",
+  "model": "glm-5.2"
+}

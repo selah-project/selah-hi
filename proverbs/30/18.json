@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "तीन वे हैं जो मुझसे अद्भुत हैं, और चार जिन्हें मैं नहीं जानता:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे हैं"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "अद्भुत हैं"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "जानता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:39.329849641Z",
+  "model": "glm-5.2"
+}

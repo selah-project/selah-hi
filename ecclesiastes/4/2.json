@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और मैं ⟨את⟩ मृतकों की—जो पहले से मर चुके हैं—प्रशंसा करता हूँ, उन जीवितों से अधिक जो अभी तक जीवित हैं।",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "और-प्रशंसा-करता-हूँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मृतकों की"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मृतकों की"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "जो-पहले-से"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर-चुके-हैं"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवितों"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित-हैं"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "अभी-तक"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:27.353753466Z",
+  "model": "glm-5.2"
+}

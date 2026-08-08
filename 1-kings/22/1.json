@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और वे तीन वर्ष बैठे ⟨रहे⟩ — अराम और यिस्राएल के बीच कोई युद्ध नहीं था।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "और वे बैठे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "מלחमה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और के बीच"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:45:00.620758562Z",
+  "model": "glm-5.2"
+}

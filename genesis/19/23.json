@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "सूर्य पृथ्वी पर निकल आया था और लूत त्सोअर में प्रविष्ट हुआ।",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकल आया था"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "और लूत"
+    },
+    {
+      "surface": "בא",
+      "gloss": "प्रविष्ट हुआ"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "त्सोअर में"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:48.896987785Z",
+  "model": "glm-5.2"
+}

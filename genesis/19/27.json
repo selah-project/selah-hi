@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और अवराहाम बिना सवेरे उस स्थान के पास गया जहाँ वह यहवे के ⟨את⟩ दर्शन के सामने खड़ा था।",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "और बिना सवेरे उठा"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "सवेरे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "उस स्थान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "खड़ा था"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दर्शन"
+    },
+    {
+      "surface": "פני",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-08T02:02:34.323106082Z",
+  "model": "glm-5.2"
+}

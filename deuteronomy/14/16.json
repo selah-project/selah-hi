@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "⟨את⟩ छोटी उल्लू और ⟨את⟩ बड़ी उल्लू और ⟨the⟩ लैवंडर-पक्षी",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "छोटी उल्लू"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "छोटी उल्लू"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बड़ी उल्लू"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "बड़ी उल्लू"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "और ⟨the⟩ लैवंडर-पक्षी"
+    }
+  ],
+  "timestamp": "2026-08-08T02:19:23.868337620Z",
+  "model": "glm-5.2"
+}

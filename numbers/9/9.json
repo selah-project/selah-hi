@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहवे ने मोशे से बात की, लेकर कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेकर कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:36.548671945Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और मोशे और अहरोन मिलन के तम्बू के सामने आए।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "और अहरोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:26.665540853Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "धनी गरीबों पर राज करता ⟨है⟩, और उधार लेने वाला उधार देने वाले का दास है।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "गरीबों पर"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "राज करता"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "और दास"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "उधार लेने वाला"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "वाले का"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "उधार देने वाले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:41.500705656Z",
+  "model": "glm-5.2"
+}

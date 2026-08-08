@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "त्सिफ का पुत्र, एलकाना का पुत्र, मखात का पुत्र, अमसाय का पुत्र।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "त्सिफ का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकाना का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "मखात का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "अमसाय का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:41.472423911Z",
+  "model": "glm-5.2"
+}

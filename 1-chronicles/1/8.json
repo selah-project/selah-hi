@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "खाम के बेटे: कूश और मिस्रयिम, पूत और कनान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "और-मिस्रयिम"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "पूत"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "और-कनान"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:00.485908906Z",
+  "model": "glm-5.2"
+}

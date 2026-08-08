@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और यहवे ने मुझसे कहा: उत्तर से विपत्ति सारे पृथ्वी के निवासियों पर खुलेगी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "खुलेगी"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "निवासियों"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:39.448854413Z",
+  "model": "glm-5.2"
+}

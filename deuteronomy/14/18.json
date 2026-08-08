@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और बगुला, और बगला अपनी मिन के अनुसार, और दुखिपत, और चमगादड़।",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "और बगुला"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "और बगला"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "अपनी मिन के अनुसार"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "और दुखिपत"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "और चमगादड़"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:38.670575989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "कसील के कानों में बोल नहीं, क्योंकि वह तेरे वचनों की समझ का तिरस्कार करेगा।",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "कानों में"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "कसील के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "तिरस्कार करेगा"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "समझ का"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "तेरे वचनों की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:43.681246694Z",
+  "model": "glm-5.2"
+}

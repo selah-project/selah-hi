@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और याकोब ने उसकी कब्र पर एक स्तम्भ स्थापित किया — वह ⟨है⟩ राहेल की कब्र का स्तम्भ आज तक।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "और स्थापित किया"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब ने"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "उसकी कब्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "कब्र का"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:02.450012836Z",
+  "model": "glm-5.2"
+}

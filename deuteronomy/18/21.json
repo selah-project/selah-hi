@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और यदि तू अपने हृदय में कहे, “हम कैसे जानें ⟨את⟩ ⟨the⟩ वचन जिसे यहवे ने नहीं कहा है?”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तू कहे"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "अपने हृदय में"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "हम जानें"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "कहा है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    }
+  ],
+  "timestamp": "2026-08-08T06:09:52.302304528Z",
+  "model": "glm-5.2"
+}

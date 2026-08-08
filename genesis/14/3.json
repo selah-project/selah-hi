@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "ये सब सिद्दीम के तालाब के पास मिले — वह ⟨है⟩ नमक का समुद्र।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "मिले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "तालाब"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "सिद्दीम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "नमक का"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:47.853769915Z",
+  "model": "glm-5.2"
+}

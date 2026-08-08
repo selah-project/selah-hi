@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "इस पर यहवे ने रुख बदला; “यह न होगा,” यहवे ने कहा।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ने रुख बदला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होगी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ने कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:44:28.457330013Z",
+  "model": "glm-5.2"
+}

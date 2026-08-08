@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और तू ⟨है⟩ पवित्र, यिस्राएल की स्तुतियों में बैठा हुआ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बैठा हुआ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "स्तुतियों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:43.671889388Z",
+  "model": "glm-5.2"
+}

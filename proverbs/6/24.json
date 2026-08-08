@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "तुझे बुरी स्त्री से और परायी जीभ की चिकनाहट से रक्षा करने के लिए।",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "तुझे रक्षा करने के लिए"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "स्त्री से"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "चिकनाहट से"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "परायी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:01.596366800Z",
+  "model": "glm-5.2"
+}

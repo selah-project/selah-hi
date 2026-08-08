@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 52,
+  "translation": "तुमने प्रेम किया सभी भक्षण-वचनों को, हे छल की जीभ!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "तुमने प्रेम किया"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनों को"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "भक्षण-"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:07.168068081Z",
+  "model": "glm-5.2"
+}

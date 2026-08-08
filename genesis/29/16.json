@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और लावान के दो बेटियाँ थीं — बड़ी का नाम लेआह ⟨था⟩ और छोटी का नाम राहेल ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "और लावान के"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियाँ थीं"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "बड़ी का"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "छोटी का"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:45.154158744Z",
+  "model": "glm-5.2"
+}

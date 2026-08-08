@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "उसके आगे दबर चला, और उसके पाँवों के यहाँ से रेशेफ निकला।",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "उसके आगे"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "चला"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "दबर"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "रेशेफ"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "उसके पाँवों के यहाँ से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:07.090261293Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "अवराम कनान के देश में बसा, और लोत मैदान के नगरों में बसा, और ⟨उसने⟩ सदोम तक डेरा डाला।",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान के"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "और लोत"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसा"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "नगरों में"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "मैदान के"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "और डेरा डाला"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:11.111830648Z",
+  "model": "glm-5.2"
+}

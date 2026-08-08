@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "ये बनिम्न बातें बनायाह, यहोयादा के पुत्र ने कीं, और उसका नाम उन तीन शूरवीरों में था।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कीं"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "बनायाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "और उसका"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "तीन में"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "शूरवीरों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:13.935084885Z",
+  "model": "glm-5.2"
+}

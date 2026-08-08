@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "छत के कोने पर बैठना अच्छा ⟨है⟩ — विवादों वाली स्त्री और ⟨एक⟩ विशाल घर से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "बैठना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "कोने"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छत"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "स्त्री से"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "विवादों वाली"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और घर"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "विशाल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:29.881099158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 27:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "छठा, छठे महीने के लिए, इक्केश का पुत्र तकोवी इरा ⟨था⟩; और उसके विभाग पर चौबीस हज़ार ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "छठा"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के लिए"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "छठे"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "का पुत्र"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "इक्केश"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "तकोवी"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "उसके विभाग"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "चौबीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-08T01:05:01.852075895Z",
+  "model": "glm-5.2"
+}

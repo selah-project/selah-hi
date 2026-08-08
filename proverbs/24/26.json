@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "सीधे वचन उत्तर देने वाले के ⟨होंठों पर⟩ होंठों का चुम्बन ⟨होता है⟩।",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "⟨वह⟩ चूमता ⟨है⟩"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "उत्तर देने वाले के"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "सीधे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:44.139630970Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "समझो, हे भोले लोगों, चतुरता, और, हे मूर्खों, हृदय समझो।",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "समझो"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "हे भोले लोगों"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "चतुरता"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "और, हे मूर्खों"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "समझो"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:01.960807460Z",
+  "model": "glm-5.2"
+}

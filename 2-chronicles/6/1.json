@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "तब शलोमोह ने कहा: “यहवे ने कहा है कि वह घने अंधकार में वास करेगा।”",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा है"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "वास करेगा"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "घने अंधकार में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:38.667008860Z",
+  "model": "glm-5.2"
+}

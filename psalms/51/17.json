@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "अदोनाय, मेरे ओठ खोल, और मेरा मुख तेरी स्तुति बताएगा।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "मेरे ओठ"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "और मेरा मुख"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताएगा"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तेरी स्तुति"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:05.345816036Z",
+  "model": "glm-5.2"
+}

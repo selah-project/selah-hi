@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "और मैं बधिर की तरह नहीं सुनता, और मूक की तरह जो अपना मुँह नहीं खोलता।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "बधिर की तरह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "सुनता"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "और मूक की तरह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोलता"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "अपना मुँह"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:57.254785360Z",
+  "model": "glm-5.2"
+}

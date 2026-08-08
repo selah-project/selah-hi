@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "मेरे सब अपराधों से मुझे छुड़ा; मुझे नास्तिक की निन्दा न बना।",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "मेरे सब"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "अपराधों से"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "मुझे छुड़ा"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "निन्दा"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नास्तिक की"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "मुझे बना"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:58.823351447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और यहवे ने मोशे और अहरोन के पुत्र एलअज़र ⟨हाकोहेन⟩ से कहा, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और से"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलअज़र"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हाकोहेन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T02:16:27.978164401Z",
+  "model": "glm-5.2"
+}

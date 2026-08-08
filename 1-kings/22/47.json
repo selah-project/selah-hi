@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 22:47",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और शेष कदेश, जो उसके पिता आसा के दिनों में बच गया था, उसने देश से नष्ट किया।",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "और शेष"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "कदेश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "बच गया था"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "दिनों में"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "उसके पिता"
+    },
+    {
+      "surface": "בער",
+      "gloss": "नष्ट किया"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    }
+  ],
+  "timestamp": "2026-08-07T21:44:51.019246935Z",
+  "model": "glm-5.2"
+}

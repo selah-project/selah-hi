@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और हवाल ⟨את⟩ ⟨इन श्रापों⟩ को एक लेख में लिखेगा, और मार-जल के जल में मिटाएगा।",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "और लिखेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इन श्रापों"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "⟨इन श्रापों⟩"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हवाल"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "एक लेख में"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "और मिटाएगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "מי",
+      "gloss": "जल"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "मार-जल के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:37.073673317Z",
+  "model": "glm-5.2"
+}

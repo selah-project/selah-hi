@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "माअज्याह, बिल्गय, शमअयाह; ये ⟨थे⟩ कोहनीम।",
+  "tokens": [
+    {
+      "surface": "מַֽעַזְיָ֥ה",
+      "gloss": "माअज्याह"
+    },
+    {
+      "surface": "בִלְגַּ֖י",
+      "gloss": "बिल्गय"
+    },
+    {
+      "surface": "שְׁמַֽעְיָ֑ה",
+      "gloss": "शमअयाह"
+    },
+    {
+      "surface": "אֵ֖לֶּה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "הַכֹּהֲנִֽים",
+      "gloss": "कोहनीम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:37.929054164Z",
+  "model": "glm-5.2"
+}

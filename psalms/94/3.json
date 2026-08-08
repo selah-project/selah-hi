@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 94,
+  "translation": "कब तक, हे यहवे, दुष्ट ⟨लोग⟩? कब तक दुष्ट ⟨लोग⟩ हर्षित होंगे?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "तक"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "तक"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "हर्षित होंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:34.399725480Z",
+  "model": "glm-5.2"
+}

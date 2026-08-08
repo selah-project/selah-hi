@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "एक ⟨ऐसी⟩ भूमि जिसमें गेहूँ और जौ और दाखलता और अंजीर और डालिम ⟨हैं; ⟩ एक ⟨ऐसी⟩ भूमि जिसमें जैतून का तेल और शहद ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गेहूँ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "और जौ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "और दाखलता"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "और अंजीर"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "और डालिम"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "और शहद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:15.951525698Z",
+  "model": "glm-5.2"
+}

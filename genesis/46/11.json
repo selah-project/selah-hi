@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "और लेवी के पुत्र: गेरेशोन, कहत और मरारी।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और-के पुत्र"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरेशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "और मरारी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:57:11.391129299Z",
+  "model": "glm-5.2"
+}

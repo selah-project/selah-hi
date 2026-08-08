@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "हबीरून: यदआयाह के बेटे, येशूअ के घर के, नौ सौ तिहत्तर।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "हबीरून"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदआयाह"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशूअ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "तिहत्तर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    }
+  ],
+  "timestamp": "2026-08-08T01:16:27.707759879Z",
+  "model": "glm-5.2"
+}

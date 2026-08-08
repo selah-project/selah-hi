@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और वहाँ मोशे, यहवे का दास, मोआब देश में यहवे के वचन के अनुसार मर गया।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मर गया"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के अनुसार"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख ~ वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:11.912554277Z",
+  "model": "glm-5.2"
+}

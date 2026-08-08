@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और मैं फिर लौटा और अपनी आँखें उठाईं और देखा, और देखो, एक उड़ती हुई मेखिला।",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "और मैं फिर लौटा"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "और उठाईं"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "मेरी आँखें"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "एक मेखिला"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "उड़ती हुई"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:48.609556656Z",
+  "model": "glm-5.2"
+}

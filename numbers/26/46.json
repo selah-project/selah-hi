@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और अशेर की बेटी का नाम सेरख था।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "अशेर"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "सेरख"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:20.954177882Z",
+  "model": "glm-5.2"
+}

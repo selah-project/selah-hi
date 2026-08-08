@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ये ⟨हैं⟩ गेरेशोम के बेटों के नाम: लिबनी और शिमी।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लिबनी"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "और शिमी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:16.090054813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और शाऊल ने उस दिन से और आगे तक ⟨את⟩ दाविद को डर से देखा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और यह हुआ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "עון",
+      "gloss": "डर से देखा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाविद को"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "उस दिन से"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "और आगे तक"
+    }
+  ],
+  "timestamp": "2026-08-07T21:19:24.347391577Z",
+  "model": "glm-5.2"
+}

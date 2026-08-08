@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "धर्मी ⟨את⟩ भूमि के अधिकारी होंगे, और उस पर सदा निवास करेंगे।",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "अधिकारी होंगे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "और निवास करेंगे"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:09.518426517Z",
+  "model": "glm-5.2"
+}

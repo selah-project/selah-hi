@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "तो तू ⟨את⟩ उसकी हथेली काट देगा; तेरी आँख दया न करेगी।",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "तो तू काट देगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसकी हथेली"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "उसकी हथेली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया करेगी"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तेरी आँख"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:58.149401160Z",
+  "model": "glm-5.2"
+}

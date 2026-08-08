@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और बिल्हा ने गर्भ धारण किया और याकोव के लिए एक पुत्र को जना।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "और गर्भ धारण किया"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "और जनी"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव के लिए"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एक पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:16.978253501Z",
+  "model": "glm-5.2"
+}

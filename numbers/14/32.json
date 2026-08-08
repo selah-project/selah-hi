@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और तुम्हारी लाशें, तुम्हारी, इस मरूभूमि में गिरेंगी।",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "और तुम्हारी लाशें"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम्हारी"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "गिरेंगी"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरूभूमि में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:16.850498512Z",
+  "model": "glm-5.2"
+}

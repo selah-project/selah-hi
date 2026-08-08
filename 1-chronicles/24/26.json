@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "मरारी के बेटे महली और मूशी; याअज़ियाहू के बेटे — उसका बेटा बेनो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "और मूशी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "याअज़ियाहू"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका बेटा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:59.628085321Z",
+  "model": "glm-5.2"
+}

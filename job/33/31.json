@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "ध्यान दे, अय्योव, मेरी सुन; चुप रह, और मैं बोलूँगा।",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "ध्यान दे"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरी"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "चुप रह"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलूँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:17.124212787Z",
+  "model": "glm-5.2"
+}

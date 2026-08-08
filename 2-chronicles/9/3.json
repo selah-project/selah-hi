@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और शेबा की रानी ने ⟨את⟩ शलोमोह की बुद्धि देखी, और ⟨את⟩ वह भवन जो उसने बनाया था।",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "और देखी"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुद्धि"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "और भवन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:18.725608579Z",
+  "model": "glm-5.2"
+}

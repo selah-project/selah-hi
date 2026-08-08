@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "⟨the⟩ अंगूठियाँ और ⟨the⟩ नाक के ⟨the⟩ आभूषण।",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "⟨the⟩ अंगूठियाँ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "और ⟨the⟩ आभूषण"
+    },
+    {
+      "surface": "האף",
+      "gloss": "नाक"
+    }
+  ],
+  "timestamp": "2026-08-08T02:35:08.898429431Z",
+  "model": "glm-5.2"
+}

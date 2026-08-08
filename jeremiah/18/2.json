@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "उठ, और कुम्हार के घर जा, और वहाँ मैं तुझे ⟨את⟩ मेरे वचन सुनाऊँगा।",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "और तू जा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "कुम्हार का"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "और वहाँ"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "मैं तुझे सुनाऊँगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरे वचन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "मेरे वचन"
+    }
+  ],
+  "timestamp": "2026-08-08T01:25:24.475893414Z",
+  "model": "glm-5.2"
+}

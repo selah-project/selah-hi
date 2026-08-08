@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और उसने ⟨את⟩ एक को बैत-एल में रखा, और ⟨את⟩ एक को दान में रखा।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "और उसने रखा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बैत-‎में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "एक"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखा"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "दान में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:40:23.637822158Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 91,
+  "translation": "शेर और साँप पर तू कदम रखेगा; युवा शेर और विषधर को रौंदेगा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "शेर"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "और साँप"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "तू कदम रखेगा"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "रौंदेगा"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "युवा शेर"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "और विषधर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:21.215234051Z",
+  "model": "glm-5.2"
+}

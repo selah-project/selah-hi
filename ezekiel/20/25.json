@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यह भी कि मैं ने उन्हें ⟨את⟩ वे विधि दिए जो भले नहीं थे, और नियम जिनमें वे जीवित न रहें।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "और यह भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "दिए"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "भले"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "और नियम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "रहें"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "जिनमें"
+    }
+  ],
+  "timestamp": "2026-08-07T22:31:19.177259317Z",
+  "model": "glm-5.2"
+}

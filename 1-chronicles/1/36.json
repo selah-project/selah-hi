@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "एलिफाज़ के बेटे: तेमान और ओमार, त्सफी और गाताम, कनाज़ और तिम्ना और अमालेक।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाज़"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "और ओमार"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "त्सफी"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "और गाताम"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनाज़"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "और तिम्ना"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "और अमालेक"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:11.797642676Z",
+  "model": "glm-5.2"
+}

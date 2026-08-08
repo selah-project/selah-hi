@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 15:46",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "एक्रोन से और समुद्र की ओर, सब कुछ जो अश्दोद के पास ⟨है⟩, और उनके गाँव:",
+  "tokens": [
+    {
+      "surface": "מעקרון",
+      "gloss": "एक्रोन से"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और समुद्र की ओर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ\/पास"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "अश्दोद"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "और उनके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:22.743460732Z",
+  "model": "glm-5.2"
+}

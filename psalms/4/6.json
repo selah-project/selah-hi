@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "धर्म के वलियाँ बलिदान करो, और यहवे पर भरोसा रखो।",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "बलिदान करो"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "वलियाँ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्म के"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "और भरोसा रखो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:41:07.023887747Z",
+  "model": "glm-5.2"
+}

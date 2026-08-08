@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "मूर्खों के पुत्र, वरन् नामहीनों के पुत्र — वे पृथ्वी से पीटे गए।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "मूर्खों के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "वरन्"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "पीटे गए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:54:27.082129657Z",
+  "model": "glm-5.2"
+}

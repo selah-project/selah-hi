@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 140,
+  "translation": "यहवे, दुष्ट की लालसाएँ न दे; उसकी चाल आगे न बढ़ा, कहीं वे ऊँचे न हो जाएँ। सेला।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "लालसाएँ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट की"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "उसकी चाल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "बढ़ा"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "वे ऊँचे हो जाएँ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-07T23:15:11.902218666Z",
+  "model": "glm-5.2"
+}

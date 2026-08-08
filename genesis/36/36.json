@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और हदद मरा, और उसके स्थान पर सम्ला राजा बना — मिमश्रेका का।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मरा"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और राजा बना"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसके स्थान पर"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "सम्ला"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "मिमश्रेका का"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:20.027642442Z",
+  "model": "glm-5.2"
+}

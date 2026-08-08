@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "नून उसका पुत्र, यहोशुआ उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:07.386378519Z",
+  "model": "glm-5.2"
+}

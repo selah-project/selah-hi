@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "अपने प्राणों के सहारे हम ⟨את⟩ अपनी रोटी लाते हैं, जंगल की तलवार के सामने से।",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "अपने प्राणों के सहारे"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "हम ⟨את⟩ लाते हैं"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "अपनी रोटी"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "जंगल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:37:54.193038607Z",
+  "model": "glm-5.2"
+}

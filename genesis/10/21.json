@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और शेम को भी जन्म हुआ — वह ⟨है⟩ सब बने-एवर के पिता, यफत का बड़ा भाई।",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "और शेम को"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म हुआ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बने-"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवर"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "यफत"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "बड़ा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:52.016952518Z",
+  "model": "glm-5.2"
+}

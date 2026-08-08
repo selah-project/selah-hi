@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "यहवे, तू क्यों दूर खड़ा रहता है? संकट के समय में तू ⟨क्यों⟩ छिपता है?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "तू खड़ा रहता है"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "तू छिपता है"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "समय में"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "संकट के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:41:50.934152089Z",
+  "model": "glm-5.2"
+}

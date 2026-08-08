@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "दसवाँ अंश तुम दसवाँ अंश लगाना — ⟨את⟩ सब उपज, जो तेरे खेत से वर्ष वर्ष निकलती ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "दसवाँ अंश"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "तुम दसवाँ अंश लगाना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब उपज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "उपज"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "तेरे बीज की"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "निकलती"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत से"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:17.604897581Z",
+  "model": "glm-5.2"
+}

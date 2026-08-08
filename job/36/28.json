@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "जब बादल बहते हैं, तब वे बहुत मनुष्यों पर बौंछारी करते हैं।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "बहते हैं"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "बौंछारी करते हैं"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्यों"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:38.151987492Z",
+  "model": "glm-5.2"
+}

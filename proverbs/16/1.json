@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "मनुष्य के ⟨हैं⟩ हृदय की योजनाएँ, और यहवे से ⟨है⟩ जीभ का उत्तर।",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "योजनाएँ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय की"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "और यहवे से"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:37.679170859Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब तू समझेगा धार्मिकता और न्याय, और ऋजुता — हर एक अच्छा मार्ग।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "तू समझेगा"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धार्मिकता"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "और न्याय"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "और ऋजुता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    }
+  ],
+  "timestamp": "2026-08-08T03:07:00.974011741Z",
+  "model": "glm-5.2"
+}

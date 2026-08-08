@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "फिर भी इस बात में तुम यहवे अपने एलोहीम पर विश्वास नहीं रखते।",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "फिर भी इस बात में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "तुम नहीं"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "विश्वास रखते"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "अपने एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:42.274270990Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "हर मृत-पिंजर और हर फाड़ी-गई, चिड़ियों में से और पशुओं में से, कोहनीम न खाएँ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "मृत-पिंजर"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "और फाड़ी-गई"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "चिड़ियों"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "और में से"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशुओं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाएँ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहनीम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:38:40.739975371Z",
+  "model": "glm-5.2"
+}

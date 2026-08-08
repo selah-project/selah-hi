@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "इक्कीसवाँ याछीन ⟨के लिए⟩, बाईसवाँ गामूल ⟨के लिए⟩।",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "याछीन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "इक्कीसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "गामूल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाईसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:17.592053347Z",
+  "model": "glm-5.2"
+}

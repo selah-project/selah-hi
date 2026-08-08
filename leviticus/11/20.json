@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "हर वह उड़ने वाला रेंगने वाला जीव जो चार ⟨पैरों⟩ पर चलता है, वह तुम्हारे लिए घृणित ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "रेंगने वाला जीव"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड़ने वाला"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "जो चलता है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणित वस्तु"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:08.117717590Z",
+  "model": "glm-5.2"
+}

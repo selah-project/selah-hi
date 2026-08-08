@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब तुमने मुझे उत्तर दिया और कहा, जो बात तूने करने के लिए कही, वह अच्छी है।",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "तब तुमने उत्तर दिया"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "मुझे"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छी ⟨है⟩"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वह बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "तूने कही"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:02.676032855Z",
+  "model": "glm-5.2"
+}

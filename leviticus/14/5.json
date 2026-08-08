@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और याजक आज्ञा दे, और ⟨वह⟩ ⟨את⟩ एक पक्षी को मिट्टी के बर्तन में, जीवित जल के ऊपर बलि करे।",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "और आज्ञा दे"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "और बलि करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एक पक्षी को"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मिट्टी के"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:06.342038536Z",
+  "model": "glm-5.2"
+}

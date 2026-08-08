@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "तब वृक्षों ने अंजीर के वृक्ष से कहा: तू चल, तू हम पर राज कर।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "वृक्षों ने"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "अंजीर के वृक्ष से"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "तू चल"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राज कर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हम पर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:07:27.481108827Z",
+  "model": "glm-5.2"
+}

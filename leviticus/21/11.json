@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और किसी मृत जीव के पास न जाए; अपने पिता के लिए और अपनी माता के लिए वह अशुद्ध न हो।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और के पास"
+    },
+    {
+      "surface": "כל",
+      "gloss": "किसी"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मृत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "जाए"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "अपने पिता के लिए"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "और अपनी माता के लिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध हो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:00.004030785Z",
+  "model": "glm-5.2"
+}

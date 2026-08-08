@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "उन्होंने गड्ढे में मेरे प्राण काट दिए, और मुझ पर पत्थर फेंका।",
+  "tokens": [
+    {
+      "surface": "צָֽמְת֤וּ",
+      "gloss": "उन्होंने काट दिए"
+    },
+    {
+      "surface": "בַבּוֹר֙",
+      "gloss": "गड्ढे में"
+    },
+    {
+      "surface": "חַיָּ֔י",
+      "gloss": "मेरे प्राण"
+    },
+    {
+      "surface": "וַיַּדּוּ",
+      "gloss": "और फेंका"
+    },
+    {
+      "surface": "אֶ֖בֶן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "בִּֽי",
+      "gloss": "मुझ पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:45.146737503Z",
+  "model": "glm-5.2"
+}

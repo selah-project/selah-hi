@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "इस पर आकाश अचम्भित हों, विचलित हों और बहुत उजड़ जाएँ, यहवे का वचन।",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "अचम्भित हों"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "על",
+      "gloss": "इस पर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨बात⟩"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "विचलित हों"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "उजड़ जाएँ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨का⟩ वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:04.892767549Z",
+  "model": "glm-5.2"
+}

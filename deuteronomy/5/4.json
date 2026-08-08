@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "मुखास्मुख यहवे ने पर्वत पर तुम्हारे साथ बात की, अग्नि के मध्य से।",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "से मुख"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तुम्हारे साथ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वत पर"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "के मध्य से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "अग्नि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:01.750125785Z",
+  "model": "glm-5.2"
+}

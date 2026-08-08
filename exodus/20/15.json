@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "तू नहि चुराएगा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहि"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "चुराएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:20.217090428Z",
+  "model": "glm-5.2"
+}

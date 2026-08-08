@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और तीसरे रथ में सफ़ेद घोड़े ⟨थे⟩, और चौथे रथ में बादल-दाब घोड़े, बलवान ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "और रथ में"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "तीसरे"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़े"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "सफ़ेद"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "और रथ में"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "चौथे"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़े"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "बादल-दाब"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "बलवान"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:43.179178746Z",
+  "model": "glm-5.2"
+}

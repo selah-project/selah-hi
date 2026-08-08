@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और आठवें दिन वह दो तोर या दो कबूतर के बच्चे याजक के पास, मिलन-निवास के तम्बू के द्वार के पास लाएगा।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और दिन में"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठवें"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "वह लाएगा"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "תרिझ",
+      "gloss": "तोर"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बच्चे"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "कबूतर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन-निवास"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:04.747353252Z",
+  "model": "glm-5.2"
+}

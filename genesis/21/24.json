@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और अवराहाम ने कहा: “मैं सौगन्ध दूँगा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और ⟨उसने⟩ कहा"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "सौगन्ध दूँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:38.200257361Z",
+  "model": "glm-5.2"
+}

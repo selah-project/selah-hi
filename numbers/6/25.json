@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यहवे अपना तेज मुख ⟨तेरे⟩ ओर चमकाए और तुझ पर अनुग्रह करे।",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "चमकाए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "अपना तेज मुख"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे ओर"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "और तुझ पर अनुग्रह करे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:32.850754733Z",
+  "model": "glm-5.2"
+}

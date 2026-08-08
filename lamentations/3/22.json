@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "यहवे के हेसेद — कि बाक़ नहीं रहे, कि उसकी दयाएँ ख़त्म नहीं हुईं!",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "बाक़ रहे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ख़त्म हुईं"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "उसकी दयाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:14.797652736Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और इसराएल के बेटे चले, और उन्होंने ओबोत में डेरा डाला।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "और चले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इसराएल के"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और डेरा डाला"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ओबोत में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:35:46.617413432Z",
+  "model": "glm-5.2"
+}

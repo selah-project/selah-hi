@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "कौन शुद्ध को अशुद्ध से दे सकता है? एक भी नहीं।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दे सकता है"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध को"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "अशुद्ध से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक भी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:27:04.068115809Z",
+  "model": "glm-5.2"
+}

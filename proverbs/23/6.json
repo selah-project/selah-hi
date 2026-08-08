@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "बुरी आँख वाले का ⟨את⟩ भोजन न खा और उसके स्वादिष्ट व्यंजनों की इच्छा न कर।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "खा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भोजन"
+    },
+    {
+      "surface": "लחם",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख वाले का"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "इच्छा कर"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "उसके स्वादिष्ट व्यंजनों की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:00.399584813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरे पिता के भाई का नंगत्व तू न खोल; उसकी पत्नी के पास तू न जा; वह तेरी बुआ है।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगत्व"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरे पिता के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उसकी पत्नी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "तू जा"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "तेरी बुआ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:40.057427803Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "वर्ष में तीन बार तेरे सब पुरूष यहवे के सामने प्रकट होंगे।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बार"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "प्रकट होंगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "तेरे पुरूष"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे के सामने"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "स्वामी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:44.537121763Z",
+  "model": "glm-5.2"
+}

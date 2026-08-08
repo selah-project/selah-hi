@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और ⟨את⟩ आधारों को बनाया, और ⟨את⟩ कुण्डों को बनाया, आधारों पर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "आधारों को"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधारों"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "कुण्डों को"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "कुण्डों"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधारों"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:25.775907589Z",
+  "model": "glm-5.2"
+}

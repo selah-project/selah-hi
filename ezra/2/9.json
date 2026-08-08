@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "ज़क्काय के बेटे — सात सौ ⟨और⟩ साठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ज़क्काय"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:01.252315705Z",
+  "model": "glm-5.2"
+}

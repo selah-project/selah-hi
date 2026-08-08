@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब एक कोहरा पृथ्वी से चढ़ता था और वह ⟨את⟩ भूमि के सम्पूर्ण फलक को सींचता था।",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "तब एक कोहरा"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ता था"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "और सींचता था"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सम्पूर्ण फलक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "פני",
+      "gloss": "फलक"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "भूमि"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:57.153747891Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 7:29",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और शलम-बलि के लिए बैल दो, ऊप छह, बकरे पाँच, एक वर्ष के मेमने पाँच; यह एलिआब बेन हेलोन का करबान था।",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "और बलि के लिए"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शलम"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ऊप"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "बकरे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "करबान"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "हेलोन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:30.526943293Z",
+  "model": "glm-5.2"
+}

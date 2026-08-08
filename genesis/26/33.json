@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और उसने ⟨את⟩ उसे शिबआ नाम दिया; इसलिए उस नगर का नाम बेेर-शबע ⟨है⟩ आज के दिन तक।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "और उसने … नाम दिया"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे (शिबआ)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "शिबआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "उस नगर का"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शबע"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज के दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-08T02:03:09.862425879Z",
+  "model": "glm-5.2"
+}

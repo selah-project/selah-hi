@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "सब ⟨हैं⟩ थकाने वाले ⟨हैं⟩ — कोई मनुष्य बोल नहीं सकता; आँख देखने से नहीं भरती, और कान सुनने से नहीं भरती।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨हैं⟩ थकाने वाले"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "⟨हैं⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकता"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोई मनुष्य"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "भरती"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखने से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भरती"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "सुनने से"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:18.054281568Z",
+  "model": "glm-5.2"
+}

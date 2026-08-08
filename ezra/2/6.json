@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "पहत-मोआब के बेटे, येशू और योआब के बेटों के, दो हज़ार आठ सौ और बारह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पहत"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटों के"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशू"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "और योआब"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-सर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:02.501860291Z",
+  "model": "glm-5.2"
+}

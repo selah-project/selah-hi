@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "अथवा जब वापस आ जाए हबासर हचय और श्वेत में बदल जाए, तो वह हकोहेन के पास आए।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "वापस आ जाए"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "हबासर"
+    },
+    {
+      "surface": "החי",
+      "gloss": "हचय"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "और बदल जाए"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "श्वेत में"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "तो आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हकोहेन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:03.440122214Z",
+  "model": "glm-5.2"
+}

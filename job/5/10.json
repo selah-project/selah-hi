@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "जो पृथ्वी के तल पर मेघ देता है, और बाहरी जगहों के तल पर जल भेजता है।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "जो देता है"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "मेघ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "तल"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "और भेजता है"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "तल"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "बाहरी जगहों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:25:24.098769520Z",
+  "model": "glm-5.2"
+}

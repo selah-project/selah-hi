@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और एलोहीम ने ⟨את⟩ रकीया को ‘शामायिम’ नाम दिया। और साँझ हुआ और प्रातः हुआ — दूसरा दिन।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "और नाम दिया"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "रकीया को"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "शामायिम"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "प्रातः"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:30.006373602Z",
+  "model": "glm-5.2"
+}

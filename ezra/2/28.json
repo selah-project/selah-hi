@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बेत-एल और हअई के पुरुष: दो सौ तेईस ⟨और तीन⟩।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "के पुरुष"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-एल"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "और हअई"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:11.291500706Z",
+  "model": "glm-5.2"
+}

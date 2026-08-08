@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यह हुआ, बीस वर्ष के अन्त में जिनमें शलोमोह ने ⟨את⟩ यहवे के भवन को और ⟨את⟩ अपने भवन को बनाया था,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और यह हुआ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अन्त में"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनमें"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया था"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के भवन को"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अपने भवन को"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "अपना भवन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:04.746205467Z",
+  "model": "glm-5.2"
+}

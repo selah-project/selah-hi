@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 124,
+  "translation": "तब जल हमें बहा ले गए होते, ⟨एक⟩ नदी ⟨हमारी⟩ प्राण के ऊपर बह गई होती,",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "तब"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "हमें बहा ले गए होते"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "बह गई होती"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "हमारी प्राण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:54.313463146Z",
+  "model": "glm-5.2"
+}

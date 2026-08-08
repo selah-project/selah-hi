@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "धिक्कृत है वह जो अपने पिता की पत्नी के साथ लेटता है, क्योंकि उसने अपने पिता का किनारा खोला; और कहेगा सब जन: आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कृत है"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "लेटता है"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपने पिता की"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "खोला"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपने पिता का"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और कहेगा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-08T02:20:40.236602586Z",
+  "model": "glm-5.2"
+}

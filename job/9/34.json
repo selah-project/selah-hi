@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 9:34",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "वह अपनी लाठी मुझसे दूर हटा दे, और उसका भय मुझे न सहमा दे।",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "हटा दे"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "मुझसे दूर"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "अपनी लाठी"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "और उसका भय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבעתני",
+      "gloss": "सहमा दे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:26:00.625861767Z",
+  "model": "glm-5.2"
+}

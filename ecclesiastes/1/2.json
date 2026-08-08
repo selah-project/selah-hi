@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "“हेबेल हेबलिम,” कहता ⟨है⟩ कोहेलेत, “हेबेल हेबलिम — ⟨את⟩ सब कुछ हेबेल ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "हेबलिम"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता ⟨है⟩"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "हेबलिम"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:00.188995564Z",
+  "model": "glm-5.2"
+}

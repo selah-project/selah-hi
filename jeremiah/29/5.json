@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "घर बनाओ और बसो, और बगीचे लगाओ और ⟨את⟩ उनका फल खाओ।",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "बनाओ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "और बसो"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "और लगाओ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बगीचे"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "और खाओ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उनका फल"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "फल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:18:18.804830447Z",
+  "model": "glm-5.2"
+}

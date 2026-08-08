@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "नई हर भोर — बड़ी ⟨है⟩ तेरी वफ़ादारी!",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "नई"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "हर भोर"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "तेरी वफ़ादारी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:14.797736359Z",
+  "model": "glm-5.2"
+}

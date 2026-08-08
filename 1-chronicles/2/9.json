@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और चेत्स्रोन के बेटे जो उसके लिए जन्मे ⟨थे⟩: ⟨את⟩ यरहमएल और ⟨את⟩ राम और ⟨את⟩ कलुबय।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "चेत्स्रोन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जन्मे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरहमएल"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमएल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "राम"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "कलुबय"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "कलुबय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.048473923Z",
+  "model": "glm-5.2"
+}

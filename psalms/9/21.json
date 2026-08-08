@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "यहवे, उन पर भय रख; जानें गोयिम कि मरणधर्मी ⟨हैं⟩ वे। सेला।",
+  "tokens": [
+    {
+      "surface": "שִׁ֘יתָ֤ה",
+      "gloss": "रख"
+    },
+    {
+      "surface": "יְהוָ֨ה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מוֹרָ֗ה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "לָ֫הֶ֥ם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "יֵדְע֥וּ",
+      "gloss": "जानें"
+    },
+    {
+      "surface": "גוֹיִ֑ם",
+      "gloss": "गोयिम"
+    },
+    {
+      "surface": "אֱנ֖וֹשׁ",
+      "gloss": "मरणधर्मी"
+    },
+    {
+      "surface": "הֵ֣מָּה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "סֶּֽלָה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:22.687729506Z",
+  "model": "glm-5.2"
+}

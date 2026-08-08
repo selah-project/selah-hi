@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "सब हनीएल-दास और शलोमोह के दासों के बेटे — तीन सौ बानवे और दो।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "हनीएल-दास"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासों के"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "बानवे"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:49.658029663Z",
+  "model": "glm-5.2"
+}

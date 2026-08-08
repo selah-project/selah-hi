@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और वे नहीं जानते थे कि योसेफ़ सुन रहा ⟨है⟩, क्योंकि ⟨ה⟩ दुभाषिया ⟨उन⟩ ⟨के⟩ बीच था।",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "और वे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानते थे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन रहा"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ़"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "दुभाषिया"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "बीच था"
+    }
+  ],
+  "timestamp": "2026-08-08T02:04:30.722522122Z",
+  "model": "glm-5.2"
+}

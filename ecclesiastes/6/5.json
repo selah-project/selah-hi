@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यहाँ तक कि सूर्य भी इसने नहीं देखा और नहीं जाना; इसे उससे अधिक विश्राम है।",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "यहाँ तक कि"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "विश्राम"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "इसे"
+    },
+    {
+      "surface": "מזֶּֽה",
+      "gloss": "उससे अधिक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:29.542032880Z",
+  "model": "glm-5.2"
+}

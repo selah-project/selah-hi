@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "व्यर्थ में किसी मनुष्य से विवाद मत कर, यदि उसने तेरा बुरा न ⟨हो⟩ किया ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "विवाद कर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "व्यर्थ में"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "तेरा ... किया"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:24.915648844Z",
+  "model": "glm-5.2"
+}

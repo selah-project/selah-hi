@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और मीकाएल और यिश्पाह और योहा — बरिया के पुत्र;",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "और मीकाएल"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "और यिश्पाह"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "और योहा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बरिया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:02.519837554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और यहवे के दूत ने यहोशु को साक्षी दिया, कहकरः",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "और उसने साक्षी दिया"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "यहोशु को"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहके"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:46.036490635Z",
+  "model": "glm-5.2"
+}

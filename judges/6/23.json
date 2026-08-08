@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "तब यहवे ने उससे कहा, “तेरे लिए शालोम ⟨हो⟩; मत डर, तू नहीं मरेगा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब…कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मरेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:06:22.816200160Z",
+  "model": "glm-5.2"
+}

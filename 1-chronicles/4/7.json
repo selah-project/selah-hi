@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और चेलाह के बेटे — त्सेरेत, यित्सहार और एत्नान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "चेलाह"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "त्सेरेत"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "और एत्नान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:51.547064390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और ⟨את⟩ ओफिर, और ⟨את⟩ खवीला, और ⟨את⟩ योबाब; ये सब योक्तान के बेटे ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "ओफिर"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ओफिर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "खवीला"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "खवीला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "योबाब"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबाब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "योक्तान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:22.660728342Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक स्वर्ण करतल, दस ⟨शेकेल⟩, धूप से भरी हुई;",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "करतल"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "स्वर्ण"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरी हुई"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "धूप"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:46.648341491Z",
+  "model": "glm-5.2"
+}

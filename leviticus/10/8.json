@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यहवे ने अहरोन से बात की, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और ⟨उसने⟩ बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:14.799847741Z",
+  "model": "glm-5.2"
+}

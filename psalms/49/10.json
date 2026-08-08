@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "कि वह सदा के लिए जीवित रहे, कि वह गड्ढे को न देखे।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "कि ⟨वह⟩ जीवित रहे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "वह देखे"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "गड्ढे को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:27.945125463Z",
+  "model": "glm-5.2"
+}

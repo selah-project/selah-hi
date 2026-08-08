@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "हमारे गले पर ⟨हमारे⟩ पीछे दौड़े ⟨गए⟩; हम थक ⟨गए⟩, ⟨हमें⟩ विश्राम न ⟨दिया गया⟩।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "हमारे गले"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "हमारे पीछे दौड़े गए"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "हम थक गए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "विश्राम दिया गया"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:19.440186125Z",
+  "model": "glm-5.2"
+}

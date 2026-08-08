@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "जा, आलसी, चींटी के पास; देख उसके मार्ग और बुद्धिमान बन।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "चींटी"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "उसके मार्ग"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "और बुद्धिमान बन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:46.159080018Z",
+  "model": "glm-5.2"
+}

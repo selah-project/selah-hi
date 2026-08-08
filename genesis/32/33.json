@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 32:33",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "इस कारण यिस्राएल के बेटे ⟨את⟩ नस (जो जाँघ के खोखले पर है) का आज के दिन तक नहीं खाते, क्योंकि उसने याकोव की जाँघ के खोखले को, उस नस में, छुआ था।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इस कारण"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाते"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नस"
+    },
+    {
+      "surface": "גיד",
+      "gloss": "नस"
+    },
+    {
+      "surface": "הנשה",
+      "gloss": "(जो सिकुड़ी)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כף",
+      "gloss": "खोखले"
+    },
+    {
+      "surface": "הירך",
+      "gloss": "जाँघ के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "छुआ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "खोखले को"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "जाँघ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "בגיד",
+      "gloss": "नस में"
+    },
+    {
+      "surface": "הנשה",
+      "gloss": "(जो सिकुड़ी)"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:50.255626686Z",
+  "model": "glm-5.2"
+}

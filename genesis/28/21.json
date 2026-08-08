@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और मैं अपने पिता के घर में शालोम से लौटूँ, तो यहवे मेरे लिए एलोहीम ⟨होगा⟩।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "और मैं लौटूँ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शालोम से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "अपने पिता के"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:59.735274366Z",
+  "model": "glm-5.2"
+}

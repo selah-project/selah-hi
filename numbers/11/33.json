@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 11:33",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "הबसר עדेठו בין שיניהם טरם ङכרת וא ङהוה गरה בעם ׵יי יהוה बעם मका रबा मअद",
+  "tokens": [
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "अब तक ⟨था⟩"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "उनके दाँत"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "इससे पहले कि"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "कटा"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "और"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "भड़का"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "उन लोगों पर"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "तब ⟨उसने⟩ मारा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "उन लोगों पर"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "एक मार"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    }
+  ],
+  "timestamp": "2026-08-08T02:15:17.866516761Z",
+  "model": "glm-5.2"
+}

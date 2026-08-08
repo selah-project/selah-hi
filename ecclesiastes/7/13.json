@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "देख, ⟨את⟩ एलोहीम के काम को, क्योंकि कौन समर्थ है ⟨את⟩ उसे सीधा करने जिसे ⟨उसने⟩ टेढ़ा किया?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम के काम को"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "समर्थ है"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "सीधा करने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "टेढ़ा किया"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:22.263760324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और रहबअम श्केम को गया, क्योंकि श्केम में सब यिस्राएल उसे राजा बनाने के लिए आए थे।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबअम"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "श्केम को"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "श्केम में"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए थे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "राजा बनाने के लिए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:27.005468979Z",
+  "model": "glm-5.2"
+}

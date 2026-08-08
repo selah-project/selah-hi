@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "बबेल पर समुद्र चढ़ा आया; ⟨वह⟩ उसके लहरों के भीषण कोलाहल से ढकी गई।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ा आया"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बबेल"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "भीषण कोलाहल"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "उसके लहरों"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ढकी गई"
+    }
+  ],
+  "timestamp": "2026-08-07T22:25:14.005775156Z",
+  "model": "glm-5.2"
+}

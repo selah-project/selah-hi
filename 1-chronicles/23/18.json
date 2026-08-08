@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "यित्सहार के बेटे: शेलोमित प्रमुख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "शेलोमित"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:55.551972755Z",
+  "model": "glm-5.2"
+}

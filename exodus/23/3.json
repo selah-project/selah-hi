@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और ⟨एक⟩ निर्धन को उसके विवाद में न चमकाए।",
+  "tokens": [
+    {
+      "surface": "וְדָל",
+      "gloss": "और निर्धन"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תֶהְדַּר",
+      "gloss": "तू चमकाए\/आदर दे"
+    },
+    {
+      "surface": "בְּרִיבוֹ",
+      "gloss": "उसके विवाद में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:14.825791021Z",
+  "model": "glm-5.2"
+}

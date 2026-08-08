@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और रेफाह उसका पुत्र, और रेशेफ, और तेलाह उसका पुत्र, और तहान उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "और रेफाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "और रेशेफ"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "और तेलाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "और तहान"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:07.386142717Z",
+  "model": "glm-5.2"
+}

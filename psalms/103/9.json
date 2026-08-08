@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 103,
+  "translation": "ला ने सदा विवाद नहीं करता, और ला अनन्तकाल तक ⟨क्रोध⟩ नहीं रखता।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "विवाद करता"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "अनन्तकाल तक"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "रखता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:00.485040599Z",
+  "model": "glm-5.2"
+}

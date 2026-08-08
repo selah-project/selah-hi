@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और जल माप से पियो — हीन का छठा भाग; समय से समय तक पियो।",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "और जल"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "माप से"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "पियो"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "छठा भाग"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "हीन का"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "समय से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "पियो"
+    }
+  ],
+  "timestamp": "2026-08-08T00:30:55.756274020Z",
+  "model": "glm-5.2"
+}

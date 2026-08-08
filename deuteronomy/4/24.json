@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "क्योंकि यहवे तेरा एलोहीम भस्म करनेवाली आग ⟨है⟩, एक कट्टर एल।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरा एलोहीम"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "भस्म करनेवाली"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "कट्टर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:02.839628932Z",
+  "model": "glm-5.2"
+}

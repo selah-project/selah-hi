@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "उसने जलों के तल पर एक वृत्त अंकित किया है, प्रकाश और अन्धकार की सीमा तक।",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "एक वृत्त अंकित किया है"
+    },
+    {
+      "surface": "חג",
+      "gloss": "वृत्त"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "तल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जलों के"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "עם",
+      "gloss": "और"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्धकार की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:54:15.485785924Z",
+  "model": "glm-5.2"
+}

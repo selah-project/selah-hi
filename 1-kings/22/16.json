@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और राजा ने उससे कहा: कितनी बार मैं तुझे शपथ दिलाऊँ कि तू मुझसे केवल सत्य यहवे के नाम में बोले?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कितनी"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बार"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "तुझे शपथ दिलाऊँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तू बोले"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:44:38.065537308Z",
+  "model": "glm-5.2"
+}

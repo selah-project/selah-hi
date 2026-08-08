@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "तब दावीद ने ⟨את⟩ अहरोन के पुत्रों और ⟨את⟩ लेवियों को इकट्ठा किया।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "तब ⟨उसने⟩ इकट्ठा किया"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहरोन के पुत्रों"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "लेवियों"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:56.342762469Z",
+  "model": "glm-5.2"
+}

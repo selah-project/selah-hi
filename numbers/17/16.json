@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और यहवे ने मोशे से कहा, इस प्रकार:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और ने कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "इस प्रकार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:21.219405246Z",
+  "model": "glm-5.2"
+}

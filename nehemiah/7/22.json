@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "खाशुम के बन्धुओं के, तीन सौ अट्ठाईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बन्धुओं के"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "खाशुम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "और आठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:13.136615769Z",
+  "model": "glm-5.2"
+}

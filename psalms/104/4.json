@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "अपने दूतों को रूहें बनाता है, अपने सेवकों को दहकती आग।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "बनाता है"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "अपने दूतों"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "रूहें"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "अपने सेवकों"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "להט",
+      "gloss": "दहकती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:23.341730408Z",
+  "model": "glm-5.2"
+}

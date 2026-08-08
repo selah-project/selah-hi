@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "वृद्ध और उन्नत-मुख वाला, वह ⟨है⟩ सिर; और नबी जो झूठ सिखाता ⟨है⟩, वह ⟨है⟩ पूँछ।",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "और उन्नत-मुख वाला"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "और नबी"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "सिखाता"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "पूँछ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:18:59.925071260Z",
+  "model": "glm-5.2"
+}

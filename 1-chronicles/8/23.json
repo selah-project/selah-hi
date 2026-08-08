@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और अब्दोन, और जिक्री, और खानान —",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "और अब्दोन"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "और जिक्री"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "और खानान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:33.157830361Z",
+  "model": "glm-5.2"
+}

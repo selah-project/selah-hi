@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और ⟨את⟩ यबूसी और ⟨את⟩ एमोरी और ⟨את⟩ गिर्गशी को।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "यबूसी"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "यबूसी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "एमोरी"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "गिर्गशी"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "गिर्गशी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:10.193477693Z",
+  "model": "glm-5.2"
+}

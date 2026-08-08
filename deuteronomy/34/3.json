@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और ⟨את⟩ दक्षिण, और ⟨את⟩ किक्कार, यरीहो की घाटी, ताड़ की नगरी, त्सोअर तक।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "दक्षिण"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्षिण"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "किक्कार"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "किक्कार"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "घाटी"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ताड़ की"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "צער",
+      "gloss": "त्सोअर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:09.821934904Z",
+  "model": "glm-5.2"
+}

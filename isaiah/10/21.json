@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "शेष लौटेगा — याकोब का शेष — एल सामर्थ्यवान की ओर।",
+  "tokens": [
+    {
+      "surface": "שְׁאָ֥ר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "יָשׁ֖וּב",
+      "gloss": "लौटेगा"
+    },
+    {
+      "surface": "שְׁאָ֣ר",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "יַעֲקֹ֑ב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "אֵ֖ל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גִּבּֽוֹר",
+      "gloss": "सामर्थ्यवान"
+    }
+  ],
+  "timestamp": "2026-08-07T21:57:04.418441467Z",
+  "model": "glm-5.2"
+}

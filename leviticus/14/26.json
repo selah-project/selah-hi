@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और याजक तेल से अपनी दाहिनी हथेली पर डाले।",
+  "tokens": [
+    {
+      "surface": "וּמִן",
+      "gloss": "और से"
+    },
+    {
+      "surface": "הַשֶּׁ֖מֶן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "יִצֹ֣ק",
+      "gloss": "डाले"
+    },
+    {
+      "surface": "הַכֹּהֵ֑ן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "הַכֹּהֵ֖ן",
+      "gloss": "याजक की"
+    },
+    {
+      "surface": "הַשְּׂמָאלִֽית",
+      "gloss": "बायीं"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:43.394501875Z",
+  "model": "glm-5.2"
+}

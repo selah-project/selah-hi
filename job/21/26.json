@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "मिलकर धूल पर वे लेटते हैं, और रीम ⟨कीट⟩ उन्हें ढक लेती है।",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "मिलकर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूल"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "वे लेटते हैं"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "और रीम"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ढक लेती है"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:28:17.285787428Z",
+  "model": "glm-5.2"
+}

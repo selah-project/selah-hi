@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और उस नगर के ज्येष्ठ उस पुरुष को ले जाएँगे और उसे ताड़ित करेंगे।",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "और ले जाएँगे"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ज्येष्ठ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उस पुरुष को"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "पुरुष को"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "और ताड़ित करेंगे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:26.538102356Z",
+  "model": "glm-5.2"
+}

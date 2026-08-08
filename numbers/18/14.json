@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "इस्राएल में हर समर्पित वस्तु तेरी होगी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "समर्पित वस्तु"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल में"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरी"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:35:11.903340143Z",
+  "model": "glm-5.2"
+}

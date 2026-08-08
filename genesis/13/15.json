@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "क्योंकि ⟨את⟩ सारी ⟨की⟩ पृथ्वी जिसे तू देख ⟨है⟩, उसे तुझे दूँगा, और तेरे वंश को सदा के लिए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारी पृथ्वी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "दूँगा"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "और तेरे वंश को"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनन्तकाल"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:25.256396804Z",
+  "model": "glm-5.2"
+}

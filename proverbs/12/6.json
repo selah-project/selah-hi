@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "दुष्टों के वचन रक्त के लिए घात ⟨हैं;⟩ और सीधों का मुख उन्हें बचाएगा।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों के"
+    },
+    {
+      "surface": "ארब",
+      "gloss": "घात"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "और मुख"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधों का"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "उन्हें बचाएगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:05.100511373Z",
+  "model": "glm-5.2"
+}

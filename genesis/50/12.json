@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "और उसके बेटों ने उसके लिए ऐसा किया, जैसा उसने उन्हें आज्ञा दी थी।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके बेटों ने"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צום",
+      "gloss": "उन्हें आज्ञा दी थी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:08.246296574Z",
+  "model": "glm-5.2"
+}

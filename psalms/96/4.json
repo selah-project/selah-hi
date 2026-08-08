@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 96,
+  "translation": "क्योंकि यहवे महान ⟨है⟩ और अत्यन्त प्रशंसनीय ⟨है⟩; वह सब एलोहीम से अधिक भयावनक ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "और प्रशंसनीय"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भयावनक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "על",
+      "gloss": "से अधिक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:56.608563430Z",
+  "model": "glm-5.2"
+}

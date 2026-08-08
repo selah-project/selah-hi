@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "आग निरन्तर मेज़बह पर बलती रहेगी, वह बुझेगी नहीं।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "बलती रहेगी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "मेज़बह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "बुझेगी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:56.444627737Z",
+  "model": "glm-5.2"
+}

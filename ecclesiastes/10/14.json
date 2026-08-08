@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और मूर्ख वचन बहुत करता है — ⟨किन्तु⟩ मनुष्य जानता नहीं कि क्या होगा, और जो उसके बाद होगा, उसे कौन उसे बताएगा?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "और मूर्ख"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बहुत करता है"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कि क्या"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "उसके बाद"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताएगा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:21.947871148Z",
+  "model": "glm-5.2"
+}

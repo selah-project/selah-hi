@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और दाविद ने उस दिन यहवे से डरकर ⟨את⟩ यहवे को ⟨विचारा⟩, और कहा, “यहवे का आरोण मेरे पास कैसे आए?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "और डरा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आएगा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "आरोण"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    }
+  ],
+  "timestamp": "2026-08-07T21:25:54.678026624Z",
+  "model": "glm-5.2"
+}

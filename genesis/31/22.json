@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और तीसरे दिन लवन को बताया गया कि याकोब भाग गया है।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "और बताया गया"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "लवन को"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भाग गया है"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:45.431361580Z",
+  "model": "glm-5.2"
+}

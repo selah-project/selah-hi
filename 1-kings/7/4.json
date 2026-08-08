@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और झरोखे तीन पंक्तियों में थे, और दृश्य दृश्य के सामने तीन बार।",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "और झरोखे"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "पंक्तियों में"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "और दृश्य"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "दृश्य"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बार"
+    }
+  ],
+  "timestamp": "2026-08-07T21:37:02.271323786Z",
+  "model": "glm-5.2"
+}

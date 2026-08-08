@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "कान लगाओ और मेरा स्वर सुनो; ध्यान दो और मेरी बात सुनो।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "कान लगाओ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "और सुनो"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "मेरा स्वर"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ध्यान दो"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "और सुनो"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मेरी बात"
+    }
+  ],
+  "timestamp": "2026-08-07T22:00:50.710779720Z",
+  "model": "glm-5.2"
+}

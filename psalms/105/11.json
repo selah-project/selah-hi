@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 105,
+  "translation": "कहते हुए, “तुम्हें मैं ⟨את⟩ कनान देश दूँगा — तुम्हारी नहलत का खेबल,”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "मैं दूँगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कनान देश"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "खेबल"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "तुम्हारी नहलत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:57.891294821Z",
+  "model": "glm-5.2"
+}

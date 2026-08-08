@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "यह ⟨वह⟩ विधि है सम्पूर्ण त्वचा-रोग के नेगा के लिए और नेतेक के लिए।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सम्पूर्ण के लिए"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "नेगा"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "त्वचा-रोग"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "और नेतेक के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:22.679763254Z",
+  "model": "glm-5.2"
+}

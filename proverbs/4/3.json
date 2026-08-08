@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "क्योंकि मैं अपने पिता का पुत्र था, कोमल और अपनी माता के सामने एकमात्र ⟨पुत्र⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "मैं था"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "अपने पिता का"
+    },
+    {
+      "surface": "רך",
+      "gloss": "कोमल"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "और एकमात्र"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "अपनी माता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:42.362708212Z",
+  "model": "glm-5.2"
+}

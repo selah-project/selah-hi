@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "इस प्रकार तुम नबी से कहो: “यहवे ने तुम्हें क्या उत्तर दिया? और यहवे ने क्या बोला?”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तुम कहो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "उत्तर दिया तुम्हें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और क्या"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:17:51.455690754Z",
+  "model": "glm-5.2"
+}

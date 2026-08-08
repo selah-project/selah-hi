@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरे भाई की पत्नी का नंगत्व तू न खोल; वह तेरे भाई का नंगत्व है।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगत्व"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरे भाई की"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नंगत्व"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरे भाई का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:40.057666681Z",
+  "model": "glm-5.2"
+}

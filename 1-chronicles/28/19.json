@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "सब कुछ लिखित में — यहवे के हाथ से मुझ पर — समझाया, तराश के सारे कार्यों को।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "लिखित में"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "समझाया"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "कार्यों को"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "तराश के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:03:47.179215720Z",
+  "model": "glm-5.2"
+}

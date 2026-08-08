@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 148,
+  "translation": "पर्वत और सब पहाड़ियाँ, फलवाले वृक्ष और सब देवदार।",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "पहाड़ियाँ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदार"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:16.052383430Z",
+  "model": "glm-5.2"
+}

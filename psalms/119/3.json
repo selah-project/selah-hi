@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "वरन् अन्धकार का काम नहीं किया; उसके मार्गों में चले।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "वरन्"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "किया"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अन्धकार का काम"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "उसके मार्गों में"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "चले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:21.718005240Z",
+  "model": "glm-5.2"
+}

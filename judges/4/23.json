@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "उस दिन एलोहीम ने इस्राएल के बेटों के सामने ⟨את⟩ याबीन कनान के राजा को दबा दिया।",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "दबा दिया"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याबीन को"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "याबीन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:06:08.779673116Z",
+  "model": "glm-5.2"
+}

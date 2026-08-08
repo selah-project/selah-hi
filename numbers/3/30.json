@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और कहाती कुलों के घर-पिता का प्रधान उज़ीएल का बेटा एलीत्साफान होगा।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "और प्रधान"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर-पिता"
+    },
+    {
+      "surface": "אב",
+      "gloss": "घर-पिता"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "कुलों के"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "कहाती"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "एलीत्साफान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज़ीएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:28:53.589418950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "दरवाज़ा अपने तिलों पर घूमता है, और आलसी अपने बिस्तर पर ⟨घूमता है⟩।",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "दरवाज़ा"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "घूमता है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "अपने तिलों"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "और आलसी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "अपने बिस्तर"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:50.769435770Z",
+  "model": "glm-5.2"
+}

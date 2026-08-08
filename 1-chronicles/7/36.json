@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "त्सोफख के बेटे — सुख, खर्नेफेर, शुअल, बेरी और यिम्रा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोफख"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "सुख"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "और खर्नेफेर"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "और शुअल"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "और बेरी"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "और यिम्रा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:49.585947417Z",
+  "model": "glm-5.2"
+}

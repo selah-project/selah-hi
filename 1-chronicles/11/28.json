@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "इरा इक्केश का पुत्र हत्कोई, अबीएजेर हअनतोती,",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "इक्केश"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "हत्कोई"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "अबीएजेर"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "हअनतोती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:20.662595336Z",
+  "model": "glm-5.2"
+}

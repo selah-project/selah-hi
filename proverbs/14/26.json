@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "यहवे के भय में ⟨है⟩ सामर्थ्य का भरोसा, और उसके बालकों के लिए ⟨होगा⟩ शरण।",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "के भय में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "עז",
+      "gloss": "सामर्थ्य का"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "और उसके बालकों के लिए"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "शरण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:44.325227103Z",
+  "model": "glm-5.2"
+}

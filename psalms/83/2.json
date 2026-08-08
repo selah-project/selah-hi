@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 83,
+  "translation": "हे एलोहीम, ⟨तेरे लिए⟩ न सन्नाटा हो; चुप न रहो और हे एल, शान्त न बैठो।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "सन्नाटा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨तेरे लिए⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "चुप रहो"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "शान्त बैठो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "हे एल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:05:27.574318554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहोनातन के पुत्र मरीव-बाल; और मरी-बाल ने ⟨את⟩ मीखा को जन्य।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन के"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "मरीव-बाल"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "और मरी-बाल ने"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्य"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मीखा को"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:15.497524904Z",
+  "model": "glm-5.2"
+}

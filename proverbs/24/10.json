@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तू ने संकट के दिन ढिलाई की, तो तेरा बल सीमित ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "הִתְרַפִּיתָ",
+      "gloss": "तू ने ढिलाई की"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "צָרָה",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "צַר",
+      "gloss": "सीमित"
+    },
+    {
+      "surface": "כֹּחֶכָה",
+      "gloss": "तेरा बल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:01.352837858Z",
+  "model": "glm-5.2"
+}

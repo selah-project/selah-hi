@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "हेस्रो ⟨the⟩ कार्मेली, नाअराय एज़्बाय का पुत्र,",
+  "tokens": [
+    {
+      "surface": "חֶצְרוֹ֙",
+      "gloss": "हेस्रो"
+    },
+    {
+      "surface": "הַֽכַּרְמְלִ֔י",
+      "gloss": "⟨the⟩ कार्मेली"
+    },
+    {
+      "surface": "נַעֲרַ֖י",
+      "gloss": "नाअराय"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "का पुत्र"
+    },
+    {
+      "surface": "אֶזְבָּֽי",
+      "gloss": "एज़्बाय"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:50.853420443Z",
+  "model": "glm-5.2"
+}

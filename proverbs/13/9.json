@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "दोषियों का प्रकाश ⟨स्वस्थ होता है⟩, और दुष्टों का दीप बुझ जाएगा।",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "दोषियों का"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "⟨स्वस्थ होता है⟩"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "और दीप"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों का"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "बुझ जाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:50.659473363Z",
+  "model": "glm-5.2"
+}

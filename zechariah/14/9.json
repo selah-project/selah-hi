@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "“और यहवे सारी पृथ्वी पर राजा बनेगा; उस दिन यहवे एक होगा और उसका नाम एक।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और होगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के लिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "और उसका नाम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:52:45.442941780Z",
+  "model": "glm-5.2"
+}

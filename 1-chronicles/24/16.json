@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "उन्नीसवाँ पतख्याह के लिए, बीसवाँ यचेज़केल के लिए।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "पतख्याह के लिए"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—उन्नीसवाँ"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "यचेज़केल के लिए"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "बीसवाँ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:25.524818230Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "खानान माअखाह का पुत्र, और यहोशाफात हामितनी;",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअखाह"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "और यहोशाफात"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "हामितनी"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:49.271104026Z",
+  "model": "glm-5.2"
+}

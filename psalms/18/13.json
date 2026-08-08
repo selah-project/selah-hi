@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "उसके सामने की चमक से उसके बादल गुज़र गए — ओले और अग्नि के अंगारे।",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "चमक से"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "उसके सामने की"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "उसके बादल"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "गुज़र गए"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओले"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "और अंगारे"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नि के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:42:09.029569137Z",
+  "model": "glm-5.2"
+}

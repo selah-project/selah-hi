@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 118,
+  "translation": "अच्छा ⟨है⟩ यहवे में शरण लेना, मनुष्य पर भरोसा करने से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "शरण लेना"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे में"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "भरोसा करने से"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुष्य पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:38.880541170Z",
+  "model": "glm-5.2"
+}

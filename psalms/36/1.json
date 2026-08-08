@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "महलाचालक के लिए, यहवे के दास के लिए, दावीद के लिए।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महलाचालक के लिए"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "दास के लिए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:28.154097348Z",
+  "model": "glm-5.2"
+}

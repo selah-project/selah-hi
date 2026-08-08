@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "यहोशापात परूख का पुत्र ⟨था⟩ यिस्साकार में।",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशापात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "परूख"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "यिस्साकार में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:55.229086784Z",
+  "model": "glm-5.2"
+}

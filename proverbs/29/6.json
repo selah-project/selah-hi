@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "एक दुष्ट मनुष्य के अपराध में ⟨है⟩ फन्दा, और धर्मी गाएगा और आनन्द करेगा।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "अपराध में"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फन्दा"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "और धर्मी"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "गाएगा"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "और आनन्द करेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:42.134341521Z",
+  "model": "glm-5.2"
+}

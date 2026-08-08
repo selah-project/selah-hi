@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "हाय! पर्वों के फड़फड़ाट वाली ⟨है⟩ भूमि, जो कूश की नदियों के पार ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "फड़फड़ाट"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "पर्वों के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "पार"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "नदियों के"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    }
+  ],
+  "timestamp": "2026-08-07T21:58:32.974942320Z",
+  "model": "glm-5.2"
+}

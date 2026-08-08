@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "कहत के बेटे: अम्राम, यित्हार, चेब्रोन, और उज्जीएल — चार।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अम्राम"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्हार"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "चेब्रोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "और उज्जीएल"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:33.641402844Z",
+  "model": "glm-5.2"
+}

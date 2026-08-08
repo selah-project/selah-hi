@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "उसका मुख बुद्धि में खोलती ⟨है⟩, और हेसेद की तोरह उसकी जीभ पर ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "उसका मुख"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "खोलती है"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "बुद्धि में"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "और तोरह"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "उसकी जीभ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:12.099560521Z",
+  "model": "glm-5.2"
+}

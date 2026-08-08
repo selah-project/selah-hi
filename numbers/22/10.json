@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और बिलाम ने एलोहीम से कहा: बालाक, त्सिप्पोर का बेटा, मोआब का राजा, मेरे पास भेजा है",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सिप्पोर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:37.358745838Z",
+  "model": "glm-5.2"
+}

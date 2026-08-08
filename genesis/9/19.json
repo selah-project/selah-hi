@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "तीन, ये, नोख के बेटे हैं; और इन्हीं से सारी पृथ्वी बिखर गई।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोख के"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "और इन्हीं से"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "बिखर गई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.951879198Z",
+  "model": "glm-5.2"
+}

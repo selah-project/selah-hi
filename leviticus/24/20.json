@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "भंग ⟨के बदले⟩ भंग, आँख ⟨के बदले⟩ आँख, दाँत ⟨के बदले⟩ दाँत; जैसा वह मनुष्य में दोष दे, वैसा ही उसमें दिया जाएगा।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "भंग"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨के बदले⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "भंग"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨के बदले⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨के बदले⟩"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "वह दे"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मनुष्य में"
+    },
+    {
+      "surface": "כן",
+      "gloss": "वैसा ही"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "दिया जाएगा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:52.184969404Z",
+  "model": "glm-5.2"
+}

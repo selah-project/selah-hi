@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "बहुत जनता में ⟨है⟩ राजा का तेज, और राष्ट्र के अभाव में ⟨है⟩ प्रभु का पतन।",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "बहुत में"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "और अभाव में"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "राष्ट्र के"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "पतन"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "प्रभु"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:44.325454767Z",
+  "model": "glm-5.2"
+}

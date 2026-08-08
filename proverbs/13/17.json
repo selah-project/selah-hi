@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "दुष्ट का दूत बुराई में गिरता ⟨है⟩, और विश्वासयोग्य दूत ⟨चिकित्सा⟩ है।",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरता है"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "और दूत"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "विश्वासयोग्य"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "चिकित्सा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:20.708855435Z",
+  "model": "glm-5.2"
+}

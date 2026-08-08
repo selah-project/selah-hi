@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "⟨את⟩ दक्षिण दिशा को मापा — पाँच सौ बेंत, ⟨के⟩ मापने की बेंत से।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दक्षिण दिशा को"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "दक्षिण"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "मापा"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "बेंत"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "⟨के⟩ बेंत से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "मापने की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:37:14.358905220Z",
+  "model": "glm-5.2"
+}

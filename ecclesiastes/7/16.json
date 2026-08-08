@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अत्यधिक धार्मिक मत बनो, और अति बुद्धिमान मत बनो; तुम क्यों ⟨स्वयं को⟩ उजाड़ लो?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बनो"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "अत्यधिक"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और मत"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "बुद्धिमान बनो"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "अति"
+    },
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "उजाड़ लो"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:40.229254200Z",
+  "model": "glm-5.2"
+}

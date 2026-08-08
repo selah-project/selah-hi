@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "दूर ⟨है⟩ दुष्टों से यहूदी मुक्ति, क्योंकि तेरे चुक नहीं खोजे।",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "दूर"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "दुष्टों से"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "यहूदी मुक्ति"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तेरे चुक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "खोजे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:00.995277656Z",
+  "model": "glm-5.2"
+}

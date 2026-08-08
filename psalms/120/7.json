@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 120,
+  "translation": "मैं तो शालोम ⟨हूँ⟩; और जब मैं बोलता ⟨हूँ⟩, तब वे युद्ध के लिए ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शालोम"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "और जब"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलता"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "युद्ध के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:17.946221656Z",
+  "model": "glm-5.2"
+}

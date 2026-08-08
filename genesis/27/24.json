@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और उसने कहा, “क्या तू ही मेरा बेटा एसाव है?” और उसने कहा, “मैं हूँ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ही"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मेरा बेटा"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं हूँ"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:13.473816662Z",
+  "model": "glm-5.2"
+}

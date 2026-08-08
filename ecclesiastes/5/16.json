@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और उसके सब दिन वह अंधकार में खाएगा, और बहुत क्रोध, और उसकी बीमारी और रोष।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "और"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसके दिन"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "अंधकार में"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "वह खाएगा"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "और क्रोध"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "और उसकी बीमारी"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "और रोष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:17.271838318Z",
+  "model": "glm-5.2"
+}

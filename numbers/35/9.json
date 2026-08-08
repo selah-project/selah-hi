@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और यहवे ने मोशे से बात की, लेकर भनते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेकर भनते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:30.228836210Z",
+  "model": "glm-5.2"
+}

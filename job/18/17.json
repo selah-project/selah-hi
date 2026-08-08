@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "उसकी स्मृति पृथ्वी से नष्ट हो गई, और उसका कोई नाम नहीं ⟨है⟩ बाहर के ऊपर।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "उसकी स्मृति"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नष्ट हो गई"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "के सम्मुख"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:27:43.984289456Z",
+  "model": "glm-5.2"
+}

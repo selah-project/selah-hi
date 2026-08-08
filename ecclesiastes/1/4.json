@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "एक पीढ़ी जाती ⟨है⟩ और एक पीढ़ी आती ⟨है⟩, परन्तु पृथ्वी अनन्तकाल तक स्थिर खड़ी ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "पीढ़ी"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जाती ⟨है⟩"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "और ⟨एक⟩ पीढ़ी"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आती ⟨है⟩"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "परन्तु पृथ्वी"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "अनन्तकाल तक"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "स्थिर खड़ी ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:00.189235112Z",
+  "model": "glm-5.2"
+}

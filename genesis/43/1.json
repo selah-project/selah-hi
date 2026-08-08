@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 43,
+  "translation": "और अकाल देश में भारी था।",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "और अकाल"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    }
+  ],
+  "timestamp": "2026-08-07T19:56:06.903089414Z",
+  "model": "glm-5.2"
+}

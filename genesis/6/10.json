@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और नोअ ने उत्पन्न किए तीन पुत्र — ⟨את⟩ शेम, ⟨את⟩ ख़ाम और ⟨את⟩ याफेत।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "और उत्पन्न किए"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोअ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ख़ाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ख़ाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "याफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:06.646216203Z",
+  "model": "glm-5.2"
+}

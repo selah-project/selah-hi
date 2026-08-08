@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "दावीद के सब पुत्र ⟨हैं⟩, उपपत्नियों के पुत्रों के अतिरिक्त, और उनकी बहिन तामार ⟨थी⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "अतिरिक्त"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "उपपत्नियों"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "और तामार"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "उनकी बहिन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:34.156581510Z",
+  "model": "glm-5.2"
+}

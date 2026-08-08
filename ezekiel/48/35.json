@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "चारों ओर अठारह हज़ार; और नगर का नाम उस दिन से ⟨होगा⟩ 'यहवे शाम्मा'।",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "उस दिन से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "शाम्मा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:29.110421108Z",
+  "model": "glm-5.2"
+}

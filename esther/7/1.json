@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और राजा और हामान एस्तेर रानी के साथ पीने को आए।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "और हामान"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पीने को"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "रानी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:42:08.165335779Z",
+  "model": "glm-5.2"
+}

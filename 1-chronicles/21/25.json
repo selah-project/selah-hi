@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तब दावीद ने अर्नान को स्थान में सोने की शेकेल दिए, माना छः सौ।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "तब दिया"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "अर्नान को"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "स्थान में"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने की"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "मान"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:54.657786137Z",
+  "model": "glm-5.2"
+}

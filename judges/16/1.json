@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और शिम्शोन अज्जा को गया, और वहाँ एक वेश्या स्त्री को देखा, और उसके पास गया।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिम्शोन"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "अज्जा को"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री को"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उसके पास"
+    }
+  ],
+  "timestamp": "2026-08-07T21:11:10.268594037Z",
+  "model": "glm-5.2"
+}

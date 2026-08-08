@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "⟨वह⟩ अपना पैर फिसलने न देगा; तुम्हारा रक्षक ऊँघेगा नहीं।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "वह देगा"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "फिसलने को"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तुम्हारा पैर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ऊँघेगा"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "तुम्हारा रक्षक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:18.879149900Z",
+  "model": "glm-5.2"
+}

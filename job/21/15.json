@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 21:15",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "“शद्दय क्या है कि हम उसकी सेवा करें? और हमें क्या लाभ कि हम उससे मिलें?”",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נעבדנו",
+      "gloss": "हम उसकी सेवा करें"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और क्या"
+    },
+    {
+      "surface": "נועיל",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נפגע",
+      "gloss": "हम मिलें"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:28:08.336894262Z",
+  "model": "glm-5.2"
+}

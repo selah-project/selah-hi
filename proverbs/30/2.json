@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "क्योंकि मैं पशुवत हूँ, ⟨ज्यादा⟩ किसी मनुष्य से, और मनुष्य की बुद्धि मेरे पास नहीं है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בער",
+      "gloss": "पशुवत"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "किसी मनुष्य से"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य की"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे पास"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:30.924396922Z",
+  "model": "glm-5.2"
+}

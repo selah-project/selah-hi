@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 69,
+  "translation": "मिट जाएँ वे जीवन-पुस्तक से, और दिष्टों के साथ न लिखे जाएँ।",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "मिट जाएँ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "पुस्तक से"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "और के साथ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "दिष्टों"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "लिखे जाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:37.617794438Z",
+  "model": "glm-5.2"
+}

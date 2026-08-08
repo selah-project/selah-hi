@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और शमुएल ने ⟨את⟩ ⟨हे⟩ जनता को यहवे के लिए मिस्पा में बुलाया।",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "और उसने बुलाया"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हे जनता"
+    },
+    {
+      "surface": "העם",
+      "gloss": "हे जनता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "मिस्पा में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:16:55.052626892Z",
+  "model": "glm-5.2"
+}

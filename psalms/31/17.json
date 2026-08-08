@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "अपने सेवक पर अपना तेज़ प्रकाशित कर, हेसेद में मुझे बचा।",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "प्रकाशित कर"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "अपना तेज़"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "अपने सेवक"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "मुझे बचा"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "हेसेद में"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:16.995356669Z",
+  "model": "glm-5.2"
+}

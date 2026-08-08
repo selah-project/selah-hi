@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "क्योंकि स्वप्न बहुत चिन्ता से आता है, और मूर्ख की आवाज़ बहुत बातों से होती है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आता है"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "स्वप्न"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "बहुत से"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "चिन्ता"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "और आवाज़"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख की"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "बहुत से"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बातों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:59.634107055Z",
+  "model": "glm-5.2"
+}

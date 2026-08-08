@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और मोशेह ने ⟨את⟩ आधा रक्त लिया और उसे कटोरों में रखा; और ⟨את⟩ आधा रक्त उसने वेदी पर छिड़का।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "और लिया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "और रखा"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "कटोरों में"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "और आधा"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "छिड़का"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    }
+  ],
+  "timestamp": "2026-08-08T02:07:02.932480728Z",
+  "model": "glm-5.2"
+}

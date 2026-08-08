@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यहवे ने मोशे से कहा, यों कहकर:",
+  "tokens": [
+    {
+      "surface": "वידבר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "यों कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:47.088381313Z",
+  "model": "glm-5.2"
+}

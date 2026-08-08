@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "मूर्तियों की ओर मत मुड़ो और ढली हुई एलोहीम अपने लिए मत बनाओ; मैं हूँ यहवे तुम्हारा एलोहीम।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "मुड़ो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "मूर्तियों"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "और एलोहीम"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ढली हुई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "बनाओ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुम्हारा एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:06.488552835Z",
+  "model": "glm-5.2"
+}

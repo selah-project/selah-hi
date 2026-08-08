@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 78,
+  "translation": "और उसने उन पर खाने के लिए मन बरसाया, और आकाश का अन्न उन्हें दिया।",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "उसने बरसाया"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मन"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "खाने के लिए"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "और अन्न"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश का"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "उसने दिया"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उन्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:06.344437303Z",
+  "model": "glm-5.2"
+}

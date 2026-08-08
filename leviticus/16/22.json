@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और बकरा उस पर ⟨את⟩ उनके सब अधर्मों को एक अलग भूमि तक उठाए, और वह बकरे को जंगल में भेज दे।",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "और उठाए"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उनके सब अधर्मों को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "उनके अधर्मों को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "एक अलग"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "और भेज दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बकरे को"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "बकरे को"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:06.431541215Z",
+  "model": "glm-5.2"
+}

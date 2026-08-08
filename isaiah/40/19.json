@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 40:19",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "⟨the⟩ बुत — एक शिल्पी ढालता ⟨is⟩, और ⟨a⟩ द्रवणकार उसे सोने से तह करता ⟨is⟩, और ⟨with⟩ चाँदी की कड़ियाँ जोड़ता ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "הפסל",
+      "gloss": "⟨the⟩ बुत"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ढालता ⟨is⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "एक शिल्पी"
+    },
+    {
+      "surface": "וצרף",
+      "gloss": "और ⟨a⟩ द्रवणकार"
+    },
+    {
+      "surface": "בזהब",
+      "gloss": "सोने से"
+    },
+    {
+      "surface": "ירקענו",
+      "gloss": "उसे तह करता ⟨is⟩"
+    },
+    {
+      "surface": "ורתקות",
+      "gloss": "और ⟨with⟩ कड़ियाँ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी की"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "जोड़ता ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T02:37:16.739184106Z",
+  "model": "glm-5.2"
+}

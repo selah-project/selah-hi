@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "मीखा का भाई ⟨था⟩ यिश्शियाह; यिश्शियाह के बेटों ⟨में⟩ ज़कर्याह।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीखा"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "यिश्शियाह"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों ⟨के लिए⟩"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "यिश्शियाह"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ज़कर्याह"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:59.627871221Z",
+  "model": "glm-5.2"
+}

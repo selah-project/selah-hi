@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यहवे का वह वचन जो योएल के लिए हुआ, जो पतूएल का पुत्र है।",
+  "tokens": [
+    {
+      "surface": "דְּבַר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אֲשֶׁ֣ר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "הָיָ֔ה",
+      "gloss": "हुआ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "יוֹאֵ֖ל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פְּתוּאֵֽל",
+      "gloss": "पतूएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:41:49.483645198Z",
+  "model": "glm-5.2"
+}

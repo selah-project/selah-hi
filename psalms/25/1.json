@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "दावीद का। हे यहवे, ⟨की⟩ मैं अपनी नफश तेरी ओर उठाता हूँ।",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरी ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी नफश"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "मैं उठाता हूँ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:06.767416574Z",
+  "model": "glm-5.2"
+}

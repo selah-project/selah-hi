@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "सुनो, इये, हे निर्बुद्ध और बिना हृदय वाले लोग, जिनकी आँखें हैं और वे नहीं देखते, जिनके कान हैं और वे नहीं सुनते।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "इये"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "עם",
+      "gloss": "हे लोग"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "निर्बुद्ध"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं है"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखें"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनकी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "वे देखते"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "कान"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "वे सुनते"
+    }
+  ],
+  "timestamp": "2026-08-07T22:12:39.419803735Z",
+  "model": "glm-5.2"
+}

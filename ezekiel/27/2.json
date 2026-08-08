@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और तू, मनुष्य के पुत्र, तू त्सोर पर एक कीना उठा:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "एक कीना"
+    }
+  ],
+  "timestamp": "2026-08-08T00:33:16.571955362Z",
+  "model": "glm-5.2"
+}

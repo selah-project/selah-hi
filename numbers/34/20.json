@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "“और शिमोन के सन्तान के गोत्र के लिए — शमुएल अम्मीहूद का पुत्र।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "और गोत्र के लिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मीहूद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:47.945751937Z",
+  "model": "glm-5.2"
+}

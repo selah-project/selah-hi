@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "बेहतर है एक गरीब और बुद्धिमान बालक एक बूढ़े और मूर्ख राजा से, जिसने और चेतावनी ग्रहण करना नहीं सीखा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बेहतर है"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "और बुद्धिमान"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "राजा से"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "बूढ़े"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "और मूर्ख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "सीखा"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "चेतावनी ग्रहण करना"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:45.871005809Z",
+  "model": "glm-5.2"
+}

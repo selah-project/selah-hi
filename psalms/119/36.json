@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "झुका दे मेरे मन को तेरी गवाहियों की ओर, और ⟨मत⟩ लालच की ओर।",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "झुका दे"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "मेरे मन को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "तेरी गवाहियों"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और ⟨मत⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "लालच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:08.535055602Z",
+  "model": "glm-5.2"
+}

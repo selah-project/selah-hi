@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और शलोमोह ने ⟨את⟩ गेज़र और ⟨את⟩ बेथ-चोरोन तलवार को बनाया।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "और बनाया"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गेज़र"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "गेज़र"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बेथ-चोरोन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "चोरोन"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "तलवार"
+    }
+  ],
+  "timestamp": "2026-08-07T21:37:55.731879142Z",
+  "model": "glm-5.2"
+}

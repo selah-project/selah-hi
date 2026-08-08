@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बेथलेह्म के पुत्र, एक सौ बीस और तीन।",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בֵֽית",
+      "gloss": "बेथलेह्म"
+    },
+    {
+      "surface": "לָ֔חֶם",
+      "gloss": ""
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וּשְׁלֹשָֽׁה",
+      "gloss": "और तीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:03.428435370Z",
+  "model": "glm-5.2"
+}

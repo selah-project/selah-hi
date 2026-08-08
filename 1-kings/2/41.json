@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 2:41",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और शलोमोह को बताया गया कि शिमी यरूशलम से गत तक गया और लौट आया।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "और बताया गया"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह को"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गया"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "यरूशलम से"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत तक"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और लौट आया"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:34.453253861Z",
+  "model": "glm-5.2"
+}

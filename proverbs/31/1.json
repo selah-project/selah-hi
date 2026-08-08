@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "लेमुएल राजा के वचन — ⟨यह⟩ मस्सा जो उसकी माँ ने उसे शिक्षा दी।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "लेमुएल"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "משא",
+      "gloss": "मस्सा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "शिक्षा दी"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "उसकी माँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.587598146Z",
+  "model": "glm-5.2"
+}

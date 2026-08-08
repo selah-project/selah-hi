@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "संगीत-निर्देशक के लिए, दाविद का मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशक के लिए"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:19.629050681Z",
+  "model": "glm-5.2"
+}

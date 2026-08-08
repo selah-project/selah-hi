@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 73,
+  "translation": "और मैं सारे दिन पीड़ित रहा, और मेरी ताड़ना हर सुबह ⟨थी⟩।",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "और मैं रहा"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "पीड़ित"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "और मेरी ताड़ना"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "हर सुबह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:25.069402107Z",
+  "model": "glm-5.2"
+}

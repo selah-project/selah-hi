@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "धिक्कार है अपने सहयोगी की सीमा को सरकाने वाले पर, और ⟨से⟩ कहेगा समस्त जन: 'अमन।'",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कार है"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "सरकाने वाले पर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "अपने सहयोगी की"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और ⟨से⟩ कहेगा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "समस्त"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "'अमन'"
+    }
+  ],
+  "timestamp": "2026-08-08T02:20:21.345523178Z",
+  "model": "glm-5.2"
+}

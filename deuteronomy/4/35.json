@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तू ने ⟨यह⟩ देखा ⟨है⟩ ताकि तू जाने कि यहवे ⟨ही⟩ वह एलोहीम है — ⟨उसके⟩ अतिरिक्त ⟨कोई⟩ और नहीं है।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तू ने"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ताकि जाने"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "उसके अतिरिक्त"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:40.055654780Z",
+  "model": "glm-5.2"
+}

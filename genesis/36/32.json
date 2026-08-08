@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और एदोम में बेला ने राज्य किया — बेओर का बेटा — और उसके नगर का नाम दिन्हाबा था।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "और राज्य किया"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "एदोम में"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "बेला"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "बेओर"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "उसके नगर"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "दिन्हाबा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:09.155544122Z",
+  "model": "glm-5.2"
+}

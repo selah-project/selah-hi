@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 106,
+  "translation": "और जल ने उनके दबाने वालों को ढक लिया — उनमें से एक भी न बचा।",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "और ढक लिया"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल ने"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "उनके दबाने वालों को"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनमें से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "बचा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:47:20.662284673Z",
+  "model": "glm-5.2"
+}

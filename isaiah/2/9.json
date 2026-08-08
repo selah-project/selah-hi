@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और मनुष्य नम्र हो गया और मनुष्य दब गया — और तू उन्हें न उठा।",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "और नम्र हो गया"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "और दब गया"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "तू उठा"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:27.562853154Z",
+  "model": "glm-5.2"
+}

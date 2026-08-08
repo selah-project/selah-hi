@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "पर्वत बहे यहवे के सामने से, यह ⟨है⟩ सिनै, यहवे के सामने से, यिस्राएल का एलोहीम।",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "बहे"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सिनै"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "का एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:05:37.195252468Z",
+  "model": "glm-5.2"
+}

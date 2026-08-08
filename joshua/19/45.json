@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और यिहूद, और बने-बेराक, और गत-रिम्मोन।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "और यिहूद"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और बने-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "बेराक"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "और गत-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:33.209224903Z",
+  "model": "glm-5.2"
+}

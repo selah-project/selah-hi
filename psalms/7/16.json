@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "गड्ढा खोदा और उसे गहरा किया, और गड्ढे में गिर गया जिसे बनाया।",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "गड्ढा"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "खोदा"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "और उसे गहरा किया"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "और गिर गया"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "गड्ढे में"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "बनाया"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:40.047562941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 76,
+  "translation": "यहूदा में एलोहीम ⟨ने⟩ जाना ⟨है⟩; यिसराएल में उसका नाम बड़ा ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदा में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिसराएल में"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:45:49.248683428Z",
+  "model": "glm-5.2"
+}

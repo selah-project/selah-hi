@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "शोहम के पत्थर, और मिलुइम के पत्थर — एफोद और चोशेन के लिए।",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "शोहम के"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "और पत्थर"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "मिलुइम के"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "एफोद के लिए"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "और चोशेन के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:37.639576297Z",
+  "model": "glm-5.2"
+}

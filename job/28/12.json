@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और बुद्धि कहाँ से मिलती है? और समझ का स्थान यह कहाँ है?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "और बुद्धि"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कहाँ से"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "मिलती है"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "और कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:29:26.694227954Z",
+  "model": "glm-5.2"
+}

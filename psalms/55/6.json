@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 55,
+  "translation": "भय और कम्पन मुझ में आते ⟨हैं⟩, और भयानकता ने मुझे ढँक ⟨लिया⟩ है।",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "और कम्पन"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आता है"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझ में"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "और मुझे ढँक लेती है"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "भयानकता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:14.010385277Z",
+  "model": "glm-5.2"
+}

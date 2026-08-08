@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "क्योंकि बन्दनगर से वह राजा होने के लिए निकला; क्योंकि उसके राज्य में भी वह निर्धन जन्मा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "से घर"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "बन्दियों के"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकला"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा होने के लिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "उसके राज्य में"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जन्मा"
+    },
+    {
+      "surface": "רש",
+      "gloss": "निर्धन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:45.871183737Z",
+  "model": "glm-5.2"
+}

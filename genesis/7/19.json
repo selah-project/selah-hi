@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और जल बहुत बहुत पृथ्वी पर प्रबल हुए, और ढके गए सब ऊँचे पहाड़ जो सब आकाशों के नीचे ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "और जल"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "प्रबल हुए"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "और ढके गए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ऊँचे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशों"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:21.313831531Z",
+  "model": "glm-5.2"
+}

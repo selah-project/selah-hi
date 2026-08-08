@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "तब यहवे का तेज नगर के बीच से ऊपर चढ़ा, और उस पहाड़ पर खड़ा रहा जो नगर के पूर्व की ओर है।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "तब चढ़ा"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से ऊपर"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "और खड़ा रहा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "उस पहाड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पूर्व की ओर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगर के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:27:32.101363827Z",
+  "model": "glm-5.2"
+}

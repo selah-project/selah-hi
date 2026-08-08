@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "शिमोन के बेटों में से, सेना के लिए बलवान योद्धा, सात हज़ार और एक सौ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "बलवान योद्धा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सामर्थ्य"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "सेना के लिए"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "और एक सौ"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:16.351370705Z",
+  "model": "glm-5.2"
+}

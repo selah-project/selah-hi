@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "“कौन भोला है? वह यहाँ मुड़ आए,” और ⟨वह⟩ हृदय से रहित को उससे कहती है।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "भोला है"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "मुड़ आए"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "और रहित"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "कहती है"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:04.054362393Z",
+  "model": "glm-5.2"
+}

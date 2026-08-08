@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "उसने उससे कहा, “मेरे साथ घर चलो, और रोटी खाओ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "उसने कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "चलो"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "और खाओ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-08-07T21:40:29.858799885Z",
+  "model": "glm-5.2"
+}

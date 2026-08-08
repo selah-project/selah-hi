@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "यदि मेढ़ा वह ⟨है⟩ जो अपना करबान चढ़ा रहा ⟨हो⟩, तो वह उसे ⟨את⟩ यहवे के सामने चढ़ाए।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "चढ़ा रहा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना करबान"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "अपना करबान"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "तो वह चढ़ाए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:22.905736278Z",
+  "model": "glm-5.2"
+}

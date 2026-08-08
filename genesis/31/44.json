@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और अब, आ; हम एक बरित काटें — मैं और तू; और वह मेरे और तेरे बीच गवाह ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "आ"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "हम काटें"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "एक बरित"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "और वह हो"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "मेरे और"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "तेरे बीच"
+    }
+  ],
+  "timestamp": "2026-08-07T19:51:54.254542817Z",
+  "model": "glm-5.2"
+}

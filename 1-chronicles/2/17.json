@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और अबीगिल ने ⟨את⟩ अमासा को जना; और अमासा के पिता येतर है, हयिश्मेएली।",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "और अबीगिल"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमासा"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "अमासा"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "और … के पिता"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "अमासा"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतर"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "हयिश्मेएली"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:55.988124650Z",
+  "model": "glm-5.2"
+}

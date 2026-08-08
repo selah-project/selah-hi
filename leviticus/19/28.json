@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 19:28",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और नफ़ेश के लिए चीरा अपने शरीर में न दो और लेखन-गुदा अपने ऊपर न बनाओ; मैं यहवे हूँ।",
+  "tokens": [
+    {
+      "surface": "ושרט",
+      "gloss": "और चीरा"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "नफ़ेश के लिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तुम दो"
+    },
+    {
+      "surface": "בבשרכם",
+      "gloss": "अपने शरीर में"
+    },
+    {
+      "surface": "וכתבת",
+      "gloss": "और लेखन"
+    },
+    {
+      "surface": "קעקע",
+      "gloss": "गुदा\/छाप"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तुम दो\/बनाओ"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "अपने ऊपर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:29.758401140Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "रेउएल के पुत्र: नहत, ज़ेरह, शम्मा और मिज़्ज़ाह।",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֖י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רְעוּאֵ֑ל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "नहत"
+    },
+    {
+      "surface": "זֶ֖רַח",
+      "gloss": "ज़ेरह"
+    },
+    {
+      "surface": "שַׁמָּ֥ה",
+      "gloss": "शम्मा"
+    },
+    {
+      "surface": "וּמִזָּֽה",
+      "gloss": "और मिज़्ज़ाह"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:11.210494840Z",
+  "model": "glm-5.2"
+}

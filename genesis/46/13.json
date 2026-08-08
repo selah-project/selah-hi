@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "और यिसास्खर के बेटे: तोला और पुव्वा और योव और शिम्रोन।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खर"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "तोला"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "और पुव्वा"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "और शिम्रोन"
+    }
+  ],
+  "timestamp": "2026-08-07T19:57:13.422119727Z",
+  "model": "glm-5.2"
+}

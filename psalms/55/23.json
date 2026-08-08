@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 55,
+  "translation": "अपना भार यहवे पर डाल, और वह तुझे धारण करेगा; वह धर्मी को सदा डगमगाने नहीं देगा।",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "डाल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "अपना भार"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "और वह"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "तुझे धारण करेगा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देगा"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "डगमगाना"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धर्मी को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:25.810565879Z",
+  "model": "glm-5.2"
+}

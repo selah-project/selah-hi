@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "ये मनश्शे के कुल हैं, और उनके गिने गए — बयावन्न पचास हज़ार और सात सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "और उनके गिने गए"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "और पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:21.120197070Z",
+  "model": "glm-5.2"
+}

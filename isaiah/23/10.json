@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "बेटी तर्शीश, नदी की भाँति अपनी भूमि में भर जाओ — ⟨अब⟩ कोई मज़ाह नहीं रहा।",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "भर जाओ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "अपनी भूमि में"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "नदी की भाँति"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शीश"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं रहा"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "मज़ाह"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨अब⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T21:59:07.267628946Z",
+  "model": "glm-5.2"
+}

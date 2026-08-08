@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "निम्न के लिए उत्कृष्ट ओष्ठ ⟨शोभते नहीं⟩, भले ही उदार के लिए झूठ के ओष्ठ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "शोभते"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "निम्न के लिए"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ओष्ठ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "उत्कृष्ट"
+    },
+    {
+      "surface": "אף",
+      "gloss": "भले ही"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "उदार के लिए"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ओष्ठ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:10.871395353Z",
+  "model": "glm-5.2"
+}

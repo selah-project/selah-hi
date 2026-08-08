@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 65,
+  "translation": "महिला निर्देशक को। मज़्मोर। दाविद के लिए। गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महिला निर्देशक को"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़्मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के लिए"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:17.625304273Z",
+  "model": "glm-5.2"
+}

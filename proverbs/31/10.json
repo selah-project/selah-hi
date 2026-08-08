@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "एक सामर्थ्यवती स्त्री कौन पाएगा? और मोतियों से दूर उसका मूल्य ⟨!⟩",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सामर्थ्यवती"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पाएगा"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "और दूर"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "मोतियों से"
+    },
+    {
+      "surface": "मכרה",
+      "gloss": "उसका मूल्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.635745304Z",
+  "model": "glm-5.2"
+}

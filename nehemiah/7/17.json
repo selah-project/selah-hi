@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बेटे अज्गाद के: दो हज़ार, तीन सौ बाईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "अज्गाद"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बाईस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-08T03:13:32.756745860Z",
+  "model": "glm-5.2"
+}

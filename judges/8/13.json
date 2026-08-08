@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "तब गिद्योन, योआश का पुत्र, युद्ध से लौटा — मलमाले हेरेस से।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "तब लौटा"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिद्योन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "चढ़ाई से"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "हेरेस"
+    }
+  ],
+  "timestamp": "2026-08-07T21:07:39.128071360Z",
+  "model": "glm-5.2"
+}

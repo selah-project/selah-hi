@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 148,
+  "translation": "जंगली जानवर और सब पशु, रेंगने वाले जीव और पंखवाले पक्षी।",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "जंगली जानवर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "בהमה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "रेंगने वाले जीव"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "और पक्षी"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "पंखवाले"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:16.052585987Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "उसका पुत्र शिमा, उसका पुत्र हग्गिय्याह, उसका पुत्र असायाह।",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "शिमा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका-पुत्र"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "हग्गिय्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका-पुत्र"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असायाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका-पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.686044304Z",
+  "model": "glm-5.2"
+}

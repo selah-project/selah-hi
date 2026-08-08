@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "“देखो, ये दूर से आएँगे, और देखो, ये उत्तर और पश्चिम से ⟨हैं⟩, और ये सिनीम देश से।”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आएँगे"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "और पश्चिम से"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश से"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "सिनीम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:21:35.071345005Z",
+  "model": "glm-5.2"
+}

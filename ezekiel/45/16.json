@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "देश का सारा जन ⟨होगा⟩ इस योगदान के लिए, इस्राएल में नासी के लिए।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश का"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "⟨होगा⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर \/ के लिए"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "योगदान"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "नासी के लिए"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:36:17.318040Z",
+  "model": "glm-5.2"
+}

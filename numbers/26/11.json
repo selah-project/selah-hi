@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "परन्तु कोरह के बेटे नहीं मरे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "परन्तु बेटे"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:03.658860031Z",
+  "model": "glm-5.2"
+}

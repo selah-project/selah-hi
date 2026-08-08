@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और दानी से — युद्ध की रचना करने वाले, अट्ठाईस हज़ार और छह सौ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और … से"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "दानी"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "रचना करने वाले"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "और आठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:32.667975968Z",
+  "model": "glm-5.2"
+}

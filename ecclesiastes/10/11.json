@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "यदि सर्प बिना मन्त्र-फूँक के डस ले, तो ⟨सर्प-मन्त्री के⟩ जीभ के स्वामी का कोई लाभ नहीं ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "डस ले"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "सर्प"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "मन्त्र-फूँक"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "के स्वामी का"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "जीभ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:27.139538873Z",
+  "model": "glm-5.2"
+}

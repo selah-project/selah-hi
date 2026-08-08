@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "खोजने का समय, और नष्ट करने का समय; रखने का समय, और फेंक देने का समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोजने का"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "नष्ट करने का"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "रखने का"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फेंक देने का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:04.011353278Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "एक तोराह देशज के लिए और तुम्हारे बीच बसने वाले गेर के लिए होगी।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "तोराह"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगी"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "देशज के लिए"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "और गेर के लिए"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "जो बसता है"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "तुम्हारे बीच"
+    }
+  ],
+  "timestamp": "2026-08-07T20:03:39.747873215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "उस समय अबिय्याह, यरोबाम का पुत्र, बीमार हो गया।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "बीमार हो गया"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिय्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबाम"
+    }
+  ],
+  "timestamp": "2026-08-07T21:40:56.486216354Z",
+  "model": "glm-5.2"
+}

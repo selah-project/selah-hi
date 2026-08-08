@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "हे मेरे पुत्र, यदि पापी तुम्हें फुसलाएँ, तू ⟨न⟩ सहमत हो।",
+  "tokens": [
+    {
+      "surface": "בְּנִ֡י",
+      "gloss": "हे मेरे पुत्र"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יְפַתּ֥וּךָ",
+      "gloss": "तुम्हें फुसलाएँ"
+    },
+    {
+      "surface": "חַ֝טָּאִ֗ים",
+      "gloss": "पापी"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "⟨न⟩"
+    },
+    {
+      "surface": "תֹּבֵֽא",
+      "gloss": "सहमत हो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:35.683849848Z",
+  "model": "glm-5.2"
+}

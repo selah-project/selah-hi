@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 52,
+  "translation": "हे पराक्रमी, तू बुराई में क्यों घमण्ड करता है? एल का हेसेद सारा दिन ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "तू घमण्ड करता है"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "बुराई में"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "हे पराक्रमी"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल का"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:25.373824742Z",
+  "model": "glm-5.2"
+}

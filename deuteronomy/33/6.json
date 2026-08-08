@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "“रूबेन जीवित रहे, और न मरे, और उसके लोग गिनती में हों।”",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "जीवित रहे"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और हों"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "उसके लोग"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:48.265961085Z",
+  "model": "glm-5.2"
+}

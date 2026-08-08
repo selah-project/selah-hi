@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "सम्पूर्ण समाहार ⟨एक⟩ ⟨था⟩: चार रिबो, दो हज़ार, तीन सौ, और साठ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "समाहार"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "रिबो"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    }
+  ],
+  "timestamp": "2026-08-08T03:13:48.896309191Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और सगूब ने जना ⟨את⟩ याईर, और उसके लिए गिलअद के देश में तेईस नगर थे।",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "और सगूब ने"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याईर"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याईर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और थे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "और तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलअद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:57.696823808Z",
+  "model": "glm-5.2"
+}

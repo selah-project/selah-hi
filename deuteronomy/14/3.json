@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "कोई घृणित वस्तु न खाओ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाओ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घृणित वस्तु"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:46.587235078Z",
+  "model": "glm-5.2"
+}

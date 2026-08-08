@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और अबीमेलेक ने अवराहाम से कहा, “ये सात भेड़ें क्या हैं जिन्हें तुमने अलग से खड़ा किया है?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबीमेलेक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "भेड़ें"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हें"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "तुमने खड़ा किया"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "अलग से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:47.668260885Z",
+  "model": "glm-5.2"
+}

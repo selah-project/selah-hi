@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "महायाजक ⟨के लिए⟩। दावीद का भजन।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महायाजक ⟨के लिए⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "भजन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:59:19.667653526Z",
+  "model": "glm-5.2"
+}

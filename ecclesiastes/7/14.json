@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "भलाई के दिन अच्छे में रह, और बुराई के दिन देख; भी ⟨את⟩ इसको उसके सामने एलोहीम ने बनाया है, इसलिए कि मनुष्य उसके पश्चात कुछ भी न पाए।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रह"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "अच्छे में"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "और दिन"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इसको"
+    },
+    {
+      "surface": "זה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "זה",
+      "gloss": "इसके"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "על",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पाए"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "उसके पश्चात"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछ भी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:22.263988771Z",
+  "model": "glm-5.2"
+}

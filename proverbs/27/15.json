@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "बारिश के दिन लगातार टपकना और झगड़ालू स्त्री समान हैं —",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "टपकना"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "बारिश"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "और … स्त्री"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "झगड़ालू"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "समान हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:46.209881760Z",
+  "model": "glm-5.2"
+}

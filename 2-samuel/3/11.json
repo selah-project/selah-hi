@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और वह अबनेर को ⟨एक⟩ भी उत्तर नहीं दे सका, अपने भय से, उससे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "सका"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "उत्तर दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अबनेर को"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अबनेर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "एक भी उत्तर"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "अपने भय से"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:25:12.943932498Z",
+  "model": "glm-5.2"
+}

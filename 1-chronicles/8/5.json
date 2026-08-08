@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और गेरा, और शेफुफन, और हुराम।",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "और गेरा"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "और शेफुफन"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "और हुराम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:18.572135835Z",
+  "model": "glm-5.2"
+}

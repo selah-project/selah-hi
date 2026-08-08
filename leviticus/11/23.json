@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और हर वह उड़ने वाला रेंगने वाला जीव जिसके चार पैर हैं — वह तुम्हारे लिए घृणित ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "रेंगने वाला जीव"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड़ने वाला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसके"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पैर"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:49.321513644Z",
+  "model": "glm-5.2"
+}

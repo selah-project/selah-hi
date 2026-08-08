@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 90,
+  "translation": "लौट आओ, यहवे — तब तक? — और अपने दासों पर रियायत रखो।",
+  "tokens": [
+    {
+      "surface": "שׁוּבָ֣ה",
+      "gloss": "लौट आओ"
+    },
+    {
+      "surface": "יְ֭הוָה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מָתָ֑י",
+      "gloss": "कब"
+    },
+    {
+      "surface": "וְ֝הִנָּחֵ֗ם",
+      "gloss": "और रियायत रखो"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עֲבָדֶֽיךָ",
+      "gloss": "तेरे दासों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:40.163060503Z",
+  "model": "glm-5.2"
+}

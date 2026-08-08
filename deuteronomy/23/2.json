@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "रौंदा हुआ और कुचला हुआ, और कटा हुआ शासनकाठी-वाला, यहवे की मण्डली में न आए।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ייבא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "रौंदा हुआ"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "कुचला हुआ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "और कटा हुआ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "शासनकाठी-वाला"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "मण्डली में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:09.516848648Z",
+  "model": "glm-5.2"
+}

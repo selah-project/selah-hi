@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "“और अब तेरे हाथ ⟨के नीचे⟩ क्या है? पाँच रोटियाँ मेरे हाथ में दे, या जो मिल ⟨सके⟩।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "⟨के नीचे⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तेरे हाथ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटियाँ"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "दे"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "मेरे हाथ में"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "जो मिल ⟨सके⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T21:21:16.527601993Z",
+  "model": "glm-5.2"
+}

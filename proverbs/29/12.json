@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "एक शासक झूठे वचन पर कान लगाता है — उसके सब सेवक दुष्ट हैं।",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "कान लगाता है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "उसके सेवक"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:05.419430281Z",
+  "model": "glm-5.2"
+}

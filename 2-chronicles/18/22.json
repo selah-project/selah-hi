@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "“और अब, देख, यहवे ने इन तेरे नवियों के मुँह में झूठ का ऊह दिया है; और यहवे ने तेरे विरुद्ध बुराई की बात कही है।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिया है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ऊह"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "के मुँह में"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "तेरे नवी"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात कही"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तेरे विरुद्ध"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:44.193802701Z",
+  "model": "glm-5.2"
+}

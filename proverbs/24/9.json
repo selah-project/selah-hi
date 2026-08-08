@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "मूर्खता की योजना ⟨है⟩ पाप, और मनुष्य के लिए घृणा ⟨है⟩ उपहासक।",
+  "tokens": [
+    {
+      "surface": "זִמַּת",
+      "gloss": "योजना"
+    },
+    {
+      "surface": "אִוֶּלֶת",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "חַטָּאת",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "וְתוֹעֲבַת",
+      "gloss": "और घृणा"
+    },
+    {
+      "surface": "לְאָדָם",
+      "gloss": "मनुष्य के लिए"
+    },
+    {
+      "surface": "לֵץ",
+      "gloss": "उपहासक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:01.352614853Z",
+  "model": "glm-5.2"
+}

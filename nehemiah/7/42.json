@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "हारिम के बेटे — एक हज़ार सत्रह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारिम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हज़ार"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:17.224760654Z",
+  "model": "glm-5.2"
+}

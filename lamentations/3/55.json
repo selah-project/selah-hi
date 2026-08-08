@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मैंने तेरा नाम पुकारा, हे यहवे, निम्नतम गड्ढे से।",
+  "tokens": [
+    {
+      "surface": "קָרָ֤אתִי",
+      "gloss": "मैंने पुकारा"
+    },
+    {
+      "surface": "שִׁמְךָ֙",
+      "gloss": "तेरा नाम"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "מִבּ֖וֹר",
+      "gloss": "गड्ढे से"
+    },
+    {
+      "surface": "תַּחְתִּיּֽוֹת",
+      "gloss": "निम्नतम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:45.147070164Z",
+  "model": "glm-5.2"
+}

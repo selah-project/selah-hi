@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "अपने कर्म यहवे के ऊपर लुढ़का, और तेरी योजनाएँ स्थिर ⟨होंगी⟩।",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "लुढ़का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "अपने कर्म"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "और स्थिर होंगी"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "तेरी योजनाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:37.679426838Z",
+  "model": "glm-5.2"
+}

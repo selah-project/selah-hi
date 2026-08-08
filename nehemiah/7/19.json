@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बिगवय के पुत्र: दो हज़ार छियासठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "बिगवय"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "छियासठ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "और सात"
+    }
+  ],
+  "timestamp": "2026-08-08T03:13:33.696658899Z",
+  "model": "glm-5.2"
+}

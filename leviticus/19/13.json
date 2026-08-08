@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तू ⟨अपने⟩ निकट को उत्पीड़न न कर और न लूट; तू अपने पास रहते दिहाड़ी मज़दूर की मज़दूरी को भोर तक न ठहरा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "उत्पीड़न कर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "निकत को"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तेरा निकट"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ठहरा"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "मज़दूरी को"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "दिहाड़ी मज़दूर की"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तेरे पास रहते"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:34.554027348Z",
+  "model": "glm-5.2"
+}

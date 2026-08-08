@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब सेदोम के राजा ने अवराम से कहा, “मुझे तो प्राणियों को दे, और सम्पत्ति तू अपने लिए ले ले।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सेदोम के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "प्राणियों को"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "और सम्पत्ति"
+    },
+    {
+      "surface": "קח",
+      "gloss": "तू ले ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपने लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:02.004757125Z",
+  "model": "glm-5.2"
+}

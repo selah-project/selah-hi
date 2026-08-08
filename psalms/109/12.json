@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 109,
+  "translation": "उसके लिए हेसेद खींचने वाला न हो, और उसके अनाथों पर अनुग्रह करने वाला न हो।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "משך",
+      "gloss": "खींचने वाला"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "अनुग्रह करने वाला"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "उसके अनाथों पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:54.200264700Z",
+  "model": "glm-5.2"
+}

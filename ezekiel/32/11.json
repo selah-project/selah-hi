@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्योंकि इस प्रकार कहता है अदोनाय यहवे: बाबेल के राजा की तलवार तुझ में आएगी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा की"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "तुझ में आएगी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:34:16.391940823Z",
+  "model": "glm-5.2"
+}

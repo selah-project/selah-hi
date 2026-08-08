@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "“केवल तू अब मेरे कानों और सम्पूर्ण उस जनता के कानों में यह वचन सुन, जो मैं बोल रहा हूँ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "यह वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल रहा हूँ"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "तेरे कानों में"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "और … के कानों में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "העם",
+      "gloss": "उस जनता"
+    }
+  ],
+  "timestamp": "2026-08-07T22:18:55.029037056Z",
+  "model": "glm-5.2"
+}

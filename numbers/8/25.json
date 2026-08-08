@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और पचास वर्ष के आयु से वह सेवा-कार्य की सेना से लौटेगा, और और न सेवा करेगा।",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "और ... आयु से"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटेगा"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "सेना से"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "सेवा-कार्य की"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "सेवा करेगा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:49.760875146Z",
+  "model": "glm-5.2"
+}

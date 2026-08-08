@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और तू मेज़ पर सामने-की-रोटी रखे, मेरे सामने सदैव।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "और तू रखे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज़"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "सामने-की"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदैव"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:08.808770721Z",
+  "model": "glm-5.2"
+}

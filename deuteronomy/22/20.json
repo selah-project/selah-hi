@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और यदि यह बात सत्य रही ⟨है⟩, कि नारी के लिए कुँवारी-चिह्न नहीं पाए गए—",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "היה",
+      "gloss": "रहा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "पाए गए"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "कुँवारी-चिह्न"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "नारी के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:26.538298629Z",
+  "model": "glm-5.2"
+}

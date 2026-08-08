@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "सब भटक गए, साथ मिलकर वे दूषित हो गए; कोई भलाई करने वाला नहीं, एक भी नहीं।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "סר",
+      "gloss": "भटक गए"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "साथ मिलकर"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "दूषित हो गए"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करने वाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:55:04.710502533Z",
+  "model": "glm-5.2"
+}

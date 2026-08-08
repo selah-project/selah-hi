@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और यिप्ताह, और अश्ना, और नेत्सिब।",
+  "tokens": [
+    {
+      "surface": "וגדרות",
+      "gloss": "और यिप्ताह"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "और अश्ना"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "और नेत्सिब"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:08.445739732Z",
+  "model": "glm-5.2"
+}

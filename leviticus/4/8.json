@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और ⟨את⟩ हाट-बैल का सारा चर्बी वह उसमें से उठाएगा — ⟨את⟩ उस चर्बी को जो आँतों पर ढका है, और ⟨את⟩ सारे उस चर्बी को जो आँतों पर है।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "सारा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चर्बी"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "हाट-बैल"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उठाएगा"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उसमें से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उस चर्बी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चर्बी"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ढका है जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "आँतों"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "सारे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चर्बी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "आँतों"
+    }
+  ],
+  "timestamp": "2026-08-08T00:14:29.174099139Z",
+  "model": "glm-5.2"
+}

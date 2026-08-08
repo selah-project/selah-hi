@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "जब तू अपने पड़ोसी को कुछ भी ऋण देता है, तो उसके गृह के भीतर उसके गिरवी को लेने न जाना।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "तू ऋण देता है"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "अपने पड़ोसी को"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ऋण"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछ भी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के भीतर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "उसके गृह"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "लेने"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "उसके गिरवी को"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.823093822Z",
+  "model": "glm-5.2"
+}

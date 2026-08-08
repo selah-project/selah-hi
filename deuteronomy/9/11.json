@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ऐसा हुआ, चालीस दिन और चालीस रात के अन्त में, यहवे ने मुझे ⟨את⟩ दो पत्थर की फलकें दीं, वाचा की फलकें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ऐसा हुआ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अन्त में"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "और चालीस"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दीं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दो पत्थर की फलकें"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "फलकें"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "पत्थर की"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "फलकें"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "वाचा की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:22.151231801Z",
+  "model": "glm-5.2"
+}

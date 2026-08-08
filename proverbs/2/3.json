@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "यदि तू समझ को पुकारे, ⟨और⟩ समझबूझ के लिए अपनी आवाज़ दे —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨और⟩"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "समझ को"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "तू पुकारे"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "समझबूझ के लिए"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "तू दे"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "अपनी आवाज़"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:14.700963086Z",
+  "model": "glm-5.2"
+}

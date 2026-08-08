@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "बुद्धिमान पुत्र — पिता का अनुशासन; और उपहास करनेवाला गाली नहीं सुनता।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासन"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता का"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "और उपहास करनेवाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनता"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "गाली"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:28.837501396Z",
+  "model": "glm-5.2"
+}

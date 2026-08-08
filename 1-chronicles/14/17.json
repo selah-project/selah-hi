@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और दावीद का नाम सब देशों में निकला, और यहवे ने ⟨את⟩ उसका भय सब जातियों पर डाला।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद का"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "देशों में"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे ने"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "डाला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसका भय"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "उसका भय"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातियों"
+    }
+  ],
+  "timestamp": "2026-08-08T03:15:24.048835398Z",
+  "model": "glm-5.2"
+}

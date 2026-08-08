@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और एन-रिम्मोन में, और त्सोरआ में, और यर्मूत में",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "और एन-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "और त्सोरआ में"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "और यर्मूत में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:21.870868911Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हेसेद और एमेत तुझे न छोड़ें; उन्हें अपने गले में बाँध, अपने लेब के फलक पर उन्हें लिख।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "और एमेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "तुझे छोड़ें"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "उन्हें बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "तेरे गले"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "उन्हें लिख"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "फलक"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तेरे लेब के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:59.317660875Z",
+  "model": "glm-5.2"
+}

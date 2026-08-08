@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और जो ख़ोर्मा में थे, और जो बोर-अशान में थे, और जो अताख़ में थे —",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ख़ोर्मा में"
+    },
+    {
+      "surface": "ולאשर",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "बोर में"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "अशान"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "अताख़ में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:23:06.054193628Z",
+  "model": "glm-5.2"
+}

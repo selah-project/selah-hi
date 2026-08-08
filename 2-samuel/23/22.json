@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 23:22",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "ये ⟨काम⟩ बनयाहू बेन यहोयादा ने किए, और उसका नाम तीन गबरों में ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किए"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "बनयाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "और उसके लिए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בשלשה",
+      "gloss": "तीन में"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "गबरों"
+    }
+  ],
+  "timestamp": "2026-08-07T21:33:10.069685218Z",
+  "model": "glm-5.2"
+}

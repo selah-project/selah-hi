@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और वह इष मोशे बहुत ढीठ था — पृथ्वी के तल पर सब इनसानों से अधिक।",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "और-वह-इष"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ढीठ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब-से-अधिक"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "इनसानों"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "तल"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "पृथ्वी-की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:51.767800375Z",
+  "model": "glm-5.2"
+}

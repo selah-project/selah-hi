@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरे बेटे की बेटी या तेरी बेटी की बेटी की नग्नता — उनकी नग्नता तू न खोल, क्योंकि वे ⟨तेरी⟩ नग्नता ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तेरे बेटे"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "तेरी बेटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "उनकी नग्नता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "तेरी नग्नता"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "वे हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:12.228013466Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "क्योंकि मुझ से तेरे दिन बहुत होंगे, और तेरे जीवन के वर्ष बढ़ाए जाएँगे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझ से"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "बहुत होंगे"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "तेरे दिन"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "और बढ़ाए जाएँगे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:14.049265153Z",
+  "model": "glm-5.2"
+}

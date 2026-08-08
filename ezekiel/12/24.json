@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "क्योंकि और नहीं होगा कोई व्यर्थ दर्शन और चिकना जादू-टोना यिस्राएल के घर के बीच में।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "और जादू-टोना"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "चिकना"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:28:19.341632051Z",
+  "model": "glm-5.2"
+}

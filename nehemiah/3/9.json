@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और उनके बगल में रपायाह ने — हूर का पुत्र, यरूशलयिम के आधे जिले का अध्यक्ष — मज़बूत किया।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "उनके बगल में"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "मज़बूत किया"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "रपायाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חור",
+      "gloss": "हूर"
+    },
+    {
+      "surface": "שר",
+      "gloss": "अध्यक्ष"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधे"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "जिले"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-08-08T01:01:46.227590674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "लापरवाह को फिर उदार नहीं कहा जाएगा, और कंजूस को बढ़िया नहीं कहा जाएगा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "कहा जाएगा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "लापरवाह को"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "उदार"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "और कंजूस को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहा जाएगा"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "बढ़िया"
+    }
+  ],
+  "timestamp": "2026-08-08T00:20:30.399695775Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और यह हुआ, इसके बाद कि दावीद के मन ने उसे आघात किया, इसलिए कि उसने ⟨את⟩ शाऊल के किनारे को काटा था।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और यह हुआ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसके"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "और आघात किया"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन ने"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद के"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "על",
+      "gloss": "इसलिए कि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटा था"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "किनारे को"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "किनारे को"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:22:05.341421572Z",
+  "model": "glm-5.2"
+}

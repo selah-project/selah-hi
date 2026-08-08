@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨את⟩ हटट्टा, और ⟨את⟩ बगुला, और ⟨את⟩ गिद्ध को।",
+  "tokens": [
+    {
+      "surface": "וְאֶת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हटट्टा"
+    },
+    {
+      "surface": "הַתִּנְשֶׁ֥מֶת",
+      "gloss": "हटट्टा"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बगुला"
+    },
+    {
+      "surface": "הַקָּאָ֖ת",
+      "gloss": "बगुला"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "और ⟨את⟩",
+      "marks": "गिद्ध"
+    },
+    {
+      "surface": "הָרָחָֽם",
+      "gloss": "गिद्ध"
+    }
+  ],
+  "timestamp": "2026-08-08T02:10:48.406628541Z",
+  "model": "glm-5.2"
+}

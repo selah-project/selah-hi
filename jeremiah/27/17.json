@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "उनकी न सुनो; ⟨את⟩ बाबुल के राजा की सेवा करो और जीवित रहो; यह नगर क्यों ⟨हो⟩ उजड़ा?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनकी"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाबुल के राजा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबुल"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "और जीवित रहो"
+    },
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "उजड़ा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:18:23.768292601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यहवे ने मोशे से कहा, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:03.526566823Z",
+  "model": "glm-5.2"
+}

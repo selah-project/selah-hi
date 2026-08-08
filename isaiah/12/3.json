@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और तुम आनन्द से जल निकालोगे उद्धार के स्रोतों से।",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "और तुम निकालोगे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "आनन्द से"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "स्रोतों से"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "उद्धार"
+    }
+  ],
+  "timestamp": "2026-08-07T21:56:56.841772869Z",
+  "model": "glm-5.2"
+}

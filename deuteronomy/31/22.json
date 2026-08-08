@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "तब मोशे ने उसी दिन ⟨את⟩ यह गीत लिखी और ⟨את⟩ इस्राएल के बेटों को सिखाई।",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "तब लिखी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यह गीत"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "यह गीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उसी दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "और सिखाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल के बेटों को"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों को"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:53.827227845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 145,
+  "translation": "यहवे सब के लिए भला है, और उसकी दयाएँ उसके सब कार्यों पर हैं।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के लिए"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "और उसकी दयाएँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "उसके कार्यों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:15:58.161791728Z",
+  "model": "glm-5.2"
+}

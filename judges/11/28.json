@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और नहीं सुना अम्मोन के बेटों का राजा यिफ्तह के वचनों को जो उसने उसके पास भेजे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुना"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों का"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनों को"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "यिफ्तह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसके पास"
+    }
+  ],
+  "timestamp": "2026-08-07T21:09:26.755424877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यहवे ने मुझसे और बोलना जोड़ा, कहकर —",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "और जोड़ा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलना"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:56:03.668479841Z",
+  "model": "glm-5.2"
+}

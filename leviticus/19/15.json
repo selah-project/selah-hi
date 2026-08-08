@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तुम न्याय में अन्याय न करो; तू दीन के चेहरे को न उठा और न बड़े के चेहरे को आदर दे; धर्म से तू अपने सखा का न्याय कर।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करो"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्याय में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे को"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "आदर दे"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे को"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "धर्म से"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "न्याय कर"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "अपने सखा का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:34.554330070Z",
+  "model": "glm-5.2"
+}

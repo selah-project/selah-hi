@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 29:27",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "इसका सप्ताह पूरा कर, और हम तुझे यह ⟨को⟩ भी देंगे, उस सेवा के बदले जो तू मेरे साथ और सात वर्ष तक करेगा।”",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "पूरा कर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सप्ताह"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इसका"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "और हम देंगे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस ⟨को⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "सेवा के बदले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "तू करेगा"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "अन्य"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:49.870873574Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और नगर घेराबंदी में आ गई, राजा तिदकियाहू के ग्यारहवें वर्ष तक।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "और वह आ गई"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "घेराबंदी में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ग्यारह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "वीं"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "तिदकियाहू"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:46.983096998Z",
+  "model": "glm-5.2"
+}

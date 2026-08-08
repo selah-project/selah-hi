@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और न्याय आता ⟨है⟩ ⟨इसकी⟩ ओर अर्थात् मैदान-देश की ओर, खोलोन की ओर और यहत्सा की ओर, और मोफात पर।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "और न्याय"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आता ⟨है⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨इसकी⟩ ओर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "मैदान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "खोलोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और ओर"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "यहत्सा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "मोफात"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:35.513871750Z",
+  "model": "glm-5.2"
+}

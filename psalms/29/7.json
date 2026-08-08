@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "यहवे का वाक्य अग्नि की लपटों को गढ़ता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "वाक्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "गढ़ता"
+    },
+    {
+      "surface": "लהבות",
+      "gloss": "लपटों को"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नि की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:44.727276845Z",
+  "model": "glm-5.2"
+}

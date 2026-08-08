@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 106,
+  "translation": "अद्भुत काम खाम के देश में, भयानक काम सूफ़ समुद्र पर।",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "अद्भुत काम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम के"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "भयानक काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सूफ़"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:15.032129095Z",
+  "model": "glm-5.2"
+}

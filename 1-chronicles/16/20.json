@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और वे एक जाति से दूसरी जाति तक, और एक राज्य से दूसरे जनता तक भ्रमण करते रहे;",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "और वे भ्रमण करते रहे"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "एक जाति से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "दूसरी जाति"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "और एक राज्य से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसरे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:15.374825123Z",
+  "model": "glm-5.2"
+}

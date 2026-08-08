@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "आ, मेरे प्रिय, हम खेत को निकलें, गाँवों में रात बिताएँ।",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "आ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "मेरे प्रिय"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "हम निकलें"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत को"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "हम रात बिताएँ"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "गाँवों में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:50.449470416Z",
+  "model": "glm-5.2"
+}

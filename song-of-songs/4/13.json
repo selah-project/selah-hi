@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तेरी कल्लियाँ अनारों का ⟨एक⟩ बगीचा ⟨हैं⟩, उत्तम फलों के साथ, हिन्ना, नर्द के साथ।",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "तेरी कल्लियाँ"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "बगीचा"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "अनारों का"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फलों"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "हिन्ना"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "नर्द"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:47.630066859Z",
+  "model": "glm-5.2"
+}

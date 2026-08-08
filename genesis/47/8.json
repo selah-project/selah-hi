@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 47,
+  "translation": "तब फरौह ने याकोब से कहा: “तेरे जीवन के वर्षों के दिन कितने हैं?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कितने"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שני",
+      "gloss": "वर्षों के"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "तेरे जीवन के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:57:34.467342617Z",
+  "model": "glm-5.2"
+}

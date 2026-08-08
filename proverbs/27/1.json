@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "कल के दिन में घमण्ड न कर; क्योंकि तू नहीं जानता कि एक दिन क्या जन्म लाएगा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न कर"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "घमण्ड"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन में"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "कल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "तू जानता"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म लाएगा"
+    },
+    {
+      "surface": "יום",
+      "gloss": "एक दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:50.788636562Z",
+  "model": "glm-5.2"
+}

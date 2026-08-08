@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "जब तू नया घर बनाए, तो अपनी छत के लिए दिवार बनाए; और ⟨न⟩ अपने घर में तू रक्त न रखे, क्योंकि गिरनेवाला उससे गिरे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "तू बनाए"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बनाए"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "दिवार"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "अपनी छत के लिए"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "तू रखे"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "अपने घर में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "गिरनेवाला"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:04.885531751Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यहवे ने मुझसे बात की, कहकर:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:21.097239839Z",
+  "model": "glm-5.2"
+}

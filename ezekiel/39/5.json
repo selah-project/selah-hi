@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "खुले मैदान के ऊपर तू गिरेगा, क्योंकि मैंने बोला ⟨है⟩, अदोनाय यहवे का ओरकल ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतह पर"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "मैदान"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "तू गिरेगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैंने"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बोला"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ओरकल"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:36:19.136620054Z",
+  "model": "glm-5.2"
+}

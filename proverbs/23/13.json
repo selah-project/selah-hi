@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "बालक से अनुशासन न मना; क्योंकि तू उसे छड़ी से पीटेगा तो भी वह नहीं मरेगा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "मना"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "बालक से"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "तू उसे पीटेगा"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "छड़ी से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:52.492128748Z",
+  "model": "glm-5.2"
+}

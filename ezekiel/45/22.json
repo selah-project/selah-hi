@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "उस दिन नासी अपने लिए और देश के समस्त लोगों के लिए पापबलि का एक बैल तैयार करेगा।",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "तैयार करेगा"
+    },
+    {
+      "surface": "हनाशिऐ",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "बयोम",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "हहुअ",
+      "gloss": "उस"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "और के लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "समस्त"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोगों"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश के"
+    },
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापबलि"
+    }
+  ],
+  "timestamp": "2026-08-08T00:36:14.619095446Z",
+  "model": "glm-5.2"
+}

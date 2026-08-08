@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "बिल्गाह के लिए शम्मुआ; शमअयाह के लिए यहोनातान।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "बिल्गाह के लिए"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मुआ"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "शमअयाह के लिए"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:10.109065422Z",
+  "model": "glm-5.2"
+}

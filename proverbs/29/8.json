@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "उपहास के लोग नगर को भड़काते हैं, और बुद्धिमान क्रोध फेर देते हैं।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "उपहास के"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "भड़काते हैं"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "और बुद्धिमान"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "फेर देते हैं"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:42.134558825Z",
+  "model": "glm-5.2"
+}

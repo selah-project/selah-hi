@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 148,
+  "translation": "युवक और भी कुंवारियाँ, वृद्ध ⟨लोग⟩ बालकों ⟨के साथ⟩।",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "युवक"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "कुंवारियाँ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨के साथ⟩"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "बालकों"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:14.165198611Z",
+  "model": "glm-5.2"
+}

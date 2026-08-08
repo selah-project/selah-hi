@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "दास हम पर राज कर रहे हैं; उनके हाथ से बचाने वाला कोई नहीं ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "दास"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "राज कर रहे हैं"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "बचाने वाला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "कोई नहीं"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "उनके हाथ से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:19.440511562Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "कौन ⟨ऐसा है जिसने⟩ एक एल गढ़ा, या एक ढली हुई मूर्ति बनाई — ⟨जो⟩ किसी काम की नहीं?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "गढ़ा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "और एक मूर्ति"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ढली"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "कि नहीं"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "लाभ देती"
+    }
+  ],
+  "timestamp": "2026-08-08T00:21:25.310770026Z",
+  "model": "glm-5.2"
+}

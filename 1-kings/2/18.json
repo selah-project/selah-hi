@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब बत शेबा ने कहा: “अच्छा; मैं तेरे लिए राजा से बोलूँगी।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "तब ⟨उसने⟩ कहा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलूँगी"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟕ के पास"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:18.262481785Z",
+  "model": "glm-5.2"
+}

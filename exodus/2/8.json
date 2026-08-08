@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और फरौन की बेटी ने उससे कहा, “जाओ।” और कन्या गई, और उसने ⟨את⟩ बालक की माँ को बुलाया।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "और-उसने-कहा"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जाओ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "और-गई"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "कन्या"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "और-उसने-बुलाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बालक-की-माँ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माँ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बालक"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:43.818300906Z",
+  "model": "glm-5.2"
+}

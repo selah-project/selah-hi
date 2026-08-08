@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और अब्राहाम ने फिर ⟨एक⟩ स्त्री ली, और उसका नाम केतूरा था।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "और फिर"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अब्राहाम ने"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "और ली"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "और उसका नाम"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "केतूरा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:02.727074311Z",
+  "model": "glm-5.2"
+}

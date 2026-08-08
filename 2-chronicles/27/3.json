@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "उसने ⟨את⟩ यहवे के भवन का ऊपरी द्वार बनाया, और हाओपेल की दीवार पर उसने बहुत बनाया।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "उसने"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "द्वार"
+    },
+    {
+      "surface": "שער",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ऊपरी"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "और दीवार पर"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "हाओपेल की"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-08T00:09:54.644017692Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "लोद, खादीद और ओनो के बेटे, सात सौ इक्कीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "לד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "खादीद"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "और ओनो"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "और एक"
+    }
+  ],
+  "timestamp": "2026-08-08T01:01:26.408388174Z",
+  "model": "glm-5.2"
+}

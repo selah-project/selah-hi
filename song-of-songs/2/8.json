@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मेरे प्रिय का ध्वनि! सुनो, ⟨वह⟩ यह आ रहा है, पर्वतों पर उछलता हुआ, टीलों पर कूदता हुआ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ध्वनि"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "मेरे प्रिय का"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा है"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "उछलता हुआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पर्वतों"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "कूदता हुआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "टीलों"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:58.279845992Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और बिल्हा के बेटे — राहेल की दासी — ⟨थे⟩ दान और नप्तली।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "और नप्तली"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:32.373550922Z",
+  "model": "glm-5.2"
+}

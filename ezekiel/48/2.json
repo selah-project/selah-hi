@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और दान के गबूल पर: मफ़्आत से पूर्व की, और फ़्आत तक समुद्र की — आशेर ⟨है⟩ एक।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "गबूल"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान के"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "मफ़्आत से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्व की"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "फ़्आत"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुद्र की"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:03.004991422Z",
+  "model": "glm-5.2"
+}

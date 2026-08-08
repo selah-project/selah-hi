@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और अदाम ने अपनी पत्नी का नाम हव्वा रखा, क्योंकि वह सब जीवों की माता बनी थी।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "और उसने नाम रखा"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "अदाम ने"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "अपनी पत्नी का"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "हव्वा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "थी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवों की"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:40.951964111Z",
+  "model": "glm-5.2"
+}

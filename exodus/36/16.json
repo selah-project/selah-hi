@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और उसने ⟨את⟩ पाँच पर्दे अलग से जोड़े, और ⟨את⟩ छह पर्दे अलग से।",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "और उसने जोड़े"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाँच पर्दे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "पर्दे"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग से"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "छह पर्दे"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "पर्दे"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "अलग से"
+    }
+  ],
+  "timestamp": "2026-08-08T02:09:32.996194098Z",
+  "model": "glm-5.2"
+}

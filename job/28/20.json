@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और ज्ञान कहाँ से आता है, और समझ का स्थान कहाँ है?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "और ज्ञान"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कहाँ से"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आता है"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "और कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "है"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:29:33.035707753Z",
+  "model": "glm-5.2"
+}

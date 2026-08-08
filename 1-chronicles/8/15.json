@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और ज़बद्याह, और अराद और एदेर;",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "और ज़बद्याह"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "और अराद"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "और एदेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:02.519746626Z",
+  "model": "glm-5.2"
+}

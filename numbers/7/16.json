@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक बकरा, बकरियों का, एक पाप-भेंट के लिए।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "एक बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरियों का"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-भेंट के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:46.404769144Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और मशोबाब, और यमलेक, और योशा, अमत्सयाह का पुत्र,",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "और मशोबाब"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और यमलेक"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "और योशा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "अमत्सयाह का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:49.623020820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "निःसन्देह मेरे विरुद्ध वह फिरता है, सारा दिन वह अपना हाथ पलटता है।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "निःसन्देह"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मेरे विरुद्ध"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "वह फिरता है"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "पलटता है"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:40.673790296Z",
+  "model": "glm-5.2"
+}

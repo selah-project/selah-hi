@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "लेवी के बेटे — गेरेशोन, कहात और मरारी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरेशोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "और मरारी"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:01.720990980Z",
+  "model": "glm-5.2"
+}

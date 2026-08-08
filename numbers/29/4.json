@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और एक दसवेंांश, एक मेढ़े के लिए, सात मेढ़ों के लिए।",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "और-दसवेंांश"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "मेढ़े के लिए"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात के लिए"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "मेढ़ों"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:24.944567314Z",
+  "model": "glm-5.2"
+}

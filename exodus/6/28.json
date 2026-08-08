@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और उस दिन जब यहवे ने मोशे से मिस्रयिम के देश में बात की,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:01:11.645273981Z",
+  "model": "glm-5.2"
+}

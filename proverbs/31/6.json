@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "मदिरा दो नष्ट होने वाले को, और द्राक्षारस उसे जो नफ्स में कड़वा है।",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "दो"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "मदिरा"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "नष्ट होने वाले को"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "और द्राक्षारस"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "उसे जो कड़वा है"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफ्स में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:12.022263976Z",
+  "model": "glm-5.2"
+}

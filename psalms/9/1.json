@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "मुख्य संगीतकार के लिए, ढलान-पर, दावीद का मज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "मुख्य संगीतकार के लिए"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "ढलान-पर"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "(शीर्षक)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:47.119722318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 85,
+  "translation": "महिला-गायक के लिए, कोरह के बेटों के लिए, ⟨एक⟩ मज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महिला-गायक के लिए"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों के लिए"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मोर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:07.034688229Z",
+  "model": "glm-5.2"
+}

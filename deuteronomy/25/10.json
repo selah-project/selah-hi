@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और उसका नाम इस्राएल में पुकारा जाएगा, 'चर्म्मुतार का घर।'",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "और पुकारा जाएगा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "चर्म्मुतार"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "जूता का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:58.149189346Z",
+  "model": "glm-5.2"
+}

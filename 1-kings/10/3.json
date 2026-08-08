@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और शलोमोह ने उसे ⟨את⟩ उसके सब प्रश्न बताए — राजा से कोई बात छिपी नहीं थी जिसे उसने उसे न बताया।",
+  "tokens": [
+    {
+      "surface": "ולגד",
+      "gloss": "और बताए"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब प्रश्न"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "उसके प्रश्न"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "छिपी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बताया"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:38:59.570281305Z",
+  "model": "glm-5.2"
+}

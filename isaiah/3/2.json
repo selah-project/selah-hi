@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "बहादुर और युद्ध-पुरुष, न्यायी और नबी, ज्योतिषी और वृद्ध —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "बहादुर"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "और पुरुष"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध का"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "और नबी"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "और ज्योतिषी"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "और वृद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T21:55:26.399889718Z",
+  "model": "glm-5.2"
+}

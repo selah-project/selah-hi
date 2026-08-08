@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "पहले दिन मिकरा-कोदेश ⟨है⟩ — हर मेलेखेत-अबोदा न करो।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "मिकरा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कोदेश"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "मेलेखेत"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "अबोदा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:00.717514203Z",
+  "model": "glm-5.2"
+}

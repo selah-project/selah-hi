@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "इस्राएलियों के प्रति कह: बैल और भेड़ और बकरी — किसी भी प्रकार का चर्बी तुम न खाओ।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कह कि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी प्रकार का"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चर्बी"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "और भेड़"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "और बकरी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:38.543680083Z",
+  "model": "glm-5.2"
+}

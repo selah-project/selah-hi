@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और न केवल तुम्हारे साथ ⟨ही⟩ — मैं आज ⟨את⟩ इस बर्तन को और ⟨את⟩ इस श्राप को काट रहा हूँ;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "तुम्हारे साथ"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "केवल तुम ही"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काट रहा हूँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस बर्तन को"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "इस बर्तन को"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "इस श्राप को"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इस श्राप को"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:57.365014711Z",
+  "model": "glm-5.2"
+}

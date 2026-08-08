@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और तू लौटेगा और यहवे की आज्ञा मानेगा, और उसके सब ⟨את⟩ आदेशों को करेगा जो मैं आज तुझे आज्ञा देता हूँ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "लौटेगा"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "और-मानेगा"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "की आज्ञा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "और-करेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब आदेशों"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "उसके आदेशों"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुझे आज्ञा देता हूँ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:23.880156991Z",
+  "model": "glm-5.2"
+}

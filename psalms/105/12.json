@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 105,
+  "translation": "जब वे गिनती के लोग थे, बहुत थोड़े, और उसमें गरिम थे,",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "जब वे थे"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गिनती के"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "וגרिझ",
+      "gloss": "और परदेशी"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:57.891419676Z",
+  "model": "glm-5.2"
+}

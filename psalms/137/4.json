@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 137,
+  "translation": "कैसे हम गाएँ ⟨את⟩ यहवे का गीत एक परदेशी भूमि पर?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "हम गाएँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे का गीत"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "परदेशी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:55.150829714Z",
+  "model": "glm-5.2"
+}

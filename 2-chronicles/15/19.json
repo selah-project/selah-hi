@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और युद्ध नहीं था असा के राज्य के पैंतीसवें वर्ष तक।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "और युद्ध"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "था"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज्य के"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "असा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:08.901403333Z",
+  "model": "glm-5.2"
+}

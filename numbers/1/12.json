@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "दान के लिए — अहीएज़र, अम्मीशद्दय का पुत्र।",
+  "tokens": [
+    {
+      "surface": "לְדָ֕ן",
+      "gloss": "दान के लिए"
+    },
+    {
+      "surface": "אֲחִיעֶ֖זֶר",
+      "gloss": "अहीएज़र"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עַמִּֽישַׁדָּֽי",
+      "gloss": "अम्मीशद्दय"
+    }
+  ],
+  "timestamp": "2026-08-07T20:27:00.965864181Z",
+  "model": "glm-5.2"
+}

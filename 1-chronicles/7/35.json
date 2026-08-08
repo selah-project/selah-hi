@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और उसके भाई हेलेम के बेटे थे — त्सोफख, यिम्ना, शेलेश और अमल।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "हेलेम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसके भाई"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोफख"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "और यिम्ना"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "और शेलेश"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "और अमल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:49.585840758Z",
+  "model": "glm-5.2"
+}

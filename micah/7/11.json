@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बाड़ बनाने का दिन — उस दिन ⟨अट्टा⟩ सीमा दूर कर दी जाएगी।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाने का"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "तेरी बाड़"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "दूर कर दी जाएगी"
+    },
+    {
+      "surface": "חק",
+      "gloss": "सीमा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:38:39.285545258Z",
+  "model": "glm-5.2"
+}

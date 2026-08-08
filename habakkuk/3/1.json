@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "प्रार्थना ⟨है⟩ लहबक्कूक ⟨है⟩ नबी ⟨की⟩, उसके शिग्योनोत पर।",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "प्रार्थना"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "लहबक्कूक ⟨की⟩"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "शिग्योनोत"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:54.129115395Z",
+  "model": "glm-5.2"
+}

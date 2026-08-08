@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और सरै, अवराम की पत्नी, ने उसे नहीं जना; और उसके लिए एक दासी थी, मिस्री, और उसका नाम हागार था।",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "और सरै"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जना"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "और उसके लिए"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "मिस्री"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "और उसका नाम"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "हागार"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:47.620449138Z",
+  "model": "glm-5.2"
+}

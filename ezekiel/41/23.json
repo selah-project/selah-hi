@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "और दो कपाट ⟨थे⟩ हेखल के लिए और पवित्र-स्थान के लिए।",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "कपाट"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "हेखल के लिए"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "और पवित्र-स्थान के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:35:37.521430913Z",
+  "model": "glm-5.2"
+}

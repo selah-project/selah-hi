@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "क्या मैं बैलों का माँस खाऊँ? और बकरों का लहू पीऊँ?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "क्या मैं खाऊँ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "माँस"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "बैलों का"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "और लहू"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "बकरों का"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "पीऊँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:48.795313104Z",
+  "model": "glm-5.2"
+}

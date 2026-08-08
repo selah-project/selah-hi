@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और दूसरे नदी का नाम गिहोन है; ⟨वही⟩ ⟨है⟩ जो सारी कूश देश के चारों ओर घेरता है।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "और … का नाम"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "गिहोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "घेरता है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:52.509004833Z",
+  "model": "glm-5.2"
+}

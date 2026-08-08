@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "उसने उनसे कहा, “और तीन दिन जाओ और मेरे पास लौट आओ,” और वे लोग चले गए।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "उसने कहा"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "जाओ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "और"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "और लौट आओ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "और वे चले गए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    }
+  ],
+  "timestamp": "2026-08-08T02:31:07.391736496Z",
+  "model": "glm-5.2"
+}

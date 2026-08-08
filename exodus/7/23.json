@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और फरौह मुड़ा और अपने घर गया, और उसने इस बात पर भी अपना हृदय नहीं लगाया।",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "और मुड़ा"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "अपने घर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שת",
+      "gloss": "लगाया"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "अपना हृदय"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "इस बात पर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:01:12.212970115Z",
+  "model": "glm-5.2"
+}

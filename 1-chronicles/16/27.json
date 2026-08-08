@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "उसके सम्मुख वैभव और महिमा ⟨हैं;⟩ उसके स्थान में सामर्थ्य और हर्ष ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "वैभव"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "और महिमा"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "उसके सम्मुख"
+    },
+    {
+      "surface": "עז",
+      "gloss": "सामर्थ्य"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "और हर्ष"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "उसके स्थान में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:06.050265159Z",
+  "model": "glm-5.2"
+}

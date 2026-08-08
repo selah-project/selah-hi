@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 17:22",
+  "book": "2-kings",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और इस्राएल के बेटे यरोबाम के सब पापों में चले, जो उसने किए; वे उनसे न हटे।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "और चले"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "के सब"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "पापों में"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरोबाम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "उसने किए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "हटे"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "उनसे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:51:43.065547034Z",
+  "model": "glm-5.2"
+}

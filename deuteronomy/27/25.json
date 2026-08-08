@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "धिक्कार है वह जो रिश्वत लेता है निर्दोष जीव के रक्त को प्रहार करने के लिए, और कहे कोल हाअम् आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कार है"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लेता है"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "रिश्वत"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "प्रहार करने के लिए"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निर्दोष"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और कहे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "हाअम्"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:48.448186002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और उन्होंने ⟨את⟩ अपना अनाज अपने गदहों पर लादा, और वहाँ से चले गए।",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "और उन्होंने लादा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना अनाज"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "उनका अनाज"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "उनके गदहे"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "और चले गए"
+    },
+    {
+      "surface": "משם",
+      "gloss": "वहाँ से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:56:34.181812781Z",
+  "model": "glm-5.2"
+}

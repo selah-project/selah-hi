@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 35:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "⟨את⟩ तीन नगर तुम यर्दन के पार दो, और ⟨את⟩ तीन नगर तुम कनान देश में दो; शरण-नगर ⟨होंगे⟩।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तीन नगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तुम दो"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "पार"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "यर्दन के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "तीन नगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तुम दो"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "शरण"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨होंगे⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:44.621098408Z",
+  "model": "glm-5.2"
+}

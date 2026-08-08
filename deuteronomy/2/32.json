@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब सीहोन हमारा सामना करने निकला — वह और उसका सारा लोक — यहात्सा की ओर युद्ध करने।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "तब निकला"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "सीहोन"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "हमारा सामना करने"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "लोक"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "युद्ध करने"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "यहात्सा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:03.365022663Z",
+  "model": "glm-5.2"
+}

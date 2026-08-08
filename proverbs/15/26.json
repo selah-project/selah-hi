@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "बुरे विचार यहवे के लिए घृणित ⟨हैं⟩, और पवित्र ⟨हैं⟩ प्रिय बातें।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरे"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "पवित्र ⟨हैं⟩"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "बातें"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "प्रिय"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:00.323103867Z",
+  "model": "glm-5.2"
+}

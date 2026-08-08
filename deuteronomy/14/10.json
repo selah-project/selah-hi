@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और सब ⟨जो⟩ जिसके लिए खर्दल और शल्क नहीं ⟨है⟩ उसे तुम न खाओ; ⟨वह⟩ तुम्हारे लिए अशुद्ध है।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "לו",
+      "gloss": "जिसके लिए"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "खर्दल"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "और शल्क"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:43.123395264Z",
+  "model": "glm-5.2"
+}

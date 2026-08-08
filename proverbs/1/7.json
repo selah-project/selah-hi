@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यहवे का भय ज्ञान का आरम्भ ⟨है⟩; बुद्धि और अनुशासन को मूर्ख तुच्छ समझते ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "का भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "आरम्भ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "और अनुशासन"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "तुच्छ समझते हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:40.449562182Z",
+  "model": "glm-5.2"
+}

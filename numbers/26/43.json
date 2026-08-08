@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 26:43",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "सब शूहामी कुल, उनके गिने गए, चार और साठ हज़ार और चार सौ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השוחמי",
+      "gloss": "शूहामी"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "उनके गिने गए"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:16.521297249Z",
+  "model": "glm-5.2"
+}

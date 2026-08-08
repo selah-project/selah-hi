@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और दास ने यित्सहाक को ⟨את⟩ सब बातें, जो उसने की थीं, सुनाईं।",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "और उसने सुनाईं"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सहाक को"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब बातें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातें"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "उसने की थीं"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:02.014438216Z",
+  "model": "glm-5.2"
+}

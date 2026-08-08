@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और यहवे ने यिज़किय्याहू की ⟨आवाज़⟩ सुनी, और उसने ⟨את⟩ ⟨का⟩ जनता को चंगा किया।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुनी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "यिज़किय्याहू"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "और चंगा किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनता को"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-08T01:17:33.693546856Z",
+  "model": "glm-5.2"
+}

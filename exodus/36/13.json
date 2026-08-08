@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और उसने पचास सुनहरे हुक बनाए, और ⟨את⟩ ⟨the⟩ पर्दों को एक-⟨the⟩ दूसरे से हुकों से जोड़ा, और ⟨the⟩ निवास एक ⟨हो गया⟩।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने बनाया"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "हुक"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनहरे"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "और उसने जोड़ा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दों को"
+    },
+    {
+      "surface": "הירעת",
+      "gloss": "⟨the⟩ पर्दों को"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "हुकों से"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हो गया⟩"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨the⟩ निवास"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-08T02:09:35.463496183Z",
+  "model": "glm-5.2"
+}

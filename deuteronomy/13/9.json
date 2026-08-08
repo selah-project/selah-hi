@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "तुम उसकी इच्छा न करो, और न उसकी सुनो; और न तुम्हारी आँख उस पर दया करे, और न तुम छोड़ो, और न तुम उसे ढको।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "इच्छा करो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसकी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसकी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया करे"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तुम्हारी आँख"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "छोड़ो"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ढको"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:55.221011640Z",
+  "model": "glm-5.2"
+}

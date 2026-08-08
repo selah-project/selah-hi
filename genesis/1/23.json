@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और साँझ हुई, और भोर हुआ — पाँचवाँ दिन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुई"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "पाँचवाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:38.093673433Z",
+  "model": "glm-5.2"
+}

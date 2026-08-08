@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "वे तेरे अपने लिए अकेले हों, और पराये लोग तेरे साथ न हों।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "वे हों"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और न"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "परायों के लिए"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:11.695904564Z",
+  "model": "glm-5.2"
+}

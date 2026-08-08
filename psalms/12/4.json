@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "काट डाले यहवे सभी चिकनी ओठों ⟨को⟩; ज़बान जो बड़ी बातें बोलती है —",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "काट डाले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठों"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "चिकनी"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ज़बान"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "बोलती है"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "बड़ी बातें"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:39.268870022Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "ये हैं दीशान के बेटे: उत्स और अरान।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दीशान"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "और अरान"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:20.385598407Z",
+  "model": "glm-5.2"
+}

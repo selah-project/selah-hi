@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 83,
+  "translation": "गीत, वाद्य-स्तोत्र, ले-असाफ के लिए।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "वाद्य-स्तोत्र"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ले-असाफ के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:05:27.574143832Z",
+  "model": "glm-5.2"
+}

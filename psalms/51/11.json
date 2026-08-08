@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "अपने पापों से अपना चेहरा छिपा; और मेरे सब अधर्मों को मिटा।",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "छिपा"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "अपना चेहरा"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "मेरे पापों से"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "मेरे अधर्मों को"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "मिटा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:04.545450099Z",
+  "model": "glm-5.2"
+}

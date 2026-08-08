@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "इस्राएल के बेटों से कहो और उनसे कहना कि तुम ⟨את⟩ यर्देन को पार कर रहे हो कनान देश में।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कहो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "और कहना"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार कर रहे हो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्देन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:16.082884212Z",
+  "model": "glm-5.2"
+}

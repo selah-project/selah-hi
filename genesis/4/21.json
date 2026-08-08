@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उसके भाई का नाम यूबल था; वह हर वीणा और बांसुरी पकड़ने वाले का पिता था।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसके भाई का"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "यूबल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "पकड़ने वाले का"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "वीणा"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "और बांसुरी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:26.217901980Z",
+  "model": "glm-5.2"
+}

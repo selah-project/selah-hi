@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 111,
+  "translation": "सदा के लिए, अनन्तकाल तक स्थिर; सत्य और सीधेपन में रचे गए।",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "स्थिर"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "अनन्तकाल तक"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "रचे गए"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "सत्य में"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "और सीधेपन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:47:12.021195057Z",
+  "model": "glm-5.2"
+}

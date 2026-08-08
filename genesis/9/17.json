@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और एलोहीम ने नोख से कहा, “यह उस बर्त का चिह्न है जो मैं ने अपने और पृथ्वी पर के सब बासर के बीच स्थापन किया है।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोख"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चिह्न"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "बर्त का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "मैं ने स्थापन किया"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "अपने और"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "बासर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.951504875Z",
+  "model": "glm-5.2"
+}

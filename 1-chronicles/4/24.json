@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "शिमोन के पुत्र: नमूएल और यामीन, यारीब, ज़ेरख, शाऊल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के पुत्र"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "नमूएल"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "और यामीन"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "यारीब"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरख"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:20.528740917Z",
+  "model": "glm-5.2"
+}

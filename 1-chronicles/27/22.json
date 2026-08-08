@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "दान के लिए यरोहाम का पुत्र अज़रएल ⟨था⟩। ये यिस्राएल के शब्तों के सार थे।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "दान के लिए"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "अज़रएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोहाम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सार"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "शब्तों के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:02:50.797843315Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "उसने अपने लिए आवरण बनाए; बारीक सन और बैंजनी उसका वस्त्र ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "आवरण"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसने अपने लिए"
+    },
+    {
+      "surface": "שש",
+      "gloss": "बारीक सन"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "और बैंजनी"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "उसका वस्त्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.057097050Z",
+  "model": "glm-5.2"
+}

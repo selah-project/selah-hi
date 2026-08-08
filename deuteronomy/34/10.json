@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और इस्राएल में मोशे के समान कोई नबी फिर नहीं उठा, जिसे यहवे जानता था — मुख से मुख तक।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल में"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "मोशे के समान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानता था"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुख"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:20.469882263Z",
+  "model": "glm-5.2"
+}

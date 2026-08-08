@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "नाम बड़े धन से बढ़कर चुना जाता है, चाँदी और सोने से अच्छा अनुग्रह ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "चुना जाता है"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "धन से"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "चाँदी से"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "और सोने से"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:43.866175055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "वरन् तू भय को तोड़ डालता है, और एल के सामने चिन्तन को घटाता है।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "वरन्"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "तोड़ डालता है"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "भय को"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "और घटाता है"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "चिन्तन को"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:27:12.424941403Z",
+  "model": "glm-5.2"
+}

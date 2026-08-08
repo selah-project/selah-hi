@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "बस दो ⟨बातें⟩ मेरे साथ मत कर; तब मैं तुझसे नहीं छिपूँगा।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "बस"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "कर"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "छिपूँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:26:35.919118379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और यहवे ने मुझसे कहा: तू इस प्रजा के लिए भलाई की प्रार्थना न कर।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "तू प्रार्थना कर"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "इस प्रजा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भलाई की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:24:39.016856710Z",
+  "model": "glm-5.2"
+}

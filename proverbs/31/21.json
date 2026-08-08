@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "वह अपने घर के लिए बर्फ़ से नहीं डरती, क्योंकि उसका सारा घर लाल वस्त्र पहनाया ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरती"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "अपने घर के लिए"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "बर्फ़ से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "उसका घर"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "पहनाया गया"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "लाल वस्त्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.056863223Z",
+  "model": "glm-5.2"
+}

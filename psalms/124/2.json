@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 124,
+  "translation": "यदि यहवे हमारे लिए न होता, जब मनुष्यों ने हम पर उठना चाहा,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "यदि न"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "होता"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "के उठने पर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्यों ने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:54.313269026Z",
+  "model": "glm-5.2"
+}

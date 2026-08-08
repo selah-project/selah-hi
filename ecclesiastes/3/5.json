@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "पत्थर फेंकने का समय, और पत्थर इकट्ठा करने का समय; गले लगाने का समय, और गले लगाने से दूर रहने का समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फेंकने का"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "इकट्ठा करने का"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "गले लगाने का"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और समय"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "दूर रहने का"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "गले लगाने से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:04.011114932Z",
+  "model": "glm-5.2"
+}

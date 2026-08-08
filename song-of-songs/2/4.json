@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "उसने मुझे मदिरा-गृह में लाया, और प्रेम उसका मुझ पर ध्वज है।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "उसने मुझे लाया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "गृह"
+    },
+    {
+      "surface": "היין",
+      "gloss": "मदिरा"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "और उसका ध्वज"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "प्रेम है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:57.082752966Z",
+  "model": "glm-5.2"
+}

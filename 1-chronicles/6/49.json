@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यिस्राएल के बेटों ने लेवियों को ⟨את⟩ नगर और ⟨את⟩ उनके चरागाह दिए।",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "और दिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों ने"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "लेवियों को"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नगर"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उनके चरागाह"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "उनके चरागाह"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:25.264068497Z",
+  "model": "glm-5.2"
+}

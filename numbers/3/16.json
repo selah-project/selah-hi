@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तब मोशे ने उनकी गणना यहवे के वचन के अनुसार की, जैसा उसे आज्ञा दी गई थी।",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "तब गणना की"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ उनकी",
+      "marks": "उनकी गणना"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "के अनुसार"
+    },
+    {
+      "surface": "פי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "उसे आज्ञा दी गई थी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:28:37.180335846Z",
+  "model": "glm-5.2"
+}

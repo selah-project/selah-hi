@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और ⟨את⟩ दोनों गुर्दे और ⟨את⟩ ⟨ह⟩ चरबी जो उन पर है, जो कमर पर है, और ⟨את⟩ ⟨ह⟩ यकृत पर की पर्दा — गुर्दों के साथ वह उसे हटाए।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "दोनों"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दोनों"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "गुर्दे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "कमर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "यकृत"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "गुर्दे"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "वह उसे हटाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:16.831330483Z",
+  "model": "glm-5.2"
+}

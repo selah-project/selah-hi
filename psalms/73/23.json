@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 73,
+  "translation": "और मैं सदा तेरे साथ ⟨हूँ⟩; तू ने मेरा दाहिना हाथ पकड़ रखा है।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे साथ"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "तू ने पकड़ रखा है"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "मेरा दाहिना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:34.535562423Z",
+  "model": "glm-5.2"
+}

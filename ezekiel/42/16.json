@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "उसने नापा पूर्व दिशा को मापने की छड़ से — पाँच सौ बेंत मापने की छड़ से, चारों ओर।",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "उसने नापा"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा को"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "छड़ से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "मापने की"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "बेंत"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "छड़ से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "मापने की"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-08-08T01:13:51.656203843Z",
+  "model": "glm-5.2"
+}

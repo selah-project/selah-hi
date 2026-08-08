@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "रक्त-बोझ से दबा हुआ मनुष्य ⟨किसी⟩ जीव के खून के लिए गड्ढे तक भागेगा; उसे कोई सहारा न दे।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "दबा हुआ"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "खून के लिए"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בור",
+      "gloss": "गड्ढे"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भागेगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "सहारा दे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-08T03:07:56.764163503Z",
+  "model": "glm-5.2"
+}

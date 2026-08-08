@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और चार बड़े जानवर समुद्र से ऊपर उठे, एक दूसरे से भिन्न।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "जानवर"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ऊपर उठे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "भिन्न"
+    },
+    {
+      "surface": "דא",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "דא",
+      "gloss": "दूसरे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:59:09.106077243Z",
+  "model": "glm-5.2"
+}

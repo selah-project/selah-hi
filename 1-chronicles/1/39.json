@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और लोतान के बन्ये: होरी और होमाम; और लोतान की बहिन ⟨थी⟩ तिम्ना।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बन्ये"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "होरी"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "होमाम"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "और बहिन"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिम्ना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:24.687843842Z",
+  "model": "glm-5.2"
+}

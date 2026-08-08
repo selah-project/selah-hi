@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "सुन, हे मेरे पुत्र, और मेरी बातें ग्रहण कर; और तेरे जीवन के वर्ष बढ़ेंगे।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे पुत्र"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "और ग्रहण कर"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "मेरी बातें"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "और बढ़ेंगे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:19.634527138Z",
+  "model": "glm-5.2"
+}

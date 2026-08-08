@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और यित्सहाक के दासों ने नाले में खोदा, और वहाँ एक जीवित जल का कूआँ पाया।",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "और खोदा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासों ने"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाले में"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "और पाया"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कूआँ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    }
+  ],
+  "timestamp": "2026-08-08T00:14:00.476742031Z",
+  "model": "glm-5.2"
+}

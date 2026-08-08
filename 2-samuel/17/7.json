@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और हूशै ने अवशलोम से कहा, “अच्छी नहीं ⟨है⟩ वह सलाह जो अहीतोफेल ने दी है इस बार।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हूशै ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अवशलोम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "अच्छी"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "वह सलाह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "दी है"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अहीतोफेल ने"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "बार में"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T21:30:05.892186104Z",
+  "model": "glm-5.2"
+}

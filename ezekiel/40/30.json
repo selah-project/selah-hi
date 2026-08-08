@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और प्रांगण थे चारों ओर चारों ओर — लम्बाई पच्चीस अम्हा और चौड़ाई पाँच अम्हा।",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "और प्रांगण"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अम्हा"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "और चौड़ाई"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अम्हा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:36:55.811890232Z",
+  "model": "glm-5.2"
+}

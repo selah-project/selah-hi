@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "ताकि तू भलों के मार्ग पर चले, और उचितों के पगों को रक्षा करे।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "तू … चले"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग पर"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "भलों के"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "और … पगों को"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "उचितों के"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रक्षा करे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:30.377380772Z",
+  "model": "glm-5.2"
+}

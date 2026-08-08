@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तब ⟨वह⟩ उठा और ⟨वह⟩ चला, और यहोनातन ⟨नगर⟩ में आया।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "तब ⟨वह⟩ उठा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और ⟨वह⟩ चला"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "और यहोनातन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आया"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨नगर⟩ में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:21:16.527232790Z",
+  "model": "glm-5.2"
+}

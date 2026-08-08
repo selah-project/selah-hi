@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यहवे ने तुम्हारे पिता–ओं पर भयंकर क्रोध किया।",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "क्रोध किया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "तुम्हारे पिता–ओं"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "क्रोध"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:53.147657107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "धनी का धन उसका बलिष्ठ नगर ⟨है⟩, दरिद्रों का विनाश उनकी निर्धनता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी का"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "उसका बलिष्ठ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "दरिद्रों का"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "उनकी निर्धनता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:45.679775429Z",
+  "model": "glm-5.2"
+}

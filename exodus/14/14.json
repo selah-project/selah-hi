@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "“यहवे तुम्हारे लिए युद्ध करेगा, और तुम चुप रहोगे।”",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "युद्ध करेगा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "और तुम"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "चुप रहोगे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:05:02.609250100Z",
+  "model": "glm-5.2"
+}

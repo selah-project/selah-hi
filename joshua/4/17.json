@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तब यहोशुआ ने ⟨את⟩ ⟨का⟩ ⟨है⟩ कहाँ? — तब यहोशुआ ने ⟨את⟩ ⟨the⟩ याजकों को आज्ञा दी, कहकर, “यर्दन से ऊपर उठो।”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "तो आज्ञा दिया"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याजकों को"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨the⟩ याजक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ऊपर उठो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "⟨the⟩ यर्दन"
+    }
+  ],
+  "timestamp": "2026-08-08T02:21:49.520954974Z",
+  "model": "glm-5.2"
+}

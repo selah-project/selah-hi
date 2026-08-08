@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और लूत उनके पास ⟨के⟩ द्वार ⟨तक⟩ निकला, और उसने द्वार अपने पीछे बन्द किया।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनके पास"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लूत"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "द्वार तक"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "और द्वार"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बन्द किया"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "अपने पीछे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:14.636681577Z",
+  "model": "glm-5.2"
+}

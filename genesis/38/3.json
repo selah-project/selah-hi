@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "और वह गर्भवती हुई, और एक पुत्र को जन्म दिया, और उसने ⟨את⟩ उसका नाम एर रखा।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "और गर्भवती हुई"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र को"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "और पुकारा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसका नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:54:35.445306425Z",
+  "model": "glm-5.2"
+}

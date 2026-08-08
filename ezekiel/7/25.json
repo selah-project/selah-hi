@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "संकट आ रहा ⟨है⟩; और वे शान्ति के लिए ढूँढ़ेंगे और ⟨कुछ नहीं⟩ होगा।",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "संकट"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा ⟨है⟩"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "और वे ढूँढ़ेंगे"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और ⟨कुछ नहीं⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T22:26:15.650605202Z",
+  "model": "glm-5.2"
+}

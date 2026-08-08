@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "सत्रहवाँ चेज़ीर के लिए, अठारहवाँ हप्पित्सेस के लिए।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "चेज़ीर के लिए"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—सत्रहवाँ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "हप्पित्सेस के लिए"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—अठारहवाँ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:25.524714877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "रोटी नहीं खाई है और दाखरस और मदिरा नहीं पी है, इसलिए कि तुम जानो कि मैं यहवे तुम्हारा एलोहीम हूँ।",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "तुमने खाई"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "और दाखरस"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "और मदिरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "तुमने पी"
+    },
+    {
+      "surface": "למען",
+      "gloss": "इसलिए कि"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "तुम जानो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुम्हारा एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:52.493223692Z",
+  "model": "glm-5.2"
+}

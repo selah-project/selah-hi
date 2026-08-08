@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "यहवे ने ⟨את⟩ हमारे पितरों के साथ इस ब्रित को नहीं काटी, बल्कि हमारे साथ — हम ये यहाँ आज सब जीवित हैं।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨साथ⟩",
+      "marks": "हमारे पितरों"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "हमारे पितरों"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस ब्रित"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "इस ब्रित"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "हमारे साथ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "פה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "हम सब"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:01.750028896Z",
+  "model": "glm-5.2"
+}

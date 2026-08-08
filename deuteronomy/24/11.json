@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "बाहर खड़ा रहना, और जिस व्यक्ति पर तू ऋण देता है वह तेरे पास ⟨את⟩ गिरवी को बाहर लाएगा।",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "खड़ा रहना"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "और वह व्यक्ति"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिस"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "ऋण देता है"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "लाएगा"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हैगिरवी"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "गिरवी को"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "बाहर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.823207193Z",
+  "model": "glm-5.2"
+}

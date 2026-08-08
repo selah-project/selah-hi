@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब योआब उठा और गशूर गया और यरूशलम ले आया ⟨את⟩ अबशलोम को।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "और उठा"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "गशूर"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और ले आया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अबशलोम को"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशलोम को"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलम"
+    }
+  ],
+  "timestamp": "2026-08-07T21:29:09.745521121Z",
+  "model": "glm-5.2"
+}

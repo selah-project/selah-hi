@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "चौथा यित्स्री के लिए, उसके बेटे और उसके भाई बारह थे।",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथा"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "यित्स्री के लिए"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके बेटे"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:34.347441407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और ⟨मेरी⟩ नफशी शान्ति से दूर हो गई; मैंने भलाई भुला दी।",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "और दूर हो गई"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "शान्ति से"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨मेरी⟩ नफशी"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "मैंने भुला दी"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:34.111441410Z",
+  "model": "glm-5.2"
+}

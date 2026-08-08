@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "यदि वह दीवार ⟨है⟩, तो हम उस पर चाँदी का बुर्ज बनाएँगे; और यदि वह द्वार ⟨है⟩, तो हम उस पर देवदार का तख्ता जड़ देंगे।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह ⟨है⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "हम बनाएँगे"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "बुर्ज"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह ⟨है⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "हम जड़ देंगे"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "देवदार"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:35.547156254Z",
+  "model": "glm-5.2"
+}

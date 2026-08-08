@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 89,
+  "translation": "ध्यान हो यहवे को ⟨के⟩ सदा ⟨के लिए⟩; आमेन और आमेन।",
+  "tokens": [
+    {
+      "surface": "בָּר֖וּךְ",
+      "gloss": "ध्यान हो"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לְ֝עוֹלָ֗ם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "אָ֘מֵ֥ן",
+      "gloss": "आमेन"
+    },
+    {
+      "surface": "וְאָמֵֽן",
+      "gloss": "और आमेन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:22.128968753Z",
+  "model": "glm-5.2"
+}

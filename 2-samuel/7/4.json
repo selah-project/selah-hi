@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यह हुआ उसी रात को, और यहवे का वचन नातान के पास ⟨आया⟩, कहने के लिए—",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और यह हुआ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात को"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हुआ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:26:42.844211764Z",
+  "model": "glm-5.2"
+}

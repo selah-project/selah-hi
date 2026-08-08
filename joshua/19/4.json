@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और एलतोलद और बेतूल और खर्मा।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "और एलतोलद"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "और बेतूल"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "और खर्मा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:02.556466534Z",
+  "model": "glm-5.2"
+}

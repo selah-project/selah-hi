@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "इसलिए कह: सुन, मैं उसे अपना शांति-ब्रित देता हूँ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "मैं देता हूँ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना शांति-ब्रित"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "अपना ब्रित"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शांति"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:32.529244047Z",
+  "model": "glm-5.2"
+}

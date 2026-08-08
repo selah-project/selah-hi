@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और जब तेरा भाई तेरे पास निर्धन हो और तुझे बेचा जाए, तू उससे दास की सेवा न करवा।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और जब"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "निर्धन हो"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरा भाई"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "और बेचा जाए"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "करवा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:34.665063088Z",
+  "model": "glm-5.2"
+}

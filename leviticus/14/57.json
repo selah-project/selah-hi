@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "लिखाने के लिए — ⟨कि कौन⟩ अशुद्ध ⟨है⟩ और ⟨कि कौन⟩ शुद्ध ⟨है⟩; यह चर्मरोग की तोरह है।",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "लिखाने के लिए"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "⟨कि⟩"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "और ⟨कि⟩"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरह"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "चर्मरोग"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:48.264749127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "त्सेलेक हाअम्मोनी, नचरय हब्बेरोती, योआब बेन-त्सरुयाह के छले का वाहक।",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "त्सेलेक"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "हाअम्मोनी"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "नचरय"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "हब्बेरोती"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "वाहक"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "छले"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरुयाह"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:24.599354769Z",
+  "model": "glm-5.2"
+}

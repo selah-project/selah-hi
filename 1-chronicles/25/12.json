@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "पाँचवाँ नतन्याहू, उसके बेटे और उसके भाई बारह थे।",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचवाँ"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "नतन्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके बेटे"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:34.347548567Z",
+  "model": "glm-5.2"
+}

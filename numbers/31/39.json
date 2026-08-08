@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और गधे तीस हज़ार पाँच सौ, और उनका कर यहवे के लिए ⟨था⟩ इकसठ।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "और गधे"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "और उनका कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:33.609282245Z",
+  "model": "glm-5.2"
+}

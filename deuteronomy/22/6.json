@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 22:6",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "जब तेरे मार्ग में, किसी वृक्ष पर या भूमि पर पक्षियों का घोंसला मिले — चाहे चूज़े हों या अंडे — और मादा चूज़ों या अंडों पर बैठी हो, तो बच्चों के साथ मादा को न ले जाना।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "मिले"
+    },
+    {
+      "surface": "קן",
+      "gloss": "घोंसला"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "पक्षियों"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तेरे सामने"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग में"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "אפרחים",
+      "gloss": "चूज़े"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "ביצים",
+      "gloss": "अंडे"
+    },
+    {
+      "surface": "והאם",
+      "gloss": "और मादा"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "बैठी हो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האפרחים",
+      "gloss": "चूज़ों"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הביצים",
+      "gloss": "अंडों"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ले जाना"
+    },
+    {
+      "surface": "האם",
+      "gloss": "मादा को"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "बच्चों"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:04.885292302Z",
+  "model": "glm-5.2"
+}

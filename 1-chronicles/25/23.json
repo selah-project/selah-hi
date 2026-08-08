@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 25:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "सोलहवें ⟨के लिए⟩ हनन्याहू, उसके पुत्र और उसके भाई — बारह थे।",
+  "tokens": [
+    {
+      "surface": "לששה",
+      "gloss": "सोलहवें ⟨के लिए⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחנניהו",
+      "gloss": "हनन्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:28.270588215Z",
+  "model": "glm-5.2"
+}

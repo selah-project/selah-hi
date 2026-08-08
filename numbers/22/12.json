@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और एलोहीम ने बिलाम से कहा: “इनके साथ मत जाना; ⟨את⟩ उस जाति को श्राप मत देना, क्योंकि वह धन्य है।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "इनके साथ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "श्राप देना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उस जाति"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:37.358934367Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "बन्द बगीचा ⟨है⟩ मेरी बहन, दुलहिन; बन्द कुआँ, सीलबन्द झरना।",
+  "tokens": [
+    {
+      "surface": "גַּ֥ן",
+      "gloss": "बगीचा"
+    },
+    {
+      "surface": "נָע֖וּל",
+      "gloss": "बन्द"
+    },
+    {
+      "surface": "אֲחֹתִ֣י",
+      "gloss": "मेरी बहन"
+    },
+    {
+      "surface": "כַלָּ֑ה",
+      "gloss": "दुलहिन"
+    },
+    {
+      "surface": "גַּ֥ל",
+      "gloss": "कुआँ"
+    },
+    {
+      "surface": "נָע֖וּל",
+      "gloss": "बन्द"
+    },
+    {
+      "surface": "מַעְיָ֥ן",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "חָתֽוּם",
+      "gloss": "सीलबन्द"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:38.204782858Z",
+  "model": "glm-5.2"
+}

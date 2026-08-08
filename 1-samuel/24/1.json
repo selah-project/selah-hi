@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और दाऊद वहाँ से चढ़ा और एन-गदी के दुर्गों में बसा।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "और चढ़ा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "משם",
+      "gloss": "वहाँ से"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और बसा"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "दुर्गों में"
+    },
+    {
+      "surface": "עין",
+      "gloss": "एन"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "-गदी"
+    }
+  ],
+  "timestamp": "2026-08-08T02:27:25.634263892Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और ये ⟨हैं⟩ ⟨वे⟩ नियम जो तुम उनके सामने रखोगे:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और-ये"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "⟨वे⟩ नियम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "तुम रखोगे"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "उनके-सामने"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:50.541889085Z",
+  "model": "glm-5.2"
+}

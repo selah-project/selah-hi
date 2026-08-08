@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 35:20",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और यदि घृणा से उसे धक्का दे, या छिपकर उस पर कुछ फेंके, और वह मर जाए —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "בשנאה",
+      "gloss": "घृणा से"
+    },
+    {
+      "surface": "יהדפנו",
+      "gloss": "धक्का दे उसे"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "फेंके"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "בצדיה",
+      "gloss": "छिपकर"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और वह मर जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:40.540935544Z",
+  "model": "glm-5.2"
+}

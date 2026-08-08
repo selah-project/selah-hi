@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और गेहूँ और कुस्मेत प्रहारित नहीं हुए, क्योंकि वे अविकसित थे।”",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "और गेहूँ"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "और कुस्मेत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "प्रहारित हुए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "अविकसित"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "वे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:09.089820128Z",
+  "model": "glm-5.2"
+}

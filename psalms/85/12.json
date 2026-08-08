@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 85,
+  "translation": "सत्य पृथ्वी से अंकुरित होगी, और दिक्‍कार आकाश से झाँकेगा।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "पृथ्वी से"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "अंकुरित होगी"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "और दिक्‍कार"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "आकाश से"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "झाँकेगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:08.263662098Z",
+  "model": "glm-5.2"
+}

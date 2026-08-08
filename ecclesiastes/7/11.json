@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बुद्धि विरासत के साथ अच्छी है, और उन्हें जो सूर्य देखते हैं एक लाभ है।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "अच्छी है"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "विरासत"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "और एक लाभ है"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "उन्हें जो देखते हैं"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:05.247746709Z",
+  "model": "glm-5.2"
+}

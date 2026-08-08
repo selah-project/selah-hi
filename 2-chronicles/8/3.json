@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और शलोमोह हमत-त्सोबा गया, और उसने उस पर प्रबलता प्राप्त की।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "हमत"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोबा"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "और उसने प्रबलता प्राप्त की"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:04.746496577Z",
+  "model": "glm-5.2"
+}

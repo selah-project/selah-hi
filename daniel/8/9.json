@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 8:9",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उनमें से एक से एक छोटी कर्ण निकली, और वह दक्षिण की ओर और पूर्व की ओर और सुन्दर देश की ओर बहुत बढ़ी।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और से"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनमें से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकली"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "कर्ण"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מצעירה",
+      "gloss": "छोटी"
+    },
+    {
+      "surface": "ותגדל",
+      "gloss": "और बढ़ी"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्षिण"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और की ओर"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और की ओर"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "सुन्दर देश"
+    }
+  ],
+  "timestamp": "2026-08-07T23:45:19.890641529Z",
+  "model": "glm-5.2"
+}

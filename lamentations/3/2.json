@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मुझे ⟨את⟩ उसने चलाया और अँधकार में घुमाया, और नहीं ⟨प्रकाश⟩ में।",
+  "tokens": [
+    {
+      "surface": "אוֹתִ֥י",
+      "gloss": "⟨את⟩",
+      "marks": "मुझे"
+    },
+    {
+      "surface": "נָהַ֛ג",
+      "gloss": "उसने चलाया"
+    },
+    {
+      "surface": "וַיֹּלַ֖ךְ",
+      "gloss": "और घुमाया"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "अँधकार"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "אֽוֹר",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:19.328488168Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरी बहू का नंगत्व तू न खोल; वह तेरे पुत्र की पत्नी है — उसका नंगत्व तू न खोल।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नंगत्व"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "तेरी बहू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "तेरे पुत्र की"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "उसका नंगत्व"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:40.057549641Z",
+  "model": "glm-5.2"
+}

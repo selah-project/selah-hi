@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और हाताक ने ⟨את⟩ मार्द्राकै के वचन एस्तेर को बताए।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हाताक"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "और बताया"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "एस्तेर को"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मार्द्राकै के वचन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्द्राकै के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:40:04.043341154Z",
+  "model": "glm-5.2"
+}

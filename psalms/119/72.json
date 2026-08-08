@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "तेरे मुख का तोरा मुझे हज़ारों स्वर्ण और चाँदी से भला है।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला है"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तेरे मुख का"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "हज़ारों से"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "स्वर्ण"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "और चाँदी"
+    }
+  ],
+  "timestamp": "2026-08-08T03:06:03.541399244Z",
+  "model": "glm-5.2"
+}

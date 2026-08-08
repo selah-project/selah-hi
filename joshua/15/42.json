@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "लिब्ना, और एतेर, और अशान।",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "लिब्ना"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "और एतेर"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "और अशान"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:08.445646638Z",
+  "model": "glm-5.2"
+}

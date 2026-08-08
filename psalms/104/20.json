@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "⟨तू⟩ अन्धकार रखता है और रात होती है; उसमें वन के सम्पूर्ण जीव रमन्ते हैं।",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "रखता है"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्धकार"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨वह⟩ होती है"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "תרमש",
+      "gloss": "रमन्ते हैं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "יער",
+      "gloss": "वन के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:17.780778488Z",
+  "model": "glm-5.2"
+}

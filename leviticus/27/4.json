@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और यदि स्त्री ⟨है⟩, तो तेरा मूल्याङ्कन तीस शेकेल होगा।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨है⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तो होगा"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "तेरा मूल्याङ्कन"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:27:33.950320768Z",
+  "model": "glm-5.2"
+}

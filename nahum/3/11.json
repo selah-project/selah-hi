@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तू भी मदहोश हो जाएगी, छिप जाएगी; तू भी किले की तलाश करेगी शत्रु के कारण।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "तू भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "मदहोश हो जाएगी"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "हो जाएगी"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "छिप"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "तलाश करेगी"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "किले की"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "शत्रु के कारण"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:03.560843812Z",
+  "model": "glm-5.2"
+}

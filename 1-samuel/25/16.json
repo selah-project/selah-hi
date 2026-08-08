@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "“वे हमारे लिए दीवार थे, रात को भी और दिन को भी, सब दिन जब तक हम उनके साथ रहे, भेड़ें चराते हुए;”",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात को"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "जब तक हम रहे"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "उनके साथ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "चराते हुए"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़ें"
+    }
+  ],
+  "timestamp": "2026-08-07T21:22:19.660242447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "आठ वर्ष का बालक योशियाहू अपने राजा होने पर ⟨था⟩, और यरूशलम में इकतीस वर्ष राज किया।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाहू"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "अपने राजा होने पर"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "और एक"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज किया"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलम में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:12:13.671269282Z",
+  "model": "glm-5.2"
+}

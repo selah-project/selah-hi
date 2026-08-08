@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "उसके लिए गाओ, उसके लिए बाजा बजाओ, उसके सब आश्चर्यों पर चिन्तन करो।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "बाजा बजाओ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "चिन्तन करो"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब … पर"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "आश्चर्यों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:38.081596040Z",
+  "model": "glm-5.2"
+}

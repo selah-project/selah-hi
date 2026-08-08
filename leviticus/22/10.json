@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और कोई बाहरी व्यक्ति पवित्र वस्तु न खाए; याजक का परदेसी और उसका मज़दूर पवित्र वस्तु न खाए।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "זר",
+      "gloss": "बाहरी व्यक्ति"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाए"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र वस्तु"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "परदेसी"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "और मज़दूर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाए"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र वस्तु"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:29.472162735Z",
+  "model": "glm-5.2"
+}

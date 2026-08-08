@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "आकाश के पक्षियों में से भी सात-सात, नर और मादा, सारी पृथ्वी के छत पर बीज को जीवित रखने के लिये।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "पक्षियों में से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश के"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "और मादा"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "जीवित रखने के लिये"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीज को"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "छत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:01.510539826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 23:29",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और बिलाम ने बलाक से कहा: “मेरे लिए यहाँ सात वेदियाँ बनाओ, और मेरे लिए यहाँ सात बैल और सात मेढ़े तैयार करो।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बलाक"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाओ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "मזבחת",
+      "gloss": "वेदियाँ"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "और तैयार करो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "मेढ़े"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:49.797785477Z",
+  "model": "glm-5.2"
+}

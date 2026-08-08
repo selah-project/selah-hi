@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "कैसे नहीं छोड़ी गई ⟨है⟩ प्रशंसा की नगरी, मेरे आनन्द की नगरी!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "छोड़ी गई"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "प्रशंसा"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "मेरे आनन्द"
+    }
+  ],
+  "timestamp": "2026-08-07T22:24:27.613257604Z",
+  "model": "glm-5.2"
+}

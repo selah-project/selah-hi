@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और तुम अपने लिए कोई मत्सेबा न खड़ी करो, जिसे यहवे तेरा एलोहीम घृणा करता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "खड़ी करो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "मत्सेबा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "घृणा करता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरा एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:49:13.992101302Z",
+  "model": "glm-5.2"
+}

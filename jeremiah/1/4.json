@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब यहवे का वचन मेरे पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब … आया"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:06.639529354Z",
+  "model": "glm-5.2"
+}

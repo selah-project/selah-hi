@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तब मैंने देखा — मैंने अपना हृदय लगाया; मैंने देखा, मैंने शिक्षा ली।",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "तब मैंने देखा"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "लगाया"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "अपना हृदय"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखा"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "मैंने ली"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "शिक्षा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:27.006260771Z",
+  "model": "glm-5.2"
+}

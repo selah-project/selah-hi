@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और हदद की मृत्यु हुई, और एदोम के प्रमुख हुए — तिमना का प्रमुख, अल्या का प्रमुख, यतेत का प्रमुख।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मृत्यु हुई"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "के प्रमुख"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "तिमना"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "अल्या"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "यतेत"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:42.042135585Z",
+  "model": "glm-5.2"
+}

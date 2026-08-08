@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 109,
+  "translation": "उसके बेटे अनाथ बनें, और उसकी पत्नी विधवा बने।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "बनें"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके बेटे"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "और उसकी पत्नी"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:54.199727057Z",
+  "model": "glm-5.2"
+}

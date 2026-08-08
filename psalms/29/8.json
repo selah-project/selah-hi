@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "यहवे का वाक्य जंगल को हिलाता ⟨है⟩; यहवे जंगल को हिलाता ⟨है⟩, कादेश के जंगल को।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "वाक्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "हिलाता"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल को"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "हिलाता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जंगल को"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:44.727350520Z",
+  "model": "glm-5.2"
+}

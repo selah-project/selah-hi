@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और दावीद चला, वह और उसके साथ के छः सौ पुरुष, और वे नचल हबशोर तक आए, और बचे हुए खड़े रहे।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और चला"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "और वे आए"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "हबशोर"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "और बचे हुए"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "खड़े रहे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:23:30.634819408Z",
+  "model": "glm-5.2"
+}

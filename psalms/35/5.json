@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "वे हों रूह के सामने भूसी के समान, और यहवे का दूत ⟨उन्हें⟩ धकें।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "वे हों"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "भूसी के समान"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "और दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "धकें"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:14.836596208Z",
+  "model": "glm-5.2"
+}

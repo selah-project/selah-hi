@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "“अदोनाय यहवे यों कहता ⟨है⟩: ‘⟨वह⟩ न टिकेगा और न घटित होगा।’”",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यों"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "टिकेगा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "घटित होगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:17:46.093169485Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मैंने ⟨את⟩ अपनी आँखें उठाईं और देखा, और देखो, चार सींग ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "मैंने उठाईं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपनी आँखें"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "अपनी आँखें"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "सींग"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:48.311685889Z",
+  "model": "glm-5.2"
+}

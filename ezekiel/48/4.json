@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और नफ़्ताली के गबूल पर: मफ़्आत से पूर्व की, और फ़्आत तक समुद्र की — मनश्शे ⟨है⟩ एक।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "गबूल"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ़्ताली के"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "मफ़्आत से"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व की"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "फ़्आत"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुद्र की"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:03.005169300Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "यह सब नबूकदनेत्सर, राजा पर आ पहुँचा।",
+  "tokens": [
+    {
+      "surface": "כֹּ֣לָּא",
+      "gloss": "यह सब"
+    },
+    {
+      "surface": "מְּטָ֔א",
+      "gloss": "आ पहुँचा"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נְבוּכַדְנֶצַּ֖ר",
+      "gloss": "नबूकदनेत्सर"
+    },
+    {
+      "surface": "מַלְכָּֽא",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:58:31.188339985Z",
+  "model": "glm-5.2"
+}

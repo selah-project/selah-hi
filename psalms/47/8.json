@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 47,
+  "translation": "क्योंकि सारी पृथ्वी का राजा एलोहीम है; बुद्धिमानी से गाओ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बुद्धिमानी से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:22.546454317Z",
+  "model": "glm-5.2"
+}

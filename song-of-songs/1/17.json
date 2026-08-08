@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "हमारे घर की कड़ें ⟨हैं⟩ देवदार, हमारी तख्तियाँ ⟨हैं⟩ सरो की।",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "कड़ें"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "हमारे घर की"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदार"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "हमारी तख्तियाँ"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "सरो की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:36.340027051Z",
+  "model": "glm-5.2"
+}

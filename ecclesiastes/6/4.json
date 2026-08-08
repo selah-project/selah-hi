@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "क्योंकि वह हेबल में आता है और अन्धकार में जाता है, और अन्धकार में उसका नाम ढका जाता है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "हेबल में"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आता है"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "और अन्धकार में"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जाता है"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "और अन्धकार में"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ढका जाता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:30.362160490Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हम अपनी दिशाओं की जाँच करें और ⟨उन्हें⟩ परखें, और हम यहवे की ओर लौटें।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "हम जाँच करें"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "अपनी दिशाओं की"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "और परखें"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "और हम लौटें"
+    },
+    {
+      "surface": "עד",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:21.529417973Z",
+  "model": "glm-5.2"
+}

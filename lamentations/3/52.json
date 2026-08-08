@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "शिकार — मेरे शत्रुओं ने मुझे शिकार किया, एक पक्षी की तरह, निःकारण।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "मुझे शिकार किया"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "एक पक्षी की तरह"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "मेरे शत्रुओं ने"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "निःकारण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:35:52.018336016Z",
+  "model": "glm-5.2"
+}

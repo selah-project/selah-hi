@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "एक कठोर-मुखहीन राष्ट्र — जो वृद्ध के चेहरे को नहीं उठाएगा, और बालक पर अनुग्रह नहीं करेगा।",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "एक राष्ट्र"
+    },
+    {
+      "surface": "עז",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुखहीन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठाएगा"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरे को"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "वृद्ध के"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "और बालक पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "अनुग्रह करेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:59.591978306Z",
+  "model": "glm-5.2"
+}

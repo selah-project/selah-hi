@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 47,
+  "translation": "हाय! यहवे की तलवार, कब ⟨तक⟩ तू नहीं शान्त होगी? एकत्रित हो, म्यान की ओर — ठहर जा, और चुप हो जा।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय!"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कब"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "तक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "तू शान्त होगी"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "एकत्रित हो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "तेरे म्यान"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "ठहर जा"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "और चुप हो जा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:22:16.811248459Z",
+  "model": "glm-5.2"
+}

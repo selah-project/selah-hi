@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "और ज़बुलुन के बेटे: सेरेद और एलोन और यहलेल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बुलुन"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "सेरेद"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "और एलोन"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "और यहलेल"
+    }
+  ],
+  "timestamp": "2026-08-07T19:57:13.422321854Z",
+  "model": "glm-5.2"
+}

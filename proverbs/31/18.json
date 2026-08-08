@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "उसने चखा कि उसका व्यापार अच्छा है; रात में उसका दीप ⟨नहीं⟩ बुझता।",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "उसने चखा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "उसका व्यापार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "बुझता"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "उसका दीप"
+    }
+  ],
+  "timestamp": "2026-08-08T00:52:18.788889741Z",
+  "model": "glm-5.2"
+}

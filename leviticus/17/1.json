@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और यहवे ने मोशे से बात की, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:48.557236304Z",
+  "model": "glm-5.2"
+}

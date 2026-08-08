@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "वह व्यापारी जहाजों के समान ⟨है⟩ — दूर से वह अपना अन्न लाती है।",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "वह ⟨है⟩"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "जहाजों के समान"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "व्यापारी"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "वह लाती है"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "अपना अन्न"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:28.197120868Z",
+  "model": "glm-5.2"
+}

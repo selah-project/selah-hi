@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "उनके मांस को तुम न खाओ और उनकी शव को न छूओ — वे तुम्हारे लिए अशुद्ध हैं।",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "उनके मांस को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "और उनकी शव को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "तुम छूओ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הם",
+      "gloss": "वे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:55.066490515Z",
+  "model": "glm-5.2"
+}

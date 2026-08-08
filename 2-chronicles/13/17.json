@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 13:17",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और अबिय्याह और उसके लोगों ने उन पर बड़ी मार गिराई, और इस्राएल के पाँच लाख चुने हुए पुरुष घायल गिरे।",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "और मारा"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिय्याह"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "और उसके लोगों ने"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "मार"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "और गिरे"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "घायल"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "चुने हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:37.329671902Z",
+  "model": "glm-5.2"
+}

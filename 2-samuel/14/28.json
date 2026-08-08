@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 14:28",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और अबशलोम यरूशलम में दो वर्ष दिन बसा, और राजा का चेहरा नहीं देखा।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "और बसा"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशलोम"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलम में"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दो वर्ष"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "और चेहरा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:29:08.201657011Z",
+  "model": "glm-5.2"
+}

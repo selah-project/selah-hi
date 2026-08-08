@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 98,
+  "translation": "तुरहियों और शोफर के स्वर से गरजो ⟨महाराज⟩ यहवे के सामने।",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "तुरहियों से"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "और स्वर से"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शोफर के"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "गरजो"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "महाराज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:55.273723374Z",
+  "model": "glm-5.2"
+}

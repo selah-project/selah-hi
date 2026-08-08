@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 113,
+  "translation": "सम्पूर्ण जातियों से ऊँचा ⟨है⟩ यहवे, ⟨उसकी⟩ गौरव ⟨है⟩ आकाशों से ऊँचा।",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "ऊँचा"
+    },
+    {
+      "surface": "על",
+      "gloss": "से ऊँचा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियों"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "से ऊँचा"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशों"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "⟨उसकी⟩ गौरव"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:38.764511821Z",
+  "model": "glm-5.2"
+}

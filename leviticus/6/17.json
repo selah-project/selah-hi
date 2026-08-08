@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे ने मोशे से कहा, ये कह कि:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कह कि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:57.552088506Z",
+  "model": "glm-5.2"
+}

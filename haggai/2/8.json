@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मेरा है चाँदी और मेरा है सोना, यहवे सेनाओं का उच्चारण।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "मेरा है"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "और मेरा है"
+    },
+    {
+      "surface": "הזהब",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "उच्चारण"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओं"
+    }
+  ],
+  "timestamp": "2026-08-07T22:49:15.385639156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "मुझे तेरे मोक्ष के हर्ष को लौटा, और एक उदार रूह ⟨ने⟩ मुझे सम्हाले।",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "लौटा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "हर्ष"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "तेरे मोक्ष"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "और रूह"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "उदार"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "⟨ने⟩ मुझे सम्हाले"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:37.321298873Z",
+  "model": "glm-5.2"
+}

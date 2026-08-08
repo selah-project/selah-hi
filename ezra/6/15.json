@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 6:15",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यह भवन पूर्ण हुआ — अदार महीने के तीसरे दिन तक; वह ⟨थी⟩ दार्यावेश राजा के राज्य के छठे वर्ष।",
+  "tokens": [
+    {
+      "surface": "ושיציא",
+      "gloss": "और पूर्ण हुआ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תלתה",
+      "gloss": "तीसरे"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "महीने के"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "अदार"
+    },
+    {
+      "surface": "די",
+      "gloss": "वह"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨थी⟩"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "שת",
+      "gloss": "छठे"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज्य के"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "दार्यावेश"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:49:12.633380041Z",
+  "model": "glm-5.2"
+}

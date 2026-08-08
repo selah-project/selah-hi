@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "बच्चों ने पिसाई उठाई, और लड़के लकड़ी के नीचे लड़खड़ाए।",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "बच्चों ने"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "पिसाई"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "उठाई"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "और लड़के"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "लकड़ी के नीचे"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "लड़खड़ाए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:26.053964413Z",
+  "model": "glm-5.2"
+}

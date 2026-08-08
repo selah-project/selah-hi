@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "तब तेरा दास मेरा पिता हमसे बोला: तुम जानते हो कि मेरी पत्नी ने मुझे दो पुत्र जने।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब … बोला"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तेरा दास"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "मेरा पिता"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "हमसे"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "जानते हो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जने"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "मेरी पत्नी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:40.289608370Z",
+  "model": "glm-5.2"
+}

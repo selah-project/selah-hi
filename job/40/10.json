@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "तू अब ⟨ही⟩ गर्व और ऊँचाई से सज, और होद और हादार पहिन।",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "सज"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "गर्व"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "और ऊँचाई"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "और होद"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "और हादार"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "तू पहिन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:32:27.043444285Z",
+  "model": "glm-5.2"
+}

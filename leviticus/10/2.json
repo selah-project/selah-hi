@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यहवे के सामने से आग निकली, और ⟨את⟩ उन्हें भस्म कर दिया, और वे यहवे के सामने मर गए।",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "और निकली"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "और भस्म कर दिया"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "उन्हें"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "और वे मर गए"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:16.208963822Z",
+  "model": "glm-5.2"
+}

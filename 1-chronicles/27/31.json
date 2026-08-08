@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और भेड़ों के ऊपर याज़ीज़ हागरी था; ये सब राजा दावीद के सम्पत्ति-अधिकारी थे।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … के ऊपर"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड़ों"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "याज़ीज़"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "हागरी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "अधिकारी"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "सम्पत्ति"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के लिए"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    }
+  ],
+  "timestamp": "2026-08-08T03:16:47.445486785Z",
+  "model": "glm-5.2"
+}

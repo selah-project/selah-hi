@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "उठो, यहवे! एल, अपना हाथ उठाओ! दीनों को भूल न जाओ!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "उठो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठाओ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "भूल जाओ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दीनों को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:39.396851589Z",
+  "model": "glm-5.2"
+}

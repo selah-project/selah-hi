@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "क्या ही थोड़े में था मैं हर बुराई के बीच, कहल और एदह के मध्य! ⟨होता⟩",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "क्या ही थोड़े में"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "था मैं"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "कहल"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "और एदह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:05.058138807Z",
+  "model": "glm-5.2"
+}

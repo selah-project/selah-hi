@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और जो वह तुम्हारे लिए जंगल में किया, तब तक जब तक ⟨तुम⟩ इस ⟨स्थान⟩ तक न आए;",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तब तक जब तक"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "तुम आए"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:38.541133996Z",
+  "model": "glm-5.2"
+}

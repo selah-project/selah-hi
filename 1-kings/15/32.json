@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और युद्ध रहा आसा और यिस्राएल के राजा बाशा के बीच उनके सभी दिनों में।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "और युद्ध"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "रहा"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसा"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बाशा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "שמיהם",
+      "gloss": "दिनों में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:41:27.949775294Z",
+  "model": "glm-5.2"
+}

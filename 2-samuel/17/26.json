@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और इस्राएल और अबशलोम ने गिलाद देश में डेरे डाले।",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "और डेरे डाले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल ने"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "और अबशलोम ने"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-08-07T21:30:16.292281840Z",
+  "model": "glm-5.2"
+}

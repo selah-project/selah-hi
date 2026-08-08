@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "सुनो ⟨את⟩ इस समय के वचन, और तुम उन्हें यहूदा के लोगों से और यरूशलम के निवासियों से कहो।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस समय के वचन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "समय"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "और तुम कहो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "איש",
+      "gloss": "लोगों"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और से"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "निवासियों"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलम"
+    }
+  ],
+  "timestamp": "2026-08-08T02:40:46.955589561Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "ऊतै अम्मीहूद का बेटा, ओम्री का बेटा, इम्री का बेटा, बानी का बेटा — बेटों में से पेरेस, यहूदा का बेटा, का।",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "ऊतै"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मीहूद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "ओम्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "इम्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेस"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:35.043432602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "ये ⟨हैं⟩ ह-शिमोनी के मीश्पाखाह-वंश — बाईस हज़ार और दो सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "मीश्पाखाह-वंश"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "ह-शिमोनी"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और-बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "और-दो-सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:48.732071793Z",
+  "model": "glm-5.2"
+}

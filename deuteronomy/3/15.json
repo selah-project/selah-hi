@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और माखीर को मैंने ⟨את⟩ गिलाद दिया।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "और माखीर को"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मैंने दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिलाद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:32.006449652Z",
+  "model": "glm-5.2"
+}

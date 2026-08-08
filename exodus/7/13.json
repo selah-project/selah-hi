@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और फरौह का हृदय दृढ़ हुआ, और उसने उनकी न सुनी — जैसा यहवे ने कहा था।",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "और दृढ़ हुआ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह का"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनी"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनकी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहा था"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    }
+  ],
+  "timestamp": "2026-08-07T20:01:45.255025720Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 130,
+  "translation": "क्योंकि तेरे पास ⟨है⟩ क्षमा, ताकि तू भय माना जाए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "क्षमा"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "तू भय माना जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:07.359403809Z",
+  "model": "glm-5.2"
+}

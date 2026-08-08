@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 2:34",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और शेशान के बेटे नहीं थे, केवल बेटियाँ। और शेशान का एक दास था, एक मिस्री, और उसका नाम यरहा था।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थे"
+    },
+    {
+      "surface": "לששן",
+      "gloss": "शेशान के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियाँ"
+    },
+    {
+      "surface": "ולששן",
+      "gloss": "और शेशान का"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "एक दास"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "एक मिस्री"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "और उसका नाम"
+    },
+    {
+      "surface": "ירחע",
+      "gloss": "यरहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:55.767425967Z",
+  "model": "glm-5.2"
+}

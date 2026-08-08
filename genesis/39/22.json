@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "और बन्दीगृह के अधिकारी ने योसेफ के हाथ में ⟨את⟩ सब ⟨उन⟩ बन्दियों को दे दिया जो बन्दीगृह में थे; और ⟨את⟩ सब कुछ जो वे वहाँ करते थे — वही वह करता था।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और दे दिया"
+    },
+    {
+      "surface": "שר",
+      "gloss": "अधिकारी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "बन्दीगृह"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "बन्दी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "बन्दीगृह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "करते थे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करता"
+    }
+  ],
+  "timestamp": "2026-08-07T19:54:48.286712600Z",
+  "model": "glm-5.2"
+}

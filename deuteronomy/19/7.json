@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "इसीलिए मैं तुम्हें आज्ञा देता हूँ, यह कहते हुए: तीन नगर तुम अलग करो।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसीलिए"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तुम्हें आज्ञा देता हूँ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "तुम अलग करो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:03.891353941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और यहवे ने मोशे से कहा, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:04.619340220Z",
+  "model": "glm-5.2"
+}

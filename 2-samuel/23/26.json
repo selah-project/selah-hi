@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "चेलेत्स ⟨हा⟩पल्ती, इरा इक्केश का पुत्र ⟨हा⟩तकोई",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "चेलेत्स"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "पल्ती"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "इक्केश"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "तकोई"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:49.878857450Z",
+  "model": "glm-5.2"
+}

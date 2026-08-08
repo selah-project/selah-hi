@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यहवे ने मोशे से कहा, कहते हुएः",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "से"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:03.052325620Z",
+  "model": "glm-5.2"
+}

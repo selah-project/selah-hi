@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब मैंने कहा, “आह! अदोनाय यहवे, देख, मैं बोलना नहीं जानता, क्योंकि मैं बालक हूँ।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "और मैंने कहा"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "आह!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "मैं जानता"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलना"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:31.867039935Z",
+  "model": "glm-5.2"
+}

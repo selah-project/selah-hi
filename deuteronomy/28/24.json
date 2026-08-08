@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "यहवे तेरे देश का मेघ ⟨את⟩ धूल और राख बना देगा; आकाश से वह तुझ पर तब तक उतरेगा जब तक ⟨कि⟩ तेरा नाश न हो जाए।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "देगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धूल"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "मेघ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "तेरे देश का"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "धूल"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "और राख"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "उतरेगा"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ पर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तब तक जब तक"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "तेरा नाश न हो जाए"
+    }
+  ],
+  "timestamp": "2026-08-08T02:20:52.645495541Z",
+  "model": "glm-5.2"
+}

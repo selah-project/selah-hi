@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "क्या भेदूँ? — एल ने नहीं भेदा। और क्या गरजूँ? — यहवे ने नहीं गरजा।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "भेदूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "भेदा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल ने"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और क्या"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "गरजूँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "गरजा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:12.175477223Z",
+  "model": "glm-5.2"
+}

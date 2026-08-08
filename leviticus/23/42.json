@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "कुटियों में तुम रहो सात दिन; हर वह ⟨जो⟩ देशज इस्राएल में, वह कुटियों में रहे।",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "कुटियों में"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "तुम रहो"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "देशज"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएल में"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "वह रहे"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "कुटियों में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:56.058257134Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "कोहेनों में से हर पुरुष उसे खाए; पवित्र स्थान में वह खाया जाए; वह कोदश कोदशिम है।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "कोहेनों में से"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "उसे खाए"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "स्थान में"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाया जाए"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कोदश"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "कोदशिम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟯वह है⟐"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:51.355883017Z",
+  "model": "glm-5.2"
+}

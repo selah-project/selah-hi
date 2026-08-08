@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "अलग-अलग पाषाण-भार यहवे के लिए घृणित ⟨हैं⟩, और धूर्त तराज़े अच्छे नहीं ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पाषाण"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "और पाषाण"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "और तराज़े"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धूर्त"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:57.239893845Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "धिक्कार है ⟨जो⟩ किसी भी बरगद-पशु के साथ सोता है, और सारा जन ⟨कहे⟩, “आमेन।”",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कार है"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सोता है"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "बरगद-पशु"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और ⟨कहे⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-08T02:20:40.465355851Z",
+  "model": "glm-5.2"
+}

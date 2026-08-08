@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "सुनो! न ऊँघेगा वह और न सोएगा — इस्राएल का रक्षक।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ऊँघेगा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "सोएगा"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "रक्षक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:18.879226580Z",
+  "model": "glm-5.2"
+}

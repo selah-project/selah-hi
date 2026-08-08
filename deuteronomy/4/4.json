@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और तुम, जो अपने एलोहीम यहवे से चिपके हुए ⟨हो⟩, आज तुम सब जीवित ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "और तुम"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "चिपके हुए"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे से"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुम्हारे एलोहीम"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तुम सब"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:23.921043674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "मेरा प्रिय चमकीला ⟨है⟩ और लाल, दश-सहस्र में चिह्नित ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "मेरा प्रिय"
+    },
+    {
+      "surface": "צח",
+      "gloss": "चमकीला"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "और लाल"
+    },
+    {
+      "surface": "דגוײל",
+      "gloss": "चिह्नित\/ध्वजारूढ़"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "दश-सहस्र से"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:51.456583430Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "आलसी पुरुष के खेत के पार मैं गुज़रा, और समझ से रहित मनुष्य के दाखबारी के पास।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "के पार"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "मैं गुज़रा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और के पास"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "दाखबारी"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "रहित"
+    },
+    {
+      "surface": "לב",
+      "gloss": "समझ से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:27.006076601Z",
+  "model": "glm-5.2"
+}

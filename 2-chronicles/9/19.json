@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 9:19",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और बारह सिंह वहाँ छह चरणों पर इस ओर और उस ओर खड़े थे — ऐसा किसी भी राज्य के लिए नहीं बनाया गया था।",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "और बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(बारह का भाग)"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "खड़े थे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "चरणों"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "इस ओर"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "और उस ओर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "बनाया गया"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "राज्य के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T01:06:02.800714358Z",
+  "model": "glm-5.2"
+}

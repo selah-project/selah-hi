@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और दावीद ने तृष्णा की और कहा, “कौन मुझे पानी पिलाएगा बेत-लेहेम के कुएँ से, जो फाटक पर ⟨है⟩?”",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "और तृष्णा की"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "मुझे पिलाएगा"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "कुएँ से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-लेहेम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "फाटक पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:11.280221369Z",
+  "model": "glm-5.2"
+}

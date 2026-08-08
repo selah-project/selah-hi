@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "किसी मनुष्य का न्याय उच्चतम के सामने टेरना —",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "टेरना"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मनुष्य का"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "उच्चतम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:16.657987055Z",
+  "model": "glm-5.2"
+}

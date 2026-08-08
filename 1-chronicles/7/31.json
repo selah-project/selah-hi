@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और बरिया के बेटे: खेबेर और मल्किएल; वही बिर्ज़ोत का पिता ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और-बेटे"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बरिया"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "खेबेर"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "और-मल्किएल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "बिर्ज़ोत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:56.587859590Z",
+  "model": "glm-5.2"
+}

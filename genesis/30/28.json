@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और उसने कहा: अपना वेतन मेरे पर निर्धारित कर, कि मैं दूँ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "निर्धारित कर"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "अपना वेतन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मेरे पर"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "कि मैं दूँ"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:26.005691238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "सावधान रह, अवाव की ओर मत मुड़, क्योंकि इसी को तू ने दुःख से अधिक चुना है।",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "सावधान रह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "मुड़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवाव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "על",
+      "gloss": "को"
+    },
+    {
+      "surface": "זה",
+      "gloss": "इसी"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "तू ने चुना है"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "दुःख से अधिक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:40.270893572Z",
+  "model": "glm-5.2"
+}

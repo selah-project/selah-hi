@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "अपनी रोटी जल के तल पर भेज, क्योंकि बहुत दिनों में तू उसे पाएगा।",
+  "tokens": [
+    {
+      "surface": "שַׁלַּ֥ח",
+      "gloss": "भेज"
+    },
+    {
+      "surface": "לַחְמְךָ֖",
+      "gloss": "अपनी रोटी"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "तल"
+    },
+    {
+      "surface": "הַמָּ֑יִם",
+      "gloss": "जल के"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בְרֹ֥ב",
+      "gloss": "बहुत में"
+    },
+    {
+      "surface": "הַיָּמִ֖ים",
+      "gloss": "दिनों"
+    },
+    {
+      "surface": "תִּמְצָאֶֽנּוּ",
+      "gloss": "तू उसे पाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:48.208710076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "एलाज़र ने ⟨את⟩ पिनहस को जन्म दिया, पिनहस ने ⟨את⟩ अबीशूआ को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़र"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने … जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पिनहस"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिनहस"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिनहस"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ने … जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अबीशूआ"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "अबीशूआ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:37.217357636Z",
+  "model": "glm-5.2"
+}

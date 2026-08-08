@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और एसव ने देखा कि कनान की बेटियाँ अपने पिता यित्सखाक की आँखों में बुरी थीं।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसव"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "बुरी थीं"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियाँ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखों में"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सखाक"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपने पिता"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:37.568391669Z",
+  "model": "glm-5.2"
+}

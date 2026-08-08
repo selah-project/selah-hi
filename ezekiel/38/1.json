@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "और यहवे का वचन मेरे पास आया, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:36:02.527296010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "जो ⟨अपनी⟩ कान को तौरा सुनने से हटाता ⟨है⟩, उसकी प्रार्थना भी घृणित ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "हटाता है"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "उसका कान"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "सुनने से"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "तौरा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "उसकी प्रार्थना"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घृणित"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:39.679481650Z",
+  "model": "glm-5.2"
+}

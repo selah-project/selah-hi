@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "“और याजक उन्हें यहवे के सामने पेश करे, और उसका खतात और उसका ओलाह करे।”",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "और पेश करे"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "और करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसका खतात"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "उसका खतात"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसका ओलाह"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "उसका ओलाह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:54.277023107Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और नोख के बेटे, जो तेवा से निकले, शेम और खाम और याफेत थे; और खाम ⟨है⟩ कनान का पिता।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और थे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोख के"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "जो निकले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "तेवा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "और खाम"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "और याफेत"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "और खाम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨है⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान का"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.951746068Z",
+  "model": "glm-5.2"
+}

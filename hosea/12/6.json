@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यहवे, सेनाओं का एलोहीम — यहवे ⟨उसका⟩ स्मरण-नाम है।",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "सेनाओं का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "उसका स्मरण-नाम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:41:23.913204817Z",
+  "model": "glm-5.2"
+}

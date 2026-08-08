@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अराह के बेटे — छः सौ और बावन और दो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "अराह"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "बावन"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:51:53.988513626Z",
+  "model": "glm-5.2"
+}

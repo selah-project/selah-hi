@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 43,
+  "translation": "और ⟨את⟩ अपने भाई को ले लो, और उठो, उस इस मनुष्य के पास लौटो।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अपने भाई को"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "अपने भाई"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ले लो"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "और उठो"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "लौटो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "उस इस मनुष्य"
+    }
+  ],
+  "timestamp": "2026-08-07T19:56:39.069150218Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "पन्द्रहवें ⟨के लिए⟩ येरेमोत, उसके पुत्र और उसके भाई — बारह थे।",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "पन्द्रहवें ⟨के लिए⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לירמות",
+      "gloss": "येरेमोत"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:28.269997749Z",
+  "model": "glm-5.2"
+}

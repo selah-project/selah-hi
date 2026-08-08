@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 32:49",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "इस अबारीम पहाड़ के ऊपर चढ़, नबो पहाड़ की ओर जो मोआब देश में है, जो यरीहो के सामने है, और देख ⟨את⟩ कनान देश को जो मैं इस्राएल के बेटों को निवास के लिए दे रहा हूँ।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "चढ़"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "अबारीम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नबो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कनान देश को"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दे रहा हूँ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों को"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "לאחזה",
+      "gloss": "निवास के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:27.416441725Z",
+  "model": "glm-5.2"
+}

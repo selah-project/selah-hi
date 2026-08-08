@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और अपने हृदय से क्षोभ दूर हटाओ, और अपने शरीर से बुराई टालो, क्योंकि बचपन और यौवन הבל ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "और हटाओ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "क्षोभ"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "अपने हृदय से"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "और टालो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "अपने शरीर से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "बचपन"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "और यौवन"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    }
+  ],
+  "timestamp": "2026-08-08T03:10:41.534059811Z",
+  "model": "glm-5.2"
+}

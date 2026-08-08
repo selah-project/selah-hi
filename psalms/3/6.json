@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मैं लेटा और सोया, ⟨मैं⟩ जागा, क्योंकि यहवे मुझे टिकाता है।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "लेटा"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "और सोया"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "⟨मैं⟩ जागा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "मुझे टिकाता है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:59.817686816Z",
+  "model": "glm-5.2"
+}

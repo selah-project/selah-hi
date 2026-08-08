@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और उसके पास यहोजाबाद, और उसके साथ एक लाख अस्सी हज़ार सेना के लिए सज्जित ⟨सैनिक⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और उसके पास"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसके हाथ पर"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "यहोजाबाद"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "और उसके साथ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "और अस्सी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "सज्जित"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:10.400638151Z",
+  "model": "glm-5.2"
+}

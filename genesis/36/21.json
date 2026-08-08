@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और दीशोन और एत्सेर और दीशान; ये ⟨हैं⟩ होरी के सरदार, सेइर के पुत्र, एदोम देश में।",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "और दीशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "और एत्सेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "और दीशान"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "होरी के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:55.308933215Z",
+  "model": "glm-5.2"
+}

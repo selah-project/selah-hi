@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और शमूएल यहवे के ⟨את⟩ सामने सेवा करता था — एक बालक, सनी का एफोद पहने हुए।",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "और शमूएल"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "सेवा करता था"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "נער",
+      "gloss": "एक बालक"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "पहने हुए"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "एफोद"
+    },
+    {
+      "surface": "בד",
+      "gloss": "सनी का"
+    }
+  ],
+  "timestamp": "2026-08-07T21:13:28.371867206Z",
+  "model": "glm-5.2"
+}

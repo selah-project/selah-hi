@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "नतनेल चौथा, रद्दय पाँचवा,",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "नतनेल"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथा"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "रद्दय"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचवा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:50.957778639Z",
+  "model": "glm-5.2"
+}

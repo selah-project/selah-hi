@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "इम्मेर के पुत्र — हज़ार बावन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:08.311484409Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और उसने कहा, “यहवे यों कहता है: इस नदी-घाटी में खाई-पर-खाई बनाओ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यों"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाओ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "नदी-घाटी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "खाई"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "खाई"
+    }
+  ],
+  "timestamp": "2026-08-07T21:45:55.873510929Z",
+  "model": "glm-5.2"
+}

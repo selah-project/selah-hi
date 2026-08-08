@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और तुम्हारी निज सम्पत्ति के सारे देश में भूमि के लिए मोचन दो।”",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "और सारे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "तुम्हारी निज सम्पत्ति"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "मोचन"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "तुम दो"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "भूमि के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:14.604111691Z",
+  "model": "glm-5.2"
+}

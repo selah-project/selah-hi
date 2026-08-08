@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और मोशे ने यहवे से बात की, कहकर:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:58.101970078Z",
+  "model": "glm-5.2"
+}

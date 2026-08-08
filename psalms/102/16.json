@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 102,
+  "translation": "और जातियाँ यहवे के ⟨את⟩ नाम से भय मानेंगी, और पृथ्वी के सब राजा तेरे ⟨את⟩ तेज से।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियाँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेज"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "तेरे तेज"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:06.535849523Z",
+  "model": "glm-5.2"
+}

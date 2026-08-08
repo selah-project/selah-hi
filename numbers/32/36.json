@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और ⟨את⟩ बेथ-निम्रा को और ⟨את⟩ बेथ-हारान को — दुर्ग-नगर और भेड़ों के बाड़े।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बेथ-निम्रा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "निम्रा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बेथ-हारान"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "और बाड़े"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:25.228005672Z",
+  "model": "glm-5.2"
+}

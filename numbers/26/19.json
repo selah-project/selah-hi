@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "यहूदा के पुत्र — एर और ओनान; और एर और ओनान कनान देश में मर गए।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "और ओनान"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मर गए"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "और ओनान"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:47.933490066Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "उसके पास आने वाले सब कभी लौटते नहीं, और वे जीवन के मार्गों को नहीं पाते।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "उसके पास आने वाले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "लौटते"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "पाते"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "मार्गों को"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:30.377302860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मैं ⟨हूँ⟩ शरोन का एक बीरवृक्ष-फूल, घाटियों की एक शोशन्ना।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "बीरवृक्ष-फूल"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "शरोन का"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "शोशन्ना"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "घाटियों की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:57.082368644Z",
+  "model": "glm-5.2"
+}

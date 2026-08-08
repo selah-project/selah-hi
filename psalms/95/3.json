@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 95,
+  "translation": "क्योंकि यहवे ⟨है⟩ महान एल, और सब एलोहीम पर महान राजा ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "और राजा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:53.852613094Z",
+  "model": "glm-5.2"
+}

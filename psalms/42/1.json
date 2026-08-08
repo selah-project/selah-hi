@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "महासंगीतक के लिए, एक मस्किल, कोरह के बेटों का।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महासंगीतक के लिए"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "एक मस्किल"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटों का"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-08-07T22:59:41.908766631Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यहवे ने उससे कहा, “तेरे हाथ में यह क्या है?” और उसने कहा, “एक लाठी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "यह क्या"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तेरे हाथ में"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "एक लाठी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:56.688945640Z",
+  "model": "glm-5.2"
+}

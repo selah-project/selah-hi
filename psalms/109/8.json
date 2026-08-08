@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 109,
+  "translation": "उसके दिन थोड़े हों, उसका पद दूसर ले ले।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "हों"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसके दिन"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "थोड़े"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "उसका पद"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ले ले"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "दूसर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:50.135966409Z",
+  "model": "glm-5.2"
+}

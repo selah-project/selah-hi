@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 85,
+  "translation": "हमें दिखाओ, यहवे, अपना हेसेद, और अपना तेरा यशा हमें दे।",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "हमें दिखाओ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "अपना हेसेद"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "और अपना यशा"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "तेरा दे"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:10.015992658Z",
+  "model": "glm-5.2"
+}

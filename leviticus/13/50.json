@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और याजक देखेगा ⟨את⟩ ⟨the⟩ नग्गेढ़ को, और उस नग्गेढ़ को सात दिन के लिए बन्द करेगा।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "और देखेगा"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नग्गेढ़"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नग्गेढ़"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "और बन्द करेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नग्गेढ़"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नग्गेढ़"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T02:11:34.503052721Z",
+  "model": "glm-5.2"
+}

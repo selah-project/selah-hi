@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "जल्दी कर, वहाँ बच निकल; क्योंकि तेरे वहाँ आने तक मैं कुछ नहीं कर सकता। इसलिए उस नगर का नाम त्सोअर पड़ा।",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "जल्दी कर"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "बच निकल"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "मैं कर सकता"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुछ भी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "באך",
+      "gloss": "तेरे आने"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "इस पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "पड़ा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "उस नगर का"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सोअर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:48.896773596Z",
+  "model": "glm-5.2"
+}

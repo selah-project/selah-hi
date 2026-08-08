@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और मोशे ने ⟨את⟩ अहरोन और ⟨את⟩ उसके पुत्रों को सामने लाया, और उन्हें जल से धोया।",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "और सामने लाया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अहरोन"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके पुत्रों को"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्रों को"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "और धोया"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "במים",
+      "gloss": "जल से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:22.848866520Z",
+  "model": "glm-5.2"
+}

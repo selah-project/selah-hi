@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 115,
+  "translation": "क्यों जातियाँ कहें, कहाँ है अब उनके एलोहीम?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "कहें"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातियाँ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ है"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "उनके एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:24.547084172Z",
+  "model": "glm-5.2"
+}

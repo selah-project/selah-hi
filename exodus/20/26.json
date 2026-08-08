@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और मेरे मेवेदी पर सीढ़ियों से तू चढ़े नहीं, ताकि तेरी नग्नता उस पर प्रगट न हो।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "तू चढ़े"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "सीढ़ियों से"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "मेरे मेवेदी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिससे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "प्रगट हो"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "तेरी नग्नता"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:05.268749097Z",
+  "model": "glm-5.2"
+}

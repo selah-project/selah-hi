@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अन्त आ रहा ⟨है⟩, आ रहा ⟨है⟩ अन्त; ⟨उसने⟩ तेरे विरुद्ध जागा; देख, वह आ रही ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा है"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा है"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "जागा"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे विरुद्ध"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आ रही है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:26:35.561858643Z",
+  "model": "glm-5.2"
+}

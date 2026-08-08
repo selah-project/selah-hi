@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और मैं बोला और मैंने उस मलअ्क से कहा जो मुझसे बात करता था, “ये क्या हैं, मेरे अदोनाय?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "और मैं बोला"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और मैंने कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "उस मलअ्क"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "जो बात करता था"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "मेरे अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:43.179275987Z",
+  "model": "glm-5.2"
+}

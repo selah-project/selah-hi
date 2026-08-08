@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "“तू ⟨अपने लिए⟩ स्त्री न ले, और इस स्थान में तेरे पुत्र और पुत्रियाँ न हों।”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "तू ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨अपने लिए⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "हों"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "और पुत्रियाँ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "इस स्थान में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T22:15:12.468331624Z",
+  "model": "glm-5.2"
+}

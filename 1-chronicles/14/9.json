@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और पलिश्ती आए और रफाइम के तराई में फैल गए।",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "और पलिश्ती"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "और फैल गए"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "तराई में"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रफाइम"
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:04.222054528Z",
+  "model": "glm-5.2"
+}

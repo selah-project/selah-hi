@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "यहवे ने आकाश से गरजा, और एल्योन ने अपना ध्वनि दिया।",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गरजा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "और एल्योन ने"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिया"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "अपना ध्वनि"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:45.654910895Z",
+  "model": "glm-5.2"
+}

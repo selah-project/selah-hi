@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और वे ⟨את⟩ सुवर्ण और ⟨את⟩ नीला और ⟨את⟩ अर्गमान और ⟨את⟩ कीट-शनी और ⟨את⟩ शेश लेंगे।",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "और वे"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "लेंगे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सुवर्ण"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सुवर्ण"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "नीला"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "नीला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अर्गमान"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "अर्गमान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "कीट-शनी"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "कीट"
+    },
+    {
+      "surface": "השני",
+      "gloss": "शनी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "शेश"
+    },
+    {
+      "surface": "השש",
+      "gloss": "शेश"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:49.873935372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "उनके गिरने के शब्द से पृथ्वी काँप ⟨गई⟩; ⟨एक⟩ चीख ⟨उठी⟩ — यम सूफ़ में उसका शब्द सुना गया।",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "के शब्द से"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "उनके गिरने"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "काँपी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "चीख"
+    },
+    {
+      "surface": "בים",
+      "gloss": "में"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सूफ़"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "सुना गया"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "उसका शब्द"
+    }
+  ],
+  "timestamp": "2026-08-07T22:24:03.747938302Z",
+  "model": "glm-5.2"
+}

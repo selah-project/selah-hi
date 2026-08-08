@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 15:41",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और गेदेरोत, बेथ-दागोन, और नाअमा, और मक्केदा; सोलह नगर और उनके गाँव।",
+  "tokens": [
+    {
+      "surface": "וגדרות",
+      "gloss": "और गेदेरोत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "-दागोन"
+    },
+    {
+      "surface": "ונעמה",
+      "gloss": "और नाअमा"
+    },
+    {
+      "surface": "ומקדה",
+      "gloss": "और मक्केदा"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "और उनके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:08.445456103Z",
+  "model": "glm-5.2"
+}

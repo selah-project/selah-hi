@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और तू ארण में रख ⟨את⟩ ⟨the⟩ गवाही जो मैं तुझे दूँगा।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "और तू रख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "אरण"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गवाही"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "मैं दूँगा"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-08T02:07:17.135132782Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और रेऊ ने बत्तीस वर्ष जीवित रहा, और उसने ⟨את⟩ सरूग को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "और जीवित रहा"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेऊ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सरूग"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "सरूग"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:52.274255275Z",
+  "model": "glm-5.2"
+}

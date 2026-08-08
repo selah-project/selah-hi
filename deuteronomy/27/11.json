@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और मोशे ने उस दिन ⟨את⟩ जाति को आज्ञा दी, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "और आज्ञा दी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जाति"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:27.393887391Z",
+  "model": "glm-5.2"
+}

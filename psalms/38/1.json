@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "मज़मूर दाविद का, स्मरण कराने के लिए।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "स्मरण कराने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:59:07.005559486Z",
+  "model": "glm-5.2"
+}

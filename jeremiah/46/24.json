@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "लज्जित हुई मिस्रयिम की बेटी; उत्तर के लोग के हाथ में दी गई।",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "लज्जित हुई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "दी गई"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:29:26.346413951Z",
+  "model": "glm-5.2"
+}

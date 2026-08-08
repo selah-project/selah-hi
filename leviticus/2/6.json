@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "उसे टुकड़ों में तोड़, और उस पर तेल उंडेला — वह मन्थ दान है।",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "तोड़"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "टुकड़ों में"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "और उंडेला"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "मन्थ दान"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:03.434425730Z",
+  "model": "glm-5.2"
+}

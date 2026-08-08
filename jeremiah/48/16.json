@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "“मूआब का विपद् आने के लिए समीप है, और उसकी बुराई बहुत शीघ्र ⟨हो रही है⟩।”",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "समीप है"
+    },
+    {
+      "surface": "איד",
+      "gloss": "विपद्"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मूआब"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आने के लिए"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "और उसकी बुराई"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "शीघ्र"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-08T00:29:36.517960850Z",
+  "model": "glm-5.2"
+}

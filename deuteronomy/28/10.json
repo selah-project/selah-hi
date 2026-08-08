@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "“तब पृथ्वी के सब जनताएँ देखेंगे कि यहवे का नाम तुझ पर बुलाया गया है,” और वे तुझसे डरेंगे।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "और देखेंगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "पृथ्वी के जनताएँ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "बुलाया गया है"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ पर"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "और वे डरेंगे"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुझसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:07.753624058Z",
+  "model": "glm-5.2"
+}

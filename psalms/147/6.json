@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 147,
+  "translation": "यहवे दीनों को उठाता ⟨है⟩; दुष्टों को वह पृथ्वी तक नीचा करता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "उठाता"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "दीनों को"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "नीचा करता"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों को"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:23.963464981Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और गया दावीद और सम्पूर्ण इस्राएल यरूशलम को — वह ⟨है⟩ यबूस; और वहाँ ⟨थे⟩ यबूसी, देश के निवासी।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सम्पूर्ण"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलम को"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "यबूस"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और वहाँ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "यबूसी"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "निवासी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:21.526465051Z",
+  "model": "glm-5.2"
+}

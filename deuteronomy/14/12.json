@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और यह ⟨है⟩ ⟨जो⟩ उनमें से तुम न खाओ: नीशर और परेस और अज़निय्याह।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनमें से"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "नीशर"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "और परेस"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "और अज़निय्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:43.123584835Z",
+  "model": "glm-5.2"
+}

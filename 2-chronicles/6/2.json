@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "“और मैंने तेरे लिए एक विशिष्ट भवन बनाया है, और तेरे वास का एक स्थान उम्रों तक।”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "और मैंने"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "बनाया है"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "विशिष्ट"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "और स्थान"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "तेरे वास का"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "उम्रों तक"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:38.667194905Z",
+  "model": "glm-5.2"
+}

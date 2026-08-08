@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "आओ, मेरी रोटी खाओ, और ⟨उस⟩ दाखरस को पियो जो मैंने मिलाया है।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आओ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "खाओ"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "मेरी रोटी"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "और पियो"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "दाखरस"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "जो मैंने मिलाया है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:21.463480048Z",
+  "model": "glm-5.2"
+}

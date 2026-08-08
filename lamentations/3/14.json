@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मैं ⟨हूँ⟩ मेरी समस्त प्रजा के लिए हँसी-ठठ्ठा, उनका वाद्य-गीत सारा दिन।",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "मैं ⟨था\/हूँ⟩"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "हँसी-ठठ्ठा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "समस्त के लिए"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरी प्रजा"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "उनका वाद्य-गीत"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:46.376019268Z",
+  "model": "glm-5.2"
+}

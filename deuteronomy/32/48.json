@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और यहवे ने मोशेह से उसी इस दिन के ठीक में कहा, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידबר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह से"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "के ठीक में"
+    },
+    {
+      "surface": "היום",
+      "gloss": "उसी दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:58.490308526Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "आत्मगौरव मत कर राजा के सामने, और बड़े लोगों के स्थान में मत खड़ा रह।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "आत्मगौरव कर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "और ... के स्थान में"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़े लोगों"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "खड़ा रह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:44.167482122Z",
+  "model": "glm-5.2"
+}

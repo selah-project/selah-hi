@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तब मोशे ने यर्दन के पार, सूर्योदय की ओर, तीन नगर अलग किए।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "अलग किए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "के पार"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सूर्योदय की ओर"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:40.566433539Z",
+  "model": "glm-5.2"
+}

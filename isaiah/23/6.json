@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तर्शीश को पार करो; हाय पुकारो, हे टापू के बाशिंदे।",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "पार करो"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "तर्शीश को"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "हाय पुकारो"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "हे बाशिंदे"
+    },
+    {
+      "surface": "אי",
+      "gloss": "टापू के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:59:14.871392205Z",
+  "model": "glm-5.2"
+}

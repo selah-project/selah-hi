@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और अबराम ने यात्रा की, चलते और आगे बढ़ते हुए दक्षिण की ओर।",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "और यात्रा की"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अबराम"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "चलते हुए"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "और आगे बढ़ते हुए"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "दक्षिण की ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:23.862736734Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "इसी प्रकार तू सब उन नगरों के साथ करेगा जो तुझसे बहुत दूर हैं, जो ⟨इन⟩ इन गोयों के नगर नहीं हैं ये।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "इसी प्रकार"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू-करेगा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के साथ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "उन नगरों"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "जो दूर हैं"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "के नगर"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "इन गोयों"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ये"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:27.371482569Z",
+  "model": "glm-5.2"
+}

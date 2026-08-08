@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "उसी रात को बेलशआत्सर, कसदियों का राजा, मारा गया।",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "रात को"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "मारा गया"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "बेलशआत्सर"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "कसदियों का"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:57.324000659Z",
+  "model": "glm-5.2"
+}

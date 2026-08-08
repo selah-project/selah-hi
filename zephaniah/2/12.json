@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तुम भी, हे कूशी लोगों, मेरी तलवार के विद्ध-वध हो — वे हैं।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "कूशी-लोगों"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "विद्ध-वध"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "मेरी-तलवार-के"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे-हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:03.696177983Z",
+  "model": "glm-5.2"
+}

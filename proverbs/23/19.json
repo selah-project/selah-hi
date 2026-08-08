@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "सुन, तू हे मेरे पुत्र, और बुद्धिमान बन, और मार्ग में अपने हृदय को दिशा दे।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मेरे पुत्र"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "और बुद्धिमान बन"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "और दिशा दे"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग में"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "अपने हृदय को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:52:04.971107219Z",
+  "model": "glm-5.2"
+}

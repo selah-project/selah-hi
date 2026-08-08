@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यहवे का क्रोध उन पर भड़का, और ⟨वह⟩ चला गया।",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "और-भड़का"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उन-पर"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और-चला-गया"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:44.331072346Z",
+  "model": "glm-5.2"
+}

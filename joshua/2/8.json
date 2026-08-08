@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और उनके सो जाने से पहले ही वह उनके पास छत पर चढ़ आई।",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "और वे"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "से पहले ही"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "सो जाने"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "चढ़ आई"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उनके पास"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "छत"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:33.117959949Z",
+  "model": "glm-5.2"
+}

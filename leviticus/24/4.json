@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "शुद्ध मेनोरा पर वह ⟨את⟩ दीपों को व्यवस्थित करे — यहवे के सामने, सदा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "मेनोरा"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "वह व्यवस्थित करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दीपों को"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "दीपों"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:11.227551053Z",
+  "model": "glm-5.2"
+}

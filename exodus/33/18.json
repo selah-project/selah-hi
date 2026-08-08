@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और उसने कहा, “मुझे अपना ⟨את⟩ तेज दिखाओ न!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "मुझे दिखाओ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "न!"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेज"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "तेरा तेज"
+    }
+  ],
+  "timestamp": "2026-08-07T20:12:05.625490748Z",
+  "model": "glm-5.2"
+}

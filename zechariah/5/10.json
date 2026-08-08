@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और मैं ने उस दूत से कहा जो मुझसे बात कर रहा था, “कहाँ ⟨वे⟩ ⟨את⟩ एपा को ले जा रही हैं?”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "और मैं ने कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "उस दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "जो बात कर रहा था"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "ले जा रही हैं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एपा को"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एपा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:47.186629282Z",
+  "model": "glm-5.2"
+}

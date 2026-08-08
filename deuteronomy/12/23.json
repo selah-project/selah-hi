@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "बस दृढ़ रह, रक्त न खाने के लिए; क्योंकि रक्त वही नफश ⟨है⟩, और तू मांस के साथ नफश न खाना।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "बस"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "दृढ़ रह"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "न खाने के लिए"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खा"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तू खाना"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मांस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:10.149942387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "लेबानाह के पुत्र, चगाबाह के पुत्र, अक्कूब के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लेबानाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "चगाबाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "अक्कूब"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.378525442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "तब दबोराह और अबीनोअम के पुत्र बाराक ने उस दिन गाया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "तब गाया"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "दबोराह"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "और बाराक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "अबीनोअम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:06:09.494440827Z",
+  "model": "glm-5.2"
+}

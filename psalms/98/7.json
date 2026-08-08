@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 98,
+  "translation": "गरजे समुद्र और ⟨उसकी⟩ पूर्णता; पृथ्वी और उसके निवासी।",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "गरजे"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "और उसकी पूर्णता"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "और निवासी"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:55.273801597Z",
+  "model": "glm-5.2"
+}

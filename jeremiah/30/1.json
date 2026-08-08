@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "ההַדָּבָר אֲשֶׁר הָיָה אֶל יִרְמְיָהוּ מֵאֵת יְהוָה לֵאמֹר׃",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "הַדָּבָר"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אֲשֶׁר"
+    },
+    {
+      "surface": "היה",
+      "gloss": "הָיָה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אֶל"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "יִרְמְיָהוּ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "מֵאֵת"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יְהוָה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לֵאמֹר"
+    }
+  ],
+  "timestamp": "2026-08-08T02:43:44.169050656Z",
+  "model": "glm-5.2"
+}

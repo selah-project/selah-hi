@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और बिन्यामीन से अठारह हज़ार पुरुष गिरे — ⟨अर्थात⟩ ⟨את⟩ सब ये वीर्य के पुरुष।",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "और गिरे"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "बिन्यामीन से"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "वीर्य के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:12:04.332689671Z",
+  "model": "glm-5.2"
+}

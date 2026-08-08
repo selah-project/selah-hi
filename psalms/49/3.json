@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "क्या मनुष्य के बेटे, क्या पुरुष के बेटे, साथ मिलकर — धनी और निर्धन।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "גם",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "साथ मिलकर"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "और निर्धन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:44.338171700Z",
+  "model": "glm-5.2"
+}

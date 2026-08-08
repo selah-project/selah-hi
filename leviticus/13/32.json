@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और ⟨ह⟩याजक उस नागे को सातवें दिन देखे, और देखो, नेतेक नहीं फैला है और उसमें पीला बाल नहीं है, और नेतेक का दिखावा त्वचा से गहरा नहीं है —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "और देखे"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨ह⟩याजक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उस नागे को"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "उस नागे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवें"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैला"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "है"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "שער",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "पीला"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "और दिखावा"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "नेतेक"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "गहरा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העור",
+      "gloss": "त्वचा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:07.772747392Z",
+  "model": "glm-5.2"
+}

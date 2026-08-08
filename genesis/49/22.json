@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "यूसुफ फलदायी वृक्ष ⟨है⟩, फलदायी वृक्ष सोते पर, जिसकी शाखाएँ दीवार पर चढ़ती हैं।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फलदायी"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फलदायी"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עין",
+      "gloss": "सोते"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "शाखाएँ"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "चढ़ती हैं"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שור",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-08-07T19:58:28.016177821Z",
+  "model": "glm-5.2"
+}

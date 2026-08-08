@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "तब यहवे के दूत ने अव्राहाम को दूसरी बार आकाश से पुकारा।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पुकारा"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत ने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहाम"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दूसरी बार"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    }
+  ],
+  "timestamp": "2026-08-07T19:47:07.554316313Z",
+  "model": "glm-5.2"
+}

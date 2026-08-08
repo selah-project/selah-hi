@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "लौट आओ, हे यहवे, मेरी नफश को छुड़ाओ; मुझे बचाओ तेरे हेसेद के लिए।",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "लौट आओ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "छुड़ाओ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी नफश को"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "मुझे बचाओ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "तेरे हेसेद"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:47.607173053Z",
+  "model": "glm-5.2"
+}

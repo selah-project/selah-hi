@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और सातवें दिन ⟨होगा⟩ तुम्हारे लिए ⟨एक⟩ पवित्र सभा; कोई भी सेवा-कार्य तुम न करो।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और … दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवें"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "तुम करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:43.237354369Z",
+  "model": "glm-5.2"
+}

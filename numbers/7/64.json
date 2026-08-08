@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक बकरा, पापार्पण के लिए;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरियों का"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापार्पण के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:46.648516762Z",
+  "model": "glm-5.2"
+}

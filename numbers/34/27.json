@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और आशेर के बच्चों के ⟨से⟩ कुल के लिए — एक नासी, अखीहूद शलोमी का बेटा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "और … कुल के लिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बच्चों के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "एक नासी"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "अखीहूद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "शलोमी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:09.304708929Z",
+  "model": "glm-5.2"
+}

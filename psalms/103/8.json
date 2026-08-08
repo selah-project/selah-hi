@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 103,
+  "translation": "दयालु और अनुग्रहशील यहवे, क्रोध में धीर, और बहुत हेसेद।",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "दयालु"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "और अनुग्रहशील"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "धीर"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "और बहुत"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:15.147002502Z",
+  "model": "glm-5.2"
+}

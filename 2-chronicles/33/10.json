@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और यहवे ने मनश्शे और उसके लोगों से बात की, और उन्होंने ध्यान नहीं दिया।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके लोगों"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "उन्होंने ध्यान दिया"
+    }
+  ],
+  "timestamp": "2026-08-08T01:08:25.379936793Z",
+  "model": "glm-5.2"
+}

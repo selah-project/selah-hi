@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "क्या वह शद्दय पर आनन्द लेगा, क्या वह सब समय एलोअह को पुकारेगा?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दय"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "आनन्द लेगा"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "पुकारेगा"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:29:29.172272712Z",
+  "model": "glm-5.2"
+}

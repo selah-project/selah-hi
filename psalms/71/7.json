@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 71,
+  "translation": "कएक के लिए मैं एक निशान बना, और तू मेरी शरण, मेरी सामर्थ्य।",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "एक निशान"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "मैं बना"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "कएक के लिए"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "मेरी शरण"
+    },
+    {
+      "surface": "עז",
+      "gloss": "मेरी सामर्थ्य"
+    }
+  ],
+  "timestamp": "2026-08-08T00:45:54.416208813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "यरूशलयिम में बसने वाले पेरेस के सब पुत्र चार सौ अड़सठ थे—सामर्थ्यवान पुरुष।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेस"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "बसने वाले"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "और आठ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सामर्थ्यवान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:07.331933861Z",
+  "model": "glm-5.2"
+}

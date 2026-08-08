@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और यूस्फ ने उनसे कहा, “यही वह है जो मैंने तुमसे कहा था, यह कहते हुए: जासूस तुम हो।",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूस्फ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "यही वह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "मैंने कहा"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तुमसे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "जासूस"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम हो"
+    }
+  ],
+  "timestamp": "2026-08-07T19:55:59.553253145Z",
+  "model": "glm-5.2"
+}

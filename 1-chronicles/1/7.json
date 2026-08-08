@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और यावान के बेटे: एलीशा और तर्शीशा, कित्तीम और रोदानिम।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और-बेटे"
+    },
+    {
+      "surface": "יון",
+      "gloss": "यावान"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "एलीशा"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "और-तर्शीशा"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "कित्तीम"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "और-रोदानिम"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:00.485757079Z",
+  "model": "glm-5.2"
+}

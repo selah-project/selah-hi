@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "इस योबेल के वर्ष में तुम लौटो, प्रत्येक मनुष्य अपनी आधीन-भूमि की ओर।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "के वर्ष में"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "योबेल"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "तुम लौटो"
+    },
+    {
+      "surface": "איש",
+      "gloss": "प्रत्येक मनुष्य"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "अपनी आधीन-भूमि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:57.717445041Z",
+  "model": "glm-5.2"
+}

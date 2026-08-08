@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और अवशलोम ने अखीतोपेल से कहा, “तुम लोग अपने बीच सलाह दो — हम क्या करें?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अवशलोम ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अखीतोपेल"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम लोग"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "हम करें"
+    }
+  ],
+  "timestamp": "2026-08-07T21:29:35.466337189Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तू अदोमी से घृणा न कर, क्योंकि वह तेरा भाई ⟨है⟩; तू मिस्री से घृणा न कर, क्योंकि तू उसके देश में परदेशी था।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "तू घृणा कर"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "अदोमी से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरा भाई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "तू घृणा कर"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "मिस्री से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेशी"
+    },
+    {
+      "surface": "היית",
+      "gloss": "तू था"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "उसके देश में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.743738009Z",
+  "model": "glm-5.2"
+}

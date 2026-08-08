@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ये ⟨हैं⟩ शोबल के पुत्र: अल्वान और मनाचत और एवल, शेफो और ओनाम।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "शोबल के"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "अल्वान"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "और मनाचत"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "और एवल"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "शेफो"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "और ओनाम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:55.309255497Z",
+  "model": "glm-5.2"
+}

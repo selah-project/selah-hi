@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तुम रक्त के साथ न खाओ; तुम ज्योतिष न करो और न जादू-टोना करो।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    },
+    {
+      "surface": "על",
+      "gloss": "के साथ\/पर"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "तुम ज्योतिष करो"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "तुम जादू-टोना करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:29.758221689Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और यहवे में आनन्द ले; और वह तेरे हृदय की माँगें तुझे देगा।",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "और आनन्द ले"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "और वह देगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "משאलת",
+      "gloss": "माँगें"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तेरे हृदय की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:42.361789399Z",
+  "model": "glm-5.2"
+}

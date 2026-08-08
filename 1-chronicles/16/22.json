@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "“मेरे मशीहों को छूना मत; और मेरे नवियों को बुरा मत करना।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "छूना"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "मेरे मशीहों को"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "और मेरे नवियों को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "बुरा करना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:47.608756020Z",
+  "model": "glm-5.2"
+}

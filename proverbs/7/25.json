@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अपना हृदय उसके मार्गों की ओर न झुके; उसकी नुकीली पगडंडियों में भटके नहीं।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "झुके"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "उसके मार्गों"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "अपना हृदय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "भटके"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "उसकी पगडंडियों में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:40.442672830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 25:31",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "चौबीसवें ⟨को⟩ रोममती-एज़र के लिए — उसके पुत्र और उसके भाई — बारह।",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "לרוממתי",
+      "gloss": "रोममती के लिए"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "एज़र"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:59.224538268Z",
+  "model": "glm-5.2"
+}

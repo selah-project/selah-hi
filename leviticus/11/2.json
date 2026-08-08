@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 11:2",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "इस्राएल के बेटों से कहो: पृथ्वी पर के सारे पशुओं में से यही वह जीव-जन्तु है जिसे तुम खा सकते हो —",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "कहो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यही"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "जीव-जन्तु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खा सकते हो"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सारे में से"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशुओं"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:18.173031999Z",
+  "model": "glm-5.2"
+}

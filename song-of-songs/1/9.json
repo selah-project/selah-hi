@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "मेरी घोड़ी के समान, फरौह के रथों में, मैंने तुझे देखा, मेरी प्रिया।",
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "मेरी घोड़ी के समान"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "रथों में"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह के"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "मैंने तुझे देखा"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "मेरी प्रिया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:29.845855552Z",
+  "model": "glm-5.2"
+}

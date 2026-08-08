@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और वे तखत से प्रस्थान किए, और वे ने तरह में डेरे डाले।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "और वे प्रस्थान किए"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "तखत से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और वे डेरे डाले"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "तरह में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:46.673030688Z",
+  "model": "glm-5.2"
+}

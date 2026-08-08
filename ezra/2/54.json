@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "नत्सियच के बेटे, खतीफा के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "नत्सियच"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "खतीफा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.736403501Z",
+  "model": "glm-5.2"
+}

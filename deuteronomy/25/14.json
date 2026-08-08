@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "तेरे पास न हो, तेरे घर में एपा और एपा — बड़ी और छोटी।",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "तेरे घर में"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "एपा"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "और एपा"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "और छोटी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:17.037549697Z",
+  "model": "glm-5.2"
+}

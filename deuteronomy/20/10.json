@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "जब तू युद्ध करने के लिए किसी नगर के समीप आए, तो तू उसे शान्ति के लिए बुलाए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "तू समीप आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "युद्ध करने के लिए"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "तो तू बुलाए"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "शान्ति के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:02.237678423Z",
+  "model": "glm-5.2"
+}

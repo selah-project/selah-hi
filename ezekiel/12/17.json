@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यहवे का वचन मेरे पास आया, यह कहने को:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨यह⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहने को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:27:35.732362795Z",
+  "model": "glm-5.2"
+}

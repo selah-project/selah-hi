@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "धिक्कृत ⟨हो⟩ तू अपने आने में, और धिक्कृत ⟨हो⟩ तू अपने जाने में।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "अपने आने में"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "और धिक्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "अपने जाने में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:13.735756295Z",
+  "model": "glm-5.2"
+}

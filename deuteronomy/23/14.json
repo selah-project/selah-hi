@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और तेरे पास एक फावड़ा हो तेरे औजार पर, और जब तू बाहर बैठे, तू उससे खोदे, और लौटे, और ⟨את⟩ तेरे मल को ढक दे।",
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "और एक फावड़ा"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "तेरे औजार"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "और यह हो"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "जब तू बैठे"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "तू खोदे"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "और तू लौटे"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "और ढक दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेरे मल को"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "तेरे मल को"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:49.782617937Z",
+  "model": "glm-5.2"
+}

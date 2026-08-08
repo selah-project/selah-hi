@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "यहवे अकेले उसका मार्गदर्शन करता ⟨था⟩, और उसके साथ कोई अन्य देवता नहीं ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेले"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "उसका मार्गदर्शन करता"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "देवता"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "अन्य"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:19.996680278Z",
+  "model": "glm-5.2"
+}

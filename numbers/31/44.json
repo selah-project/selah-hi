@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और पशु — छत्तीस हज़ार;",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "और पशु"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:55.928138065Z",
+  "model": "glm-5.2"
+}

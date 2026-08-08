@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और यहवे का वचन उसके पास ⟨आया⟩, कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨आया⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:42:12.526273065Z",
+  "model": "glm-5.2"
+}

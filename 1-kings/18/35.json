@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और जल वेदी के चारों ओर बहने लगा, और ⟨उसने⟩ ⟨את⟩ खाई को भी जल से भर दिया।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "और बहने लगा"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "चारों ओर"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "वेदी के"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाई को"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "खाई"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर दिया"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:43:10.771663341Z",
+  "model": "glm-5.2"
+}

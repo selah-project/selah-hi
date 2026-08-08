@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और ⟨विषय में⟩ शमअयाहू नेहलमी के तू कहेगा, कहकर:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "और ⟨विषय में⟩"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "शमअयाहू"
+    },
+    {
+      "surface": "הנחלमי",
+      "gloss": "नेहलमी"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तू कहेगा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:27:00.120701255Z",
+  "model": "glm-5.2"
+}

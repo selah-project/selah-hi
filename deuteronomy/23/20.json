@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तू अपने भाई को ब्याज न लगाना — चाँदी का ब्याज, अन्न का ब्याज, हर उस वस्तु का ब्याज जस पर ब्याज लगाया जाता है।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "तू लगाना"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "अपने भाई को"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वस्तु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जस पर"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ब्याज लगाया जाता है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:04.633982671Z",
+  "model": "glm-5.2"
+}

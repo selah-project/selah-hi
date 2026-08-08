@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और ⟨את⟩ हखिवी और ⟨את⟩ हअर्की और ⟨את⟩ हसीनी।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हखिवी"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "हखिवी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हअर्की"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "हअर्की"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हसीनी"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "हसीनी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:26.009152581Z",
+  "model": "glm-5.2"
+}

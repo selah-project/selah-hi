@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "पश्चिम दिशा की ओर मुड़ा — मापा, पाँच सौ बेंत, ⟨के⟩ मापने की बेंत से।",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "मुड़ा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "הים",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "मापा"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "बेंत"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "⟨के⟩ बेंत से"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "मापने की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:37:14.359096294Z",
+  "model": "glm-5.2"
+}

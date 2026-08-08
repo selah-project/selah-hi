@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 113,
+  "translation": "सूर्योदय से उसके ⟨अस्ताचल⟩ तक यहवे का नाम स्तुत्य ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "सूर्योदय से"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "उसके ⟨अस्ताचल⟩"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "स्तुत्य"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:38.764407767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "क्या बुद्धि पुकारती नहीं, और समझ अपना स्वर नहीं देती?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "क्या … नहीं"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "पुकारती है"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "और समझ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देती है"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "अपना स्वर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:17.627098847Z",
+  "model": "glm-5.2"
+}

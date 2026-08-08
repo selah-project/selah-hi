@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब यहवे का वचन मेरे पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब … हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:28:16.349440826Z",
+  "model": "glm-5.2"
+}

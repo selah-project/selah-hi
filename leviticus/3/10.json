@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और ⟨את⟩ दो वृक्क और ⟨את⟩ चरबी जो उन पर है, जो कमर पर है, और ⟨את⟩ यकृत् पर का पर्दा — वृक्कों के साथ वह उसे हटाए —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "दो-वृक्क"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "वृक्क"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "उन-पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "कमर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "यकृत्"
+    },
+    {
+      "surface": "על",
+      "gloss": "के-साथ"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "वृक्क"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "वह-उसे-हटाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:59.512208120Z",
+  "model": "glm-5.2"
+}

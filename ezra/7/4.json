@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "ज़ेरह्याह पुत्र, उज़्ज़ी पुत्र, बुक्की पुत्र —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ज़ेरह्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज़्ज़ी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:49:01.628629163Z",
+  "model": "glm-5.2"
+}

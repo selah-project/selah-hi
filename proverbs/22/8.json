@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "अधर्म बोने वाला अनर्थ काटेगा, और उसके क्रोध का छड़ ⟨समाप्त⟩ हो जाएगी।",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "बोने वाला"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "काटेगा"
+    },
+    {
+      "surface": "און",
+      "gloss": "अनर्थ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "और छड़"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "उसके क्रोध का"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "हो जाएगी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:41.500810340Z",
+  "model": "glm-5.2"
+}

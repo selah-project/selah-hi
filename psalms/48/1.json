@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "गीत, वाद्य-स्तोत्र कोरह-वंशियों के लिए।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "वाद्य-स्तोत्र"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…के वंशियों के लिए"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:55.261213873Z",
+  "model": "glm-5.2"
+}

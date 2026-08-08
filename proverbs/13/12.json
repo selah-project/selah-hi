@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "टंगी हुई आशा हृदय को रुग्ण करती है, और जीवन का वृक्ष ⟨⟩ आती हुई इच्छा है।",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "टंगी हुई"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "रुग्ण करती है"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय को"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "और वृक्ष"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन का"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आती हुई"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:50.660083652Z",
+  "model": "glm-5.2"
+}

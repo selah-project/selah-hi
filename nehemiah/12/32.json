@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और उनके पीछे होशायाह चला, और यहूदा के सरदारों का आधा भाग,",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और … चला"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "उनके पीछे"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "होशायाह"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "और आधा भाग"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारों"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:43.383186501Z",
+  "model": "glm-5.2"
+}

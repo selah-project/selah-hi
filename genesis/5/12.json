@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और केनान ने सत्तर वर्ष जिया, और ⟨את⟩ महललएल को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "और जिया"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महललएल को"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललएल"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:42.429530826Z",
+  "model": "glm-5.2"
+}

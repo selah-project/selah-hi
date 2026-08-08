@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "उनका दाखरस तनिनों का विष ⟨है⟩, और पतनों का रोह निर्दयी ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "तनिनों का"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "उनका दाखरस"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "और रोह"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "पतनों का"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "निर्दयी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:24.259147094Z",
+  "model": "glm-5.2"
+}

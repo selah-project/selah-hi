@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "एस्तेर ने कहा, “यदि राजा पर अच्छा लगे, तो आज राजा और हामान उस भोज पर आएँ जो मैंने उसके लिए बनाया है।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर ने"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा लगे"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आएँ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "और हामान"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "भोज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "मैंने बनाया है"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:40:59.195178698Z",
+  "model": "glm-5.2"
+}

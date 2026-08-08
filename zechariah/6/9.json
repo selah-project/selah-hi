@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे का वचन मेरे पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨यह⟩ ⟨था⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:40:03.718977682Z",
+  "model": "glm-5.2"
+}

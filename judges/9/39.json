@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और गाल शकेम के बालों के सामने निकला, और अबीमेलेक से युद्ध किया।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "געל",
+      "gloss": "गाल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "बालों"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शकेम"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "और युद्ध किया"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "अबीमेलेक से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:07:44.967404110Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "योसेफ के ⟨गोत्र हेतु⟩ — मनश्शे के ⟨गोत्र हेतु⟩ — गद्दी, सूसी का पुत्र।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र हेतु"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र हेतु"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "सूसी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:15.756675501Z",
+  "model": "glm-5.2"
+}

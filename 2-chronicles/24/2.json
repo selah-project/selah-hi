@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और योआश ने वह किया जो यहवे की दृष्टि में ठीक था, यहोयादा ⟨के⟩ याजक के सब दिनों में।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश ने"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "जो ठीक था"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "की दृष्टि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनों में"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    }
+  ],
+  "timestamp": "2026-08-08T00:08:31.806848610Z",
+  "model": "glm-5.2"
+}

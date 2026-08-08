@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "हरिम के ⟨के⟩ पुत्र, तीन सौ बीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हरिम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:49.779523353Z",
+  "model": "glm-5.2"
+}

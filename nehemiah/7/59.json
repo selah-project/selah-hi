@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "शेफत्याह के बेटे, हत्तील के बेटे, पोखेरेत-हत्स्वायिम के बेटे, अम्मोन के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शेफत्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "हत्तील"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "पोखेरेत"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "हत्स्वायिम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "अम्मोन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:17.322331628Z",
+  "model": "glm-5.2"
+}

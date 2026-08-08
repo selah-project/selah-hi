@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "उनके मुख से मत डर, क्योंकि तेरे साथ मैं हूँ — तुझे छुड़ाने के लिए, यहवे का उद्गार।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "तू डर"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "उनके मुख से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तेरे साथ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "तुझे छुड़ाने के लिए"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "उद्गार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:31.867246589Z",
+  "model": "glm-5.2"
+}

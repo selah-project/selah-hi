@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 4:23",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "या उसके पाप का ज्ञान उसे हो जाए जो उसने किया, तो वह अपना करबान लाए — बकरी का एक बोलदा नर, तमिम।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "ज्ञात हो"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "उसका पाप"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप किया"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "और लाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना करबान"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "उसका करबान"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "बोलदा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "नर"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "तमिम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:57.493652766Z",
+  "model": "glm-5.2"
+}

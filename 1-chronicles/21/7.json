@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यह बात एलोहीम की आँखों में बुरी लगी, और ⟨उसने⟩ ⟨את⟩ इस्राएल को मारा।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "और बुरी लगी"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखों में"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम की"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "और मारा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल को"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:12.972133820Z",
+  "model": "glm-5.2"
+}

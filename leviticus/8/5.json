@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और मोशे ने ⟨सभा⟩ से कहा, “यह वह बात है जो यहवे ने करने की आज्ञा दी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨सभा⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:22.848675416Z",
+  "model": "glm-5.2"
+}

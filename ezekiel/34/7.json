@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "इसलिए, हे चरवाहो, यहवे के वचन को ⟨את⟩ सुनो;",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "हे चरवाहो"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन को"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:34:55.517171803Z",
+  "model": "glm-5.2"
+}

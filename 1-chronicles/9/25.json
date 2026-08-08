@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और उनके भाई अपने-अपने आँगनों में थे, सात दिनों के लिए आने को, समय से समय तक, इनके साथ।",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "और उनके भाई"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "अपने-अपने आँगनों में"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आने को"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिनों के लिए"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "समय से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "इन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:22.712054672Z",
+  "model": "glm-5.2"
+}

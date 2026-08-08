@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "नहीं ऐसे ⟨हैं⟩ दुष्ट; किन्तु बल्कि तिनके के समान जिसे वायु उड़ा ले जाती है।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसे"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किन्तु"
+    },
+    {
+      "surface": "אם",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "तिनके के समान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "उड़ा ले जाती है"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वायु"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:14.241547673Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 142,
+  "translation": "एक मस्कील दाविद का — जब वह गुफा में था — एक प्रार्थना।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "एक मस्कील"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "जब वह था"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "गुफा में"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "एक प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:47.845856668Z",
+  "model": "glm-5.2"
+}

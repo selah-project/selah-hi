@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "दृढ़ करो शिथिल हाथों को, और डगमगाते घुटनों को सशक्त करो।",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "दृढ़ करो"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथों को"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "शिथिल"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "और घुटनों को"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "डगमगाते"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "सशक्त करो"
+    }
+  ],
+  "timestamp": "2026-08-07T22:02:06.185247249Z",
+  "model": "glm-5.2"
+}

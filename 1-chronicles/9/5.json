@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨की ओर से⟩ शिलोनियों में से: असय्याह पहला-जात और उसके पुत्र।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और … से"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "शिलोनी"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असय्याह"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहला-जात"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "और उसके पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:36.423197082Z",
+  "model": "glm-5.2"
+}

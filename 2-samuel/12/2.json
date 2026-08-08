@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "धनी के पास भेड़-बकरियाँ और बैल बहुत अधिक थे।",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "धनी के पास"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थे"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेड़-बकरियाँ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "और बैल"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अधिक"
+    }
+  ],
+  "timestamp": "2026-08-07T21:28:44.034002685Z",
+  "model": "glm-5.2"
+}

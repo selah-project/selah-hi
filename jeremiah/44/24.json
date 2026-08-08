@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 44:24",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "और यिर्मयाहू ने सारे जनता और स्त्रियों से कहा: सुनो यहवे का वचन, सारा यहूदा जो मिस्रयिम के देश में ⟨है⟩ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "स्त्रियों"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:17.698382914Z",
+  "model": "glm-5.2"
+}

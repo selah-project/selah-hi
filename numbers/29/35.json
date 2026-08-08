@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "आठवें दिन तुम्हारे लिए एक सम्मेलन ⟨होगा⟩; कोई भी सेवा-कार्य नहीं करोगे।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठवें"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "सम्मेलन"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-कार्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करोगे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:34.845383974Z",
+  "model": "glm-5.2"
+}

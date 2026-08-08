@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨את⟩ बेथ-त्सूर और ⟨את⟩ सोखो और ⟨את⟩ अदुल्लाम को।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बेथ-त्सूर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सूर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "सोखो"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "सोखो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अदुल्लाम"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "अदुल्लाम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:40.388679376Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "बुराई के मनुष्य ⟨मिलान⟩ नहीं समझते, और यहवे के खोजी सब कुछ समझते हैं।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "समझते"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "मिलान"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "और खोजी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "समझते हैं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:25.309522733Z",
+  "model": "glm-5.2"
+}

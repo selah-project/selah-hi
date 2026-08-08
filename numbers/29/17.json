@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 29:17",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और दूसरे दिन ⟨में⟩ बारह बैल, बाधा-वंश के, दो मेढ़े, चौदह मेमने, एक वर्ष के, निर्दोष।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और दिन में"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "वंश के"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बाधा"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़े"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "वंश के"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक वर्ष"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:19.305502421Z",
+  "model": "glm-5.2"
+}

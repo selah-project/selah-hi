@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "कक्ष से आँधी आती ⟨है⟩, और बिखरने वालों से ठण्ड ⟨आती है⟩।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "कक्ष"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आती"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "आँधी"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "और बिखरने वालों से"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ठण्ड"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:08.398258127Z",
+  "model": "glm-5.2"
+}

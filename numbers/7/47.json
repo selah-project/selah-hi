@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 7:47",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और शलम-बलि के लिए: बैल दो, मेढ़े पाँच, बकरे पाँच, एक वर्ष के मेमने पाँच; यह एलियासाप बेन देउएल का करबान था।",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "और बलि के लिए"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शलम-"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़े"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "बकरे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक वर्ष के"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "करबान"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एलियासाप"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:35.967520541Z",
+  "model": "glm-5.2"
+}

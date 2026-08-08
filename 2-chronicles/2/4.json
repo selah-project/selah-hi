@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "“और वह घर जो मैं बना रहा हूँ बड़ा ⟨है⟩, क्योंकि हमारा एलोहीम सब एलोहीम से बड़ा है।”",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "और वह घर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "बना रहा हूँ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमारा एलोहीम"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब से"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:28.271495576Z",
+  "model": "glm-5.2"
+}

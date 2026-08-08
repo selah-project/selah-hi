@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और शलोमोह ने चीराम के पास भेजा, कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "और भेजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "चीराम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:36:09.570440487Z",
+  "model": "glm-5.2"
+}

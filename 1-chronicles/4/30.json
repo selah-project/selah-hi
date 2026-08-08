@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और बेथुएल में, और खोरमा में, और त्सिक्लग में।",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "और बेथुएल में"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "और खोरमा में"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "और त्सिक्लग में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:47.609899619Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "बाहों के अपराध में बुराई का फंदा ⟨है⟩, और धर्मी संकट से निकलता है।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "अपराध में"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "बाहों के"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "फंदा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई का"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "और निकलता है"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "संकट से"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:31.966152115Z",
+  "model": "glm-5.2"
+}

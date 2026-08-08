@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और यिर्मयाहू ने कहा, “यहवे का वचन मेरे पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आया"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:27:03.683236231Z",
+  "model": "glm-5.2"
+}

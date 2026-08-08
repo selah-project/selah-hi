@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "इकट्ठा होओ और इकट्ठा होओ, हे ⟨स⟩ राष्ट्र जो ⟨क⟩ लालची नहीं ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "इकट्ठा होओ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "और इकट्ठा होओ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "हे राष्ट्र"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "लालची"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:23.276277032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यादा के पुत्र ⟨थे⟩ — शम्माय के भाई — येतेर और यहोनातान; और येतेर मर गया, उसके पुत्र नहीं थे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "यादा"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माय"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "और यहोनातान"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मर गया"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:42.251380990Z",
+  "model": "glm-5.2"
+}

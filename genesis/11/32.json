@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और तेरह के दिन पाँच साल और दो सौ वर्ष हुए, और तेरह की हारान में मृत्यु हुई।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "साल"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "और दो सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मृत्यु हुई"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "हारान में"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:16.490069021Z",
+  "model": "glm-5.2"
+}

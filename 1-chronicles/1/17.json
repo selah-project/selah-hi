@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "शेम के बेटे: एलाम, और अश्शूर, और अर्पकशद, और लूद, और अराम, और ऊत्स, और हूल, और गेतर, और मशेक।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "और अश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "और अर्पकशद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "और लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "और अराम"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "और ऊत्स"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "और हूल"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "और गेतर"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "और मशेक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:36.900907005Z",
+  "model": "glm-5.2"
+}

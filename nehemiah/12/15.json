@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "ले-चारिम के लिए अद्ना, ले-मरायोत के लिए चेल्काय।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ले-चारिम"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "अद्ना"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "ले-मरायोत"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "चेल्काय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:18.828205603Z",
+  "model": "glm-5.2"
+}

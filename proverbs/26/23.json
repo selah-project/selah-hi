@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "सिलवारा चांदी-कड़प मिट्टी के बर्तन पर, जलते होंठ और बुरा हृदय ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चांदी"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "कड़प"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "सिलवारा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मिट्टी के बर्तन"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "होंठ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "जलते"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "और हृदय"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:50.138908576Z",
+  "model": "glm-5.2"
+}

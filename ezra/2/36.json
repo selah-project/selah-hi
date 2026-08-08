@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "याजक: यदायाह के बेटे, येशूए के घर के, नौ सौ सत्तर और तीन।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदायाह"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर के"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशूए"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:59.354641159Z",
+  "model": "glm-5.2"
+}

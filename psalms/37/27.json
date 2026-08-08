@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "बुराई से हट जाओ और भलाई करो, और सदा तक बसो।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "हट जाओ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "और करो"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "और बसो"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा तक"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:18.477103514Z",
+  "model": "glm-5.2"
+}

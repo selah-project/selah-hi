@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "क्योंकि तुम्हारी आँखें ⟨हैं⟩ देखती हुई ⟨את⟩ सारे महान कार्य यहवे के, जो उसने किए;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "तुम्हारी आँखें"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "देखती हुई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारे महान कार्य"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "उसने किए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:38.541417390Z",
+  "model": "glm-5.2"
+}

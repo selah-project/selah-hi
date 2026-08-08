@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "देखो, एल निर्दोष को त्यागता नहीं, और दुष्टों के हाथ को नहीं पकड़ता।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "त्यागता"
+    },
+    {
+      "surface": "תם",
+      "gloss": "निर्दोष को"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "पकड़ता"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ को"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "दुष्टों के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:25:44.195515804Z",
+  "model": "glm-5.2"
+}

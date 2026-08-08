@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 14:22",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और दो कबूतर अथवा दो कबूतर के बच्चे, जिन्हें उसका हाथ पा सके; और एक पाप-अर्पण होगा और दूसरा दाह-अर्पण।",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "कबूतर"
+    },
+    {
+      "surface": "או",
+      "gloss": "अथवा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बच्चे"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "कबूतर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हें"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "पा सके"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसका हाथ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "और होगा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-अर्पण"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "और दूसरा"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "दाह-अर्पण"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:04.378619984Z",
+  "model": "glm-5.2"
+}

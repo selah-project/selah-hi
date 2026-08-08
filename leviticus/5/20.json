@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और यहवे ने मोशे से कहा, “कह:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:16.426461391Z",
+  "model": "glm-5.2"
+}

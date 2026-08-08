@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "उसकी ओर लौट आओ जिससे बनी इस्राएल ने गहरी बग़वाड़ की है!",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "लौट आओ"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "उसकी ओर जिससे"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "गहरी की है"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "बग़वाड़"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:01:33.793426703Z",
+  "model": "glm-5.2"
+}

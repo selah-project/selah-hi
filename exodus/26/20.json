@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और तैनाख़ के दूसरी पहलू के लिए, उत्तर ओर, बीस कटर ⟨होंगे⟩।",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "और पहलू के लिए"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "तैनाख़ के"
+    },
+    {
+      "surface": "हשנית",
+      "gloss": "दूसरी"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "कटर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:16.189027761Z",
+  "model": "glm-5.2"
+}

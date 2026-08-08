@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 4:25",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तेरी आँखें सामने देखें, और तेरी पलकें तेरे सामने सीधी ⟨हों⟩।",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "तेरी आँखें"
+    },
+    {
+      "surface": "לנכח",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "देखें"
+    },
+    {
+      "surface": "ועפעפיך",
+      "gloss": "और तेरी पलकें"
+    },
+    {
+      "surface": "יישרו",
+      "gloss": "सीधी ⟨हों⟩"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "तेरे सामने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:33.789682020Z",
+  "model": "glm-5.2"
+}

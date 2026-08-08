@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "मरायोत ने ⟨את⟩ अमर्याह को जन्य किया, और अमर्याह ने ⟨את⟩ अखीतूब को जन्य किया।",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "मरायोत"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्य किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अमर्याह"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "और अमर्याह"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्य किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अखीतूब"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अखीतूब"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:52.407661062Z",
+  "model": "glm-5.2"
+}

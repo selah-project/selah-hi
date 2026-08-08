@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और उसने भवन के सामने दो स्तम्भ बनाए — पैंतीस अम्हां लम्बाई; और ⟨वह⟩ अलंकरण जो उसके सिर पर था, पाँच अम्हां।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने बनाया"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अम्हां"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "और वह अलंकरण"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "उसके सिर"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "अम्हां"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-08-08T00:04:28.572829732Z",
+  "model": "glm-5.2"
+}

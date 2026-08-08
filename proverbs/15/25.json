@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "घमण्डियों का घर यहवे डह देगा, और विधवा की सीमा टिकाएगा।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "घमण्डियों का"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "डह देगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "टिकाएगा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:00.322862645Z",
+  "model": "glm-5.2"
+}

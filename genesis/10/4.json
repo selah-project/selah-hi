@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यावान के पुत्र — एलीशा और तर्शीश, कित्तीम और दोदानीम।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "יון",
+      "gloss": "यावान के"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "एलीशा"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "और तर्शीश"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "कित्तीम"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "और दोदानीम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:17.924562387Z",
+  "model": "glm-5.2"
+}

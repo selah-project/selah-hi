@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 77,
+  "translation": "महामंडलेश के लिए, यदूतून पर, आसाफ का लिए; एक मज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महामंडलेश के लिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "यदूतून"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "आसाफ का लिए"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एक मज़मोर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:45:17.145206385Z",
+  "model": "glm-5.2"
+}

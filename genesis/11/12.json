@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और अर्पक्शद पैँतीस वर्ष जिया, और उसने ⟨את⟩ शेलख को जना।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "और अर्पक्शद"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिया"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और उसने जना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेलख"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलख"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:00.412341886Z",
+  "model": "glm-5.2"
+}

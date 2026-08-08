@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "मैं ने तुझे जाना जंगल में, ⟨ब⟩उस भूमि में जो तप्त ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "तुझे जाना"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "उस भूमि में"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "तप्त"
+    }
+  ],
+  "timestamp": "2026-08-07T22:41:19.877282727Z",
+  "model": "glm-5.2"
+}

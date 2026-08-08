@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "वहाँ जहाज़ चलते हैं, लव्यातान — इसे तू ने बनाया उसमें खेलने के लिए।",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाज़"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "चलते हैं"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "लव्यातान"
+    },
+    {
+      "surface": "זה",
+      "gloss": "इसे"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "तू ने बनाया"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "खेलने के लिए"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:28.532655828Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "राजा के ओठों पर ⟨है⟩ दैवीय वाक्य; ⟨है⟩ न्याय में उसका मुख विश्वासघात नहीं करेगा।",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "दैवीय वाक्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठों"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्याय में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "विश्वासघात करेगा"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "उसका मुख"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:59.731815537Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "क्योंकि विनाश का उनका मन भीतर ही भीतर सोचता है, और उनके ओठ कष्ट बोलते हैं।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "שד",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "सोचता है"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "उनका मन"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "और कष्ट"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "उनके ओठ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "बोलते हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:20.923853952Z",
+  "model": "glm-5.2"
+}

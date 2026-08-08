@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "क्योंकि बुद्धिमान के लिए मूर्ख से क्या अधिक है? ग़रीब के लिए, ⟨जो⟩ जीवतों के सामने चलना जानता है, क्या ⟨अधिक⟩ है?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "अधिक"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "बुद्धिमान के लिए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ग़रीब के लिए"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानता है"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "चलना"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवतों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:29.542467180Z",
+  "model": "glm-5.2"
+}

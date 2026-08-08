@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "एलोहीम को तू बदनाम न कर, और तेरे जनता में से किसी नायक को तू श्राप न दे।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקלल",
+      "gloss": "तू बदनाम करे"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "और नायक"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "तेरे जनता में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "तू श्राप दे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:50.803258579Z",
+  "model": "glm-5.2"
+}

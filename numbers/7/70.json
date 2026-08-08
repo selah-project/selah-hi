@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बकरों का एक बालक, पापबलि के लिए।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरों का"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलि के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:57.419070581Z",
+  "model": "glm-5.2"
+}

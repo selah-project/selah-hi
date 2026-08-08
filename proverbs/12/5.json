@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "धर्मीयों के विचार न्याय ⟨हैं⟩; दुष्टों की युक्तियाँ छल ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मीयों के"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "युक्तियाँ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों की"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:05.100316411Z",
+  "model": "glm-5.2"
+}

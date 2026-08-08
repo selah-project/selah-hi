@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "यहवे ⟨है⟩ मेरे भाग की माप और मेरा कप; तू मेरे गोरल को सम्भालता है।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "माप"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "मेरे भाग की"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "और मेरा कप"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "सम्भालता है"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "मेरे गोरल को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:55:06.193650125Z",
+  "model": "glm-5.2"
+}

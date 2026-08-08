@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और अदा ने ⟨את⟩ याबल को जन्म दिया; वह डेरे डालने वालों और मवेशी पालने वालों का पिता था।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदा ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याबल को"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "याबल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसने वाला"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "डेरा"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "और मवेशी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:26.272519005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "घर और धन पिताों की निधि ⟨हैं⟩, और बुद्धिमान स्त्री यहवे से ⟨मिलती है⟩।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "והון",
+      "gloss": "और धन"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "निधि"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "पिताों की"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "और यहवे से"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "बुद्धिमान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:59.284578551Z",
+  "model": "glm-5.2"
+}

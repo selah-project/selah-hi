@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यिस्राएल ने सीहोन, एमोरी के राजा के पास दूत भेजे, कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "और उसने भेजा"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "सीहोन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी का"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:36.673613826Z",
+  "model": "glm-5.2"
+}

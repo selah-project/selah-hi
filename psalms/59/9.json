@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 59,
+  "translation": "और तू, हे यहवे, उन पर हँसेगा; सब जातियों का उपहास करेगा।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "हँसेगा"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "उपहास करेगा"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियों का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:05.062403093Z",
+  "model": "glm-5.2"
+}

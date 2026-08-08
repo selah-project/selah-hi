@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और एब्रोन और रेचोब और चम्मोन और काना, महान त्सिदोन तक;",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "और एब्रोन"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "और रेचोब"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "और चम्मोन"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "और काना"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "त्सिदोन"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "महान"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:31.383730052Z",
+  "model": "glm-5.2"
+}

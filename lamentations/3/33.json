@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "क्योंकि वह अपने हृदय से दुःख नहीं देता, और मनुष्यों के पुत्रों को व्यथित नहीं करता।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "दुःख देता"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "अपने हृदय से"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "और व्यथित करता"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों को"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्यों के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:16.657733239Z",
+  "model": "glm-5.2"
+}

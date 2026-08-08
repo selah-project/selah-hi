@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ⟨את⟩ बारूक से पूछा, ये कहते हुए: “हमें बताओ, न, कैसे तू ने ⟨את⟩ सब इन वचनों को उसके मुख से लिखा?”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बारूक"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूक"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "पूछा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ये कहते हुए"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "बताओ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "न"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "तू ने लिखा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब इन वचनों को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचनों को"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "उसके मुख से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:57.089163243Z",
+  "model": "glm-5.2"
+}

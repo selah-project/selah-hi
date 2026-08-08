@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और तुम पुराना पुराना खाओगे और पुराने को नए के कारण बाहर निकालोगे।",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "और तुम खाओगे"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "पुराना"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "पुराना"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "और पुराने को"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नए"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "बाहर निकालोगे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:00.905736116Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "क्या कोई पुरुष अपनी गोद में आग रखता है, और उसके वस्त्र नहीं जलते?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "क्या रखता है"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "अपनी गोद में"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "और उसके वस्त्र"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "जलते"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:00.316000661Z",
+  "model": "glm-5.2"
+}

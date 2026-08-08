@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "इस्राएल के घर का कोई भी मनुष्य जो छावनी में बैल या मेढ़ा या बकरी बलि करे, या जो छावनी के बाहर बलि करे —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोई भी"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "के घर का"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "बलि करे"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बकरी"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "छावनी में"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "बलि करे"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:48.557746372Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "कैसे गिरे वीर युद्ध के बीच में! यहोनातन, तेरी ऊँचाइयों पर वध किए गए!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "वीर"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "तेरी ऊँचाइयों"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "वध किए गए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:24:22.121272536Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 94,
+  "translation": "यदि यहवे मेरी सहायता न होता, तो लगभग ⟨मेरी⟩ नफश नीरवता में बस गई होती।",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "यदि न होता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "सहायता"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरी"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "बस गई होती"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "नीरवता में"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "नफश"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:36.808242430Z",
+  "model": "glm-5.2"
+}

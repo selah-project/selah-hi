@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और ⟨उस⟩ लड़के को कुछ मालूम नहीं था; केवल यहोनातान और दाऊद ही ⟨את⟩ बात जानते थे।",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "और लड़के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता था"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुछ भी"
+    },
+    {
+      "surface": "אך",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "और दाऊद"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानते थे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-08-07T21:20:43.009712770Z",
+  "model": "glm-5.2"
+}

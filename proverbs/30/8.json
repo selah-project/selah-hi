@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "शून्यता और झूठे वचन को मुझसे दूर रख; न दरिद्रता और न धन मुझे दे; मुझे मेरा नियत अन्न खिला।",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "शून्यता"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "और वचन"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "दूर रख"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "दरिद्रता"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "और धन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "मुझे खिला"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "मेरा नियत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:20.676500295Z",
+  "model": "glm-5.2"
+}

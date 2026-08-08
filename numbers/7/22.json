@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बकरियों का एक बालक-बकरा, पाप-बलि के लिए।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बालक-बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरियों"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:23.206102400Z",
+  "model": "glm-5.2"
+}

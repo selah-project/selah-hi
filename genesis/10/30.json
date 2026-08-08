@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "उनका बसेरा मेशा से था, सेफर की ओर जाते हुए, पूर्व के पर्वत तक।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "था"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "उनका बसेरा"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "मेशा से"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "जाते हुए"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "सेफर की ओर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "पूर्व के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:09.802370345Z",
+  "model": "glm-5.2"
+}

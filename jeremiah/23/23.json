@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "क्या ⟨मैं⟩ निकट का एलोहीम हूँ — נְאֻם यहवे — और दूर का एलोहीम नहीं?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "क्या एलोहीम"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "निकट"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "נְאֻם"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर"
+    }
+  ],
+  "timestamp": "2026-08-08T02:42:06.586737772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "गज्ज़ाम के पुत्र, उज्ज़ा के पुत्र, पसेह के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "गज्ज़ाम के पुत्र"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "गज्ज़ाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "उज्ज़ा के पुत्र"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्ज़ा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पसेह के पुत्र"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पसेह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:32.166567890Z",
+  "model": "glm-5.2"
+}

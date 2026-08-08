@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "उसने वही किया जो यहवे की आँखों में सीधा था — उस सब के अनुसार जो उसके पिता दाविद ने किया था।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने किया"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखों में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "उस सब के अनुसार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "उसके पिता"
+    }
+  ],
+  "timestamp": "2026-08-08T00:10:39.187389750Z",
+  "model": "glm-5.2"
+}

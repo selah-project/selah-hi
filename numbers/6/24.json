@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यहवे तुझे आशीर्वाद देवे और तुझे रखे;",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "वह तुझे आशीर्वाद देवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "और तुझे रखे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:36.195251995Z",
+  "model": "glm-5.2"
+}

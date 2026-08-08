@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "खाओ, हे मेरे पुत्र, शहद, क्योंकि वह भला है, और छत्त का रस तेरे तालू पर मीठा है।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खाओ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे पुत्र"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "शहद"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला है"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "और छत्त का रस"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "मीठा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "तेरे तालू"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:01.615566720Z",
+  "model": "glm-5.2"
+}

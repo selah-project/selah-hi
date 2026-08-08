@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "⟨के लिए⟩ संगीत-निर्देशक को, आठवीं ⟨पर⟩, दावीद का मज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशक को"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "आठवीं"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:39.268502111Z",
+  "model": "glm-5.2"
+}

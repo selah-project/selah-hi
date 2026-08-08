@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "मैं तेरे वचन पर आनन्दित हूँ, बहुत लूट पाने वाले की तरह।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "आनन्दित हूँ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "तेरे वचन"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "पाने वाले की तरह"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:41.594593138Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और सारी ⟨भूमि के लोग⟩ जंगल में आए, और मधु था खेत के आगे ⟨पर⟩।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨भूमि के लोग⟩"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मधु"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:17:33.064488999Z",
+  "model": "glm-5.2"
+}

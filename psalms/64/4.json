@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 64,
+  "translation": "जिन्होंने तलवार के समान अपनी जिह्वा धार दी, अपने बाण नोचे — कड़वा वचन;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जिन्होंने"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "धार दी"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "तलवार के समान"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "अपनी जिह्वा"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "नोचे"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "अपने बाण"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कड़वा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:47.979884393Z",
+  "model": "glm-5.2"
+}

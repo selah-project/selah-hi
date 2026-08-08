@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 14:5",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब मोशे और अहरोन उनके चेहरों पर गिरे, इस्राएल के बेटों की मण्डली के समूह के सामने।",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "तब गिरे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "और अहरोन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "उनके चेहरों"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "समूह"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों की"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:31.285694999Z",
+  "model": "glm-5.2"
+}

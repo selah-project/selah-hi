@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "क्योंकि दबाव बुद्धिमान को बौराता है, और ⟨यह⟩ ⟨את⟩ भेंट दिल को नष्ट करती है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "दबाव"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "बौराता"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "और नष्ट करती है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "दिल"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "भेंट"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:08.493707410Z",
+  "model": "glm-5.2"
+}

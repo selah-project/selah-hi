@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और हेमान के बेटों में से यहीएल और शिमी; और यदूतून के बेटों में से शमायाह और उज़िएल।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और ... से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "हेमान"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "यहीएल"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "और शिमी"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "और ... से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "यदूतून"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमायाह"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "और उज़िएल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:10:42.447777235Z",
+  "model": "glm-5.2"
+}

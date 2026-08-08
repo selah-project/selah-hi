@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और शुप्पीम और हुप्पीम, ईर के पुत्र; हुशीम, अहेर के पुत्र।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "और-शुप्पीम"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "और-हुप्पीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ईर"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "हुशीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अहेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:52.195417137Z",
+  "model": "glm-5.2"
+}

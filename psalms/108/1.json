@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 108,
+  "translation": "गीत, वाद्य-स्तोत्र दावीद का।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזमור",
+      "gloss": "वाद्य-स्तोत्र"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:55.540134658Z",
+  "model": "glm-5.2"
+}

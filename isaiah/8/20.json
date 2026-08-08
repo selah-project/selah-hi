@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "तौरात की ओर और गवाही की ओर! यदि वे इस वचन के अनुसार न कहें — जिसमें कोई भोर नहीं ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "तौरात की ओर"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "और गवाही की ओर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "वे कहें"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "वचन के अनुसार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसमें"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:55:55.298992150Z",
+  "model": "glm-5.2"
+}

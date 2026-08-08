@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "अपने मुँह और अपनी जीभ का रक्षक अपने प्राण को संकटों से रखता है।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "रक्षक"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "अपने मुँह"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "और अपनी जीभ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "रखता है"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "संकटों से"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "अपने प्राण को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:57.044624553Z",
+  "model": "glm-5.2"
+}

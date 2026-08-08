@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "रशा ने त्सादिक को देखा और उसे मार डालने की खोज की।",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "रशा ने"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "त्सादिक को"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "और खोज की"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "उसे मार डालने की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:35.068320989Z",
+  "model": "glm-5.2"
+}

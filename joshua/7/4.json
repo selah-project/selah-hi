@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और लोग में से वहाँ लगभग तीन हज़ार पुरुष गए, और वे हाअय के पुरुषों के सामने भाग गए।",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "और गए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग में"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "लगभग तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "और भाग गए"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुषों के"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाअय के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:58:23.965886446Z",
+  "model": "glm-5.2"
+}

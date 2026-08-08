@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और एक दसमांश प्रत्येक मेमने के लिए, चौदह मेमनों के लिए;",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "और एक दसमांश"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "दसमांश"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "मेमने के लिए"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "चार के लिए"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:08.517024311Z",
+  "model": "glm-5.2"
+}

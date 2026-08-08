@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "रामा और गेबा के पुत्र: छह सौ इक्कीस ⟨और एक⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के पुत्र"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "रामा"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "और गेबा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "और एक"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:11.291288992Z",
+  "model": "glm-5.2"
+}

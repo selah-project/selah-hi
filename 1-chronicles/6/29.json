@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और मरारी के बेटे, उनके भाई, बायें ⟨हाथ पर थे⟩: एतान, किशी का बेटा, अब्दी का बेटा, मल्लूख का बेटा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "उनके भाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "बायें"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एतान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "किशी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "अब्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "मल्लूख"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:34.295763714Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "तब यहवे का वचन यिर्मयाहू के पास यहवे की ओर से आया, यह कहने को:",
+  "tokens": [
+    {
+      "surface": "וַיְהִי",
+      "gloss": "तब हुआ"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "מֵאֵת",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "यह कहने को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:32.277753951Z",
+  "model": "glm-5.2"
+}

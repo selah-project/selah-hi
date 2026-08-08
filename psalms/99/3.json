@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 99,
+  "translation": "तेरे नाम की स्तुति करें—महान् और भयानक ⟨है⟩; पवित्र ⟨है⟩ वह।",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "स्तुति करें"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तेरे नाम की"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान्"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "और भयानक"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:41.642682805Z",
+  "model": "glm-5.2"
+}

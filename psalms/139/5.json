@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 139,
+  "translation": "पीछे और आगे से तू ने मुझे घेरा है, और मुझ पर अपना हाथ रखा है।",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "और आगे"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "तू ने मुझे घेरा है"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "और तू ने रखा"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "अपना तालू"
+    }
+  ],
+  "timestamp": "2026-08-07T23:15:04.531598843Z",
+  "model": "glm-5.2"
+}

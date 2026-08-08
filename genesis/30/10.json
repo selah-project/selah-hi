@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और ज़िल्पा — लेआ की दासी — ने याकोव को एक पुत्र जना।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "और ... जना"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ज़िल्पा"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआ की"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव को"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एक पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:12.993739216Z",
+  "model": "glm-5.2"
+}

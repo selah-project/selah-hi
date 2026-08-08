@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "शिकारी पक्षी उस मार्ग को नहीं जानता, और ⟨उसे⟩ बाज़ की आँख ने नहीं देखा।",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "शिकारी पक्षी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "איה",
+      "gloss": "बाज़"
+    }
+  ],
+  "timestamp": "2026-08-07T23:30:01.001902974Z",
+  "model": "glm-5.2"
+}

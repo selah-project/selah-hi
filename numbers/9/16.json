@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "ऐसा ही सदा था — बादल ⟨उसे⟩ ढाकता, और रात में आग का दिखावा।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ऐसा ही"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "था"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ढाकता"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "और दिखावा"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:46.607029349Z",
+  "model": "glm-5.2"
+}

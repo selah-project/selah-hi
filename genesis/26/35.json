@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और वे यित्सखक और रिबका के लिए आत्मा का कटुता बनीं।",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "और वे बनीं"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "कटुता"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मा"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सखक के लिए"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "और रिबका के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:26.794577792Z",
+  "model": "glm-5.2"
+}

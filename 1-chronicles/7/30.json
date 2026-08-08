@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "आशेर के बेटे: यिम्ना और यिश्वा और यिश्वी और बरिया और सराह उनकी बहन ⟨थी⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "यिम्ना"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "और-यिश्वा"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "और-यिश्वी"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "और-बरिया"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "और-सराह"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "उनकी-बहन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:56.587758401Z",
+  "model": "glm-5.2"
+}

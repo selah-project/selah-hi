@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "“और उन्हें अपने घर के द्वार-चौखटों पर और अपने फाटकों पर लिखो।”",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "और-तुम-लिखोगे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "द्वार-चौखटों"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "घर-अपने"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "और-फाटकों-अपने"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:29.387232202Z",
+  "model": "glm-5.2"
+}

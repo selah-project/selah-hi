@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और दावीद दुर्ग में बसा; इसलिए उसके लिए वह दावीद का नगर कहलाया।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "और बसा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "दुर्ग में"
+    },
+    {
+      "surface": "על",
+      "gloss": "इस"
+    },
+    {
+      "surface": "כן",
+      "gloss": "लिए"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "कहलाया"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:20.672617934Z",
+  "model": "glm-5.2"
+}

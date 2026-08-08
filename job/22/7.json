@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "थके हुए को तू जल नहीं पिलाता, और भूखे से तू रोटी रोक लेता है।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "थके हुए को"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "पिलाता"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "और भूखे से"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "रोक लेता है"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:28:16.589677062Z",
+  "model": "glm-5.2"
+}

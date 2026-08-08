@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "ऊँट चार सौ पैंतीस; गदहे छः हज़ार सात सौ बीस।",
+  "tokens": [
+    {
+      "surface": "גְּמַלִּ֖ים",
+      "gloss": "ऊँट"
+    },
+    {
+      "surface": "אַרְבַּ֥ע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֣ים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וַחֲמִשָּׁ֑ה",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "חֲמֹרִ֕ים",
+      "gloss": "गदहे"
+    },
+    {
+      "surface": "שֵׁ֣שֶׁת",
+      "gloss": "छः"
+    },
+    {
+      "surface": "אֲלָפִ֔ים",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "שְׁבַ֥ע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וְעֶשְׂרִֽים",
+      "gloss": "और बीस"
+    }
+  ],
+  "timestamp": "2026-08-08T01:01:42.268466880Z",
+  "model": "glm-5.2"
+}

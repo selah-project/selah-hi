@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यहवे का वचन मेरे पास आया, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T01:13:13.372266455Z",
+  "model": "glm-5.2"
+}

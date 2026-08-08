@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उसके पास दो ज़ैतून के पेड़ ⟨हैं⟩, एक कटोरे के दाहिनी ओर और एक उसकी बाईं ओर।”",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ज़ैतून के पेड़"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "दाहिनी ओर"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "कटोरे के"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "और एक"
+    },
+    {
+      "surface": "על",
+      "gloss": "की"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "बाईं ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:05.625733127Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "तब मोशेह ने यहवे के सामने से ⟨את⟩ लाठी को लिया, जैसा उसने उसे आज्ञा दी थी।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "तब … लिया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लाठी को"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "लाठी"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "उसने उसे आज्ञा दी थी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:11.620082381Z",
+  "model": "glm-5.2"
+}

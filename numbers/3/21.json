@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "ला-गेरशोन ⟨की⟩ कुल हलबनी और कुल हशिमई; ये ही हैं हगेरशुनी की कुलें।",
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "ला-गेरशोन"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "हलबनी"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "और कुल"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "हशिमई"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ही हैं"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुलें"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "हगेरशुनी की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:28:31.626683175Z",
+  "model": "glm-5.2"
+}

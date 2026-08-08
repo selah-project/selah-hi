@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यहवे ने मोशे और अहरोन से कहा, कहकर:",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֣אמֶר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "से"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וְאֶֽל",
+      "gloss": "और"
+    },
+    {
+      "surface": "אַהֲרֹ֖ן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:01:16.149240400Z",
+  "model": "glm-5.2"
+}

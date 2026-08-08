@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "हवा को देखने वाला बोना नहीं, और बादलों को देखने वाला काटता नहीं।",
+  "tokens": [
+    {
+      "surface": "שֹׁמֵ֥ר",
+      "gloss": "देखने वाला"
+    },
+    {
+      "surface": "ר֖וּחַ",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יִזְרָ֑ע",
+      "gloss": "बोना"
+    },
+    {
+      "surface": "וְרֹאֶ֥ה",
+      "gloss": "और देखने वाला"
+    },
+    {
+      "surface": "בֶעָבִ֖ים",
+      "gloss": "बादलों को"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יִקְצֽוֹר",
+      "gloss": "काटता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:48.209149316Z",
+  "model": "glm-5.2"
+}

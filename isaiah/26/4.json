@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "यहवे पर भरोसा करो, सदा के लिए, क्योंकि याह यहवे में ⟨है⟩ अनन्त अखंड शिला।",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "भरोसा करो"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवे पर"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "याह में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צור",
+      "gloss": "अखंड शिला"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "अनन्त"
+    }
+  ],
+  "timestamp": "2026-08-07T21:59:38.682362389Z",
+  "model": "glm-5.2"
+}

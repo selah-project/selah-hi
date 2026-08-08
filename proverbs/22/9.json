@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "उदार नेत्र वाला ⟨मनुष्य⟩ — वह धन्य होगा, क्योंकि उसने अपनी रोटी से दीन को दिया।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उदार"
+    },
+    {
+      "surface": "עין",
+      "gloss": "नेत्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "धन्य होगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "उसने दिया"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "अपनी रोटी से"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "दीन को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:20.993340241Z",
+  "model": "glm-5.2"
+}

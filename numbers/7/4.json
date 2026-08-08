@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यहवे ने मोशे से कहा, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:14.380693295Z",
+  "model": "glm-5.2"
+}

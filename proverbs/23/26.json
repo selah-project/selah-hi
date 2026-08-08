@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "दे, हे मेरे पुत्र, अपना हृदय मुझे, और तेरी आँखेँ मेरे मार्ग चाहेँ।",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "दे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे पुत्र"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "अपना हृदय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "और तेरी आँखेँ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "मेरे मार्र्ग"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "चाहेँ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:23.228863286Z",
+  "model": "glm-5.2"
+}

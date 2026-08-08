@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "“और ये ⟨हैं⟩ ⟨नगर⟩ की निकासीयाँ: उत्तरी किनारे से पाँच सौ और चार हज़ार माप।”",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "निकासीयाँ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨नगर⟩"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारे से"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तरी"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "माप"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:48.781124230Z",
+  "model": "glm-5.2"
+}

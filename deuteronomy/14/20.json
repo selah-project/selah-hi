@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "सब शुद्ध पक्षी तुम खा सकते हो।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खा सकते हो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:38.670784848Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और जब तू उसे अपने पास से स्वतन्त्र विदा करे, तो उसे खाली हाथ विदा न करे;",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और जब"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "तू उसे विदा करे"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "स्वतन्त्र"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "अपने पास से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "तू उसे विदा करे"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "खाली हाथ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:49:08.152814079Z",
+  "model": "glm-5.2"
+}

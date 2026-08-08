@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 68,
+  "translation": "तेरे मन्दिर से, यरूशलयिम के ऊपर, तेरे लिए राजा अर्पण लाएँगे।",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "तेरे मन्दिर से"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "लाएँगे"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שי",
+      "gloss": "अर्पण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:28.448500049Z",
+  "model": "glm-5.2"
+}

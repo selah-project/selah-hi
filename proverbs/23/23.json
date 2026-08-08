@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "सत्य ⟨को⟩ खरीद, और बेना मत; बुद्धि और अनुशासन और समझ ⟨को⟩।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "खरीद"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "बेना"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "और अनुशासन"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "और समझ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:55.268115270Z",
+  "model": "glm-5.2"
+}

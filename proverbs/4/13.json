@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "हठ लो अनुशासन को, उसे न छोड़ो; उसकी रक्षा करो, क्योंकि वह तुम्हारा जीवन ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "हठ लो"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "अनुशासन को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "छोड़ो"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "उसकी रक्षा करो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "तुम्हारा जीवन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:22.445917928Z",
+  "model": "glm-5.2"
+}

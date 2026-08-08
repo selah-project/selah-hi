@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "तब यहवे का महिमा घर के चौखट से निकलकर करूबों पर खड़ा हुआ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से ऊपर से"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "चौखट"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "और खड़ा हुआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "करूबों"
+    }
+  ],
+  "timestamp": "2026-08-07T22:28:06.071413898Z",
+  "model": "glm-5.2"
+}

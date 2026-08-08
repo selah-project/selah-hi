@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यिस्राएल के सब ज्येष्ठ आए, और याजकों ने ⟨את⟩ अरूण को उठाया।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ज्येष्ठ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "और उठाया"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "याजकों ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अरूण को"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "अरूण को"
+    }
+  ],
+  "timestamp": "2026-08-07T21:37:33.824288109Z",
+  "model": "glm-5.2"
+}

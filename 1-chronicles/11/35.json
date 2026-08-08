@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "अखियाम साकर हहरारी का बेटा, एलीपल ऊर का बेटा।",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "अखियाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "साकर"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हहरारी"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "एलीपल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ऊर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:35.899956847Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तू ⟨את⟩ दो शोहम-पत्थर लेगा, और उन पर इस्राएल के बेटों के नाम खोदेगा।",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "और तू लेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दो शोहम-पत्थर"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "शोहम"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "और तू खोदेगा"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों के"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:42.269331257Z",
+  "model": "glm-5.2"
+}

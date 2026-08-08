@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मेरा मांस और मेरी त्वचा उसने घिस डाली, मेरी हड्डियों को तोड़ डाला।",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "उसने घिस डाली"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "मेरा मांस"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "और मेरी त्वचा"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ डाला"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "मेरी हड्डियों को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:40.673976080Z",
+  "model": "glm-5.2"
+}

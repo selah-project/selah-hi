@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और एक पुरुष या स्त्री, यदि उसमें एक नागा हो, सिर में या दाढ़ी में,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "और एक पुरुष"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "एक नागा"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "सिर में"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "दाढ़ी में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:07.772178708Z",
+  "model": "glm-5.2"
+}

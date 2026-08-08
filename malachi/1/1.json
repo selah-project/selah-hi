@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "मस्सा, यहवे का वचन इस्राएल के प्रति, मलाकी के हाथ ⟨द्वारा⟩।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "मस्सा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "मलाकी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:52:37.121464130Z",
+  "model": "glm-5.2"
+}

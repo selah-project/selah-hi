@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "बैल और गधे को साथ में न जोतना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "जोतना"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "और गधे"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "साथ में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:47.331677081Z",
+  "model": "glm-5.2"
+}

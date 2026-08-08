@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और गिबओन में गिबओन के पिता बसे, और उसकी पत्नी का नाम माखा था।",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "और गिबओन में"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबओन के"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उसकी पत्नी का"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माखा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:00.384548210Z",
+  "model": "glm-5.2"
+}

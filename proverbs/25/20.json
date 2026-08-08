@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "सर्दी के दिन में वस्त्र उतारना और सोडा पर सिरका — ऐसा ⟨है⟩ वह जो दुखी हृदय के ऊपर गीत गाता है।",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "उतारना"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "सर्दी के"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "सिरका"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "सोडा"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "और जो गाता है"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "गीतों में"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुखी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:23.287214424Z",
+  "model": "glm-5.2"
+}

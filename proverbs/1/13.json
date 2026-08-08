@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "हर एक बहुमूल्य धन हम ⟨मिलाएँगे⟩; अपने घरों को लूट से भर देंगे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "बहुमूल्य"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "हम ⟨मिलाएँगे⟩"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "भर देंगे"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "अपने घरों को"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:45.705614341Z",
+  "model": "glm-5.2"
+}

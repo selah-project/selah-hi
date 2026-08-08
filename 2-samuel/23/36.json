@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "यिगाल नतन सोबा का पुत्र, बानी गादी,",
+  "tokens": [
+    {
+      "surface": "יִגְאָ֤ל",
+      "gloss": "यिगाल"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נָתָן֙",
+      "gloss": "नतन"
+    },
+    {
+      "surface": "מִצֹּבָ֔ה",
+      "gloss": "सोबा"
+    },
+    {
+      "surface": "בָּנִ֖י",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "הַגָּדִֽי",
+      "gloss": "गादी"
+    }
+  ],
+  "timestamp": "2026-08-07T21:33:02.580223813Z",
+  "model": "glm-5.2"
+}

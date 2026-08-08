@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "मैं ⟨कहता है⟩ — राजा के मुख की रक्षा करो, और एलोहीम की शपथ के कारण।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "रक्षा करो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और के कारण"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "कारण से"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "शपथ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:18.418905098Z",
+  "model": "glm-5.2"
+}

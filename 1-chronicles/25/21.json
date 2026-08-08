@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 25:21",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "चौदहवें ⟨के लिए⟩ मत्तित्याहू, उसके पुत्र और उसके भाई — बारह थे।",
+  "tokens": [
+    {
+      "surface": "לארבעה",
+      "gloss": "चौदहवें ⟨के लिए⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתתיהו",
+      "gloss": "मत्तित्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:28.269751065Z",
+  "model": "glm-5.2"
+}

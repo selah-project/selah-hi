@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "मनुष्य के पुत्र, क्या उस विद्रोह के घर ने, यिस्राएल के घर ने, तुमसे नहीं कहा, ‘तुम क्या कर रहे हो?’",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुमसे"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "विद्रोह"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर रहे हो"
+    }
+  ],
+  "timestamp": "2026-08-08T00:31:32.447167718Z",
+  "model": "glm-5.2"
+}

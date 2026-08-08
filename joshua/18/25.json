@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "गिबऑन, और ⟨ह⟩रामा, और बेरोत;",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "गिबऑन"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "और ⟨ह⟩रामा"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "और बेरोत"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:43.972259401Z",
+  "model": "glm-5.2"
+}

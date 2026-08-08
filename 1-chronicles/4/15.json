@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और कलेब के पुत्र ⟨हैं⟩ — यफुन्नेह का पुत्र — इरू, एलाह और नाम; और एलाह के पुत्र ⟨हैं⟩ कनज़।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और … के पुत्र"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कलेब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "यफुन्नेह"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "इरू"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एलाह"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और … के पुत्र"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एलाह"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "और कनज़"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:56.466191056Z",
+  "model": "glm-5.2"
+}

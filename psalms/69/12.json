@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 69,
+  "translation": "और मैंने अपना वस्त्र टाट बनाया, और मैं उनके लिए मसाल बन गया।",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "और मैंने बनाया"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "अपना वस्त्र"
+    },
+    {
+      "surface": "שק",
+      "gloss": "टाट"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "और मैं बन गया"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "मसाल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:41.778898327Z",
+  "model": "glm-5.2"
+}

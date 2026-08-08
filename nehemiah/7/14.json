@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बन्ये ज़क्कय के, सात सौ साठ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बन्ये"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ज़क्कय"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:14.096505773Z",
+  "model": "glm-5.2"
+}

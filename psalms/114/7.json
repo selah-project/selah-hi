@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 114,
+  "translation": "अदोनाय के सामने से, हे पृथ्वी, काँप! याकोव के एलोअह के सामने से!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "काँप"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "हे पृथ्वी"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:12.908724284Z",
+  "model": "glm-5.2"
+}

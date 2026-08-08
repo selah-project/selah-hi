@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और उसने उन्हें ⟨את⟩ तीन दिन के लिए कैद में इकट्ठा किया।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "और उसने इकट्ठा किया"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "उन्हें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "कैद"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-07T19:55:48.923033252Z",
+  "model": "glm-5.2"
+}

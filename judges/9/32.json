@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "“और अब रात में उठो, तुम और वह जनता जो तुम्हारे साथ है, और खेत में घात लगाओ।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठो"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "और वह जनता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तुम्हारे साथ ⟨है⟩"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "और घात लगाओ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:07:11.324853793Z",
+  "model": "glm-5.2"
+}

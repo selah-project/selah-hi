@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और यहवे ने मोशे से कहा, यों कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:11:05.311560727Z",
+  "model": "glm-5.2"
+}

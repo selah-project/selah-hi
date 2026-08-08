@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "जो विश्वसनीयता उगलता ⟨है⟩ वह धर्मिता बताता ⟨है⟩, और झूठे ⟨गवाह⟩ छल ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "उगलता है"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "विश्वसनीयता"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताता है"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्मिता"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और गवाह"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:13.349512310Z",
+  "model": "glm-5.2"
+}

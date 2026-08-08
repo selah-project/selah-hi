@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और दाऊद ने मरूस्थल में सुना कि नबल अपनी भेड़ें ⟨את⟩ कतरा रहा है।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद ने"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरूस्थल में"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "कतरा रहा है"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नबल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपनी भेड़ें"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "अपनी भेड़ें"
+    }
+  ],
+  "timestamp": "2026-08-07T21:22:09.277387283Z",
+  "model": "glm-5.2"
+}

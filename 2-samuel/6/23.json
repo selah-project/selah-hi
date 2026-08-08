@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और मीकल, शाऊल की बेटी के लिए, उसके मृत्यु के दिन तक कोई सन्तान नहीं ⟨थी⟩।",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "और मीकल के लिए"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल की"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थी"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसके"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "मृत्यु के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:25:52.040775761Z",
+  "model": "glm-5.2"
+}

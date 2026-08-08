@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और एली ने उससे कहा, “कब तक तुम मदहोश रहोगी? अपनी शराब अपने पास से हटाओ।”",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली ने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "तुम मदहोश रहोगी"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "हटाओ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपनी शराब"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "अपनी शराब"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "अपने पास से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:12:56.865993342Z",
+  "model": "glm-5.2"
+}

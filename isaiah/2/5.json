@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "हे याकोब के घराने, चलो, और हम यहवे के प्रकाश में चलें।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "हे घराने"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "चलो"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "और हम चलें"
+    },
+    {
+      "surface": "באור",
+      "gloss": "प्रकाश में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:36.739237828Z",
+  "model": "glm-5.2"
+}

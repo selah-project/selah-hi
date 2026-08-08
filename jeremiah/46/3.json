@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "छोटी ढाल और बड़ी ढाल को सजाओ, और युद्ध के लिए निकट आओ।",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "सजाओ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "छोटी ढाल"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "और बड़ी ढाल"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "और निकट आओ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "युद्ध के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:28:53.362736527Z",
+  "model": "glm-5.2"
+}

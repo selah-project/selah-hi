@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तू उसे तहकलत के धागे पर लगाएगा, और वह पगड़ी पर रहेगा — पगड़ी के सामने की ओर वह रहेगा।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "और तू लगाएगा"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "धागे"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "तहकलत के"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "और वह रहेगा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "מול",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "פני",
+      "gloss": "पगड़ी के"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "वह रहेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:12.863588983Z",
+  "model": "glm-5.2"
+}

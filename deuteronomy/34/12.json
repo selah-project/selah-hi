@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और सब सशक्त हाथ के लिए, और सब उस महान भय के लिए, जो मोशे ने सब इस्राएल की आँखों के सामने किया।",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "היד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "सशक्त"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "भय"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "आँखों के सामने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:20.470081362Z",
+  "model": "glm-5.2"
+}

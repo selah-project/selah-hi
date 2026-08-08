@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "और बाद में उसका भाई बाहर आया, जिसके हाथ पर लाल धागा था; और उसका नाम ज़ेरह रखा गया।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "और बाद में"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "बाहर आया"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसका भाई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसके"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "लाल धागा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "और ⟨उसना⟩ बुलाया"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:54:01.914116259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "देश में युद्ध का शब्द ⟨है⟩, और महान संत्रास ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "शब्द"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "और संत्रास"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:54.658193528Z",
+  "model": "glm-5.2"
+}

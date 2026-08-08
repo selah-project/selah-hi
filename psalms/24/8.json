@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "कौन ⟨है⟩ यह तेज़ का राजा? यहवे — सामर्थ्यशाली और बलवान; यहवे — युद्ध में बलवान।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "तेज़ का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "सामर्थ्यशाली"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "और बलवान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:42:46.487565736Z",
+  "model": "glm-5.2"
+}

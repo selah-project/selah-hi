@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "शुद्ध हृदय मेरे भीतर सृज, हे एलोहीम, और अटल रूह मेरे भीतर नवीकृत कर।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "सृज"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "और रूह"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "अटल"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नवीकृत कर"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "मेरे भीतर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:04.545522571Z",
+  "model": "glm-5.2"
+}

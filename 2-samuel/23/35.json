@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "खत्स्रो कर्मली, पाराय अरबी,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "खत्स्रो"
+    },
+    {
+      "surface": "הַֽכַּרְמְלִ֔י",
+      "gloss": "कर्मली"
+    },
+    {
+      "surface": "פַּעֲרַ֖י",
+      "gloss": "पाराय"
+    },
+    {
+      "surface": "הָאַרְבִּֽי",
+      "gloss": "अरबी"
+    }
+  ],
+  "timestamp": "2026-08-07T21:33:02.580131222Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "अज़्मावेत हबखरूमी, एल्यख्बा हशअल्बोनी।",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "अज़्मावेत"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "हबखरूमी"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "एल्यख्बा"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "हशअल्बोनी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:35.899601701Z",
+  "model": "glm-5.2"
+}

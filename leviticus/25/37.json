@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "⟨את⟩ अपना चाँदी तुम उसे ब्याज पर न दो, और बढ़ती पर अपना भोजन न दो।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना चाँदी"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "अपना चाँदी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "ब्याज पर"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "और बढ़ती पर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "अपना भोजन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:34.664731553Z",
+  "model": "glm-5.2"
+}

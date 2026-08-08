@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तेरा चाँदी धातुमल बन गई ⟨है⟩, तेरी मदिरा जल से मिलाई गई ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "तेरा चाँदी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बन गई"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "धातुमल"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "तेरी मदिरा"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "मिलाई गई"
+    },
+    {
+      "surface": "במים",
+      "gloss": "जल से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:55:08.261399073Z",
+  "model": "glm-5.2"
+}

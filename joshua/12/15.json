@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "लिब्ना का राजा, एक; अदुल्लाम का राजा, एक;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लिब्ना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "अदुल्लाम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:59:42.196760865Z",
+  "model": "glm-5.2"
+}

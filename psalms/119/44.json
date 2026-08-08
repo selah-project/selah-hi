@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "और मैं रखूँगा तेरी तोरह सदा, ले-ओलाम वाएद।",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "और मैं रखूँगा"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "तेरी तोरह"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ले-ओलाम"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "वाएद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:01.848370380Z",
+  "model": "glm-5.2"
+}

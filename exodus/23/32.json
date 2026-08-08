@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तू ⟨उनके साथ⟩ और उनके एलोहीम के साथ वाचा न काटना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "तू काटना"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके साथ"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "और उनके एलोहीम के साथ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "वाचा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:20.600575926Z",
+  "model": "glm-5.2"
+}

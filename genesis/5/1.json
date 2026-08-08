@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "यह अदम की वंशावली का पुस्तक ⟨है⟩ — जिस दिन एलोहीम ने अदम को बनाया, एलोहीम की सुरत में ⟨उसने⟩ उसे बनाया।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "अदम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जिस दिन"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "अदम"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "सुरत में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:25.036248215Z",
+  "model": "glm-5.2"
+}

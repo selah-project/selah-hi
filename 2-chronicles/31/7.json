@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 31:7",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "तीसरे महीने में ढेरों की नींव रखी गई, और सातवें महीने में ⟨उन्हें⟩ पूरा किया।",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "महीने में"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरे"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "रखी गई"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "ढेरों की"
+    },
+    {
+      "surface": "ליסוד",
+      "gloss": "नींव"
+    },
+    {
+      "surface": "ובחדש",
+      "gloss": "और महीने में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवें"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "पूरा किया"
+    }
+  ],
+  "timestamp": "2026-08-08T01:08:29.162937696Z",
+  "model": "glm-5.2"
+}

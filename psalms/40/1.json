@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "महायाजक के लिए, दाविद का मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महायाजक के लिए"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:30.511644335Z",
+  "model": "glm-5.2"
+}

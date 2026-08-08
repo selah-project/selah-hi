@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 135,
+  "translation": "स्तुति करो याह; स्तुति करो ⟨את⟩ नाम यहवे का; स्तुति करो, हे यहवे के दासों",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासों"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:23.267808504Z",
+  "model": "glm-5.2"
+}

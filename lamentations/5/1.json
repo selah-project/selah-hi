@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "याद कर, हे यहवे, क्या हम पर घटित हुआ; दृष्टि डाल और देख ⟨את⟩ हमारी अपमान को।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "याद कर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "היה",
+      "gloss": "घटित हुआ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "दृष्टि डाल"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हमारी अपमान को"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "हमारी अपमान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:37:55.346012746Z",
+  "model": "glm-5.2"
+}

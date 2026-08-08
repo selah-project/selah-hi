@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "उसने उसके साथ किया भलाई और नहीं बुराई, सब दिन उसके जीवन के ⟨!⟩",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "उसने उसके साथ किया"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "उसके जीवन के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.635913372Z",
+  "model": "glm-5.2"
+}

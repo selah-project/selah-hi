@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और वे बेर शबे और मोलादा और चत्सर शूअल में बसे।",
+  "tokens": [
+    {
+      "surface": "ולשמעי",
+      "gloss": ""
+    },
+    {
+      "surface": "בנים",
+      "gloss": ""
+    },
+    {
+      "surface": "ששה",
+      "gloss": ""
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ובנות",
+      "gloss": ""
+    },
+    {
+      "surface": "שש",
+      "gloss": ""
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "בנים",
+      "gloss": ""
+    },
+    {
+      "surface": "רבים",
+      "gloss": ""
+    },
+    {
+      "surface": "וכל",
+      "gloss": ""
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "הרבו",
+      "gloss": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": ""
+    },
+    {
+      "surface": "יהודה",
+      "gloss": ""
+    },
+    {
+      "surface": "ולשמעי",
+      "gloss": "और वे"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "बेर शबे"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "में"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "और मोलादा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "और चत्सर शूअल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:38.351201913Z",
+  "model": "glm-5.2"
+}

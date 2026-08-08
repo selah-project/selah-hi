@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और यहवे का वचन यिर्मयाहु हनबी के पास ⟨आया⟩, कहने कोः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हुआ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहु"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "हनबी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:28:25.824308303Z",
+  "model": "glm-5.2"
+}

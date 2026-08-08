@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और अवराहाम ⟨था⟩ सौ वर्ष का पुत्र, जब उसके लिए ⟨את⟩ यित्सहक उसका पुत्र जन्मा।",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "और अवराहाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "जब-जन्मा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यित्सहक"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहक"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:10.839652623Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 1:41",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "उनके गिने गए पुरुष, आशेर के कुल के लिए: इकतालीस हज़ार पाँच सौ ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनके गिने गए"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुल के लिए"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "और चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:27:01.002016656Z",
+  "model": "glm-5.2"
+}

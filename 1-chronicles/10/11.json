@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और सुना हर याबेश गिलअद ने ⟨את⟩ सब जो पलिश्तियों ने शाऊल के लिए किया था।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "याबेश"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलअद ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "किया था"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तियों ने"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाऊल के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:57.197617141Z",
+  "model": "glm-5.2"
+}

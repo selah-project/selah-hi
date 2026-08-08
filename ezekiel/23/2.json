@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "हे मनुष्य के पुत्र, दो स्त्रियाँ एक माता की बेटियाँ थीं।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रियाँ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियाँ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माता"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थीं"
+    }
+  ],
+  "timestamp": "2026-08-07T22:32:00.722642637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और राआ, और ⟨את⟩ हअय्या, और दय्या उसके मिन के अनुसार।",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "और राआ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हअय्या"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "हअय्या"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "और दय्या"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "उसके मिन के अनुसार"
+    }
+  ],
+  "timestamp": "2026-08-08T02:19:09.847857436Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "प्रार्थनाएँ दरिद्र बोलता है, और धनी कठोरता से उत्तर देता है।",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "प्रार्थनाएँ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोलता है"
+    },
+    {
+      "surface": "רש",
+      "gloss": "दरिद्र"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "और धनी"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "उत्तर देता है"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "कठोरता से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:58.823455539Z",
+  "model": "glm-5.2"
+}

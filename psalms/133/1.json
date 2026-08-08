@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 133,
+  "translation": "मार्ग-गीत, दाविद का। सुनो, कितना भला और कितना मनोहर ⟨है⟩ भाइयों का एक साथ वास!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "मार्ग-गीत"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "चढ़ावों के"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कितना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और कितना"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "मनोहर"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "वास"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "भाइयों का"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एक साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:09.406708297Z",
+  "model": "glm-5.2"
+}

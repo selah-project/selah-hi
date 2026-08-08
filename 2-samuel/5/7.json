@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और दाऊद ने ⟨את⟩ त्सियोन के दुर्ग को पकड़ लिया, वही दाऊद का नगर ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "और पकड़ लिया"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सियोन के दुर्ग को"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन के"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद का"
+    }
+  ],
+  "timestamp": "2026-08-07T21:26:20.438723974Z",
+  "model": "glm-5.2"
+}

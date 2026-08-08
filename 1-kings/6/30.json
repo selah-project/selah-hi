@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ⟨इस⟩ भवन के ⟨आँ⟩ फर्श को उसने सोने से मढ़ा — अंदर से और बाहर तक।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "फर्श"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "फर्श"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ़ा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "अंदर से"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "और बाहर तक"
+    }
+  ],
+  "timestamp": "2026-08-07T21:36:33.941646337Z",
+  "model": "glm-5.2"
+}

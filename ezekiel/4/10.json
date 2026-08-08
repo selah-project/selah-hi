@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 4:10",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और तेरा भोजन जो तू खाएगा वजन से होगा — बीस शेकेल प्रति दिन; समय से समय तक तू उसे खाएगा।",
+  "tokens": [
+    {
+      "surface": "ומאכלך",
+      "gloss": "और तेरा भोजन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "तू खाएगा"
+    },
+    {
+      "surface": "במשקול",
+      "gloss": "वजन से"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "प्रति दिन"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "समय से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "तू उसे खाएगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:31:08.191520714Z",
+  "model": "glm-5.2"
+}

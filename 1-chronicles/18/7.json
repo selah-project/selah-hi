@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और दावीद ने ⟨את⟩ सुनहरे ढाल लिए जो हददएज़ेर के दासों पर थे, और उन्हें यरूशलयिम लाया।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "और लिए"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सुनहरे ढाल"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सुनहरे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासों"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "हददएज़ेर"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "और उन्हें लाया"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलयिम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:43.016484873Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब योना ने यहवे अपने एलोहीम से उस मछली के उदर से प्रार्थना की।",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "तब प्रार्थना की"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "अपने एलोहीम"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "के उदर से"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "उस मछली"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:22.962951930Z",
+  "model": "glm-5.2"
+}

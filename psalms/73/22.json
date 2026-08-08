@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 73,
+  "translation": "और मैं अज्ञ था और नहीं जानता था; बधू जानवर मैं तेरे साथ था।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "בער",
+      "gloss": "अज्ञ था"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जानता था"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "बधू जानवर"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "मैं था"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:34.535479040Z",
+  "model": "glm-5.2"
+}

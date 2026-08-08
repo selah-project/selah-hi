@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 89,
+  "translation": "और मैं भी उसे बकोर बनाऊँगा, पृथ्वी के राजाओं के ऊँचे।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "बकोर"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "उसे बनाऊँगा"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ऊँचे"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजाओं के लिए"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:29.501317647Z",
+  "model": "glm-5.2"
+}

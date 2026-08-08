@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और उसने ⟨את⟩ मिशकान के द्वार का पर्दा लगाया।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "और उसने लगाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "द्वार का"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "मिशकान के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:18.003724795Z",
+  "model": "glm-5.2"
+}

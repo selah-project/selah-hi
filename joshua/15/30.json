@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और एलतोलद, और कसील, और खोरमा",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "और एलतोलद"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "और कसील"
+    },
+    {
+      "surface": "וחרमה",
+      "gloss": "और खोरमा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:02.313826109Z",
+  "model": "glm-5.2"
+}

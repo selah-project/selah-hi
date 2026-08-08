@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और ⟨यह होगा⟩ जब ये चिह्न तेरे पास आएँगे, तो ⟨तू⟩ वह कर जो तेरा हाथ पाए, क्योंकि एलोहीम तेरे साथ ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और ⟨यह होगा⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "आएँगे"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "चिह्न"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पाए"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तेरा हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:16:07.626245618Z",
+  "model": "glm-5.2"
+}

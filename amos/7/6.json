@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "इस पर यहवे ने निश्चय किया; “यह भी न होगा,” अदोनाय यहवे ने कहा।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ने निश्चय किया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "यह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होगी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ने कहा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:44:23.504474136Z",
+  "model": "glm-5.2"
+}

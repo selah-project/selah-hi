@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 43,
+  "translation": "और यहवे का तेज ⟨उस⟩ भवन में आया, ⟨उस⟩ द्वार के मार्ग से जिसका मुख पूर्व की ओर था।",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "और ⟨का⟩ तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨उस⟩ भवन"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "मार्ग से"
+    },
+    {
+      "surface": "שער",
+      "gloss": "⟨उस⟩ द्वार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसका"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "पूर्व"
+    }
+  ],
+  "timestamp": "2026-08-07T22:37:37.350101116Z",
+  "model": "glm-5.2"
+}

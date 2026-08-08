@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "शलोमोह के मसल—दाविद के पुत्र, यिस्राएल के राजा—",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "मसल"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:35.847704203Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "रआयाह के पुत्र, रत्सिन के पुत्र, नकोदा के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "रआयाह के पुत्र"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "रआयाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "रत्सिन के पुत्र"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रत्सिन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "नकोदा के पुत्र"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नकोदा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:32.166459066Z",
+  "model": "glm-5.2"
+}

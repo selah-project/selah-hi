@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और अत्तय ने ⟨את⟩ नातान को जन्म दिया, और नातान ने ⟨את⟩ ज़ाबाद को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "और अत्तय"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ने … जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नातान को"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान को"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "और नातान"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने … जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ज़ाबाद को"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ज़ाबाद को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:55.767658152Z",
+  "model": "glm-5.2"
+}

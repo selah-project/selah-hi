@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "ला-कीश: कीश के बन्नों ⟨में⟩ यरहमेल ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "ला-कीश"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बन्नों"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "कीश"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमेल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:02:14.726469781Z",
+  "model": "glm-5.2"
+}

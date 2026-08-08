@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 129,
+  "translation": "यहवे ⟨⟨⟨है⟩⟩⟩ धार्मिक — उसने काट डाले रस्सियाँ दुष्टों के।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "काट डाले"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "रस्सियाँ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:26.043163526Z",
+  "model": "glm-5.2"
+}

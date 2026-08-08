@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और यिसास्खर के सीमा के साथ, पूरव ओर से लेकर पश्चिम ओर तक, ज़बूलून ⟨होगा⟩ एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … के साथ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खर"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बूलून"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:53.951073703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "“और अब तुम अपने लिए इस्राएल के गोत्रों में से बारह पुरुष लो: एक गोत्र के लिए एक पुरुष, एक पुरुष।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "लो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "שני",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "गोत्रों में से"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "गोत्र के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:47.799301069Z",
+  "model": "glm-5.2"
+}

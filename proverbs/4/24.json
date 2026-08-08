@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तुमसे विकृत मुख को दूर करो, और द्वेषपूर्ण ओठों को तुमसे बहुत दूर रखो।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "दूर करो"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुमसे"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "विकृत"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुख को"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "और द्वेषपूर्ण"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठों को"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "बहुत दूर रखो"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुमसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:16.789479459Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और हेब्रोन के बेटे — कोरह और तप्पुह और रेकेम और शमा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "हेब्रोन"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "और तप्पुह"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "और रेकेम"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "और शमा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:53.899395402Z",
+  "model": "glm-5.2"
+}

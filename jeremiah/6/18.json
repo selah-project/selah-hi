@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "इसलिए सुनो, हे जातियों, और जानो, हे मण्डली, ⟨את⟩ जो उनमें है!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "हे जातियों"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "और जानो"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "हे मण्डली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जो उनमें है"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनमें है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:11:36.156840942Z",
+  "model": "glm-5.2"
+}

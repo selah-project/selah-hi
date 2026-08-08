@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और अवराहाम खड़ा हुआ और देश के लोगों के आगे, हेत के बेटों के आगे झुका।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "और खड़ा हुआ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "और झुका"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "लोगों के आगे"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश के"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों के आगे"
+    },
+    {
+      "surface": "חת",
+      "gloss": "हेत के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:47:00.989797886Z",
+  "model": "glm-5.2"
+}

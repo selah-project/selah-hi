@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और ज़बद्याह, और मशुल्लाम, और चिज़्की, और चाबेर।",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "और ज़बद्याह"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "और मशुल्लाम"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "और चिज़्की"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "और चाबेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:30.317219690Z",
+  "model": "glm-5.2"
+}

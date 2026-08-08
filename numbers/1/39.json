@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "उनके मनगणित दान के मते के लिए ⟨थे⟩ साठ-दो हज़ार और सात सौ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनके मनगणित"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "मते के लिए"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-08T02:14:01.869022628Z",
+  "model": "glm-5.2"
+}

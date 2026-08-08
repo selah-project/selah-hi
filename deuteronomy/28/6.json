@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "धन्य ⟨हो⟩ तू अपने आने में, और धन्य ⟨हो⟩ तू अपने जाने में।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "अपने आने में"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "और धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "अपने जाने में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:35.369675170Z",
+  "model": "glm-5.2"
+}

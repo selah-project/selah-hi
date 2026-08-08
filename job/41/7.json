@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 41:7",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "गर्व ⟨है⟩ ढालों की नलियों का—बन्द ⟨है⟩ तंग छाप के रूप में।",
+  "tokens": [
+    {
+      "surface": "גאוה",
+      "gloss": "गर्व"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "नलियों का"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "ढालों की"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "बन्द"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "छाप"
+    },
+    {
+      "surface": "צר",
+      "gloss": "तंग"
+    }
+  ],
+  "timestamp": "2026-08-07T23:32:44.534611566Z",
+  "model": "glm-5.2"
+}

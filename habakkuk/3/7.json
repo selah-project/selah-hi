@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तखत अवेन ⟨मैंने⟩ कूशान के डेरे देखे; मिदयान की पृथ्वी के पर्दे काँप उठे।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "तखत"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवेन"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखे"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "डेरे"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "कूशान के"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "काँप उठे"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "पर्दे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी के"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिदयान की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:07.090763879Z",
+  "model": "glm-5.2"
+}

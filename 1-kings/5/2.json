@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और शलोमह का भोजन एक दिन के लिए ⟨था⟩ — तीस कोर बारीक पिसी आटा और साठ कोर पिसी आटा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमह का"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "एक दिन के लिए"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "बारीक पिसी आटा"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "पिसी आटा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:36:50.627681600Z",
+  "model": "glm-5.2"
+}

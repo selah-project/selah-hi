@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "शलोमोह के दासों के बेटे: सोतय के बेटे, सोफेरेत के बेटे, परिदा के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासों"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "सोतय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "सोफेरेत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "परिदा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:17.321981782Z",
+  "model": "glm-5.2"
+}

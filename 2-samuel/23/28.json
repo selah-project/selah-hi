@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "त्सल्मोन ⟨हा⟩अहोही, महराय ⟨हा⟩नतोफाती",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "त्सल्मोन"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "अहोही"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "महराय"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "नतोफाती"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:49.879112890Z",
+  "model": "glm-5.2"
+}

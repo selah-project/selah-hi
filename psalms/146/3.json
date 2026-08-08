@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 146,
+  "translation": "नदीबों पर भरोसा न करो, आदम के बेटे पर — जिसमें ⟨उसके पास⟩ तशुआह नहीं है।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "करो भरोसा"
+    },
+    {
+      "surface": "בנדי׬ים",
+      "gloss": "नदीबों पर"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "बेटे पर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम के"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "जिसमें नहीं"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "तशुआह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:07.942055715Z",
+  "model": "glm-5.2"
+}

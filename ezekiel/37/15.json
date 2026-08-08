@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और यहवे का वचन मेरे पास ⟨आया⟩, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨आया⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:36:50.487890607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "ज़बुलून के ⟨गोत्र हेतु⟩ — गद्दीएल, सोदी का पुत्र।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र हेतु"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बुलून"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "गद्दीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "सोदी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:15.756576277Z",
+  "model": "glm-5.2"
+}

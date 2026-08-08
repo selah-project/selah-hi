@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "उसका तरकस ⟨के⟩ खुली कब्र ⟨के समान⟩; उन सब के सब पराक्रमी ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "उसका तरकस"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "कब्र के समान"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुली"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "उन सब के सब"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "पराक्रमी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:11:43.827721677Z",
+  "model": "glm-5.2"
+}

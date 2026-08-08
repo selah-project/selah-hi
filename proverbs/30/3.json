@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और मैंने ज्ञान नहीं सीखा, और पवित्रों का ज्ञान — मैं जानूँगा?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "मैंने सीखा"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "और ज्ञान"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्रों का"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "मैं जानूँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:30.924498601Z",
+  "model": "glm-5.2"
+}

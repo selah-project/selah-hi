@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और इसके पश्चात योआश के मन में यहवे के ⟨את⟩ भवन को नवीनीकरण करने की इच्छा उत्पन्न हुई।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पश्चात"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इस"
+    },
+    {
+      "surface": "היה",
+      "gloss": "उत्पन्न हुई"
+    },
+    {
+      "surface": "עם",
+      "gloss": "से"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश के"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "नवीनीकरण करने की"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भवन को"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:08:31.807111374Z",
+  "model": "glm-5.2"
+}

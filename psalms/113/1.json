@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 113,
+  "translation": "स्तुति करो याह की! स्तुति करो, हे यहवे के दास, यहवे के नाम को ⟨את⟩ स्तुति करो!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "हे दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम को"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:38.764112078Z",
+  "model": "glm-5.2"
+}

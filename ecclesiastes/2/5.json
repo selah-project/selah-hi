@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मैंने अपने लिए बाग़ और फल-उद्यान बनाए, और मैंने उनमें हर प्रकार के फल के वृक्ष रोपे।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "मैंने बनाए"
+    },
+    {
+      "surface": "לי",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बाग़"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "और फल-उद्यान"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "और मैंने रोपे"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनमें"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर प्रकार के"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:20.838597045Z",
+  "model": "glm-5.2"
+}

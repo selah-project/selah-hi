@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "उठी हुई आँखें, झूठी जीभ, और निर्दोष रक्त रूँडते हुए हाथ,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "आँखें"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "उठी हुई"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठी"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "और हाथ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "रूँडते हुए"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:46.540267570Z",
+  "model": "glm-5.2"
+}

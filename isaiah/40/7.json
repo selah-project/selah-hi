@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "“सूख गई घास, मुरझा गया फूल, क्योंकि यहवे का रुख उस पर चला है; सचमुच, घास ⟨है⟩ वह जनता।”",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "सूख गई"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घास"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "मुरझा गया"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "फूल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "चला है"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "घास"
+    },
+    {
+      "surface": "העם",
+      "gloss": "वह जनता"
+    }
+  ],
+  "timestamp": "2026-08-07T22:03:36.123451039Z",
+  "model": "glm-5.2"
+}

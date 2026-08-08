@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "क्योंकि देग़ी के नीचे काँटों की किलकिलाहट की तरह ⟨है⟩ इसी प्रकार मूर्ख का हँसी; और यह भी हवा है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "की तरह"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "काँटों की"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "देग़ी"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसी प्रकार"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "हँसी"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूर्ख का"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हवा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:08.493554892Z",
+  "model": "glm-5.2"
+}

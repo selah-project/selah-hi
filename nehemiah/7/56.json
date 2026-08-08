@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "नत्सीअच के बन्टे, खतीपा के बन्टे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बन्टे"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "नत्सीअच"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बन्टे"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "खतीपा"
+    }
+  ],
+  "timestamp": "2026-08-08T01:01:23.975293200Z",
+  "model": "glm-5.2"
+}

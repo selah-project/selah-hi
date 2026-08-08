@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "हे शूरवीर, अपनी तलवार रन्धे पर बाँधो — तेरा वैभव और तेरी भव्यता!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "बाँधो"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "अपनी तलवार"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "रन्धे"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "हे शूरवीर"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "तेरा वैभव"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "और तेरी भव्यता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:35.836403350Z",
+  "model": "glm-5.2"
+}

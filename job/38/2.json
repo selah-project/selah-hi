@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "“यह कौन है जो बिना ज्ञान के बातों से युक्ति को अँधेरा करता है?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "अँधेरा करता है"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "युक्ति"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "बातों से"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:09.572718965Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और बेरेख्याह और एल्काना, द्वारपाल ⟨थे⟩ आराण के लिए।",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "और बेरेख्याह"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "और एल्काना"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "द्वारपाल"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "आराण के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:59.672060636Z",
+  "model": "glm-5.2"
+}

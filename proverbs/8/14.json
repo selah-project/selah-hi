@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "मेरे लिए ⟨है⟩ युक्ति और तूशिय्या; मैं ⟨हूँ⟩ बुद्धि, मेरे लिए ⟨है⟩ पराक्रम।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "युक्ति"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "और तूशिय्या"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "पराक्रम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:21.694699326Z",
+  "model": "glm-5.2"
+}

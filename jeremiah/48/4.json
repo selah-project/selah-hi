@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "टूट गया मोआब; उसके छोटों ने चिल्लाहट सुनाई।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "टूट गया"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "सुनाई"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "चिल्लाहट"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "उसके छोटों ने"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:28.124871294Z",
+  "model": "glm-5.2"
+}

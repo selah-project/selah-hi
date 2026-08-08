@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "गेरशोम के बेटे — शबूएल प्रमुख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरशोम"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "शबूएल"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:44.647445037Z",
+  "model": "glm-5.2"
+}

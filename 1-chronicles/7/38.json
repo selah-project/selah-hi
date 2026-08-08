@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और येतेर के बेटे: येफुन्नेेह और पिस्पा और अरा।",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "יֶ֑תֶר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "יְפֻנֶּ֥ה",
+      "gloss": "येफुन्नेेह"
+    },
+    {
+      "surface": "וּפִסְפָּ֖ה",
+      "gloss": "और पिस्पा"
+    },
+    {
+      "surface": "וַאְרָֽא",
+      "gloss": "और अरा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:18.978945696Z",
+  "model": "glm-5.2"
+}

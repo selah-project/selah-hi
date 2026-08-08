@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "बीस और पाँच वर्ष का था ⟨जब⟩ वह राजा बना, और सोलह वर्ष यरूशलम में राज किया।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष का था"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "राजा बना"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और सोलह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज किया"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलम में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:09:58.211444714Z",
+  "model": "glm-5.2"
+}

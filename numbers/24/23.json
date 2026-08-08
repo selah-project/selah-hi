@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और उठाया अपना मशल, और कहा: ओह! कौन जीवित रहेगा ⟨जब⟩ एल ⟨इसे⟩ नियुक्त करता है?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "और उठाया"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "अपना मशल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ओह!"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "जीवित रहेगा"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "नियुक्त करता है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:08.266518890Z",
+  "model": "glm-5.2"
+}

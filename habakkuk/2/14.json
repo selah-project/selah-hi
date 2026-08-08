@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "क्योंकि पृथ्वी यहवे के ⟨את⟩ तेज को जानने से भर जाएगी, जैसे जल समुद्र को ढकते हैं।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "भर जाएगी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जानने से"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेज"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "जैसे जल"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "ढकते हैं"
+    },
+    {
+      "surface": "על",
+      "gloss": "को"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:53.862476541Z",
+  "model": "glm-5.2"
+}

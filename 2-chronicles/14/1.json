@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और असा ने वह किया जो अच्छा और सीधा था यहवे उसके एलोहीम की दृष्टि में।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "असा ने"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "जो अच्छा"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "और सीधा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "की दृष्टि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "उसके एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:09.978951335Z",
+  "model": "glm-5.2"
+}

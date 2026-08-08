@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और यदि अपने पति के घर में ⟨वह⟩ नियम करे, या अपनी नफश पर शपथ से बन्धन बाँधे।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "अपने पति के"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "वह नियम करे"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "बाँधे"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "बन्धन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "अपनी नफश"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "शपथ से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:50.543824104Z",
+  "model": "glm-5.2"
+}

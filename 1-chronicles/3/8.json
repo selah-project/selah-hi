@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और एलिशामा और एल्यादा और एलिफलेत — नौ।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "और एलिशामा"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "और एल्यादा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "और एलिफलेत"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:34.313188273Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "और उन्होंने दो स्वर्ण रज्जुओं को दो छल्लों पर, छाते के किनारों पर रखा।",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "और उन्होंने रखा"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "रज्जुओं को"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "स्वर्ण"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "छल्लों"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "किनारों"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छाते के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:03.154229280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "दाहिनी ओर न झुक, और न बाईं ओर; अपना पैर बुराई से हटा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुक"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "दाहिनी ओर"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "और न बाईं ओर"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "हटा"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "अपना पैर"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:33.790052311Z",
+  "model": "glm-5.2"
+}

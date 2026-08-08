@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और कूश ने ⟨את⟩ निम्रोद को जना; वही पृथ्वी में गबोर बनना आरम्भ कर चुका ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "और कूश"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "निम्रोद"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "निम्रोद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "החל",
+      "gloss": "आरम्भ कर चुका"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "बनना"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "गबोर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वी में"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:46.156717422Z",
+  "model": "glm-5.2"
+}

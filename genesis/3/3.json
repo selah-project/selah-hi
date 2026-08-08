@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "“पर बगीचे के बीच में जो वृक्ष है, उसके फल से एलोहीम ने कहा है, ‘उससे तुम न खाओ और उसे न छूओ, कहीं तुम न मरो।’”",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "पर फल से"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच में"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "बगीचे के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा है"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाओ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "छूओ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कहीं"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "तुम मरो"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:26.381181073Z",
+  "model": "glm-5.2"
+}

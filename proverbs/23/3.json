@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "उसके स्वादिष्ट भोजनों की इच्छा न कर, और ⟨वह⟩ धोखे का भोजन है।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "इच्छा कर"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "उसके स्वादिष्ट भोजनों की"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "और वह"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "धोखे का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:25.617879044Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "याफेत के पुत्र — गोमेर और मागोग और मादय और यावान और तुबल और मशेख और तिरास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत के"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "और मागोग"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "और मादय"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "और यावान"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "और तुबल"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "और मशेख"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "और तिरास"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:17.924217982Z",
+  "model": "glm-5.2"
+}

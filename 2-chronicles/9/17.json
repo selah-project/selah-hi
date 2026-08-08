@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और राजा ने एक बड़ा हाथी-दाँत का सिंहासन बनाया, और उसे शुद्ध सोने से मढ़ा।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और बनाया"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "שן",
+      "gloss": "हाथी-दाँत"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "और उसे मढ़ा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने से"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-08T01:06:07.081118569Z",
+  "model": "glm-5.2"
+}

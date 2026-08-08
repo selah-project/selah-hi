@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और लेआह फिर गर्भवती हुई, और उसने याकोव के लिए छठवाँ पुत्र जना।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "और वह गर्भवती हुई"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "और उसने जना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "छठवाँ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:20.930990799Z",
+  "model": "glm-5.2"
+}

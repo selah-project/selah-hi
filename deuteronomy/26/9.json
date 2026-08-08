@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और ⟨उसने⟩ हमें इस स्थान तक लाया, और ⟨उसने⟩ हमें ⟨את⟩ इस भूमि को दिया — एक भूमि जो दूध और शहद से बहती है।",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "और लाया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "इस स्थान"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "और दिया"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस भूमि को"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "बहती है"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "और शहद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:26.179423651Z",
+  "model": "glm-5.2"
+}

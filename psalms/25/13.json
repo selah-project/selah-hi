@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "उसका प्राण भलाई में बसेगा, और उसका वंश देश का अधिकारी बनेगा।",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "उसका प्राण"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "भलाई में"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "बसेगा"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "और उसका वंश"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "अधिकारी बनेगा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    }
+  ],
+  "timestamp": "2026-08-08T00:42:42.515784109Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "नफ्तली के ⟨लिए⟩: अखीरा बेन एनान।",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "नफ्तली के ⟨लिए⟩"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखीरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:53.848387458Z",
+  "model": "glm-5.2"
+}

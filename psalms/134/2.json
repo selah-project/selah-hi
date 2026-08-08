@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 134,
+  "translation": "उठाओ तुम्हारे हाथ पवित्रता ⟨की ओर⟩ और यहवे को ⟨את⟩ धन्यवाद दो।",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "उठाओ"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "तुम्हारे हाथ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्रता"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "और धन्यवाद दो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:02.226114893Z",
+  "model": "glm-5.2"
+}

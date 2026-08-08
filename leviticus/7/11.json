@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यह ⟨वह⟩ विधि है शेलमीम-बलि की जो वह यहवे के निकट लाएगा।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शेलमीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "वह लाएगा"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के निकट"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:51.713285665Z",
+  "model": "glm-5.2"
+}

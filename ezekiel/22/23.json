@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और यहवे का वचन मेरे पास आया, यह कहकर:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "और ⟨यह⟩ हुआ"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "यह कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T22:31:58.448042673Z",
+  "model": "glm-5.2"
+}

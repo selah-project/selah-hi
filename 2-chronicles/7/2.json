@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और याजक यहवे के भवन में नहीं आ सके, क्योंकि यहवे के तेज ने ⟨את⟩ यहवे के भवन को भर दिया ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "सके"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आने को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भर दिया"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे के भवन को"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:05:44.966207998Z",
+  "model": "glm-5.2"
+}

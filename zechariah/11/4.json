@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "यहवे मेरा एलोहीम यह कहता है: ⟨את⟩ वध-की-जाने-वाली झुण्ड को चराओ।",
+  "tokens": [
+    {
+      "surface": "כֹּ֥ה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אָמַ֖ר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אֱלֹהָ֑י",
+      "gloss": "मेरा एलोहीम"
+    },
+    {
+      "surface": "רְעֵ֖ה",
+      "gloss": "चराओ"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "झुण्ड"
+    },
+    {
+      "surface": "צֹ֥אן",
+      "gloss": "झुण्ड"
+    },
+    {
+      "surface": "הַהֲרֵגָֽה",
+      "gloss": "वध-की-जाने-वाली"
+    }
+  ],
+  "timestamp": "2026-08-08T06:12:29.987211377Z",
+  "model": "glm-5.2"
+}

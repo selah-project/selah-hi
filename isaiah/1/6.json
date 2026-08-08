@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "पैर के तलवे से लेकर सिर तक उसमें कोई स्वस्थता नहीं; घाव और चोट और नई पिटाई — ⟨उन्हें⟩ न दबाया, न बाँधा, और न तेल से नरम किया।",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "तलवे से"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "पैर"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "स्वस्थता"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "घाव"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "पिटाई"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "नई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "दबाया गया"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "न"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "बाँधा गया"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "न"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "नरम किया गया"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेल से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:59.888198409Z",
+  "model": "glm-5.2"
+}

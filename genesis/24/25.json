@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और उसने उससे कहा, “हमारे पास भी तबन भी है और मिस्पोआ भी बहुत है, और ठहरने को मकोम भी।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "तबन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "और"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "मिस्पोआ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमारे पास"
+    },
+    {
+      "surface": "גם",
+      "gloss": "और"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "मकोम"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "ठहरने को"
+    }
+  ],
+  "timestamp": "2026-08-07T19:47:59.376673424Z",
+  "model": "glm-5.2"
+}

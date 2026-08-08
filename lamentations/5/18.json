@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "सिय्योन पर्वत पर, जो उजड़ा हुआ है, गीदड़ उसमें घूमते हैं।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "इस कारण"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सिय्योन"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "उजड़ा हुआ"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "गीदड़"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "घूमते हैं"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.179246169Z",
+  "model": "glm-5.2"
+}

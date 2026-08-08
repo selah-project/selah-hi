@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 5:29",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "क्या इन ⟨बातों⟩ पर मैं दण्ड न दूँ? — यहवे का वचन — या क्या ऐसे गोय पर मेरी नफ़श का बदला न लिया जाए?”",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "क्या … पर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "मैं दण्ड दूँ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אם",
+      "gloss": "या क्या"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "गोय पर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "बदला लिया जाए"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी नफ़श"
+    }
+  ],
+  "timestamp": "2026-08-08T02:38:30.756440718Z",
+  "model": "glm-5.2"
+}

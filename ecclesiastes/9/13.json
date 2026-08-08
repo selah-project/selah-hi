@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "यह भी मैंने देखा — बुद्धि को ⟨सूर्य⟩ के नीचे, और वह मेरे लिए बड़ी है।",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זֹ֛ה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "मैंने देखा"
+    },
+    {
+      "surface": "חָכְמָ֖ה",
+      "gloss": "बुद्धि को"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "⟨सूर्य⟩"
+    },
+    {
+      "surface": "וּגְדוֹלָ֥ה",
+      "gloss": "और बड़ी"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "मेरे लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:12.932721357Z",
+  "model": "glm-5.2"
+}

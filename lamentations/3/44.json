@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तू ने बादल से ढक लिया ⟨है⟩, कि प्रार्थना पार न जाए।",
+  "tokens": [
+    {
+      "surface": "סַכּוֹתָה",
+      "gloss": "तू ने ढक लिया"
+    },
+    {
+      "surface": "בֶּעָנָן",
+      "gloss": "बादल से"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "अपने लिये"
+    },
+    {
+      "surface": "מֵעֲבוֹר",
+      "gloss": "कि पार जाए"
+    },
+    {
+      "surface": "תְּפִלָּה",
+      "gloss": "प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:01.303163820Z",
+  "model": "glm-5.2"
+}

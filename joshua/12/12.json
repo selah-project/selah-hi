@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "एग्लोन का राजा, एक; गेजेर का राजा, एक।",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עֶגְלוֹן֙",
+      "gloss": "एग्लोन"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גֶּ֖זֶר",
+      "gloss": "गेजेर"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:59:32.697789915Z",
+  "model": "glm-5.2"
+}

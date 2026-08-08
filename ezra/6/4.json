@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "बड़े पत्थरों की तीन परतें, और नई लकड़ी की एक परत; और व्यय राजा के भवन से दिया जाए।",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "परतें"
+    },
+    {
+      "surface": "די",
+      "gloss": "की"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "और परत"
+    },
+    {
+      "surface": "די",
+      "gloss": "की"
+    },
+    {
+      "surface": "אע",
+      "gloss": "लकड़ी"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "नई"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "और व्यय"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "दिया जाए"
+    }
+  ],
+  "timestamp": "2026-08-08T01:16:26.182115971Z",
+  "model": "glm-5.2"
+}

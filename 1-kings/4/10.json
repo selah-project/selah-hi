@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "बेन-चेसेद, अरूबोत में; उसके लिये सोकोह और सारा एलोहिम का देश चेफेर:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "चेसेद"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "अरूबोत में"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिये"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "सोकोह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "चेफेर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:34:36.750852463Z",
+  "model": "glm-5.2"
+}

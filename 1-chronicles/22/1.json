@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "तब दावीद ने कहा, “यही ⟨है⟩ यहवे एलोहीम का भवन, और यही ⟨है⟩ इस्राएल का ओला-बलि का वेदी।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब … कहा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद ने"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨है⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम का"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "और यही"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ओला-बलि का"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "इस्राएल का"
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:35.248796075Z",
+  "model": "glm-5.2"
+}

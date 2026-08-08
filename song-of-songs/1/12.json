@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "जब तक राजा ⟨अपनी⟩ राज्यासन पर बैठा ⟨है⟩, मेरे नर्द ने अपनी सुगन्ध दी है।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "राज्यासन पर बैठा"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "मेरे नर्द ने"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दी है"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "अपनी सुगन्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:29.846257739Z",
+  "model": "glm-5.2"
+}

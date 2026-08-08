@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहवे ने मुझसे कहा, यों कहते हुए: “मैंने ⟨את⟩ इस जनता को देखा है, और देखो, यह एक कठोर-गर्दन जनता है।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखा है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस जनता को"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "गर्दन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:13.347315913Z",
+  "model": "glm-5.2"
+}

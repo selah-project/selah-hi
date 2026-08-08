@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "उज़िएल के बेटे: मीकाह प्रमुख, और यिश्शियाह दूसरा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज़िएल"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीकाह"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "और यिश्शियाह"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:55.552271871Z",
+  "model": "glm-5.2"
+}

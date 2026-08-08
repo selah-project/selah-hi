@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "अज़रेल, शेलेम्याह, शमर्याह।",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "अज़रेल"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "और शेलेम्याह"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "शमर्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:50:30.620110464Z",
+  "model": "glm-5.2"
+}

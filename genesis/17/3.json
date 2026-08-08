@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "तब अवराम अपने चेहरे के बल गिर पड़ा, और एलोहीम ने उससे बात की, कहते हुए,",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "और गिर पड़ा"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "उसके चेहरे"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:32.181623716Z",
+  "model": "glm-5.2"
+}

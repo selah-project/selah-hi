@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और तू सूपी आटा ले, और उसे बारह रोटियाँ सेक; हर एक रोटी दो इस्सारोन की होगी।",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "और तू ले"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "सूपी आटा"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "और तू सेक"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(दस+दो)"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "रोटियाँ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "इस्सारोन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगी"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:56.952180771Z",
+  "model": "glm-5.2"
+}

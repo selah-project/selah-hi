@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 36:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "यहोआहाज़ राजा बनने पर तेईस वर्ष का था, और उसने यरूशलम में तीन मास राज किया।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष का"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "यहोआहाज़"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "राजा बनने पर"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "मास"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज किया"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलम में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:12:36.349334839Z",
+  "model": "glm-5.2"
+}

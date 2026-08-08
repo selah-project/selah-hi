@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और दाऊद हर एक अपने मार्ग में समझदार था, और यहवे उसके साथ था।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और होता था"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "अपने मार्ग"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "में समझदार"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:19:30.282465345Z",
+  "model": "glm-5.2"
+}

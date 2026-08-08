@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "बेन-अबीनादब, सम्पूर्ण नाफात दोर; उसके लिये ताफात शलोमोह की बेटी स्त्री बनी:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "अबीनादब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "नाफात"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "ताफात"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह की"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "⟨बनी⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिये"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "स्त्री"
+    }
+  ],
+  "timestamp": "2026-08-07T21:34:36.750979142Z",
+  "model": "glm-5.2"
+}

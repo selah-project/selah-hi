@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "अपना गोरल हमारे बीच डाल; हम सब के लिए एक ही किस्सा होगा।",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "अपना गोरल"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "डाल"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "हमारे बीच"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "किस्सा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक ही"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "हम सब के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:45.705804011Z",
+  "model": "glm-5.2"
+}

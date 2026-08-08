@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 18:15",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और वे उधर मुड़े, और उस नौयक के, लेवी के घर में, मिकाह के घर में, आए, और उससे उसका कल्याण पूछा।",
+  "tokens": [
+    {
+      "surface": "ויסורו",
+      "gloss": "और वे मुड़े"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उधर"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "उस नौयक के"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिकाह"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "और पूछा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "कल्याण"
+    }
+  ],
+  "timestamp": "2026-08-07T21:11:02.424778857Z",
+  "model": "glm-5.2"
+}

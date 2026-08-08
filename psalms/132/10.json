@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 132,
+  "translation": "तेरे दास दावीद के लिये तेरे मशीअख के चेहरे को मत फेर।",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "के लिये"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तेरे दास"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "फेर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे को"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "तेरे मशीअख"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:52.472038779Z",
+  "model": "glm-5.2"
+}

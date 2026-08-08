@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "परोश के बेटे — दो हज़ार, एक सौ, और सतहत्तर, और दो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "परोश"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "और सतहत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:52:19.206130565Z",
+  "model": "glm-5.2"
+}

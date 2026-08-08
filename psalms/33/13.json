@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "आकाश से यहवे ने देखा; ⟨उसने⟩ ⟨את⟩ सभी मनुष्यों के बेटों को देखा।",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "आकाश से"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सभी मनुष्यों के बेटों को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्यों के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:42:43.641638342Z",
+  "model": "glm-5.2"
+}

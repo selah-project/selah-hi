@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "और हमारे पिता ने कहा, लौटो, हमारे लिए थोड़ा अनाज मोल लाओ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "हमारे पिता ने"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "लौटो"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "मोल लाओ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "अनाज"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:28.891345676Z",
+  "model": "glm-5.2"
+}

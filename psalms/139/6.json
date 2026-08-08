@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 139,
+  "translation": "यह ज्ञान मुझसे अद्भुत है, ⟨यह⟩ बहुत ऊँचा है — मैं उस ⟨तक⟩ नहीं पहुँच सकता।",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "अद्भुत"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "बहुत ऊँचा है"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "मैं सकता"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसके लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:15:04.531765048Z",
+  "model": "glm-5.2"
+}

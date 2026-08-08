@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और नोअ छह सौ वर्ष का था, और ⟨है⟩ महाप्लावन पानी पृथ्वी पर था।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "और नोअ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "और महाप्लावन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:36.470621501Z",
+  "model": "glm-5.2"
+}

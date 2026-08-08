@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "पश्हूर के बेटे — एक हज़ार दो सौ उनतालीस और सात।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "पश्हूर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हज़ार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "उनतालीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "और सात"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:17.224570651Z",
+  "model": "glm-5.2"
+}

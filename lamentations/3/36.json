@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "किसी मनुष्य को उसके विवाद में बांका करना — क्या अदोनाय नहीं देखता?",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "बांका करना"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य को"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "उसके विवाद में"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "क्या नहीं"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:16.658072262Z",
+  "model": "glm-5.2"
+}

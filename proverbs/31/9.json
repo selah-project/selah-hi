@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "खोल अपना मुँह, न्याय कर धर्म का, और दीन और अभावग्रस्त का न्याय ⟨!⟩",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "अपना मुँह"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "न्याय कर"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्म का"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "और न्याय"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "और अभावग्रस्त"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.635579720Z",
+  "model": "glm-5.2"
+}

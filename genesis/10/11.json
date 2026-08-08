@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "उस भूमि से अश्शूर निकला; और उसने ⟨את⟩ नीनवे और ⟨את⟩ रहोबोत-ईर और ⟨את⟩ कलह को बसाया।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकला"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "और बसाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नीनवे"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "रहोबोत-ईर"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "रहोबोत"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ईर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "कलह"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "कलह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:32.096038708Z",
+  "model": "glm-5.2"
+}

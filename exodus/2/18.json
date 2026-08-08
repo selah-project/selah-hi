@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब वे रेउएल अपने पिता के पास आईं; और उसने कहा, “आज ⟨तुम⟩ जल्दी क्यों आईं?”",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "तब वे आईं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "उनके पिता"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "मהרתן",
+      "gloss": "जल्दी … की"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आना"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:35.389544330Z",
+  "model": "glm-5.2"
+}

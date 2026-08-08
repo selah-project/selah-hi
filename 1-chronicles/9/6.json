@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ज़ेरख के बेटों में से: येउएल और उनके भाई — छः सौ नब्बे।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और … से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरख"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "येउएल"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "और उनके भाई"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "नब्बे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:36.423366524Z",
+  "model": "glm-5.2"
+}

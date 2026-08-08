@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "उत्तम ⟨है⟩ शाक का भोजन और प्रेम वहाँ, मारा हुआ बैल और उसमें घृणा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "शाक"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "और प्रेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "משור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "मारा हुआ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "और घृणा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:57.733118513Z",
+  "model": "glm-5.2"
+}

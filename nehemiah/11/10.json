@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "कोहनीयों में से: यदआयाह बेन-योयारीब, याखीन।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहनीयों"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदआयाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "योयारीब"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "याखीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:22.535053174Z",
+  "model": "glm-5.2"
+}

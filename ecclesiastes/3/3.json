@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मार डालने के लिए ओत, और चंगा करने के लिए ओत; गिराने के लिए ओत, और बनाने के लिए ओत।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ओत"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "मार डालने के लिए"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और ओत"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "चंगा करने के लिए"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ओत"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "गिराने के लिए"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और ओत"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:40.035647979Z",
+  "model": "glm-5.2"
+}

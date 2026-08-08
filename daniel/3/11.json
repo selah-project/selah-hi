@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 3:11",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और जो न गिरे और न दण्डवत् करे, वह ज्वलंत अग्नि-भट्टी के बीच में डाला जाए।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨जो⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "और न दण्डवत् करे"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "डाला जाए"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "अग्नि-भट्टी"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "अग्नि"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "ज्वलंत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:43:25.521640236Z",
+  "model": "glm-5.2"
+}

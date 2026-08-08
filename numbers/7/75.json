@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक बैल, बाकर का बेटा; एक मेढ़ा, एक भेड़ का बच्चा, अपने वर्ष का बेटा, ओला के लिए।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बाकर का"
+    },
+    {
+      "surface": "איל",
+      "gloss": "मेढ़ा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भेड़ का बच्चा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "अपने वर्ष का"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ओला के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:48.520047296Z",
+  "model": "glm-5.2"
+}

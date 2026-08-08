@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और यहवे ने मोशे से मोआब के अराबों में, यर्देन के सहारे यरीहो के यहाँ, कहा।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "अराबों में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के सहारे"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहकर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:16.082797663Z",
+  "model": "glm-5.2"
+}

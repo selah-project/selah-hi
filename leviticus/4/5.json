@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और अभिषिक्त कोहेन बछड़े के रक्त से लेगा, और उसको ⟨את⟩ मिलनवाले तम्बू में लाएगा।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "और लेगा"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "अभिषिक्त"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "रक्त से"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछड़े के"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "और लाएगा"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसको",
+      "marks": "मिलनवाले तम्बू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलनवाले"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:26.123391855Z",
+  "model": "glm-5.2"
+}

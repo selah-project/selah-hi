@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 140,
+  "translation": "संगीत-निर्देशक के लिए। दावीद का गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशक के लिए"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:15:19.147765237Z",
+  "model": "glm-5.2"
+}

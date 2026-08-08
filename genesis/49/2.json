@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "इकट्ठे होओ और सुनो, याकोब के बेटो, और अपने पिता इस्राएल की ओर कान लगाओ।",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "इकट्ठे होओ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "और सुनो"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटो"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "और कान लगाओ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "अपने पिता"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:04.275325256Z",
+  "model": "glm-5.2"
+}

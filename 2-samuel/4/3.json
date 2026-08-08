@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और बेरोती भाग गए गित्ताइम को, और वे वहाँ परदेशी बने इस दिन तक।",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "और भाग गए"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "बेरोती"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "गित्ताइम को"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "और वे बने"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "परदेशी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "इस दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T21:25:49.344979437Z",
+  "model": "glm-5.2"
+}

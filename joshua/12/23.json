@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "नाफत-दोर के दोर का राजा एक; गिल्गल के गोयों का राजा एक;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "नाफत"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दोर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयों"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "गिल्गल के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:59:32.311726784Z",
+  "model": "glm-5.2"
+}

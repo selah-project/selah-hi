@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और लेवीय ⟨जन⟩ उत्तर देंगे और सारे इस्राएल के प्रत्येक मनुष्य से ऊँचे स्वर में कहेंगे:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "और उत्तर देंगे"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीय"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "और कहेंगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "प्रत्येक मनुष्य"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वर में"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ऊँचे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:49.034856102Z",
+  "model": "glm-5.2"
+}

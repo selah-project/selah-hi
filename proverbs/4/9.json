@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "वह तेरे सिर को अनुग्रह का माला देगी; तेज का मुकुट तुझे ढाल देगी।",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "वह देगी"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "तेरे सिर को"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "माला"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह का"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "तेज का"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "तुझे ढाल देगी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:19.634369180Z",
+  "model": "glm-5.2"
+}

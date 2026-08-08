@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "तू उसे न खाना; भूमि पर जल के समान तू उसे उंडेलना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "तू उसे खाना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "तू उसे उंडेलना"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "जल के समान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:10.150036631Z",
+  "model": "glm-5.2"
+}

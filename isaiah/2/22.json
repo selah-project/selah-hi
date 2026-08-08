@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तुम उस मनुष्य से रुक जाओ जिसके नथुनों में नश्मा है — क्योंकि वह किस लायक गिना जाता है?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "रुक जाओ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "उस मनुष्य"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसके"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "नश्मा"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "नथुनों में है"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "במה",
+      "gloss": "किस लायक"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "गिना जाता है"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:20.004433945Z",
+  "model": "glm-5.2"
+}

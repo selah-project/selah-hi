@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "फिर भी, यदि कैन व्यर्थ हो जाए — अब तक कब तक अश्शूर तुझे बन्धी बनाएगा?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "फिर भी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो जाए"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कैन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "तुझे बन्धी बनाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:08.266386792Z",
+  "model": "glm-5.2"
+}

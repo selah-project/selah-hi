@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और सातवें दिन ⟨होंगे⟩ सात बैल, दो मेढ़े, चौदह मेमने, एक वर्ष के पुत्र, निर्दोष।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और ... दिन"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवें"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़े"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक वर्ष"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:21.246594236Z",
+  "model": "glm-5.2"
+}

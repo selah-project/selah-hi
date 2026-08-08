@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "वृद्धावस्था का तेज का मुकुट है; धर्म के मार्ग में वह पाया जाता है।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "वृद्धावस्था"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "मार्ग में"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धर्म"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पाया जाता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:29.097878752Z",
+  "model": "glm-5.2"
+}

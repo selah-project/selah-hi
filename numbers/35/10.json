@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "“यिस्राएल के बेटों से बोलो और उनसे कहो: जब तुम ⟨את⟩ यर्दन को पार कर रहे हो कनान देश में,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोलो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "और कहो"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "पार कर रहे हो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:30.229273375Z",
+  "model": "glm-5.2"
+}

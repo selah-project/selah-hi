@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 16:13",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और वह आग पर यहवे के सामने ⟨את⟩ धूप रखे, और धूप का बादल ⟨את⟩ उस काफ़ोरेत को ढके जो ⟨את⟩ गवाही के ऊपर है, और वह न मरे;",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "और वह रखे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धूप"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "धूप"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "और ढके"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "धूप का"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "काफ़ोरेत को"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "काफ़ोरेत"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:04.835026546Z",
+  "model": "glm-5.2"
+}

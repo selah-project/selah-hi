@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "वहाँ से वे चले, और ज़ेरेद के नाले में डेरा डाला।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "वहाँ से"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "वे चले"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और डेरा डाला"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाले में"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ज़ेरेद के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:35:46.617573044Z",
+  "model": "glm-5.2"
+}

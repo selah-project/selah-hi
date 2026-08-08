@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और एलीशामा, और बेल्यादा, और एलीफलेत।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "और एलीशामा"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "और बेल्यादा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "और एलीफलेत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:52.056887072Z",
+  "model": "glm-5.2"
+}

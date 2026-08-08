@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "यदि मैं शून्य के साथ चला हूँ, और मेरा पैर धोखे की ओर जल्दी की है,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "चला हूँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "शून्य"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "और जल्दी की है"
+    },
+    {
+      "surface": "על",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखे"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "मेरा पैर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:30:49.045411466Z",
+  "model": "glm-5.2"
+}

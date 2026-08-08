@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ये हैं दीशान के बेटे: हेमदान और एशबान और यित्रान और केरान।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दीशान"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "हेमदान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "और एशबान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "और यित्रान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "और केरान"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:20.385350030Z",
+  "model": "glm-5.2"
+}

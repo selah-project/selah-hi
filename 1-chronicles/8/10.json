@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और ⟨את⟩ येउत्स और ⟨את⟩ शख्या और ⟨את⟩ मिर्मा; ये उसके पुत्र थे, पितृ-वंशों के मुखिया।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "येउत्स"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "येउत्स"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "शख्या"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "शख्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "मिर्मा"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "मिर्मा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "पितृ-वंशों के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:49.992814937Z",
+  "model": "glm-5.2"
+}

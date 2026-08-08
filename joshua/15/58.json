@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "हलहूल, बेथ-त्सूर और गदोर।",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "हलहूल"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सूर"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "और गदोर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:02.938848048Z",
+  "model": "glm-5.2"
+}

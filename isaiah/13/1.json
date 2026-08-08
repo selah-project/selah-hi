@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "बाबेल का भार, जो यशअयाहू बेन अमोत्स ने देखा।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखा"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशअयाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "अमोत्स"
+    }
+  ],
+  "timestamp": "2026-08-07T21:57:54.535161321Z",
+  "model": "glm-5.2"
+}

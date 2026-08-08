@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "हाशेम हगिज़ोनी के बेटे, योनातन शागे हहरारी का बेटा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "השם",
+      "gloss": "हाशेम"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "हगिज़ोनी"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "शागे"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हहरारी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:35.899824448Z",
+  "model": "glm-5.2"
+}

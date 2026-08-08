@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "जिसमें जो भी दोष हो उसे मत लाओ, क्योंकि वह तुम्हारे लिए प्रसन्नता नहीं होगी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जो भी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "जिसमें"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "लाओ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "प्रसन्नता"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगी"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:46.127791357Z",
+  "model": "glm-5.2"
+}

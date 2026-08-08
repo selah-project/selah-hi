@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "צדीकों की तृष्णा केवल भलाई ⟨है⟩, और रशाओं की आशा ⟨तो⟩ रोष ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "तृष्णा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "צदीकों की"
+    },
+    {
+      "surface": "אך",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "רשाओं की"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "रोष"
+    }
+  ],
+  "timestamp": "2026-08-08T03:07:21.994295323Z",
+  "model": "glm-5.2"
+}

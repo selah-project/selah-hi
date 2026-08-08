@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और उसने ⟨את⟩ इस्राएल को ताना दिया, और यहोनातन ने शिमा के बेटे दावीद के भाई ने उसे मारा।",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "और ताना दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस्राएल को"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "और उसे मारा"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "शिमा"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:10.886249307Z",
+  "model": "glm-5.2"
+}

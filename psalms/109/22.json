@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 109,
+  "translation": "क्योंकि दीन और निर्धन मैं ⟨हूँ⟩, और मेरा हृदय मेरे भीतर घायल ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "और निर्धन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "और मेरा हृदय"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "घायल"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "मेरे भीतर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:25.360708136Z",
+  "model": "glm-5.2"
+}

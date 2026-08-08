@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "हेकेसिल ⟨את⟩ अपने हाथों को जकड़े रखता है, और ⟨את⟩ अपना माँस खाता है।",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "हेकेसिल"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "जकड़े रखता है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने हाथों को"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "अपने हाथों को"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "और खाता है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना माँस"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "अपना माँस"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:47.822899728Z",
+  "model": "glm-5.2"
+}

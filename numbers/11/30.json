@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और मोशेह, वह और इस्राएल के ज्येष्ठ, छावनी की ओर ⟨वापस⟩ एकत्रित हुए।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "और एकत्रित हुए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "और ज्येष्ठ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:32.678475768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और शिमी के बेटे: याचत, जीना, और याउश, और बरिया — ये चार शिमी के बेटे थे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और … के बेटे"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "याचत"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "जीना"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "और याउश"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "और बरिया"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी के"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:33.641226789Z",
+  "model": "glm-5.2"
+}

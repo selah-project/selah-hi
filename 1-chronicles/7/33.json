@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यपलेत के बेटे थे — पसख, बिमहल और अश्वत; ये यपलेत के बेटे हैं।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "यपलेत"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "पसख"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "और बिमहल"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "और अश्वत"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "यपलेत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:49.585518056Z",
+  "model": "glm-5.2"
+}

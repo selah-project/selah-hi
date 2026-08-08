@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "बनयाह, बदयाह, कलुहय।",
+  "tokens": [
+    {
+      "surface": "בְּנָיָה",
+      "gloss": "बनयाह"
+    },
+    {
+      "surface": "בֵּדְיָה",
+      "gloss": "बदयाह"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "कलुहय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:50:13.325144071Z",
+  "model": "glm-5.2"
+}

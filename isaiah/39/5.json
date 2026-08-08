@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "और यशायाहू ने खिज़कियाहू से कहा, “यहवे सेबाओत का वचन सुनो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशायाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिज़कियाहू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओत"
+    }
+  ],
+  "timestamp": "2026-08-07T22:02:49.746390589Z",
+  "model": "glm-5.2"
+}

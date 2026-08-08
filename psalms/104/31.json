@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "यहवे का तेज सदा के लिए रहे; यहवे अपने कार्यों में आनन्द करे।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे\/हो"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "आनन्द करे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "अपने कार्यों में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:56.211280859Z",
+  "model": "glm-5.2"
+}

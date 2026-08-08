@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और आशेर से — सेना में निकलने वाले, युद्ध को सजाने के लिए — चालीस हज़ार।",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "और आशेर से"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "निकलने वाले"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना में"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "सजाने के लिए"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध को"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:21.995036906Z",
+  "model": "glm-5.2"
+}

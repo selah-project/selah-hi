@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "नप्तली के कुल के लिए — नखबी, वोप्सी का पुत्र।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "कुल के लिए"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नप्तली"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "नखबी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "वोप्सी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:21.900680531Z",
+  "model": "glm-5.2"
+}

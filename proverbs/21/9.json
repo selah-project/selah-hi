@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "कोने पर बैठना अच्छा है — छत के —, मामलों में झगड़ालू स्त्री और विस्तृत घर से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बैठना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "कोने"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छत"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "स्त्री से"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "मामलों में झगड़ालू"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और घर"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "विस्तृत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:17.034295185Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "गेरेशोम के बेटों के लिए, योएल ⟨का⟩ प्रमुख, और उसके भाई सौ और तीस।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटों के लिए"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "השר",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:34.720131385Z",
+  "model": "glm-5.2"
+}

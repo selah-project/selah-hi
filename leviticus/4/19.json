@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और ⟨את⟩ सारा उसका चर्बी उससे उठाएगा, और मिज़बेख़ पर धूनी देगा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सारा उसका चर्बी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "उसका चर्बी"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उठाएगा"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "और धूनी देगा"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "मिज़बेख़ पर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:48.963767200Z",
+  "model": "glm-5.2"
+}

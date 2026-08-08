@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और लिम्शेलेम्याहू के ⟨थे⟩ पुत्र और भाई, वीर पुत्र, अठारह।",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "और लिम्शेलेम्याहू के"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "और भाई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "वीर"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T00:02:24.732490167Z",
+  "model": "glm-5.2"
+}

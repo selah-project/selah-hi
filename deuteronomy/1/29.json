@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब मैंने तुमसे कहा: न तो भयभीत हो और न उनसे डरो।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "तब मैंने कहा"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तुमसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "तुम भयभीत होगे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "तुम डरोगे"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:42.273762857Z",
+  "model": "glm-5.2"
+}

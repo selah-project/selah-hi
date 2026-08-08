@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और याकोव ने अपने पिता की और अपनी माता की बात सुनी, और पद्दन-अराम की ओर चला गया।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुनी"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपने पिता"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और की ओर"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "अपनी माता"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और चला गया"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "पद्दन"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:37.568306423Z",
+  "model": "glm-5.2"
+}

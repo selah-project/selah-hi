@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "मुख पहचानना अच्छा नहीं ⟨है⟩, और रोटी के एक टुकड़े पर एक पुरुष अपराध करता है।",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "पहचानना"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "פת",
+      "gloss": "टुकड़ा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "अपराध करता है"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:21.883268963Z",
+  "model": "glm-5.2"
+}

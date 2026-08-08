@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "उसी दिन वह खाया जाएगा; तुम उसमें से कुछ भी सुबह तक न बचाना; मैं यहवे हूँ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "वह खाया जाएगा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "तुम बचाना"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उसमें से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "सुबह"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:30.031360269Z",
+  "model": "glm-5.2"
+}

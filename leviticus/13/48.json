@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "या ताने में या बाने में — सन के लिए या ऊन के लिए — या चमड़ा, या चमड़े की किसी भी वस्तु में।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ताने में"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "बाने में"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "सन के लिए"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "या ऊन के लिए"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "वस्तु"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़े की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:27.657648951Z",
+  "model": "glm-5.2"
+}

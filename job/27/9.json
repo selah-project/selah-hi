@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "क्या एल उसकी दुहाई सुनेगा, जब उस पर संकट आए?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "उसकी दुहाई"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनेगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "संकट"
+    }
+  ],
+  "timestamp": "2026-08-07T23:29:29.172069084Z",
+  "model": "glm-5.2"
+}

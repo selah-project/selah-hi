@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 27:1",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और यहवे का वचन मेरे पास आया, यह कहने को:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहने को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:33:16.571727997Z",
+  "model": "glm-5.2"
+}

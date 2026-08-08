@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "तूने ⟨इसे⟩ देखा, हे यहवे! चुप मत रहो; हे अदोनाय, मुझसे दूर मत होओ।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "तूने देखा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "चुप मत रहो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर मत होओ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:10.577125943Z",
+  "model": "glm-5.2"
+}

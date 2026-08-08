@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और कहात के बेटे: अमराम और यित्हार और खेब्रोन और उज्जिएल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "और यित्हार"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "और खेब्रोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "और उज्जिएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:16.090175460Z",
+  "model": "glm-5.2"
+}

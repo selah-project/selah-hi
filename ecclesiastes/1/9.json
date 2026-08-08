@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "जो हुआ है वही ⟨होगा⟩, और जो किया गया है वही किया जाएगा, और ⟨सूर्य के नीचे⟩ कोई नयी बात नहीं।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "जो"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "हुआ है"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "किया गया है"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "किया जाएगा"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नयी बात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.456015217Z",
+  "model": "glm-5.2"
+}

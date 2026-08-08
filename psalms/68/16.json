@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 68,
+  "translation": "एलोहीम का पर्वत — बाशान का पर्वत, गबनुन्नीम का पर्वत — बाशान का पर्वत।",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम का"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशान का"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "गबनुन्नीम का"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशान का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:33.232286952Z",
+  "model": "glm-5.2"
+}

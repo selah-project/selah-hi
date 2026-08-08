@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "यहवे का गर्जन — सामर्थ्य में; यहवे का गर्जन — ऐश्वर्य में।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "गर्जन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "सामर्थ्य में"
+    },
+    {
+      "surface": "קול",
+      "gloss": "गर्जन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ऐश्वर्य में"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:03.975734027Z",
+  "model": "glm-5.2"
+}

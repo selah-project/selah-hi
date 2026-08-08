@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "पूर्वीय वायु से ⟨तू⟩ तर्शीश के जहाजों को तोड़ डालता है।",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "वायु से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्वीय"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "⟨तू⟩ तोड़ डालता है"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाजों"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शीश के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:22.362084691Z",
+  "model": "glm-5.2"
+}

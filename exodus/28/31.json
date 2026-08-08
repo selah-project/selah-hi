@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तू एफोद के वस्त्र को बनाएगा — ⟨את⟩ — पूरी तरह नीले रंग का।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बनाएगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वस्त्र"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरी तरह"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीले रंग का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:37.434868642Z",
+  "model": "glm-5.2"
+}

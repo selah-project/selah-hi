@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ⟨हर एक⟩ पर ऊँचे पर्वतों के, और ⟨हर एक⟩ उठी हुई पहाड़ियों के ऊपर —",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और ... पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पर्वतों"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ऊँचे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और ... पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "पहाड़ियों"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "उठी हुई"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:41.398699032Z",
+  "model": "glm-5.2"
+}

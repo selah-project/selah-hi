@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "मैं उसके साथ सरल रहा, और मैंने अपने अधर्म से स्वयं की रक्षा की।",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "रहा"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "सरल"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "मैंने रक्षा की"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "अपने अधर्म से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:55:51.090120755Z",
+  "model": "glm-5.2"
+}

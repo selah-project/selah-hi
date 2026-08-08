@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 10:1",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "उस समय यहवे ने मुझसे कहा: तुझे दो पत्थर के लुहे काट ले, पहले जैसे, और मेरे पास पहाड़ पर चढ़, और तू अपने लिए एक लकड़ी का आरन बना।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "उस समय"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "काट ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "לוחת",
+      "gloss": "लुहे"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "पत्थर के"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "पहले जैसे"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "और चढ़"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "पहाड़ पर"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बना"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "आरन"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:51.597180083Z",
+  "model": "glm-5.2"
+}

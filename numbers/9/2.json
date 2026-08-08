@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "“और इस्राएल के पुत्र पासोव को उसके नियत समय में करें।”",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "और करें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पासोव को"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पासोव"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "उसके नियत समय में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:59.636744739Z",
+  "model": "glm-5.2"
+}

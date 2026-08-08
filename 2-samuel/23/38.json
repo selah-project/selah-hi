@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "इरा हयित्री, गरेब हयित्री।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "हयित्री"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "गरेब"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "हयित्री"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:48.275966132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मेरे क्लेश और मेरे भटकने को स्मरण ⟨है⟩ — ला'अनह और विष!",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "स्मरण ⟨है⟩"
+    },
+    {
+      "surface": "עָנְיִ֥י",
+      "gloss": "मेरे क्लेश"
+    },
+    {
+      "surface": "וּמְרוּדִ֖י",
+      "gloss": "और मेरे भटकने को"
+    },
+    {
+      "surface": "לַעֲנָ֥ה",
+      "gloss": "ला'अनह"
+    },
+    {
+      "surface": "וָרֹֽאשׁ",
+      "gloss": "और विष"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:14.146594063Z",
+  "model": "glm-5.2"
+}

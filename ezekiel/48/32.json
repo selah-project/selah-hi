@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 48:32",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "“और पूर्वी किनारे पर पाँच सौ और चार हज़ार ⟨माप⟩, और तीन फाटक; और योसेफ का एक फाटक, बिन्यामीन का एक फाटक, दान का एक फाटक।”",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "और"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारे पर"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्वी"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "और फाटक"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "और फाटक"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שער",
+      "gloss": "फाटक"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שער",
+      "gloss": "फाटक"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:48.781303651Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "पिस गई ⟨⟨है⟩⟩ मेरी नफ़्श तृष्णा से — तेरे नियमों के लिए हर समय।",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "पिस गई"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी नफ़्श"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "तृष्णा से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तेरे नियमों के लिए"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:04.709198179Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और उसका भाई असाफ, ⟨जो⟩ उसके दाहिने पर खड़ा ⟨था⟩ — असाफ, बेरेखयाहू का पुत्र, शिमेआ का पुत्र।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसका भाई"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असाफ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "खड़ा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "उसके दाहिने"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "बेरेखयाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "शिमेआ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.324096325Z",
+  "model": "glm-5.2"
+}

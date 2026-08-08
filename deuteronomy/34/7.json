@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और मोशे अपनी मृत्यु के समय सौ बीस वर्ष का था; उसकी आँख नहीं धुँधली, और उसका ओज नहीं गया।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "और मोशे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र ~ वर्ष का था"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "अपनी मृत्यु के समय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "धुँधली"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "उसकी आँख"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "נס",
+      "gloss": "गया ~ भागा"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "उसका ओज ~ ताज़गी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:11.912889002Z",
+  "model": "glm-5.2"
+}

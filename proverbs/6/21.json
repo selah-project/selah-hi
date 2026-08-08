@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "उन्हें निरन्तर अपने हृदय पर बाँध, उन्हें अपने गले पर लटका।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "उन्हें बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "अपने हृदय"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "उन्हें लटका"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "अपने गले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:01.595969646Z",
+  "model": "glm-5.2"
+}

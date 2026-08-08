@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और जल प्रबल हुए और वे बहुत बढ़े पृथ्वी पर, और तेबा ⟨चलती रही⟩ जल के पन्नों पर।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "और प्रबल हुए"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "और बढ़े"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "और ⟨चलती रही⟩"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "तेबा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "पन्नों"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:21.313669514Z",
+  "model": "glm-5.2"
+}

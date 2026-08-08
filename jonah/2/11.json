@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यहवे ने मछली से कहा, और उसने योना को ⟨את⟩ थूककर थल पर डाल दिया।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "मछली से"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "और उसने थूककर डाल दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योना को"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "थल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:17.362701876Z",
+  "model": "glm-5.2"
+}

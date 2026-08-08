@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "योरह के बेटे, एक सौ बारह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "योरह"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:51.389761622Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "तब दाऊद ने गुप्तचर भेजे और जाना कि शाऊल निश्चित रूप से ⟨की⟩ ओर आया है।",
+  "tokens": [
+    {
+      "surface": "वישלח",
+      "gloss": "तब भेजे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद ने"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "गुप्तचर"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "और जाना"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आया है"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "निश्चित रूप से"
+    }
+  ],
+  "timestamp": "2026-08-07T21:23:06.604434289Z",
+  "model": "glm-5.2"
+}

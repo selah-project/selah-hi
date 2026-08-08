@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और दाविद, यिशै का पुत्र, सारे यिस्राएल पर राज करता था।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "और दाविद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज करता था"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:03:12.081372202Z",
+  "model": "glm-5.2"
+}

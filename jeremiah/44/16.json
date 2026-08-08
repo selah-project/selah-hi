@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "“वह वचन जो तूने हम से यहवे के नाम में बोला, हम उसे तेरी ओर से नहीं सुनेंगे।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "वह वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "तूने बोला"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "हम से"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "हम नहीं"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "सुनेंगे"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरी ओर से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:22:58.337299442Z",
+  "model": "glm-5.2"
+}

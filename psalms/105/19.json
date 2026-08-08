@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 105,
+  "translation": "जब तक ⟨कि⟩ उसके वचन का समय न आया, यहवे के वचन ने उसे परखा।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जब तक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आया"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "उसके वचन का"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "वचन ने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "उसे परखा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:12.890121750Z",
+  "model": "glm-5.2"
+}

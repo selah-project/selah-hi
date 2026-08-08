@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "joshua 15:59",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और माअरात, और बेथ-अनोथ, और एल्तेकोन; छह नगर और उनके गाँव।",
+  "tokens": [
+    {
+      "surface": "ומערת",
+      "gloss": "और माअरात"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेथ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "अनोथ"
+    },
+    {
+      "surface": "ואלתקן",
+      "gloss": "और एल्तेकोन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "और उनके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:02.938970219Z",
+  "model": "glm-5.2"
+}

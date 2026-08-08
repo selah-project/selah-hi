@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और किर्यातयिम पर, और बेथ-गामुल पर, और बेथ-मेओन पर।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "किर्यातयिम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "गामुल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "मेओन"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:35.514203368Z",
+  "model": "glm-5.2"
+}

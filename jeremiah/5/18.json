@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "“और भी उन दिनों में,” יהוה का निर्वचन ⟨है⟩, “मैं तुम्हारा सर्वनाश नहीं करूँगा।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "उन दिनों में"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "निर्वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יװहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "मैं करूँगा"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तुम्हारा"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "सर्वनाश"
+    }
+  ],
+  "timestamp": "2026-08-08T02:38:29.359277137Z",
+  "model": "glm-5.2"
+}

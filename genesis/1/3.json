@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और एलोहीम ने कहा, “प्रकाश हो,” और प्रकाश हुआ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:25.855123458Z",
+  "model": "glm-5.2"
+}

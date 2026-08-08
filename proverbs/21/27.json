@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "दुष्टों का बलि घृणित ⟨है⟩ — और भी अधिक जब वह उसे दुष्ट भाव से लाता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों का"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "אף",
+      "gloss": "और भी अधिक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "दुष्ट भाव से"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "वह उसे लाता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:10.515755911Z",
+  "model": "glm-5.2"
+}

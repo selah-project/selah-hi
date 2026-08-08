@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और नोख ने — भूमि के आदमि ने — आरम्भ किया और एक दाख-बारी बोई।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "और आरम्भ किया"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोख ने"
+    },
+    {
+      "surface": "איש",
+      "gloss": "आदमि"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "भूमि के"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "और बोई"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "दाख-बारी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.952027138Z",
+  "model": "glm-5.2"
+}

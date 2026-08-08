@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "numbers 7:77",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और शलाम के जवाब के लिए बैल दो, ऊंठ पाँच, बकरे पाँच, एक वर्ष के मेमने पाँच; यह पगअएल बेन अकरान का चढ़ावा था।",
+  "tokens": [
+    {
+      "surface": "ולזבח",
+      "gloss": "और … के लिए"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शलाम"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ऊंठ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עתדים",
+      "gloss": "बकरे"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… के बेटे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "चढ़ावा"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "पगअएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "अकरान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:00.974132718Z",
+  "model": "glm-5.2"
+}

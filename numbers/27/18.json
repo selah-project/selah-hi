@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "तब यहवे ने मूशा से कहा: “तू अपने लिए ⟨את⟩ यहोशू को, नून के पुत्र, उस पुरुष को ले जिसमें रूह है, और तू अपना हाथ उस पर रख।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "मשה",
+      "gloss": "मूशा"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू अपने लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहोशू को"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसमें"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "और तू रख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:14.739575394Z",
+  "model": "glm-5.2"
+}

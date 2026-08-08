@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "किन्तु, जितना सच कि मैं जीवित हूँ, और यहवे का तेज सारी पृथ्वी को भर देगा —",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "किन्तु"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित हूँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "और भर देगा"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारी पृथ्वी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:48.532560154Z",
+  "model": "glm-5.2"
+}

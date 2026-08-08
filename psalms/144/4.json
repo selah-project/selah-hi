@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 144,
+  "translation": "मनुष्य ⟨है⟩ हवा ⟨के⟩ समान; उसके दिन गुज़रते परछाई ⟨के समान⟩ हैं।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "हवा के समान"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "है"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसके दिन"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "परछाई के समान"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "गुज़रते"
+    }
+  ],
+  "timestamp": "2026-08-07T23:15:44.876206501Z",
+  "model": "glm-5.2"
+}

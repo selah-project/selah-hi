@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "बिन्यामीन के ⟨गोत्र हेतु⟩ — पल्ती, राफू का पुत्र।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र हेतु"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "पल्ती"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "राफू"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:15.756332101Z",
+  "model": "glm-5.2"
+}

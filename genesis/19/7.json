@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और उसने कहा, “हे मेरे भाइयो, कृपया ऐसा बुरा काम न करो।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "हे मेरे भाइयो"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "(ऐसा) बुरा काम करो"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:14.636858093Z",
+  "model": "glm-5.2"
+}

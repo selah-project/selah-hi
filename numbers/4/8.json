@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उन पर फैलाएँ शनी-के कीड़े का वस्त्र, और ढक दें उसे तख़श चर्म-आवरण में, और उसके बडे लगाएँ।",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "और फैलाएँ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "कीड़े"
+    },
+    {
+      "surface": "שני",
+      "gloss": "शनी"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "और ढक दें"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "आवरण में"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चर्म"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "तख़श"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "और लगाएँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसके बडे"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "उसके बडे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:05.909989737Z",
+  "model": "glm-5.2"
+}

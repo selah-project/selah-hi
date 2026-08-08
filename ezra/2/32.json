@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "हारीम के पुत्र, तीन सौ बीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "हारीम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:00.962409130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "उत्तर के द्वार के सामने, लम्बाई सौ ⟨माप⟩ थी; और चौड़ाई पचास ⟨माप⟩ थी।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "माप"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "और चौड़ाई"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "माप"
+    }
+  ],
+  "timestamp": "2026-08-07T22:37:13.056826553Z",
+  "model": "glm-5.2"
+}

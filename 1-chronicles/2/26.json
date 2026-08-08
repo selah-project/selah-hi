@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यरहमएल के लिए एक दूसरी पत्नी थी, और उसका नाम अतारा था — वह ओनाम की माता थी।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "और ⟨थी⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "एक दूसरी"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "यरहमएल के लिए"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "और उसका नाम"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "अतारा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אם",
+      "gloss": "माता"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनाम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.531120372Z",
+  "model": "glm-5.2"
+}

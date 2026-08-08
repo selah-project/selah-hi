@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और यानिम, और बेथ-तप्पूआख, और अपेका;",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "और यानिम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेथ-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "तप्पूआख"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "और अपेका"
+    }
+  ],
+  "timestamp": "2026-08-08T00:14:20.352968350Z",
+  "model": "glm-5.2"
+}

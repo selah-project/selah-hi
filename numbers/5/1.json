@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और यहवे ने मोशे से बात की, लेकर कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेकर कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:51.756551672Z",
+  "model": "glm-5.2"
+}

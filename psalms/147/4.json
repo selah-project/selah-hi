@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 147,
+  "translation": "तारों की संख्या गिनता है, उन सब के नाम बुलाता है।",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "गिनता है"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "संख्या"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "तारों की"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "उन सब के"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "बुलाता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:32.778334298Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और उस भूमि का सोना अच्छा ⟨है⟩; वहाँ बदोलह और शोहम पत्थर ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "और सोना"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि का"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "बदोलह"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "और पत्थर"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "शोहम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:17.210811843Z",
+  "model": "glm-5.2"
+}

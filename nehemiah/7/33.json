@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "नबो के अन्य ⟨के⟩ लोग, बावन।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नबो"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अन्य"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:49.779271289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "मन्त्र-जादू करने वाली को जीवित न रहने देना।",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "मन्त्र-जादू करने वाली"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "जीवित रहने देना"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:45.708441Z",
+  "model": "glm-5.2"
+}

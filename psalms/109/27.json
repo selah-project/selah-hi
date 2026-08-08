@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 109,
+  "translation": "और वे जानें कि यह तेरा हाथ ⟨है⟩; तू, हे यहवे, ने इसे किया ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "और वे जानें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तेरा हाथ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ने इसे किया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:52.740039155Z",
+  "model": "glm-5.2"
+}

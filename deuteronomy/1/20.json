@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब मैंने तुमसे कहा: तुम एमोरी के पहाड़ तक आ गए हो, जो यहवे हमारा एलोहीम हमें दे रहा है।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "तब मैंने कहा"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तुमसे"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "तुम आ गए हो"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरी के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमारा एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दे रहा है"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:55.825281787Z",
+  "model": "glm-5.2"
+}

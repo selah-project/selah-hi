@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ओबेद ने ⟨את⟩ यहू को जन्य दिया, और यहू ने ⟨את⟩ अज़र्याह को जन्य दिया।",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "और ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्य दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहू को"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहू"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "और यहू"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्य दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अज़र्याह को"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अज़र्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:38.314084826Z",
+  "model": "glm-5.2"
+}

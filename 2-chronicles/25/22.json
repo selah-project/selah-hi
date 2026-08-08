@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और यहूदा यिस्राएल के सामने पराजित हुआ, और वे भाग गए, हर एक अपने डेरे को।",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "और पराजित हुआ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "और भाग गए"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "अपने डेरे को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:09:53.608272345Z",
+  "model": "glm-5.2"
+}

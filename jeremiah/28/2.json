@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "“यहवे सेनाओत, इस्राएल का एलोहीम यह कहता है, यह कहकर: मैंने बाबेल के राजा का जूआ तोड़ डाला है।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओत"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहकर"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "मैंने तोड़ डाला है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जूआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "जूआ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:19:37.614845682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "उत्तम ⟨है⟩ थोड़ा गौरवशाली मार्ग से, बहुत उपज न्यायहीनता से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "गौरवशाली मार्ग से"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "बहुत से"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "उपज"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "न्यायहीनता से"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "⟨न्याय⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:10.943734253Z",
+  "model": "glm-5.2"
+}

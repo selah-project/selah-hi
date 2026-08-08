@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "यहवे तेरा रक्षक ⟨है⟩; यहवे तेरी छाया ⟨है⟩ तेरे दाहिने हाथ पर।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "तेरा रक्षक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "तेरी छाया"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "तेरे दाहिने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:49.729002194Z",
+  "model": "glm-5.2"
+}

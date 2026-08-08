@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 64,
+  "translation": "और एलोहीम ⟨उन पर⟩ अचानक एक बाण चलाएगा; उनके घाव एकदम तत्काल होंगे।",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "और ⟨वह⟩ चलाएगा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "एक बाण"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होंगे"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "उनके घाव"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:40.561754450Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "कसीलों का परिश्रम उन्हें थकाता है, कि वे नहीं जानते नगर की ओर कैसे जाना है।",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "कसीलों का"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "उन्हें थकाता है"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानते"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:21.948019007Z",
+  "model": "glm-5.2"
+}

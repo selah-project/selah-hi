@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 69,
+  "translation": "वादक-प्रमुख को, शोशन्नीम पर, दावीद का।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "वादक-प्रमुख को"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "शोशन्नीम"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:27.976534181Z",
+  "model": "glm-5.2"
+}

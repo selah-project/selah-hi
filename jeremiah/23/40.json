@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और मैं तुम्हारे ऊपर अनन्त कलंक और अनन्त लाज रखूँगा, जो भुलाई नहीं जाएगी।",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "और मैं रखूँगा"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तुम्हारे ऊपर"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "कलंक"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनन्त"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "और लाज"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनन्त"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "भुलाई जाएगी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:17:51.456157877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और शमूएल ने ⟨את⟩ सब बातों को सुना, और उन्हें यहवे के कानों में कहा।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "बातों को"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता की"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "और उन्हें कहा"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कानों में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-08T02:26:11.934657973Z",
+  "model": "glm-5.2"
+}

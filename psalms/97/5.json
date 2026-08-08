@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 97,
+  "translation": "पर्वत मोम के समान घुल गए यहवे के सामने, सारी पृथ्वी के अदोन के सामने।",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "मोम के समान"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "घुल गए"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "अदोन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:23.671464224Z",
+  "model": "glm-5.2"
+}

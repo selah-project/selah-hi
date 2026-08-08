@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "उरिय्याह हहित्ती — सब मिलाकर तैंतीस और सात।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्याह"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हहित्ती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तैंतीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "और सात"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:48.276045939Z",
+  "model": "glm-5.2"
+}

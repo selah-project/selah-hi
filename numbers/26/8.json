@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और फल्लू के पुत्र: एलिआब।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "फल्लू"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:01.953732170Z",
+  "model": "glm-5.2"
+}

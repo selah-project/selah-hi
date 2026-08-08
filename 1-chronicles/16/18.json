@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "कहते हुए, “तुझे मैं कनान देश दूँगा — तेरी विरासत की माप-रस्सी।”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "मैं दूँगा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "חבल",
+      "gloss": "माप-रस्सी"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "तेरी विरासत"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:15.374670921Z",
+  "model": "glm-5.2"
+}

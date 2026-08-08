@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और मनुष्यों की नफ़ेश छह सोलह हज़ार;",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "और नफ़ेश"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्यों की"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-सोलह"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:05.230597835Z",
+  "model": "glm-5.2"
+}

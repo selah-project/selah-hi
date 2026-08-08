@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और मोशे ने सुना और वह ⟨अपने⟩ चेहरे पर गिर पड़ा।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "और गिर पड़ा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "उसके चेहरे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:46.602071384Z",
+  "model": "glm-5.2"
+}

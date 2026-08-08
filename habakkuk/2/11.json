@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "क्योंकि दीवार से पत्थर चिल्लाएगा, और कड़े उत्तर देंगे — लकड़ी से!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "पत्थर"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "दीवार से"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "चिल्लाएगा"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "कड़े"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "लकड़ी से"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "उत्तर देंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:18.930654811Z",
+  "model": "glm-5.2"
+}

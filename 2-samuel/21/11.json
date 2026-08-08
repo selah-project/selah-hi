@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और दाऊद को बताया गया ⟨את⟩ जो कुछ रिस्पा अय्या की बेटी, शाऊल की उपपत्नी, ने किया था।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "और बताया गया"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद को"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जो कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "किया था"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "रिस्पा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "איה",
+      "gloss": "अय्या"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "उपपत्नी"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:32.900053828Z",
+  "model": "glm-5.2"
+}

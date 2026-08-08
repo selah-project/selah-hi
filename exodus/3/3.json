@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तब मोशे ने कहा, मैं अब मुड़ ⟨जाऊँ⟩ और देखूँ ⟨את⟩ इस महान दर्शन को, ⟨कि⟩ वह झाड़ क्यों नहीं जलता।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "मैं मुड़ जाऊँ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "और देखूँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दर्शन को"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "महान"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "जलता"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "झाड़"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:03.242037196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "“और बिन्यामीन के सीमा के बगल में — पूर्व सीमा से पश्चिम सीमा तक — शिमओन ⟨है⟩ एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और बगल में"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा के"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "सीमा से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमओन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-08T00:37:03.719876851Z",
+  "model": "glm-5.2"
+}

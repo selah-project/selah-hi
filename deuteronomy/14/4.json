@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "यह ⟨है⟩ वह पशु जिसे तुम खाओ: बैल, मेढ़ों का भेड़ का बच्चा, और बकरियों का बच्चा।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שה",
+      "gloss": "बच्चा"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "मेढ़ों का भेड़ का"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "और बच्चा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरियों का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:46.587309423Z",
+  "model": "glm-5.2"
+}

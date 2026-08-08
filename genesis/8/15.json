@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और एलोहीम ने नोअ से कहा, यों कहके:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोअ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहके"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:52.077714344Z",
+  "model": "glm-5.2"
+}

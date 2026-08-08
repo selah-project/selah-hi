@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "दलायाह के बेटे, तोबीयाह के बेटे, नकोदा के बेटे — छः सौ बावन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "दलायाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "तोबीयाह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नकोदा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "बावन"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:49.658232489Z",
+  "model": "glm-5.2"
+}

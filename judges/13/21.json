@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 13:21",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और यहवे के दूत ने मनोअह और उसकी पत्नी के पास फिर प्रकट होना नहीं जोड़ा; तब मनोअह ने जाना कि वह यहवे का दूत था।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "जोड़ा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "प्रकट होना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मनोअह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और के पास"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उसकी पत्नी"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मनोअह ने"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T21:08:56.621167005Z",
+  "model": "glm-5.2"
+}

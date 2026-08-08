@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "क्योंकि वह यह नहीं जानता कि क्या होगा, क्योंकि जैसा होगा — उसे कौन बताएगा?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "वह … नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताएगा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:37.879980463Z",
+  "model": "glm-5.2"
+}

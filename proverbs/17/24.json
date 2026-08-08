@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "समझदार के सामने चतुरता है, और मूर्ख की आँखें पृथ्वी के सिरों में हैं।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "समझदार के चेहरे को"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "समझदार"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "चतुरता"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "और आँखें"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख की"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "सिरों में"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:05.434086320Z",
+  "model": "glm-5.2"
+}

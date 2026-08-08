@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और ⟨את⟩ चोलोन और ⟨את⟩ उसके मगरश, और ⟨את⟩ देबीर और ⟨את⟩ उसके मगरश।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "चोलोन"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "चोलोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके मगरश"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "उसके मगरश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "देबीर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "देबीर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके मगरश"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "उसके मगरश"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:51.029966490Z",
+  "model": "glm-5.2"
+}

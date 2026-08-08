@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "किसी बात का अन्त उसके आरम्भ से उत्तम है; धैर्यवान प्राण घमण्डी प्राण से उत्तम ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "अन्त"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "मראשיתו",
+      "gloss": "आरम्भ से"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "धैर्यवान"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "घमण्डी से"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:08.493838958Z",
+  "model": "glm-5.2"
+}

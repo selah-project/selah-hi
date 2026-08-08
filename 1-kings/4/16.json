@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "बाना, हूशय का पुत्र — आशेर में और बेआलोत में।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "बाना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हूशय"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "आशेर में"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "और बेआलोत में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:06.096018590Z",
+  "model": "glm-5.2"
+}

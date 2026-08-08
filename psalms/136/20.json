@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 136,
+  "translation": "और ओग को, बाशान का राजा, क्योंकि लोअलाम तक उसका हेसेद ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "और ओग को"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान का"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "लोअलाम तक"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "उसका हेसेद"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:56.395713347Z",
+  "model": "glm-5.2"
+}

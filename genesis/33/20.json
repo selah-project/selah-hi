@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और उसने वहाँ एक वेदी स्थापित की और उसका नाम 'एल-एलोहे-यिस्राएल' रखा।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "और उसने स्थापित की"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "एक वेदी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "और उसने पुकारा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:07.224850064Z",
+  "model": "glm-5.2"
+}

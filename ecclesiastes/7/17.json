@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बहुत दुष्ट मत बनो और मूर्ख मत बनो; अपने समय से पहले तुम क्यों मरो?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "दुष्ट बनो"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बनो"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "तुम मरो"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "तुम्हारे समय के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:18.717188083Z",
+  "model": "glm-5.2"
+}

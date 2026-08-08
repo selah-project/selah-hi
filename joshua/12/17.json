@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "तप्पूख का राजा, एक; खेफेर का राजा, एक;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "तप्पूख"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "खेफेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:59:46.570086904Z",
+  "model": "glm-5.2"
+}

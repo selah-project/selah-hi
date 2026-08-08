@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨वह⟩ दक्षिण के राजा के राज्य में आएगा, और अपनी भूमि पर लौट जाएगा।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "और आएगा"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "राज्य में"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्षिण के"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "और लौट जाएगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "अपनी भूमि"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:53.546688204Z",
+  "model": "glm-5.2"
+}

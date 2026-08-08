@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और रख तू चाकू अपने गले पर, यदि तू नफ़श का स्वामी है।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "और रख तू"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "चाकू"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "तेरे गले पर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "स्वामी"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफ़श"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:29.179521059Z",
+  "model": "glm-5.2"
+}

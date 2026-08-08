@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "आलसी कहता है, “रास्ते में एक शेर ⟨है⟩; चौराहों के बीच एक शेर ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "शेर"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "रास्ते में"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "शेर"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "चौराहों"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:50.769262671Z",
+  "model": "glm-5.2"
+}

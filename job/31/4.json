@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "क्या वह मेरे मार्ग नहीं देखता, और मेरे सभी कदम गिनता?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखता"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "मेरे मार्ग"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और मेरे सभी"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "कदम"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "गिनता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:30:34.786874357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "ये हैं सेईर होरी के बेटे, उस देश के निवासी: लोतन और शोबल और त्सिबओन और अनाह।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "होरी"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "निवासी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "उस देश"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतन"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "और शोबल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "और त्सिबओन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "और अनाह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:15.381268220Z",
+  "model": "glm-5.2"
+}

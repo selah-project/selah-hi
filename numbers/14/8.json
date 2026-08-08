@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "यदि यहवे हमारी इच्छा रखता ⟨है⟩ तो वह हमें इस देश में लाएगा और हमें देगा — वह देश जो दूध और शहद से रिसता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा रखता"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हमारी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "तो वह लाएगा"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "इस देश"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "और देगा"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "रिसता"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "और शहद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:31.286111181Z",
+  "model": "glm-5.2"
+}

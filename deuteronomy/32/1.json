@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "कान लगाओ, हे आकाश, और मैं बोलूँगा; और सुने, हे पृथ्वी, मेरे मुख के वचन।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "कान लगाओ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "हे आकाश"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "और मैं बोलूँगा"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "और सुने"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "हे पृथ्वी"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरे मुख के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:21.151139593Z",
+  "model": "glm-5.2"
+}

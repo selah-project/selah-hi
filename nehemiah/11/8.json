@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और उसके बाद गब्बय, सल्लय—नौ सौ अट्ठाईस।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "और उसके बाद"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "गब्बय"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "सल्लय"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "और आठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:07.332185304Z",
+  "model": "glm-5.2"
+}

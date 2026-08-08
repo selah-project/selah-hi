@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 23:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "कोई अम्मोनी और मोआबी यहवे की मण्डली में न आए; उनका दसवाँ दौर भी यहवे की मण्डली में उनके लिए न आए, सदा के लिए।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ייבא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "עמוני",
+      "gloss": "कोई अम्मोनी"
+    },
+    {
+      "surface": "ומואבי",
+      "gloss": "और मोआबी"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "मण्डली में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दौर"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "दसवाँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ייבא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "मण्डली में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदा के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:09.517129157Z",
+  "model": "glm-5.2"
+}

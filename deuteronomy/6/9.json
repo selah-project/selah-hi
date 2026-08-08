@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और तू उन्हें अपने घर के द्वार-चौखटों पर और अपने फाटकों पर लिखेगा।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "और तू लिखेगा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "द्वार-चौखटों"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "अपने घर के"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "और अपने फाटकों पर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:48.605591422Z",
+  "model": "glm-5.2"
+}

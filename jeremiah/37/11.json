@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और यह हुआ कि जब कस्दियों की सेना, फिरौन की सेना के कारण, यरूशलम से उठकर चली गई,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और यह हुआ"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "जब उठकर चली गई"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "कस्दियों की"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलम"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौन"
+    }
+  ],
+  "timestamp": "2026-08-07T22:21:19.301504941Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तब मोशे उठा, और उसका परिचारक यहोशू; और मोशे हार एलोहीम की ओर चढ़ा।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "तब उठा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "और यहोशू"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "उसका परिचारक"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "और चढ़ा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "הר",
+      "gloss": "हार"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:32.953721350Z",
+  "model": "glm-5.2"
+}

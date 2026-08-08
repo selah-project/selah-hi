@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 102,
+  "translation": "मेरी आह के शब्द से मेरी हड्डियाँ चिपक गईं मेरे मांस से।",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "शब्द से"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "मेरी आह"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "चिपक गईं"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "मेरी हड्डियाँ"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "मेरे मांस से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:52.391699794Z",
+  "model": "glm-5.2"
+}

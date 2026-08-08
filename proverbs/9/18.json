@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और वह नहीं जानता कि वहाँ रेफाइम हैं; शेओल के गहरे अंधकार में ⟨उसके⟩ बुलाए हुए हैं!",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "गहरे अंधकार में"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "उसके बुलाए हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:44.181469459Z",
+  "model": "glm-5.2"
+}

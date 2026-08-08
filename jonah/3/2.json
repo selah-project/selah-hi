@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "“उठ, उस बड़ी नगर नीनवे के पास जा, और उसके विरुद्ध वह प्रचार कर जो मैं तुझ से कहता हूँ।”",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "नीनवे"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "और प्रचार कर"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उसके विरुद्ध"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "प्रचार"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "प्रचार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहता हूँ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझ से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:26.701610931Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "एक हाथ भर विश्राम दोनों हाथ भर परिश्रम और ⟨रूह का⟩ सताना — इनसे बढ़कर है।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बढ़कर है"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "एक भर"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "विश्राम"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "से (दोनों भर)"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "दोनों मुट्ठियाँ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "और सताना"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:47.752494046Z",
+  "model": "glm-5.2"
+}

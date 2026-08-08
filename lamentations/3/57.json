@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "निकट आए दिन में जब मैं तुम्हें पुकारूँ, तुमने कहा: “डरो मत।”",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "निकट आए"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "जब मैं तुम्हें पुकारूँ"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "तुमने कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरो"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:49.750863237Z",
+  "model": "glm-5.2"
+}

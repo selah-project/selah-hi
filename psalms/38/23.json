@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "मेरी सहायता के लिए शीघ्र कर, अदोनाय, ⟨मेरी⟩ मुक्ति।",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "शीघ्र कर"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "मेरी सहायता के लिए"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "मुक्ति"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:48.999449358Z",
+  "model": "glm-5.2"
+}

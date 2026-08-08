@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 130,
+  "translation": "यदि अधर्मों को तू ⟨सँभाले⟩, याह, हे अदोनाय, कौन टिक सकेगा?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "अधर्मों"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨सँभाले⟩"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "हे अदोनाय"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "टिक सकेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:07.359328852Z",
+  "model": "glm-5.2"
+}

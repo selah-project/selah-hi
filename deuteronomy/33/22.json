@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और दान के विषय में उसने कहा: दान शेर का पिल्ला ⟨है⟩; वह बाशान से उछलता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "और दान के विषय में"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "उसने कहा"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "גור",
+      "gloss": "पिल्ला"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "शेर का"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "वह उछलता है"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:23.876082991Z",
+  "model": "glm-5.2"
+}

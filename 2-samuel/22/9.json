@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 22:9",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "धुआँ उठा उसके क्रोध में, और आग उसके मुख से खाती ⟨है⟩; अंगारे उससे भड़के।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "उठा"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "धुआँ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "उसके क्रोध में"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "और आग"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "उसके मुख से"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाती"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "अंगारे"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "भड़के"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:31:58.457108996Z",
+  "model": "glm-5.2"
+}

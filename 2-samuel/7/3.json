@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और नातान ने राजा से कहा, “जो कुछ तेरे मन में है जा, कर; क्योंकि यहवे तेरे साथ है।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और ⟨उसने⟩ कहा"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जो कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तेरे मन में"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:26:42.844098963Z",
+  "model": "glm-5.2"
+}

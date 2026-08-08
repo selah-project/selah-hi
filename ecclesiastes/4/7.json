@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तब मैं फिर ⟨से⟩ लौटा, और मैंने सूर्य के नीचे हेबल ⟨अर्थात्⟩ व्यर्थता देखी।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "तब लौटा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल अर्थात् व्यर्थता"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:47.752593541Z",
+  "model": "glm-5.2"
+}

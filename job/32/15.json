@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "वे भयभीत हैं, वे अब उत्तर नहीं देते; वचन उनसे दूर हो गए हैं।",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "वे भयभीत हैं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "उत्तर देते"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "दूर हो गए हैं"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "वचन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:30:11.939627593Z",
+  "model": "glm-5.2"
+}

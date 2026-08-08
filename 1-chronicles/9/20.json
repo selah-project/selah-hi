@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और फिनहस, एलाज़र का पुत्र, नेता था उन पर, पहले ⟨के⟩ समय ⟨में⟩; यहवे उसके साथ था।",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "और फिनहस"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़र"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "नेता"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:39.778407177Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और याकोब ने कहा, आज ही ⟨मुझे⟩ ⟨את⟩ अपनी ज्येष्ठता बेच दे।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब ने"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "बेच दे"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "आज ही"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ज्येष्ठता को"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "तेरी ज्येष्ठता"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:28.502530845Z",
+  "model": "glm-5.2"
+}

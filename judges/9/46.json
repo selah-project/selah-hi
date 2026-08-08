@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और शकेम मीनार के सब स्वामियों ने सुना, और वे बेरित के भवन के दुर्ग में गए।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "स्वामियों ने"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "मीनार"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शकेम"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "और वे गए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "बेरित"
+    }
+  ],
+  "timestamp": "2026-08-07T21:08:20.562074017Z",
+  "model": "glm-5.2"
+}

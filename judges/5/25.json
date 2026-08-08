@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "जल ⟨उसने⟩ माँगा, दूध उसने दिया; भव्य बर्तन में उसने दही परोसा।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "माँगा"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "उसने दिया"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "बर्तन में"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "भव्य"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "उसने परोसा"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "दही"
+    }
+  ],
+  "timestamp": "2026-08-07T21:05:45.481527514Z",
+  "model": "glm-5.2"
+}

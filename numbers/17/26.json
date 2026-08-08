@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और मोशे ने किया, जैसा यहवे ने उसे ⟨את⟩ आज्ञा दी थी, वैसा ही उसने किया।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी थी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ उसे",
+      "marks": "मोशे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "वैसा ही"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "उसने किया"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:50.160306307Z",
+  "model": "glm-5.2"
+}

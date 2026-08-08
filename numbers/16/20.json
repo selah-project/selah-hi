@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और यहवे ने मूशा और अहरोन से बात की, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूशा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:50.392327132Z",
+  "model": "glm-5.2"
+}

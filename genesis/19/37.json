@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और ज्येष्ठा ने एक पुत्र को जना और उसका नाम मोआब पुकारा; वह ⟨है⟩ मोआबियों का पिता आज तक।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "और जना"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "ज्येष्ठा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "और पुकारा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबियों"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:01.495667516Z",
+  "model": "glm-5.2"
+}

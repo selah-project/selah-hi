@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "अच्छा ⟨तूम⟩ और भला करता ⟨हैम्स्; मुझे तेरे विधान सिखाओ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "और भला करता"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "मुझे सिखाओ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तेरे विधान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:34.237267903Z",
+  "model": "glm-5.2"
+}

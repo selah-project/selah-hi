@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और मारे गए महामारी में चौबीस हज़ार थे।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और थे"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मारे गए"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारी में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:32.528791884Z",
+  "model": "glm-5.2"
+}

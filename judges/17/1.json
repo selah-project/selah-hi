@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और एक मनुष्य था हार एप्रायिम का, और उसका नाम मीखायहू था।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक मनुष्य"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "हार एप्रायिम का"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": ""
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "और उसका नाम"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "मीखायहू"
+    }
+  ],
+  "timestamp": "2026-08-07T21:10:37.911020013Z",
+  "model": "glm-5.2"
+}

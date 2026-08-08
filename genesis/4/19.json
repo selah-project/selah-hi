@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और लामेख ने अपने लिए दो स्त्रियाँ लीं — पहली का नाम अदा, और दूसरी का नाम सिला।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "और लिया"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लामेख ने"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रियाँ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "पहली का"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदा"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दूसरी का"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "सिला"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:26.272401965Z",
+  "model": "glm-5.2"
+}

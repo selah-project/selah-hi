@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 68,
+  "translation": "धनी दूत मिस्रयिम से आएँगे; कूश अपने हाथ एलोहीम के लिए दौड़ाएगा।",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "आएँगे"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "धनी दूत"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "दौड़ाएगा"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "अपने हाथ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:28.448722284Z",
+  "model": "glm-5.2"
+}

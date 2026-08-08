@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और नाहोर ने नौ और बीस वर्ष जीए, और उसने ⟨את⟩ तेरह को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "और जीए"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाहोर"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेरह को"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:51.979251622Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 98,
+  "translation": "नदियाँ ताली बजाएँ; साथ मिलकर पर्वत गान गाएँ।",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "नदियाँ"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "बजाएँ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ताली"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "साथ मिलकर"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "गान गाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:55.273875221Z",
+  "model": "glm-5.2"
+}

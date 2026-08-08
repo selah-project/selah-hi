@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और वे तुझ में एक चिह्न और एक निशानी रहेंगे, और तेरे वंश में, अनन्त तक।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "और वे रहेंगे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझ में"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "एक चिह्न"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "और एक निशानी"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "और तेरे वंश में"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अनन्त"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "तक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:17.524062771Z",
+  "model": "glm-5.2"
+}

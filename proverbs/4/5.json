@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "प्राप्त कर चतुरता को, प्राप्त कर समझ को; भूल नहीं, और मेरे मुख के वचनों से झुक नहीं।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "प्राप्त कर"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "चतुरता को"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "प्राप्त कर"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "भूल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुक"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "वचनों से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरे मुख के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:26.532485314Z",
+  "model": "glm-5.2"
+}

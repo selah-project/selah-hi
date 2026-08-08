@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और शूशन दुर्ग में यहूदियों ने वध और नाश किया — पाँच सौ पुरुष।",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "और शूशन में"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "वध किया"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूदियों ने"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "और नाश"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:41:49.726166052Z",
+  "model": "glm-5.2"
+}

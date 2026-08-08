@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "मैं ⟨हूँ⟩ अपने प्रिय की, और मेरा प्रिय ⟨है⟩ मेरा — वह ⟨जो⟩ शोशन में चराता है।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "अपने प्रिय की"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "और मेरा प्रिय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरा"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "वह चराता है"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "शोशन में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:48.882652795Z",
+  "model": "glm-5.2"
+}

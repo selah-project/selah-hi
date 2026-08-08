@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यदि बीज पर जल डाला जाए और उनके मृत-शरीर में से कुछ उस पर गिरे, तो वह तुम्हारे लिए अशुद्ध है।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "डाला जाए"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "और गिरे"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "उनके मृत-शरीर में से"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:55.544499649Z",
+  "model": "glm-5.2"
+}

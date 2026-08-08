@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 117,
+  "translation": "स्तुति करो यहवे की, हे सब जातियों; उसकी स्तुति करो, हे सब उम्मतों।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियों"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "उसकी स्तुति करो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "उम्मतों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:35.333179988Z",
+  "model": "glm-5.2"
+}

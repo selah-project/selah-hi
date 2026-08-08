@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 115,
+  "translation": "नहीं हमें, यहवे, नहीं हमें, बल्कि अपने नाम को तेज दे, अपने हेसेद पर, अपनी सत्यता पर।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "अपने नाम को"
+    },
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "अपने हेसेद"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "अपनी सत्यता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:24.546881856Z",
+  "model": "glm-5.2"
+}

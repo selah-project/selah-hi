@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और यदि उसके चेहरे के किनारे से उसका सिर गिर जाए, तो वह माथे का गंजा है; वह शुद्ध है।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "किनारे से"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "उसके चेहरे के"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "गिर जाए"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "उसका सिर"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "माथे का गंजा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:51.493905323Z",
+  "model": "glm-5.2"
+}

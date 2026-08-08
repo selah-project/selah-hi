@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "इसलिए अचानक उसका आपत्ति आएगी; क्षणभर में वह टूट जाएगा और कोई चिकित्सा नहीं होगी।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आएगी"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "उसका आपत्ति"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "क्षणभर में"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "टूट जाएगा"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं होगी"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "चिकित्सा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:44.274692297Z",
+  "model": "glm-5.2"
+}

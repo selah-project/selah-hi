@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और एलअसा ने ⟨את⟩ सिस्मय को जन्य दिया, और सिस्मय ने ⟨את⟩ शल्लूम को जन्य दिया।",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "और एलअसा"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ने जन्य दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सिस्मय को"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "सिस्मय"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "और सिस्मय"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ने जन्य दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शल्लूम को"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:38.314251793Z",
+  "model": "glm-5.2"
+}

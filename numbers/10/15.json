@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और इस्साकार के बेटों के कुल की सेना पर नतनेल, त्सुअर का बेटा ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "इस्साकार"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नतनेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सुअर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:22.107861976Z",
+  "model": "glm-5.2"
+}

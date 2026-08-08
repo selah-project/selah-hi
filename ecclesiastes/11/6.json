@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "बिहान ⟨में⟩ अपना बीज बो ⟨את⟩ अपने बीज का, और साँझ को अपना हाथ मत रोक, क्योंकि तू नहीं जानता कि कौन-सा सफल होगा — यह या वह — और यदि दोनों एक साथ अच्छे होंगे।",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने बीज का"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "अपना बीज"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "और साँझ को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "रोक"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "तू नहीं"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जानता"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "कौन-सा"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "सफल होगा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "זה",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दोनों"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक साथ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "अच्छे होंगे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:57.464077772Z",
+  "model": "glm-5.2"
+}

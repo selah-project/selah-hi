@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और तू अपने हृदय में कहेगा, “मेरे बल और मेरे हाथ के ओज ने मेरे लिए ⟨את⟩ इस सम्पत्ति को बनाया,”",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "और तू कहेगा"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "अपने हृदय में"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "मेरे बल"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "और ओज"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "मेरे हाथ के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस सम्पत्ति को"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "सम्पत्ति"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:45.789774663Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और तुम दृढ़ रहो, और तुम्हारे हाथ ढीले न हों, क्योंकि तुम्हारे कर्म का प्रतिफल है।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "और तुम"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "दृढ़ रहो"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ढीले हों"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "तुम्हारे हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "प्रतिफल"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "तुम्हारे कर्म का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:26.225271468Z",
+  "model": "glm-5.2"
+}

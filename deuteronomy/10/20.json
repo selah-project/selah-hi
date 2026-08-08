@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "यहवे तुम्हारा एलोहीम ⟨अलोहिछम⟩ — उससे डरो, उसकी सेवा करो, उससे चिपके रहो और उसके नाम की शपथ लो।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तुम्हारा एलोहीम"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डरो"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "सेवा करो"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "चिपके रहो"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "उसके नाम की"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "शपथ लो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:50.759204672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "उसने मुझ पर बनाया और घेर लिया — विष और क्लेश से।",
+  "tokens": [
+    {
+      "surface": "בָּנָה",
+      "gloss": "उसने बनाया"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "וַיַּקַּף",
+      "gloss": "और घेर लिया"
+    },
+    {
+      "surface": "רֹאשׁ",
+      "gloss": "विष"
+    },
+    {
+      "surface": "וּתְלָאָה",
+      "gloss": "और क्लेश"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:23.934994787Z",
+  "model": "glm-5.2"
+}

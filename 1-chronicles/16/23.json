@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "हे सारी पृथ्वी, यहवे के लिए गाओ; दिन से दिन तक उसके उद्धार का सुसमाचार सुनाओ।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "सुसमाचार सुनाओ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिन से"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "उसके उद्धार का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:47.608834805Z",
+  "model": "glm-5.2"
+}

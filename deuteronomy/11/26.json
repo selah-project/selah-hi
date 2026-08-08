@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "देखो, मैं ⟨ह⟩ आज तुम्हारे सामने रखता हूँ — आशीष और श्राप।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "रखता हूँ"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "तुम्हारे सामने"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "आशीष"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "और श्राप"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:04.666884217Z",
+  "model": "glm-5.2"
+}

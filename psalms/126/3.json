@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 126,
+  "translation": "बड़े काम किए हैं यहवे ने हमारे साथ, हम आनन्दित हुए।",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "बड़े काम किए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने में"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमारे साथ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "हम थे"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "आनन्दित"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:55.559548692Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "मनुष्य का घमण्ड उसे नीचा करेगा, और नम्र आत्मा वाला आदर पाएगा।",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "घमण्ड"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य का"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "उसे नीचा करेगा"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "और नम्र"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मा वाला"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "पाएगा"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "आदर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:07.308387567Z",
+  "model": "glm-5.2"
+}

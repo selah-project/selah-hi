@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "तुम अपने लिए कोई अशेरा, कोई भी वृक्ष, न रोपो — अपने लिए बनाने वाले यहवे तेरे एलोहीम के मिज़बेके के पास।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "रोपो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "अशेरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "मिज़बेके"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू बनाएगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:49:13.991874077Z",
+  "model": "glm-5.2"
+}

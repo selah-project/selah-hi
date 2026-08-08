@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और दीबोन पर, और नबो पर, और बेथ-दिबलातयिम पर।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "दीबोन"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नबो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "दिबलातयिम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:35.514095828Z",
+  "model": "glm-5.2"
+}

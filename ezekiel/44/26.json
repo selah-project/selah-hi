@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "और उसके शुद्ध होने के पश्चात उसके लिए सात दिन गिने जाएँगे।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "और के पश्चात"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "उसके शुद्ध होने"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "गिने जाएँगे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:35:11.389401958Z",
+  "model": "glm-5.2"
+}

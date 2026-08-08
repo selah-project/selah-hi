@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और हदद की मृत्यु हुई, और उसके स्थान पर मस्रेकाह का सम्ला राजा बना।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मृत्यु हुई"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और राजा बना"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसके स्थान पर"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "सम्ला"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "मस्रेकाह का"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:18.092401344Z",
+  "model": "glm-5.2"
+}

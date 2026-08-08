@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तू उन चीज़ों के दर्शन से पागल हो जाएगा जो तेरी आँखें देखेंगी।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "और तू होगा"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "पागल"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "दर्शन से"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तेरी आँखों के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "तू देखेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:40.789666244Z",
+  "model": "glm-5.2"
+}

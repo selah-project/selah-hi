@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "किन्तु शेओल तक तू उतारा जाएगा, बोर की छोरों में।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "किन्तु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "तू उतारा जाएगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "की छोरों"
+    },
+    {
+      "surface": "בור",
+      "gloss": "बोर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:57:29.894730865Z",
+  "model": "glm-5.2"
+}

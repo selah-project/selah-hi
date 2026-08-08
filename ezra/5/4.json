@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "तब हमने इस प्रकार उनसे कहा: इस भवन का निर्माण कर रहे उन पुरुषों के नाम क्या हैं?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "हमने कहा"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "हैं"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "पुरुषों के"
+    },
+    {
+      "surface": "די",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "भवन का"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "निर्माण कर रहे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:49:53.148726688Z",
+  "model": "glm-5.2"
+}

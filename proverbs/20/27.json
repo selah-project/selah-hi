@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "मनुष्य का श्वास यहवे का दीपक है, उदर के सब भीतरी कक्षों को खोजता है।",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "दीपक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "श्वास"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य का"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "खोजता है"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "भीतरी कक्षों को"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "उदर के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:22.537099301Z",
+  "model": "glm-5.2"
+}

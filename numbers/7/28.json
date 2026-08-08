@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बकरियों का एक बकरा, पाप-भेंट के लिए।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "बकरियों"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "पाप-भेंट के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:44.927284961Z",
+  "model": "glm-5.2"
+}

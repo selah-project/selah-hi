@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और शिमओन के सीमा के साथ, पूरव ओर से लेकर पश्चिम ओर तक, यिसास्खर ⟨होगा⟩ एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … के साथ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमओन"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:53.950806631Z",
+  "model": "glm-5.2"
+}

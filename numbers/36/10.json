@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "जैसा यहवे ने मोशे को ⟨את⟩ आज्ञा दिया, वैसे ही त्सलोफहद की बेटियों ने किया।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे को"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "כן",
+      "gloss": "वैसे ही"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "किया"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियों ने"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "त्सलोफहद की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:01.226632660Z",
+  "model": "glm-5.2"
+}

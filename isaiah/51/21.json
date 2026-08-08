@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "इसलिए सुन, हे ⟨मेरी⟩ दुःखिनी, हे नशेमेंडूबी और नदेख, मदिरा से—",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "हे"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "दुःखिनी"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "और नशेमेंडूबी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "मदिरा से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:06:59.159408886Z",
+  "model": "glm-5.2"
+}

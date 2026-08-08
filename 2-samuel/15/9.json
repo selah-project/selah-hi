@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और उससे राजा ने कहा, शान्ति से जाओ; और ⟨वह⟩ उठा और खेब्रोना को गया।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जाओ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शान्ति से"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "और उठा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "खेब्रोना को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:14:49.500935757Z",
+  "model": "glm-5.2"
+}

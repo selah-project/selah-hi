@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "इम्मेर के बेटे, एक हज़ार बावन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हज़ार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-08T01:16:27.708008305Z",
+  "model": "glm-5.2"
+}

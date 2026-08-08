@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "हाथ से हाथ ⟨तक⟩, बुरा निर्दोष नहीं ठहरेगा, और धर्मियों का वंश बच जाएगा।",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "से हाथ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "निर्दोष ठहरेगा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "और … वंश"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मियों का"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "बच जाएगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:02.353663366Z",
+  "model": "glm-5.2"
+}

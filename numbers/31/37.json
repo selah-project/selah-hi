@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और यहवे का ⟨वह⟩ कर मवेशियों में से ⟨था⟩ छः सौ पचहत्तर भेड़ें।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨वह⟩ ⟨था⟩"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "मवेशियों"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "और सत्तर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:33.608877605Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्योंकि यहवे का हिस्सा ⟨उसका⟩ जन ⟨है⟩; याकोब ⟨उसकी⟩ विरासत का नियत हिस्सा ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसका जन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "नियत हिस्सा"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "उसकी विरासत"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:19.996311927Z",
+  "model": "glm-5.2"
+}

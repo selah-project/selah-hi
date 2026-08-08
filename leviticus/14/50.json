@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और वह ⟨את⟩ ⟨हे⟩ पक्षी को, ⟨हे⟩ एक को, एक मिट्टी के बर्तन में, बहते जल पर बलि करे।",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "और बलि करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पक्षी को"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "मिट्टी के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "बहते"
+    }
+  ],
+  "timestamp": "2026-08-08T02:12:29.079807242Z",
+  "model": "glm-5.2"
+}

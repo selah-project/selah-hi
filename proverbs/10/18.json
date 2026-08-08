@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "बढ़ता है जो घृणा ⟨को⟩ झूठे ओठों से, और जो चुगली फैलाता है, वह मूर्ख है।",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "ढकता है"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "घृणा"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठों"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "और जो निकालता\/फैलाता है"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "चुगली"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:48.917061637Z",
+  "model": "glm-5.2"
+}

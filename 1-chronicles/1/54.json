@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "सरदार मगदीएल, सरदार इराम। ये हैं एदोम के सरदार।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "मगदीएल"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "इराम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:49.351109929Z",
+  "model": "glm-5.2"
+}

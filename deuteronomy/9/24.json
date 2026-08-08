@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "बागी तुम रहे यहवे के साथ, उस दिन से जिस दिन से मैंने तुम्हें जाना।",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "बागी"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "तुम रहे"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "उस दिन से"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "मैंने जाना"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "तुम्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:45:50.573716601Z",
+  "model": "glm-5.2"
+}

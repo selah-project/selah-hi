@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "यदि तू अपने पड़ोसी का वस्त्र गिरवी रखे, तो सूर्यास्त तक तू उसे उसे लौटा दे।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "गिरवी रखे"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "तू गिरवी रखे"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तेरे पड़ोसी का"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בא",
+      "gloss": "डूबने"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "तू उसे लौटा दे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:50.802940877Z",
+  "model": "glm-5.2"
+}

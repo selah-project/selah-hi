@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 70,
+  "translation": "लौटें अपनी लाज के कारण पीछे, वे जो कहते हैं, “हाह! हाह!””",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "लौटें"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨के⟩ कारण"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "अपनी लाज"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "वे जो कहते हैं"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हाह!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हाह!"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:28.494808867Z",
+  "model": "glm-5.2"
+}

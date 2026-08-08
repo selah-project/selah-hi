@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "झूठे वचनों पर ⟨कि⟩ तुम भरोसा न करो, कहकर: “यहवे का हेकल, यहवे का हेकल, यहवे का हेकल — ये हैं।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न करो"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "तुम भरोसा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨कि⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनों"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "हेकल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "हेकल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "हेकल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ये हैं"
+    }
+  ],
+  "timestamp": "2026-08-08T02:40:15.431752702Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 10:12",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यरबाम और सारी जनता तीसरे दिन रहबाम के पास आए, जैसा कि राजा ने कहा था, “तीसरे दिन मेरे पास लौट आओ।”",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यरबाम"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारी"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबाम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा कि"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहा था"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "लौट आओ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:58.853314654Z",
+  "model": "glm-5.2"
+}

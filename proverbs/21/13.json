@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "जो ⟨अपनी⟩ कान बन्द करता है निर्धन के चीखने से, वह भी चीखेगा और उत्तर न पाएगा।",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "बन्द करता है"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "कान"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "चीखने से"
+    },
+    {
+      "surface": "דל",
+      "gloss": "निर्धन के"
+    },
+    {
+      "surface": "גם",
+      "gloss": "वह भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨वह⟩"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "चीखेगा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "उत्तर पाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:20.507856125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "अब उठो और तुम ⟨के लिए⟩ ⟨את⟩ नहल ज़ेरेद पार करो, और हमने ⟨את⟩ नहल ज़ेरेद पार किया।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "उठो"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "और पार करो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨के लिए⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नहल"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नहल"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ज़ेरेद"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "और हमने पार किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नहल"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नहल"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ज़ेरेद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:24.161119920Z",
+  "model": "glm-5.2"
+}

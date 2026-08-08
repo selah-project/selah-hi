@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तीसरी पंक्ति: लेशेम, शेबो और अखलामा।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "और पंक्ति"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तीसरी"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "लेशेम"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "शेबो"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "और अखलामा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:53.712283816Z",
+  "model": "glm-5.2"
+}

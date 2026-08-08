@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "धन्य ⟨हो⟩ तेरी टोकरी और तेरी गूंथ-तश्त।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तेरी टोकरी"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "और तेरी गूंथ-तश्त"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:35.369491150Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे का सन्दूक पलिश्तियों के क्षेत्र में सात मास रहा।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "के क्षेत्र में"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तियों"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "मास"
+    }
+  ],
+  "timestamp": "2026-08-07T21:15:13.043714911Z",
+  "model": "glm-5.2"
+}

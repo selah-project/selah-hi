@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और वे इय्यीम से निकसे, और दिबोन-गाद में डेरे डाले।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "और वे निकसे"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "इय्यीम से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और डेरे डाले"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "दिबोन में"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:49.832634661Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "कभी बाहर, कभी चौकों में, और हर कोने के पास वह घात लगाती ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "कभी"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "कभी"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "चौकों में"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "और पास"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "कोने"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "घात लगाती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:48.483077210Z",
+  "model": "glm-5.2"
+}

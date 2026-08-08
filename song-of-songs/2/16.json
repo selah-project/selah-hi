@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मेरा प्रिय मेरा ⟨है⟩ और मैं उसकी ⟨हूँ⟩ — ⟨वह⟩ चराता ⟨है⟩ ⟨को⟩ ⟨अपने थे⟩ कुमुदिनियों में।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "मेरा प्रिय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरा"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसकी"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "चराता"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "कुमुदिनियों में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:56.915856482Z",
+  "model": "glm-5.2"
+}

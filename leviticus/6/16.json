@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और हर कोहेन का मन्चा पूरी तरह ⟨हो⟩ — न खाया जाए।",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "מִנְחַת",
+      "gloss": "मन्चा"
+    },
+    {
+      "surface": "כֹּהֵן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "כָּלִיל",
+      "gloss": "पूरी तरह"
+    },
+    {
+      "surface": "תִּהְיֶה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תֵאָכֵל",
+      "gloss": "खाया जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:17.522583342Z",
+  "model": "glm-5.2"
+}

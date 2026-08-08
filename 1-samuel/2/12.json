@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और एली के पुत्र बेलिय्याल-पुत्र थे, उन्होंने यहवे को नहीं जाना ⟨את⟩।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एली के"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बेलिय्याल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "उन्होंने जाना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे को"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:12:59.266595246Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मैं ⟨हूँ⟩ वह पुरुष जिसने देखा ⟨है⟩ दुःख, उसके क्रोध की छड़ ⟨में⟩।",
+  "tokens": [
+    {
+      "surface": "אֲנִ֤י",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "הַגֶּ֨בֶר֙",
+      "gloss": "वह पुरुष"
+    },
+    {
+      "surface": "רָאָ֣ה",
+      "gloss": "जिसने देखा"
+    },
+    {
+      "surface": "עֳנִ֔י",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "בְּשֵׁ֖בֶט",
+      "gloss": "छड़ ⟨में⟩"
+    },
+    {
+      "surface": "עֶבְרָתֽוֹ",
+      "gloss": "उसके क्रोध की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:19.328314167Z",
+  "model": "glm-5.2"
+}

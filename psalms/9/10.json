@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहवे दबे हुओं का दुर्ग बनेगा, संकट के समयों में दुर्ग।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और बनेगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "दबे हुओं का"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "समयों में"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "संकट के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:33.644537546Z",
+  "model": "glm-5.2"
+}

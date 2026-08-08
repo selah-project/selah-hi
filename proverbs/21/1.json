@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "जल-धाराएँ ⟨हैं⟩ राजा का हृदय यहवे के हाथ में; जिधर भी वह इच्छा करे उसे वह झुकाता है।",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "जल-धाराएँ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "जिधर भी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "इच्छा करे"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "झुकाता है"
+    }
+  ],
+  "timestamp": "2026-08-08T00:52:00.253414352Z",
+  "model": "glm-5.2"
+}

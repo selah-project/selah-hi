@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हर एक चीज़ के लिए एक समय है, और आकाश के नीचे हर एक इच्छा के लिए एक ओत है।",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "हर एक चीज़ के लिए"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "एक समय"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और एक ओत"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हर एक इच्छा के लिए"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:40.035338824Z",
+  "model": "glm-5.2"
+}

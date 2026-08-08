@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और अविशूआ, और नामान, और अहोहा।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "और अविशूआ"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "और नामान"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "और अहोहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:45.285226041Z",
+  "model": "glm-5.2"
+}

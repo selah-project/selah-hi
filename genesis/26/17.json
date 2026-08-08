@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "तब यित्सखाक वहाँ से गया, और उसने गरार के नाले में डेरा डाला, और वहीं बस गया।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "तब … गया"
+    },
+    {
+      "surface": "משם",
+      "gloss": "वहाँ से"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सखाक"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "और उसने … डाला"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "नाले में"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "गरार"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और … बस गया"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहीं"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:56.401244965Z",
+  "model": "glm-5.2"
+}

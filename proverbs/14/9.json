@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "मूर्ख अपराध का उपहास करते हैं, परन्तु यीहरों के बीच प्रसन्नता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "उपहास करते हैं"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "परन्तु के बीच"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "यीहरों"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "प्रसन्नता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:08.886443364Z",
+  "model": "glm-5.2"
+}

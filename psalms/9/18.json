@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "दुष्ट शेओल की ओर लौट जाएँगे, एलोहीम के विस्मृत सभी गोयीम।",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "लौट जाएँगे"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "शेओल की ओर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयीम"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "विस्मृत"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:23.297874241Z",
+  "model": "glm-5.2"
+}

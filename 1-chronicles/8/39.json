@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उसके भाई एशेक के पुत्र — ऊलाम उसका जेठा, येऊश दूसरा और एलिफलेत तीसरा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "एशेक"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसके भाई"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ऊलाम"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "उसका जेठा"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "येऊश"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "और एलिफलेत"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तीसरा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:54.048679124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "देख, अब, कि यहवे ने तुझे चुना है अभयारण्य के लिए एक भवन बनाने को; साहस ग्रहण कर और कर।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुना है"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाने को"
+    },
+    {
+      "surface": "בית",
+      "gloss": "एक भवन"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "अभयारण्य के लिए"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "साहस ग्रहण कर"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "और कर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:03:19.220747008Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और तू फरौन से कह: यह कहता है यहवे: मेरा पहिलौठा बेटा ⟨है⟩ इस्राएल।",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "और तू कह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौन"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यहो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मेरा बेटा"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "मेरा पहिलौठा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:32.522400538Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "धर्मी की स्मृति आशीष हेतु ⟨है⟩, और दुष्टों का नाम सड़ेगा।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "स्मृति"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी की"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "आशीष हेतु"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों का"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "सड़ेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:25.819366935Z",
+  "model": "glm-5.2"
+}

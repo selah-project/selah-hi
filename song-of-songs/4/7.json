@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तू सर्वत्र सुन्दर ⟨है⟩, मेरी प्रिया, और तुझमें कोई दोष नहीं ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כֻּלָּ֤ךְ",
+      "gloss": "तू सर्वत्र"
+    },
+    {
+      "surface": "יָפָה֙",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "רַעְיָתִ֔י",
+      "gloss": "मेरी प्रिया"
+    },
+    {
+      "surface": "וּמ֖וּם",
+      "gloss": "और कोई दोष"
+    },
+    {
+      "surface": "אֵ֥ין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "בָּֽךְ",
+      "gloss": "तुझमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:16.472140237Z",
+  "model": "glm-5.2"
+}

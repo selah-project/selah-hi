@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और यहवे ने मोशे से बात की, कहके —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहके —"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:06.877720964Z",
+  "model": "glm-5.2"
+}

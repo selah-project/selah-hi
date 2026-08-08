@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "सब शुद्ध पक्षी तुम खा सकते हो।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तुम खाओ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:43.123497704Z",
+  "model": "glm-5.2"
+}

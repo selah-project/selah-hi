@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और याजक तेल के लोग से ले, और याजक के बाएँ हथेली पर उंडेले।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "और याजक ले"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "[याजक]"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "लोग से"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल के"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "और उंडेले"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हथेली"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक के"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "बाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:57.272462040Z",
+  "model": "glm-5.2"
+}

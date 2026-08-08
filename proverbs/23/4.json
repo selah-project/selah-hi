@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "धनवान बनने के लिए थक कर परिश्रम न कर; अपनी समझ से दूर हो।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "थक कर परिश्रम कर"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "धनवान बनने के लिए"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "अपनी समझ से"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "दूर हो"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:25.618180374Z",
+  "model": "glm-5.2"
+}

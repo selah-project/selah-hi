@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बेत-अज़्मावेत के पुरुष: बयालीस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "अज़्मावेत"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:12.250674236Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और यदि वह एक दरिद्र व्यक्ति है, तो उसके गिरवी को ज़ब्त न रखना।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "איש",
+      "gloss": "व्यक्ति"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दरिद्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "है"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ज़ब्त रखना"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "उसके गिरवी को"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.823297310Z",
+  "model": "glm-5.2"
+}

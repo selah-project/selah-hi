@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 108,
+  "translation": "जागो, हे नेवल और किन्नोर; उषा को जगाऊँगा।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जागो"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "हे नेवल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "और किन्नोर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "जगाऊँगा"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "उषा को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:55.540447120Z",
+  "model": "glm-5.2"
+}

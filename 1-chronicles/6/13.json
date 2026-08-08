@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और शमूएल के पुत्र: हव्यस्थ वष्णी, और अब्याह।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और-पुत्र"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "हव्यस्थ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "वष्णी"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "और-अब्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.685717414Z",
+  "model": "glm-5.2"
+}

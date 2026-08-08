@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ओहोलीबामा ने जना ⟨את⟩ येइश और ⟨את⟩ यालाम और ⟨את⟩ कोरह को। ये एसाव के बेटे हैं जो उसके लिए कनान देश में जने थे।",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "और ओहोलीबामा"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येइश"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "येइश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "यालाम"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "यालाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "कोरह"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "जने थे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:22.965216379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "कसूलत की स्त्री हल्ला मचाती है — पतीयुत, और ⟨वह⟩ नहीं जानती कि क्या।",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "कसूलत"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "हल्ला मचाती है"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "पतीयुत"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "और"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "जानती"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:04.053960430Z",
+  "model": "glm-5.2"
+}

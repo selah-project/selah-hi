@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "तेरे पैर के मार्ग को समतल कर, और तेरे सभी मार्ग स्थिर हों।",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "समतल कर"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "तेरे पैर का"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और तेरे सभी"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "स्थिर हों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:33.789887450Z",
+  "model": "glm-5.2"
+}

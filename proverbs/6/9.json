@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "कब तक, आलसी, तू ⟨करेगा⟩ लेटना? कब तू अपनी नींद से उठेगा?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कब तक"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "हे आलसी"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "तू लेटेगा"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कब"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "तू उठेगा"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "अपनी नींद से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:50.118149878Z",
+  "model": "glm-5.2"
+}

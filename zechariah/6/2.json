@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "पहले रथ में लाल घोड़े ⟨थे⟩, और दूसरे रथ में काले घोड़े ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "रथ में"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़े"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "लाल"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "और रथ में"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोड़े"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "काले"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:43.179053791Z",
+  "model": "glm-5.2"
+}

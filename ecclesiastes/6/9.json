@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "आँखों के देखने से अच्छा ⟨है⟩ नफ़श का भटकना; यह भी हेबेल और रूआच का रोना ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "देखना"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखों का"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "भटकना"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफ़श का"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "और रोना"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआच का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:18.081527370Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "जीवित मनुष्य क्यों शिकायत करे, पुरुष अपने पाप के दण्ड के लिए?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "शिकायत करे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "על",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "अपने पाप के दण्ड"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:21.529338758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "सन-वस्त्र उसने बनाया और बेचा, और कटिबन्द उसने व्यापारी को दिए।",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "सन-वस्त्र"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "और बेचा"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "और कटिबन्द"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "उसने दिए"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "व्यापारी को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.057282402Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "चादीद, त्सेबोइम, नेबल्लात।",
+  "tokens": [
+    {
+      "surface": "חָדִ֥יד",
+      "gloss": "चादीद"
+    },
+    {
+      "surface": "צְבֹעִ֖ים",
+      "gloss": "त्सेबोइम"
+    },
+    {
+      "surface": "נְבַלָּֽט",
+      "gloss": "नेबल्लात"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:25.042147490Z",
+  "model": "glm-5.2"
+}

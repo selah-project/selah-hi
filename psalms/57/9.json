@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 57,
+  "translation": "जाग, मेरी महिमा; जाग, हे नेबल और किन्नर! मैं ऊषा ⟨को⟩ जगाऊँगा।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "मेरी महिमा"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "हे नेबल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "और किन्नर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "जगाऊँगा"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ऊषा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:06.154003316Z",
+  "model": "glm-5.2"
+}

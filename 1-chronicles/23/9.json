@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 23:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "शिमी के बेटे: शलोमोत, और चजीएल, और हारान — तीन। ये लादान के ⟨के⟩ पितृ-वंशों के मुखिया थे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "शलोमोत"
+    },
+    {
+      "surface": "וחזיאל",
+      "gloss": "और चजीएल"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "और हारान"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मुखिया"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "पितृ-वंशों"
+    },
+    {
+      "surface": "ללעדן",
+      "gloss": "लादान के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:33.640989414Z",
+  "model": "glm-5.2"
+}

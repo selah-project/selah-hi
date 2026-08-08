@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 52,
+  "translation": "तुमने प्रेम किया बुराई को — अच्छाई से, झूठ को — धर्म बोलने से। सेला।",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "तुमने प्रेम किया"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई को"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "अच्छाई से"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठ को"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलने से"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्म"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:07.167848852Z",
+  "model": "glm-5.2"
+}

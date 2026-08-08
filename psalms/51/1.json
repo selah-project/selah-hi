@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "महंत के लिए; दाविद का गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महंत के लिए"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:56.438100285Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और ⟨את⟩ हव्वी और ⟨את⟩ अर्की और ⟨את⟩ सीनी",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हव्वी"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "हव्वी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अर्की"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "अर्की"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "सीनी"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "सीनी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:59.491794002Z",
+  "model": "glm-5.2"
+}

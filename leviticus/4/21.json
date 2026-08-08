@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और वह ⟨את⟩ बैल को छावनी से बाहर निकाले, और उसे जलाए, जैसे उसने ⟨את⟩ पहले बैल को जलाया; वह समाज का पापबलि है।",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "और वह निकाले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बैल"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी से"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "और जलाए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसे"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जलाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पहले बैल"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापबलि"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "समाज का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:57.493327409Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "ओहोलिबामा का प्रमुख, एला का प्रमुख, पिनोन का प्रमुख।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ओहोलिबामा"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "पिनोन"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:42.042360225Z",
+  "model": "glm-5.2"
+}

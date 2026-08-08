@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "इसलिए यह बात अदोनाय यहवे कहते हैं: हाय रक्तों की नगरी को! बस, मैं भी बड़ी करूँगा ⟨को⟩ चिता को।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहते हैं"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "रक्तों की"
+    },
+    {
+      "surface": "גם",
+      "gloss": "बस"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "बड़ी करूँगा"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "चिता"
+    }
+  ],
+  "timestamp": "2026-08-07T22:32:28.000370455Z",
+  "model": "glm-5.2"
+}

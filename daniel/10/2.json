@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "उन दिनों में मैं, दानिय्येल, तीन पूरे सप्ताह दिनों तक शोक कर रहा था।",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिनों में"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "उन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानिय्येल"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "था"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "शोक कर रहा"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सप्ताह"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:45:54.181829338Z",
+  "model": "glm-5.2"
+}

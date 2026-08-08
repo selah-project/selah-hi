@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 58,
+  "translation": "उनका विष सर्प के विष के समान ⟨है⟩; कटुता जैसे बहरा अजगर ⟨जो⟩ अपना कान बन्द करता है —",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "उनका विष"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उनका"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "के समान"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "सर्प के"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जैसे"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "बहरा अजगर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बहरा"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "बन्द करता है"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "अपना कान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:53.034684146Z",
+  "model": "glm-5.2"
+}

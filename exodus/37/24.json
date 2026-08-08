@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "एक छलांग शुद्ध सोने की — उसने ⟨את⟩ उसे और ⟨את⟩ उसके सब बर्तन इससे बनाए।",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "एक छलांग"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "उसने बनाए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ उसे",
+      "marks": "मेनोरह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके सब बर्तन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "उसके बर्तन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:13:55.487259921Z",
+  "model": "glm-5.2"
+}

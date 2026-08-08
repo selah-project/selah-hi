@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और ⟨את⟩ सम्पूर्ण मण्डली को तम्बू के मीलन के प्रवेश-द्वार के पास इकट्ठा करो।”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "सम्पूर्ण मण्डली को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "इकट्ठा करो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "प्रवेश-द्वार"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मीलन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:58.122533341Z",
+  "model": "glm-5.2"
+}

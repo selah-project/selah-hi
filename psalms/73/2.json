@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 73,
+  "translation": "उसके बाद मैं लगभग गिर पड़ा था, मेरे कदम लगभग फिसल गए थे।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "उसके बाद मैं"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "गिर पड़ा था"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "मेरे कदम"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "फिसल गए थे"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "मेरे कदम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:03.522792021Z",
+  "model": "glm-5.2"
+}

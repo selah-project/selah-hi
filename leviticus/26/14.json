@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और यदि तुम मेरी न सुनो और इन सब ⟨את⟩ आज्ञाओं को न करो —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इन सब आज्ञाओं को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "आज्ञाओं को"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:30.462851266Z",
+  "model": "glm-5.2"
+}

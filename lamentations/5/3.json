@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "हम अनाथ ⟨हो गए हैं⟩, ⟨हमारा⟩ कोई पिता नहीं ⟨है⟩; हमारी माताएँ विधवाओं के समान ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "हो गए हैं"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "हमारी माताएँ"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "विधवाओं के समान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:37:55.346301211Z",
+  "model": "glm-5.2"
+}

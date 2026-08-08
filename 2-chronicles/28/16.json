@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "उस समय अहाज़ राजा ने अश्शूर के राजाओं के पास अपनी सहायता के लिए ⟨दूत⟩ भेजा।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज़"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजाओं"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर के"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "सहायता के लिए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपनी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:11:01.601413641Z",
+  "model": "glm-5.2"
+}

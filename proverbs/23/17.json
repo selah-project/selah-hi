@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तेरा हृदय पापियों से ईर्ष्या न करे, क्योंकि यद्यपि यहवे के भय में ⟨हो⟩ सारा दिन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "करे-ईर्ष्या"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तेरा हृदय"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "पापियों से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यद्यपि"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "के भय में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:52:03.831535041Z",
+  "model": "glm-5.2"
+}

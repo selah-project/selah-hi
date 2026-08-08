@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और यूसुफ के बेटों — मनश्शे और एप्रायम — ने ⟨अपनी⟩ नस्ल पाई।",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "और नस्ल पाई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "और एप्रायम"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:29.498010753Z",
+  "model": "glm-5.2"
+}

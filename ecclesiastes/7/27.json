@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "देख, यह मैंने पाया, कहती है कोहेलेत — एक के बाद एक, हिसाब निकालते हुए:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "मैंने पाया"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहती है"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "से एक"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "निकालते हुए"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "हिसाब"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:08.262024153Z",
+  "model": "glm-5.2"
+}

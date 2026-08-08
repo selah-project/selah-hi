@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और अय्यूब ने अपना मशल उठाने को जोड़ा और कहा।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "और जोड़ा"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठाने को"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "अपना मशल"
+    },
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:29:44.440137990Z",
+  "model": "glm-5.2"
+}

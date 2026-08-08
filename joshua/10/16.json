@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और ये पाँच राजा भाग गए, और मक्केदा की गुफा में छिप गए।",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "और … भाग गए"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "और … छिप गए"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "गुफा में"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "मक्केदा की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:59:15.540723643Z",
+  "model": "glm-5.2"
+}

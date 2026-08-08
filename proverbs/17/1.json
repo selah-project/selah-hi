@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "सूखा निवाला और उसके साथ शान्ति अच्छी है, विवाद के बलियों से भरे घर से।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छी है"
+    },
+    {
+      "surface": "פת",
+      "gloss": "निवाला"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "सूखा"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "और शान्ति"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरे"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलियों"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "विवाद के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:09.803232484Z",
+  "model": "glm-5.2"
+}

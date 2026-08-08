@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और लेवी के घर का एक पुरुष गया, और उसने लेवी की ⟨את⟩ बेटी को ली।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक पुरुष"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "के घर का"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "और उसने ली"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेटी को"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:54.573040931Z",
+  "model": "glm-5.2"
+}

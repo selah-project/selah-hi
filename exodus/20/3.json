@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "मेरे दर्शन में तेरे लिए अन्य एलोहीम न रहें।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहें"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अन्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "में"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मेरे दर्शन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:45.491473255Z",
+  "model": "glm-5.2"
+}

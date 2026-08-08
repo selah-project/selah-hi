@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 10:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "इसलिए लेवी का भाग और विरासत उसके भाइयों के साथ नहीं थी; यहवे ही उसकी विरासत है, जैसा यहवे तेरे एलोहीम ने उससे कहा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थी"
+    },
+    {
+      "surface": "ללוי",
+      "gloss": "लेवी के लिए"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "और विरासत"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसके भाइयों"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "उसकी विरासत"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:27.955702051Z",
+  "model": "glm-5.2"
+}

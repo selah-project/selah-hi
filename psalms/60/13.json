@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 60,
+  "translation": "हमें दो संकट से विमुक्ति, और व्यर्थ है मनुष्य की उद्धार-शक्ति।",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "दो"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "विमुक्ति"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "संकट से"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "और व्यर्थ है"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "उद्धार-शक्ति"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:45:05.313666003Z",
+  "model": "glm-5.2"
+}

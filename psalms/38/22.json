@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "यहवे, मुझे न त्याग; मेरे एलोहीम, मुझसे दूर न हो।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "मुझे त्याग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "मेरे एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "दूर हो"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:48.999353570Z",
+  "model": "glm-5.2"
+}

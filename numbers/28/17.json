@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और इस महीने के पन्द्रहवें दिन ⟨है⟩ चग — सात दिन मट्ज़ोत खाई जाएँगी।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "और पन्द्रहवें"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "חג",
+      "gloss": "चग"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मट्ज़ोत"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाई जाएँगी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:00.717340534Z",
+  "model": "glm-5.2"
+}

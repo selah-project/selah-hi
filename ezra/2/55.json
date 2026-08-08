@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "ezra 2:55",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "शलोमोह के दासों के बेटे — सोतय के बेटे, हस्सोफेरेत के बेटे, परूदा के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासों"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "סטי",
+      "gloss": "सोतय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "הספרת",
+      "gloss": "हस्सोफेरेत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פרודא",
+      "gloss": "परूदा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.736498026Z",
+  "model": "glm-5.2"
+}

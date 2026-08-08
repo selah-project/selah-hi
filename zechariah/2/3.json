@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "यहवे ने मुझे चार चर्मकार दिखाए।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ने मुझे दिखाए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "चर्मकार"
+    }
+  ],
+  "timestamp": "2026-08-07T22:50:48.312007289Z",
+  "model": "glm-5.2"
+}

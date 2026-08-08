@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और दाऊद ने यहोनातन से कहा, “मुझे कौन बताएगा, या तेरा पिता तुझे कड़ा उत्तर दे, तो क्या?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताएगा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "तुझे उत्तर दे"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरा पिता"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कड़ा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:20:01.258329120Z",
+  "model": "glm-5.2"
+}

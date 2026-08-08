@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब सारी ⟨सभा ने⟩ अपना उठाया और वे ⟨את⟩ अपनी आवाज़ दी, और लोग उस रात रोए।",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "तब उठाया"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "और दी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपनी आवाज़"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "उनकी आवाज़"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "और रोए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:07.887005669Z",
+  "model": "glm-5.2"
+}

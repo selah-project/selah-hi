@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "अनेक कहते हैं, “कौन हमें भलाई दिखाएगा?” यहवे, हम पर अपने चेहरे का उजियाला उठाओ।",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "अनेक"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "कहते हैं"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "हमें दिखाएगा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "उठाओ"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उजियाला"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "अपने चेहरे का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:41:15.412273363Z",
+  "model": "glm-5.2"
+}

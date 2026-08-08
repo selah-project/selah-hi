@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यिस्साकार के लिए: नतनएल त्सूअर का पुत्र।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "यिस्साकार के लिए"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नतनएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सूअर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:47.385412129Z",
+  "model": "glm-5.2"
+}

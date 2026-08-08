@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और नोगा और नेफेग और याफिया।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "और नोगा"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "और नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "और याफिया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:34.313071915Z",
+  "model": "glm-5.2"
+}

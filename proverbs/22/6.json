@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "बालक को उसके मार्ग के अनुसार दीक्षित कर; और यह भी कि जब वह बूढ़ा हो तो वह उससे न हटेगा।",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "दीक्षित कर"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "बालक को"
+    },
+    {
+      "surface": "על",
+      "gloss": "के अनुसार"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "उसके मार्ग"
+    },
+    {
+      "surface": "גם",
+      "gloss": "और यह भी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "बूढ़ा हो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "हटेगा"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:41.500590070Z",
+  "model": "glm-5.2"
+}

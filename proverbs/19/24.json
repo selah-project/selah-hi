@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "आलसी अपना हाथ छिपाता है थाली में; यहाँ तक कि अपने मुँह तक भी ⟨वह⟩ उसे लौटाता नहीं।",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "छिपाता है"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "आलसी"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "अपना हाथ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "थाली में"
+    },
+    {
+      "surface": "גם",
+      "gloss": "यहाँ तक कि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "अपने मुँह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "लौटाता"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:49.324016135Z",
+  "model": "glm-5.2"
+}

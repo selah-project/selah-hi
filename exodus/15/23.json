@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और वे मारा में आए, और मारा के जल नहीं पी सके, क्योंकि वे कड़वे थे; इसलिए उसका नाम मारा रखा गया।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "और वे आए"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "मारा में"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "सके"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "पी"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "मारा के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "कड़वे"
+    },
+    {
+      "surface": "הם",
+      "gloss": "वे"
+    },
+    {
+      "surface": "על",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "न"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "रखा गया"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "मारा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:04:39.467906942Z",
+  "model": "glm-5.2"
+}

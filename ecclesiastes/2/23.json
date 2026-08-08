@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "क्योंकि उसके सब दिन दुख हैं और उसका कार्य क्षोभ है; रात को भी उसका हृदय नहीं लेटा। यह भी हेबेल है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसके दिन"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "और क्षोभ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "उसका कार्य"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "लेटा"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "उसका हृदय"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:15.228706049Z",
+  "model": "glm-5.2"
+}

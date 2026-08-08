@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "⟨את⟩ मेज़, ⟨את⟩ उसके सब बर्तन, और ⟨את⟩ सामने की रोटी।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेज़"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज़"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "उसके बर्तन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "रोटी"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "सामने की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:12.059636611Z",
+  "model": "glm-5.2"
+}

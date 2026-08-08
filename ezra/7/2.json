@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "शल्लूम पुत्र, त्सादोक पुत्र, अहीतूब पुत्र —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अहीतूब"
+    }
+  ],
+  "timestamp": "2026-08-07T23:49:01.628443189Z",
+  "model": "glm-5.2"
+}

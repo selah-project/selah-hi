@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और अवराहाम ने झण्डे की सात मेमनियों को ⟨את⟩ अलग से खड़ा किया।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "और खड़ा किया"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सात मेमनियों को"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "मेमनियों"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "झण्डे की"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "अलग से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:20.748761581Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "हमारे हृदय का आनन्द बन्द हो गया, हमारा नृत्य शोक में बदल गया।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "बन्द हो गया"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "आनन्द"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हमारे हृदय का"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "बदल गया"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "शोक में"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "हमारा नृत्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:26.054280792Z",
+  "model": "glm-5.2"
+}

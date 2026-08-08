@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "गिब्बार के बेटे, नब्बे और पाँच।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गिब्बार"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "और पाँच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:51.389940832Z",
+  "model": "glm-5.2"
+}

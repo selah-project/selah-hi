@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "और दाखरस न पिएँ कोई भी कोहेन, उनके भीतर आने पर ⟨के⟩ आन्तरिक प्रांगण ⟨में⟩।",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "और दाखरस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "पिएँ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर कोई"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "उनके आने पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "प्रांगण"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "आन्तरिक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:38:12.410369553Z",
+  "model": "glm-5.2"
+}

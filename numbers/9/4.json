@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और मोशे ने पासोव करने के लिए इस्राएल के पुत्रों से बात की।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल के"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "करने के लिए"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पासोव"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:59.636979707Z",
+  "model": "glm-5.2"
+}

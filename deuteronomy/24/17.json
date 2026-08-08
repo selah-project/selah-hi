@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तू गेर-अन्यजन के न्याय को न झुकाएँ, ⟨और न⟩ यतीम को, और तू अल्मनाह के वस्त्र को गिरवी न रखे;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "झुकाएँ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גר",
+      "gloss": "गेर-अन्यजन"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "यतीम"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "गिरवी रखे"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "अल्मनाह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:03.409347882Z",
+  "model": "glm-5.2"
+}

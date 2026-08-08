@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और सब द्वार और चौखट चौकोर थे — झरोखे वाले, और झरोखा झरोखे के सामने, तीन बार।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "और चौखट"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "चौकोर"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "झरोखे वाले"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "और सामने"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "झरोखा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "झरोखे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बार"
+    }
+  ],
+  "timestamp": "2026-08-07T21:37:18.698511195Z",
+  "model": "glm-5.2"
+}

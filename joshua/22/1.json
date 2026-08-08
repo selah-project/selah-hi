@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "तब यहोशू ने रउबेनियों और गादियों और मनश्शे के आधे कुल को बुलाया।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "बुलाया"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "रउबेनियों को"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "और गादियों को"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "और आधे को"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:03:28.498877804Z",
+  "model": "glm-5.2"
+}

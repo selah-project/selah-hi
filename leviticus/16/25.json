@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और ⟨את⟩ पापार्थी का चरबी वह मेमने-बेदी पर धूप बनाएगा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "चरबी"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "चरबी"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पापार्थी का"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "वह धूप बनाएगा"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "मेमने-बेदी पर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:58.804373912Z",
+  "model": "glm-5.2"
+}

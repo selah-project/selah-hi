@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "बेटे एत्सेर के ⟨ने⟩: बिलहान और ज़ावान, याकान। बेटे दीशोन के ⟨ने⟩: उत्स और अरान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "और ज़ावान"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "याकान"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दीशोन"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "और अरान"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:38.921634335Z",
+  "model": "glm-5.2"
+}

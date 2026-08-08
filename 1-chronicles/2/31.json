@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और अप्पयिम के पुत्र ⟨थे⟩ यिशई; और यिशई के पुत्र ⟨थे⟩ शेशान; और शेशान के पुत्र ⟨थे⟩ अखलाय।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "अप्पयिम"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशई"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशई"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "शेशान"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "शेशान"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "अखलाय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:42.251299220Z",
+  "model": "glm-5.2"
+}

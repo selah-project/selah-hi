@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "“यहवे मुझसे इस प्रकार कहता है: तू अपने लिए बेड़ियाँ और जुओँ को बना, और उन्हें अपने गले पर रख।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बना"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू अपने लिए"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "बेड़ियाँ"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "और जुओँ को"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "और रख"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "अपने गले"
+    }
+  ],
+  "timestamp": "2026-08-07T22:18:09.145360066Z",
+  "model": "glm-5.2"
+}

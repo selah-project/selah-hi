@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 140,
+  "translation": "मैं जानता हूँ कि यहवे दीन करेगा ढुलाई का, मिश्पाट अब्योनिम का।",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "मैं जानता हूँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דין",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ढुलाई का"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "मिश्पाट"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "अब्योनिम का"
+    }
+  ],
+  "timestamp": "2026-08-08T03:06:52.855065413Z",
+  "model": "glm-5.2"
+}

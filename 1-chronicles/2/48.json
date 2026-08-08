@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "कलेब की उपपत्नी माअखा ने शेबेर और ⟨את⟩ तिरहना को जना।",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "उपपत्नी"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कलेब"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअखा"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जना"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "शेबेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "तिरहना"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "तिरहना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:41.035789501Z",
+  "model": "glm-5.2"
+}

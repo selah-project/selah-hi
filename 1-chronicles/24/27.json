@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "मरारी के बेटे — याअज़ियाहू के लिए, उसका बेटा ⟨बेनो⟩, शोहम, ज़क्कूर और इव्री।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "याअज़ियाहू के लिए"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका बेटा"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "शोहम"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "ज़क्कूर"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "इव्री"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:59.628200777Z",
+  "model": "glm-5.2"
+}

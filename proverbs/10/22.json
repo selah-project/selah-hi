@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "यहवे का आशीर्वाद ही धनवान बनाता है, और ⟨वह⟩ उसके साथ कोई दुख नहीं जोड़ता।",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "आशीर्वाद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ही"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "धनवान बनाता है"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "जोड़ता"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:54.431263568Z",
+  "model": "glm-5.2"
+}

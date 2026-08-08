@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 102,
+  "translation": "और तू वही ⟨है⟩, और तेरे वर्ष समाप्त नहीं होंगे।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "और तेरे वर्ष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "समाप्त होंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:12.127145740Z",
+  "model": "glm-5.2"
+}

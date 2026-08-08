@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "क्योंकि वे नहीं सोते यदि वे बुराई न करें; और उनकी नींद छिन जाती ⟨है⟩ यदि वे किसी को ठोकर न दिलाएँ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "वे सोते"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "करें"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "और छिन जाती है"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "उनकी नींद"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "ठोकर दिलाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:22.446384026Z",
+  "model": "glm-5.2"
+}

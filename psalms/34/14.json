@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "अपनी जीभ को बुराई से रखो, और तेरे होंठ को धोखे बोलने से।",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "रखो"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "अपनी जीभ को"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "और तेरे होंठ को"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलने से"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:06.205546240Z",
+  "model": "glm-5.2"
+}

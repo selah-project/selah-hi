@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और कीलों का भार था पचास शेकेल सोने का, और ⟨उसने⟩ ऊपरी कक्षों को सोने से मढ़ा।",
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "और भार"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "कीलों का"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "शेकेल"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "और ऊपरी कक्षों"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "मढ़ा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    }
+  ],
+  "timestamp": "2026-08-08T01:05:29.621840837Z",
+  "model": "glm-5.2"
+}

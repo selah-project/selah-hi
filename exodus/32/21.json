@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और मोशे ने अहरोन से कहा, “इस जनता ने तेरा क्या किया कि तू उस पर एक बड़ा पाप ले आया?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "इस जनता ने"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "तू ले आया"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "बड़ा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:12:10.922889033Z",
+  "model": "glm-5.2"
+}

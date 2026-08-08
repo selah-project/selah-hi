@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "जन्म लेने के लिए ओत, और मरने के लिए ओत; रोपने के लिए ओत, और रोपे हुए को उखाड़ फेंकने के लिए ओत।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ओत"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "जन्म लेने के लिए"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और ओत"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मरने के लिए"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ओत"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "रोपने के लिए"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और ओत"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "उखाड़ फेंकने के लिए"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "रोपे हुए को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:40.035532894Z",
+  "model": "glm-5.2"
+}

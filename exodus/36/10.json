@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "उसने ⟨את⟩ पाँच पर्दों को जोड़ा, एक को एक से; और पाँच पर्दों को जोड़ा, एक को एक से।",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "और उसने जोड़ा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पाँच पर्दों को"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "पर्दों"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "पर्दों को"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "जोड़ा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:14:10.932207421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और यहवे का वचन एलियाहू हतिश्बी के पास आया, कहने कोः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "हतिश्बी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने को"
+    }
+  ],
+  "timestamp": "2026-08-07T21:44:21.906585988Z",
+  "model": "glm-5.2"
+}

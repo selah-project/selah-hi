@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "तू यहवे अपने एलोहीम के लिए बैल या भेड़ न बलि कर, जिसमें कोई दोष हो, कोई भी बुरी बात, क्योंकि वह यहवे तेरे एलोहीम के लिए घृणित ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "बलि कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "या भेड़"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसमें"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:23.760051379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और अब, तुम्हारे लिए ⟨है⟩ यह आज्ञा, हे याजकों।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "यह आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "हे याजकों"
+    }
+  ],
+  "timestamp": "2026-08-07T22:52:57.188122608Z",
+  "model": "glm-5.2"
+}

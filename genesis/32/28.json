@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और ⟨उसने⟩ उससे कहा, “तेरा नाम क्या है?” और ⟨उसने⟩ कहा, “याकोब।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तेरा नाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-08-07T19:51:56.458668474Z",
+  "model": "glm-5.2"
+}

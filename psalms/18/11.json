@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "उसने एक करूब पर सवार होकर उड़ान भरी, और हवा के पंखों पर उड़ता गया।",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "उसने सवार होकर"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "एक करूब"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "उड़ान भरी"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "उड़ता गया"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "पंखों"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:13.084591986Z",
+  "model": "glm-5.2"
+}

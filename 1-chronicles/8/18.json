@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यिश्मराय, और यिज़्लियाह, और योबाब, एल्पाल के पुत्र।",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "और यिश्मराय"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "और यिज़्लियाह"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "और योबाब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के पुत्र"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एल्पाल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:30.317406345Z",
+  "model": "glm-5.2"
+}

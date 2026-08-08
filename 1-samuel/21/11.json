@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और दावीद उठा और उस दिन शाऊल के सामने से भागा, और वह गत के राजा अखीश के पास आया।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "और उठा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "और भागा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अखीश"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:21:04.062622234Z",
+  "model": "glm-5.2"
+}

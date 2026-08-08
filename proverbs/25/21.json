@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "यदि तेरा शत्रु भूखा ⟨है⟩, तो उसे रोटी खिला; और यदि वह प्यासा ⟨है⟩, तो उसे जल पिला;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भूखा"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "तेरा शत्रु"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "उसे खिला"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "प्यासा"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "उसे पिला"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:29.880699658Z",
+  "model": "glm-5.2"
+}

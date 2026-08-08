@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तो इस स्त्री के बेटे की मृत्यु रात में हो गई, जब वह उस पर लेट गई थी।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "तो मृत्यु हो गई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे की"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "स्त्री के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "वह लेट गई थी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:12.515246813Z",
+  "model": "glm-5.2"
+}

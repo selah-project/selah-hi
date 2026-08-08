@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "जैसे आँधी के बीतने पर दुष्ट ⟨है⟩ ही नहीं, और धर्मी ⟨है⟩ सनातन आधार।",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "जैसे बीतने पर"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "आँधी"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "और धर्मी"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सनातन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:59.224645638Z",
+  "model": "glm-5.2"
+}

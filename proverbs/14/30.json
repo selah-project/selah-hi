@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "उपचारक हृदय ⟨है⟩ शरीर का जीवन, और हड्डियों का सड़ना ⟨है⟩ कन्ईआ।",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "शरीर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "उपचारक"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "और सड़ना"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "हड्डियों का"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "कन्ईआ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:59.002512011Z",
+  "model": "glm-5.2"
+}

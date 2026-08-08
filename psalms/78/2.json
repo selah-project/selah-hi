@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 78,
+  "translation": "मैं खोलूँगा माशल में मेरा मुख; उगलूँगा चिदोत प्राचीन काल से।",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "मैं खोलूँगा"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "माशल में"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरा मुख"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "उगलूँगा"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "चिदोत"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "प्राचीन काल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:52.334387669Z",
+  "model": "glm-5.2"
+}

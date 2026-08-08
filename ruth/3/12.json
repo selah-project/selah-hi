@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और अब, सच है कि मैं एक गोअल हूँ, और यद्यपि ⟨एक⟩ गोअल है जो मुझसे अधिक निकट है।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "सचमुच"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यद्यपि"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "गोअल"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "एक गोअल"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "निकट"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मुझसे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:13.390460401Z",
+  "model": "glm-5.2"
+}

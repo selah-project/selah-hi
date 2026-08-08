@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और नाचश् ने स्त्री से कहा, “मरने तो तुम नहीं मरोगे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "हנחש",
+      "gloss": "नाचश् ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरने"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "तुम मरोगे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:26.381322560Z",
+  "model": "glm-5.2"
+}

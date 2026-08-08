@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और यहवे का वचन यहूअ बेन हननी के पास बाशा के विरुद्ध आया, यो कहना:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहूअ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हननी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बाशा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो कहना"
+    }
+  ],
+  "timestamp": "2026-08-07T21:41:55.858145086Z",
+  "model": "glm-5.2"
+}

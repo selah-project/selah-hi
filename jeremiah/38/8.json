@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "तो एबेद-मेलेक राजभवन से बाहर निकला और राजा से बात की, ⟨कहते हुए⟩:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "तो निकला"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "एबेद"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "मेलेक"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "भवन से बाहर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राज"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:21:06.219508854Z",
+  "model": "glm-5.2"
+}

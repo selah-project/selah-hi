@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "मत कह कि “पहले के दिन ⟨क्यों⟩ इनसे बेहतर थे?”, क्योंकि इसके विषय में तू ने बुद्धिमत्ता से नहीं पूछा है।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨क्यों⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थे"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "कि दिन"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहले के"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "बेहतर"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "इनसे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "बुद्धिमत्ता से"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "तू ने पूछा है"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "זה",
+      "gloss": "इसके"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:05.247638488Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "दक्षिण की ओर चलती ⟨है⟩, और उत्तर की ओर घूमती है; घूमती, घूमती चलती है वायु, और अपने चक्करों पर लौटती है वायु।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "चलती"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "दक्षिण"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "और घूमती है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "घूमती"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "घूमती"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "चलती है"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "वायु"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "अपने चक्करों"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटती है"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "वायु"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:48.521285049Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "अपनी आँखों में बुद्धिमान मत बन; यहवे से डर और बुराई से हट जा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बन"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "अपनी आँखों में"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "और हट जा"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "बुराई से"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:43.614734799Z",
+  "model": "glm-5.2"
+}

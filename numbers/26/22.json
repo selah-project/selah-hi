@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "ये यहूदा के कुल हैं उनके गिने हुओं के अनुसार: छह और सत्तर हज़ार और पाँच सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "उनके गिने हुओं के अनुसार"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "और सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "और पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:59.878719082Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "चिल्लाने का स्वर होरोनायिम से ⟨आता है⟩ — विनाश और महान पराभव!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "चिल्लाने का"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "होरोनायिम से"
+    },
+    {
+      "surface": "שד",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "और पराभव"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:28.124769625Z",
+  "model": "glm-5.2"
+}

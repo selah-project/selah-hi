@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और उसे क़ैद में रखा, यह स्पष्ट करने के लिए उन्हें यहवे के मुख से ⟨क्या विधान हो⟩।",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "और उसे रखा"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "क़ैद में"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "स्पष्ट करने के लिए"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "על",
+      "gloss": "के आधार पर"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:03.651374111Z",
+  "model": "glm-5.2"
+}

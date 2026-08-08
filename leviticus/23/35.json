@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "पहले दिन ⟨होगा⟩ पवित्र आह्वान; कोई भी सेवा-कार्य तुम न करो।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "आह्वान"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:23.112026947Z",
+  "model": "glm-5.2"
+}

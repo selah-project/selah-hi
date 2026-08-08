@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अच्छी ⟨है⟩ क्षोभ हँसी से, क्योंकि चेहरे की खराबी से हृदय अच्छा हो जाता है।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छी"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "क्षोभ"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "हँसी से"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "खराबी से"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरे की"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "अच्छा हो जाता है"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:13.478230166Z",
+  "model": "glm-5.2"
+}

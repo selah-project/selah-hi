@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "आरम्भ में एलोहीम ने ⟨את⟩ आकाश और ⟨את⟩ पृथ्वी को सृजा।",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "आरम्भ में"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "सृजा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आकाश को"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "पृथ्वी को"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:39:25.854707584Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहवे ने एक दिन पहले, शौल के आने से पहले, शमुएल के कान खोल दिए थे, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे ने"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "खोल दिए थे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कान"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल के"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "आने से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शौल के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T21:15:46.815032655Z",
+  "model": "glm-5.2"
+}

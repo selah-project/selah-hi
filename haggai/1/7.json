@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यहवे सेबाओत इस प्रकार कहता है: अपने मार्गों पर अपना हृदय लगाओ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओत"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "लगाओ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "अपना हृदय"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "अपने मार्गों"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:29.088159356Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और मोशे ने यहवे के सामने कहा: “देखो, मैं अनतन-ओंठों वाला हूँ, और फिरौह मुझे कैसे सुनेगा?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הן",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "अनतन"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओंठों"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "और कैसे"
+    },
+    {
+      "surface": "ישमע",
+      "gloss": "सुनेगा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फिरौह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:46.981819137Z",
+  "model": "glm-5.2"
+}

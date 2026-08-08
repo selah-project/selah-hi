@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और यहवे ने मोशे से कहा, “मैंने ⟨את⟩ इस जाति को देखा है, और देख, यह कठोर-गर्दन जाति ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखा है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस जाति को"
+    },
+    {
+      "surface": "העם",
+      "gloss": "इस जाति को"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "गर्दन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:12:15.172170488Z",
+  "model": "glm-5.2"
+}

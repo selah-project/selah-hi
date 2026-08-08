@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 71,
+  "translation": "और मैं सदा आशा करूँगा, और तेरी सारी स्तुति पर ⟨और⟩ जोडूँगा।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "आशा करूँगा"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "और जोडूँगा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "तेरी स्तुति"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:41.190227420Z",
+  "model": "glm-5.2"
+}

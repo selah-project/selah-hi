@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और बड़े मवेशी छत्तीस हज़ार, और उनका कर यहवे के लिए ⟨था⟩ बहत्तर।",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "और बड़े मवेशी"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छः"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "और उनका कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "और सत्तर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:33.609184113Z",
+  "model": "glm-5.2"
+}

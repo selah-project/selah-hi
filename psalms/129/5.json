@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 129,
+  "translation": "लज्जित हों और पीछे हट जाएँ — सभी त्सियोन से बैर रखने वाले।",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लज्जित हों"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "और हट जाएँ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पीछे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "बैर रखने वाले"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:52.944687080Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "छठा बुक्याहू, उसके बेटे और उसके भाई — बारह थे।",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "छठा"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "बुक्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके बेटे"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:38.891529261Z",
+  "model": "glm-5.2"
+}

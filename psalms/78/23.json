@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 78,
+  "translation": "उसने ऊपर से बादलों को आज्ञा दी, और आकाश के द्वार खोले।",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "उसने आज्ञा दी"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादलों को"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "और द्वार"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश के"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:06.344339732Z",
+  "model": "glm-5.2"
+}

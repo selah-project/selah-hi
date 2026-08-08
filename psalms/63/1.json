@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 63,
+  "translation": "एक मज़मोर दाऊद का, उसके यहूदा के मरुभूमि में होने पर।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद का"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "उसके होने पर"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमि में"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:02.403739378Z",
+  "model": "glm-5.2"
+}

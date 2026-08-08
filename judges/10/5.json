@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और याइर मरा, और ⟨उसे⟩ कामोन में दफ़नाया गया।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मरा"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याइर"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "और ⟨उसे⟩ दफ़नाया गया"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "कामोन में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:08:33.204216316Z",
+  "model": "glm-5.2"
+}

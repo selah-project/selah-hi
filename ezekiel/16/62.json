@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और मैं ⟨את⟩ अपनी वाचा को तेरे साथ उठाऊँगा, और तू जानेगी कि मैं यहवे हूँ।",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "और मैं उठाऊँगा"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपनी वाचा को"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "अपनी वाचा को"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "तेरे साथ"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "और तू जानेगी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:31:53.337096389Z",
+  "model": "glm-5.2"
+}

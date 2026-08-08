@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और पहले महीने में, चौदह दिन को, महीने के, पेसह यहवे का ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "और महीने में"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "चौदह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨दिन⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन को"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पेसह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:05.824418454Z",
+  "model": "glm-5.2"
+}

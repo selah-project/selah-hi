@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "मिकमास के पुरूष एक सौ बाईस।",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֣י",
+      "gloss": "के पुरूष"
+    },
+    {
+      "surface": "מִכְמָ֔ס",
+      "gloss": "मिकमास"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "וְעֶשְׂרִ֥ים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:19.811059918Z",
+  "model": "glm-5.2"
+}

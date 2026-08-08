@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और मैं इस कारण दावीद के वंश को दुःख दूँगा ⟨את⟩, परन्तु सब दिनों तक नहीं।",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "और मैं दुःख दूँगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वंश"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "वंश"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद के"
+    },
+    {
+      "surface": "למען",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "אך",
+      "gloss": "परन्तु"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिनों तक"
+    }
+  ],
+  "timestamp": "2026-08-07T21:40:01.106174572Z",
+  "model": "glm-5.2"
+}

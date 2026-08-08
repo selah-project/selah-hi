@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और उसकी उपपत्नी — उसका नाम रउमा — उसने भी जन्म दिया ⟨את⟩ तेबह और ⟨את⟩ गहम और ⟨את⟩ तहश और ⟨את⟩ माअखा।",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "और उसकी उपपत्नी"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "रउमा"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेबह"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "तेबह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "गहम"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "गहम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "तहश"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "तहश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "माअखा"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअखा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:58.382294183Z",
+  "model": "glm-5.2"
+}

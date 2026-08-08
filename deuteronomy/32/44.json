@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "तब मोशे आया और इस गीत के समस्त वचन ⟨एत⟩ उसके समस्त वचनों को जनता के कानों में बोला, वह और होशेया बिन नून।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "तब ⟨वह⟩ आया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "और ⟨उसने⟩ बोला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "समस्त वचन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "समस्त"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "इस गीत के"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कानों में"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "और होशेया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिन"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:57.885708684Z",
+  "model": "glm-5.2"
+}

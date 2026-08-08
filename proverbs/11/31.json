@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "देखो, धर्मी पृथ्वी पर प्रतिफल पाता है — और भी अधिक दुष्ट और पापी!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वी पर"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "प्रतिफल पाता है"
+    },
+    {
+      "surface": "אף",
+      "gloss": "और भी अधिक"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "और पापी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:02.063713477Z",
+  "model": "glm-5.2"
+}

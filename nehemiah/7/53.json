@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बक्बूक के बेटे, हकूफा के बेटे, हरहूर के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "बक्बूक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "हकूफा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "हरहूर"
+    }
+  ],
+  "timestamp": "2026-08-08T01:16:51.838006713Z",
+  "model": "glm-5.2"
+}

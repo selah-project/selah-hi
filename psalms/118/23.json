@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 118,
+  "translation": "यह यहवे के द्वारा हुआ ⟨है⟩, यह हमारी आँखों में चमत्कारिक ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "के द्वारा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हुआ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "היא",
+      "gloss": "यह"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "चमत्कारिक"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "हमारी आँखों में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:42.296326028Z",
+  "model": "glm-5.2"
+}

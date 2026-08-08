@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "यह बात अवराहाम की दृष्टि में अत्यन्त बुरी लगी, उसके बेटे के कारण।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "बुरी लगी"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "यह बात"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "दृष्टि में"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम की"
+    },
+    {
+      "surface": "על",
+      "gloss": "के कारण"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसके बेटे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:14.815861439Z",
+  "model": "glm-5.2"
+}

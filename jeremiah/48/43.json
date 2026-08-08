@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "भय और गड्ढा और फंदा — बैठने वाले मोआबी पर, यहवे का कथन।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "और गड्ढा"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "और फंदा"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तेरे ऊपर"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बैठने वाले"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबी"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:42.442354527Z",
+  "model": "glm-5.2"
+}

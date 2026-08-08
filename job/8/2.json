@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "कब तक तू ये बातें कहेगा, और तेरे मुख के वचन ⟨एक⟩ प्रचण्ड वायु हैं?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "אן",
+      "gloss": "कब"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "तू ... कहेगा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "और ... वायु"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "प्रचण्ड"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तेरे मुख के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:25:43.256444256Z",
+  "model": "glm-5.2"
+}

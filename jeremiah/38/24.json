@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "और सिदक्याहू ने यिर्मयाहू से कहा, “कोई मनुष्य इन बातों को न जाने, और तू नहीं मरेगा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "सिदक्याहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोई मनुष्य"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जाने"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "इन बातों को"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "तू मरेगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:28:56.441183085Z",
+  "model": "glm-5.2"
+}

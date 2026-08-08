@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "“और उसने मुझसे कहा, आ और देख ⟨את⟩ घिनौनी बुराईयों को जो वे यहाँ कर रहे हैं।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घिनौनी बुराईयों को"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "घिनौनी बातें"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "הם",
+      "gloss": "वे"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "कर रहे हैं"
+    },
+    {
+      "surface": "פה",
+      "gloss": "यहाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:27:19.598157906Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और यहवे ने मुझसे कहा, “उत्तम बात कही है जो उन्होंने कही।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "उत्तम बात कही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "उन्होंने कही"
+    }
+  ],
+  "timestamp": "2026-08-07T20:49:41.774396604Z",
+  "model": "glm-5.2"
+}

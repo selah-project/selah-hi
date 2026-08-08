@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "“और बीच का कड़ा तख्तों के बीच में, एक सिरे से लेकर दूसरे सिरे तक ⟨फँसा हुआ⟩।",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "और कड़ा"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "बीच का"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "तख्तों"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "फँसा हुआ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "सिरे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "सिरे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:09:22.008535126Z",
+  "model": "glm-5.2"
+}

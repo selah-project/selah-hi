@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "अज्मावेत के पुत्र, चालीस और दो।",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עַזְמָ֖וֶת",
+      "gloss": "अज्मावेत"
+    },
+    {
+      "surface": "אַרְבָּעִ֥ים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "וּשְׁנָֽיִם",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:03.428849250Z",
+  "model": "glm-5.2"
+}

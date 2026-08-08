@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "⟨את⟩ गवाही का सन्दूक और ⟨את⟩ उसकी बल्टियाँ, और ⟨את⟩ उसका ढककन।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सन्दूक"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "गवाही का"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बल्टियाँ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "उसकी बल्टियाँ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "ढककन"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "उसका ढककन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:12.059514662Z",
+  "model": "glm-5.2"
+}

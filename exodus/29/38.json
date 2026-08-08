@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 29:38",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और यह ⟨वह⟩ है जो तू वेदी पर करेगा: मेमने, एक वर्ष के, दो, प्रति दिन, निरन्तर।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू करेगा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बच्चे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक वर्ष"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "प्रति दिन"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:46.520077089Z",
+  "model": "glm-5.2"
+}

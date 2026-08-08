@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "प्रेम करता है चाँदी, नहीं तृप्त होता चाँदी से; और जो प्रेम करता है बहुतायत को, उसके लिए नहीं ⟨है⟩ आय; भी यह हेबल है।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करता है"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "तृप्त होता"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी से"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "और जो"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम करता है"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "बहुतायत को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "आय"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:56.892909982Z",
+  "model": "glm-5.2"
+}

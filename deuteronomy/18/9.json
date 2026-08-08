@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "जब तू उस देश में प्रवेश करेगा जिसे यहवे तेरा एलोहीम तुझे देता है, तो तू उन राष्ट्रों की घृणित प्रथाओं के समान करना न सीख।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בא",
+      "gloss": "प्रवेश करेगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "उस देश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरा एलोहीम"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देता है"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "सीख"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करना"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "घृणित प्रथाओं के समान"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "उन राष्ट्रों की"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "उन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:49:35.561329912Z",
+  "model": "glm-5.2"
+}

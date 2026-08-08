@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और लेआ ने कहा, “भाग्य!” और उसने उसका नाम ⟨את⟩ गाद रखा।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "और ... कहा"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआ ने"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "भाग्य"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "और ... रखा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसका नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:12.993861927Z",
+  "model": "glm-5.2"
+}

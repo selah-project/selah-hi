@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और तू ⟨את⟩ बैल को यहवे के सामने मिलन-तम्बू के प्रवेश-द्वार पर वध करे।",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "और तू वध करे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बैल को"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "प्रवेश-द्वार"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:10.526626467Z",
+  "model": "glm-5.2"
+}

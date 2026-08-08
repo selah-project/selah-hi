@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "और तेल का नियम: तेल की बत, एक कोर से बत का दसवाँ भाग; क्योंकि दस बत ⟨हैं⟩ एक खोमेर — दस बत ⟨हैं⟩ एक खोमेर।",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "और नियम"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल का"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "बत"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "दसवाँ भाग"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "बत"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "एक कोर"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "बत"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "एक खोमेर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "बत"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "एक खोमेर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:36:13.914625965Z",
+  "model": "glm-5.2"
+}

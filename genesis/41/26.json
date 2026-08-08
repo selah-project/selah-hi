@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "“सात अच्छी गायें सात वर्ष हैं, और सात अच्छी बालें सात वर्ष हैं; ⟨यह⟩ एक ही स्वप्ण है।”",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "गायें"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "अच्छी"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हैं"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "बालें"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "अच्छी"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हैं"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "स्वप्ण"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही है"
+    }
+  ],
+  "timestamp": "2026-08-07T19:55:13.578744652Z",
+  "model": "glm-5.2"
+}

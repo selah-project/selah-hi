@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "वनयाह, मरमोत, एल्याशीव।",
+  "tokens": [
+    {
+      "surface": "וַנְיָה",
+      "gloss": "वनयाह"
+    },
+    {
+      "surface": "מְרֵמוֹת",
+      "gloss": "मरमोत"
+    },
+    {
+      "surface": "אֶלְיָשִׁיב",
+      "gloss": "एल्याशीव"
+    }
+  ],
+  "timestamp": "2026-08-07T23:50:13.325214359Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "बाहर न ठहरता परदेशी; मेरे द्वार यात्री के लिए खुले।",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ठहरता"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेशी"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "मेरे द्वार"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "यात्री के लिए"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "खुले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:03.674369569Z",
+  "model": "glm-5.2"
+}

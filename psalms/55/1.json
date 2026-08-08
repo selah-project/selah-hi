@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 55,
+  "translation": "महत्वपूर्ण शीर्षकों के लिए कोई पदानुवाद आवश्यक नहीं।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": ""
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": ""
+    },
+    {
+      "surface": "משכיל",
+      "gloss": ""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:27.490848740Z",
+  "model": "glm-5.2"
+}

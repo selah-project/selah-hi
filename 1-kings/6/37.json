@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "चौथे वर्ष में यहवे के भवन की नींव रखी गई, ज़ीव मास में।",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "चौथी"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "नींव रखी गई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "मास में"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ज़ीव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:52.158802094Z",
+  "model": "glm-5.2"
+}

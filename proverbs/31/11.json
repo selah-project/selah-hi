@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "भरोसा रखता है उस पर उसके पति का हृदय, और लाभ की कमी नहीं ⟨!⟩",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा रखता है"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "उसके पति का"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "और लाभ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कमी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:09.635836141Z",
+  "model": "glm-5.2"
+}

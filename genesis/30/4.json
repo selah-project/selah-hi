@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और उसने उसे अपनी दासी बिल्हा को ⟨את⟩ पत्नी के लिए दे दिया, और याकोब उसके पास गया।",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "और दे दिया"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिल्हा"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हा"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "अपनी दासी"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "पत्नी के लिए"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:40.190214519Z",
+  "model": "glm-5.2"
+}

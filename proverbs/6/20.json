@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "हे मेरे पुत्र, तेरे पिता की आज्ञा रक्षा कर और अपनी माता की तोराह को मत त्याग।",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "रक्षा कर"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे पुत्र"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरे पिता की"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और मत"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "त्याग"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोराह"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "अपनी माता की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:46.540631439Z",
+  "model": "glm-5.2"
+}

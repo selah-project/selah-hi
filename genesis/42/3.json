@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "तब योसेफ़ के दस भाई अनाज खरीदने मिस्रयिम से उतरे।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "तब उतरे"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ़ के"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "खरीदने"
+    },
+    {
+      "surface": "בר",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रयिम से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:56:19.972985675Z",
+  "model": "glm-5.2"
+}

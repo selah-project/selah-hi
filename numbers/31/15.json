@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "मोशे ने उनसे कहा: “क्या ◄तुमने► हर ◄स्त्री► को जीवित रखा?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "जीवित रखा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "◄स्त्री►"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:30.849582486Z",
+  "model": "glm-5.2"
+}

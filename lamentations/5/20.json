@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "क्यों तू हमें सदा के लिए भूल जाता है, हमें बहुत लम्बे दिनों तक त्याग देता है?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "क्यों"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "तू हमें भूल जाता है"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "तू हमें त्याग देता है"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "लम्बे तक"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.179433225Z",
+  "model": "glm-5.2"
+}

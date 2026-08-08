@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और बालाक ने, त्सिप्पोर के बेटे ने, ⟨את⟩ सब ⟨जो⟩ यिस्राएल ने अमोरी के लिए किया, देखा।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक ने"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे ने"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "त्सिप्पोर के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल ने"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "अमोरी के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:27.616818542Z",
+  "model": "glm-5.2"
+}

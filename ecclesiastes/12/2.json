@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "जब तक कि सूर्य और ⟨उसकी⟩ ज्योति और चन्द्रमा और तारे न अँधकारित हों, और बादल वापस लौटें वर्षा के बाद।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जितने कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "अँधकारित हों"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "और ज्योति"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "और चन्द्रमा"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "और तारे"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "और लौटें"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "बाद"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "वर्षा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:38.609881336Z",
+  "model": "glm-5.2"
+}

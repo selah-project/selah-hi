@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यशअयाहू ने छिज़्किय्याहू से कहा, “यहवे का वचन सुनो।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशअयाहू ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "छिज़्किय्याहू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    }
+  ],
+  "timestamp": "2026-08-07T21:53:06.702664821Z",
+  "model": "glm-5.2"
+}

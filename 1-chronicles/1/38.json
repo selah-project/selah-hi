@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और सेइर के बन्ये: लोतान, शोबल, त्सिबओन, अना, दिशोन, एत्सेर और दिशान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बन्ये"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतान"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "शोबल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "त्सिबओन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "अना"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "दिशान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:24.687728676Z",
+  "model": "glm-5.2"
+}

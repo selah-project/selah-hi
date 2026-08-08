@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "निकट है तू, यहवे, और तेरी सब आज्ञाएँ सत्य हैं।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "निकट है"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तेरी आज्ञाएँ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:02.476413151Z",
+  "model": "glm-5.2"
+}

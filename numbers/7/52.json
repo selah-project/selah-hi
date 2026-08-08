@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "एक बकरा, बकरियों का, पापबलि के लिए;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरियों का"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलि के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:39.960023Z",
+  "model": "glm-5.2"
+}

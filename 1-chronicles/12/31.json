@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 12:31",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और एप्रैम के बेटों में से, बीस हज़ार और आठ सौ, बलवान योद्धा, नामवाले पुरुष, उनके पिता-घरों के लिए।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और … से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "और आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "बलवान योद्धा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बल"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घरों के लिए"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "उनके पिता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:36.575227192Z",
+  "model": "glm-5.2"
+}

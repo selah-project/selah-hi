@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "बुद्धिमान के मुख के वचन अनुग्रह ⟨हैं⟩, और मूर्ख के ओठ उसे ही निगल जाते हैं।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "פי",
+      "gloss": "के मुख के"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "और ओठ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख के"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "उसे ही निगल जाते हैं"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:27.139736390Z",
+  "model": "glm-5.2"
+}

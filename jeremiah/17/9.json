@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "छली हुई ⟨है⟩ हृदय सबसे अधिक, और यह असाध्य ⟨है⟩ — इसे कौन जान सकता है?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "छली हुई"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सबसे अधिक"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "और असाध्य"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "जान सकता है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:15:09.908474269Z",
+  "model": "glm-5.2"
+}

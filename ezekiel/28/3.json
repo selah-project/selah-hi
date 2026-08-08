@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "देखो, तू मדנאल से बुद्धिमान ⟨है⟩; कोई भी गुप्त बात तुझ पर छिपी हुई नहीं ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "मदनअल से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "गुप्त बात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "तुझ पर छिपी हुई"
+    }
+  ],
+  "timestamp": "2026-08-08T02:54:31.545858471Z",
+  "model": "glm-5.2"
+}

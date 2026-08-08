@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "“और ⟨ताकि⟩ भेद करने के लिए पवित्र और सांसारिक के बीच, और अशुद्ध और शुद्ध के बीच,",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "और भेद करने के लिए"
+    },
+    {
+      "surface": "בין",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और"
+    },
+    {
+      "surface": "החל",
+      "gloss": "सांसारिक"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "और"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "शुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:28.766142293Z",
+  "model": "glm-5.2"
+}

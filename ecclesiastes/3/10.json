@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मैंने देखा ⟨את⟩ ⟨के⟩ काम को, जो एलोहीम ने मनुष्य के बेटों को दिया है, उसमें उलझने के लिए।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "काम को"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "काम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिया है"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों को"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "उलझने के लिए"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:18.218838506Z",
+  "model": "glm-5.2"
+}

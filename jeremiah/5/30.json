@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "भयंकर ⟨विस्मयकर⟩ बात भूमि में घटित हुई है।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "भयंकर"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "⟨विस्मयकर⟩"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "घटित हुई है"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमि में"
+    }
+  ],
+  "timestamp": "2026-08-08T02:38:30.180701285Z",
+  "model": "glm-5.2"
+}

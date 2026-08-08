@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "मरारी के बेटे — महली और मूशी; महली के बेटे — एलाज़ार और कीश।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "और मूशी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़ार"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "और कीश"
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:59.387970135Z",
+  "model": "glm-5.2"
+}

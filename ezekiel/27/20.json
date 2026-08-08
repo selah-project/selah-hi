@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "देदान तेरी व्यापारी थी शौके के वस्त्रों में, सवारी के लिए।",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "देदान"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "तेरी व्यापारी"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "वस्त्रों में"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "शौके के"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "सवारी के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:33:14.138087918Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "हनतीनिम: त्सीहा के बेटे, खसूफा के बेटे, तब्बाओत के बेटे।",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "हनतीनिम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "त्सीहा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "खसूफा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "के बेटे"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "तब्बाओत"
+    }
+  ],
+  "timestamp": "2026-08-08T03:12:12.719489661Z",
+  "model": "glm-5.2"
+}

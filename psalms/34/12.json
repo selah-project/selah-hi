@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "आओ, हे बालक, मुझे सुनो; यहवे का भय मैं ⟨तुम्हें⟩ सिखाऊँगा।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आओ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "हे बालक"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "मैं ⟨तुम्हें⟩ सिखाऊँगा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:42:56.049832108Z",
+  "model": "glm-5.2"
+}

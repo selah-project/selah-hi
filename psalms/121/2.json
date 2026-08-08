@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "मेरा सहाय यहवे के पास से ⟨आता है⟩, आकाश और पृथ्वी के बनाने वाले के।",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "मेरा सहाय"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "के पास से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाने वाले"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "और पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:18.879053381Z",
+  "model": "glm-5.2"
+}

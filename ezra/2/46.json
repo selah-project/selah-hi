@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "चगाब के पुत्र, शमलय के पुत्र, चनन के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "चगाब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "शमलय"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "चनन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.378724942Z",
+  "model": "glm-5.2"
+}

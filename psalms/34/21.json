@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "वह उसकी सब हड्डियों की रक्षा करता है; उनमें से एक भी टूटी नहीं।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "रक्षा करता है"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "उसकी हड्डियों"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "उनमें से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "टूटी"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:53.720715492Z",
+  "model": "glm-5.2"
+}

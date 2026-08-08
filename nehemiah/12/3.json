@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "शकन्याह, रखूम, मरेमोत,",
+  "tokens": [
+    {
+      "surface": "שְׁכַנְיָ֥ה",
+      "gloss": "शकन्याह"
+    },
+    {
+      "surface": "רְחֻ֖ם",
+      "gloss": "रखूम"
+    },
+    {
+      "surface": "מְרֵמֹֽת",
+      "gloss": "मरेमोत"
+    }
+  ],
+  "timestamp": "2026-08-08T01:01:57.363436731Z",
+  "model": "glm-5.2"
+}

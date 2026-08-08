@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "बुद्धिमान का हृदय ⟨उसके⟩ दाहिनी ओर ⟨है⟩, और मूर्ख का हृदय ⟨उसके⟩ बाईं ओर ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान का"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "उसके दाहिनी ओर"
+    },
+    {
+      "surface": "वלב",
+      "gloss": "और हृदय"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख का"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "उसके बाईं ओर"
+    }
+  ],
+  "timestamp": "2026-08-08T01:16:02.676691996Z",
+  "model": "glm-5.2"
+}

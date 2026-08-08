@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और नप्ताली से — हज़ार सरदार, और उनके साथ ढाल और भाले के साथ सैंतीस हज़ार।",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "और नप्ताली से"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "और उनके साथ"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "ढाल के साथ"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "और भाले"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:32.667871764Z",
+  "model": "glm-5.2"
+}

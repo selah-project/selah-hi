@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "अपना मार्ग यहवे पर लुढ़को और उस पर भरोसा करो, और ⟨वह⟩ करेगा।",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "लुढ़को"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "अपना मार्ग"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "और भरोसा करो"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "और ⟨वह⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:39.892142370Z",
+  "model": "glm-5.2"
+}

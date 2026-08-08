@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "तुम क्या करोगे नियुक्त दिन के लिए, और यहवे के चाग ⟨के दिन⟩ के लिए?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "तुम करोगे"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिन के लिए"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "नियुक्त-समय"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "और दिन के लिए"
+    },
+    {
+      "surface": "חג",
+      "gloss": "चाग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:42:13.459942637Z",
+  "model": "glm-5.2"
+}

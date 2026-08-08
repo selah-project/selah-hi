@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "दाविद का गीत। यहवे मेरा चरवाहा ⟨है⟩ — न मैं कुछ घटाऊँगा।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "मेरा चरवाहा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "मैं घटाऊँगा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:47.552904489Z",
+  "model": "glm-5.2"
+}

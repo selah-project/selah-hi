@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "अलूफ कनज़, अलूफ तेमान, अलूफ मिब्त्सार।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनज़"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "मिब्त्सार"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:11.824268359Z",
+  "model": "glm-5.2"
+}

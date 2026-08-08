@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और अब वह बीचाने में रोपी गई है, शुष्क और तृषार्त भूमि में।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "रोपी गई"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "बीचाने में"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमि में"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "शुष्क"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "और तृषार्त"
+    }
+  ],
+  "timestamp": "2026-08-07T22:30:12.479314820Z",
+  "model": "glm-5.2"
+}

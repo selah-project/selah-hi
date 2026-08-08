@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और तू उन्हें यहवे के सामने शुद्ध मेज पर दो मँडराओं में रख — मँडरा-मँडरा छह छह।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "और तू रख"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "उन्हें"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "मँडराओं में"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "मँडरा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "मेज"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:56.952390412Z",
+  "model": "glm-5.2"
+}

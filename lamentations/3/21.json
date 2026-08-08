@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "यह मैं अपने हृदय की ओर लौटाता हूँ — इसलिए मुझे आशा है।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "मैं लौटाता हूँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "अपने हृदय"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "मुझे आशा है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:14.797503805Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और यदि तू नेदर करने से रुके, तो तुझ में पाप नहीं होगा।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "तू रुके"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "नेदर करने से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझ में"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:29.636551717Z",
+  "model": "glm-5.2"
+}

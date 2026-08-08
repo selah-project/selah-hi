@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "इनसे भी अधिक प्रबल एक हवा मेरे लिए आएगी; अब तो मैं भी ⟨את⟩ उन पर न्याय-विधान बोलूँगा।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "मלא",
+      "gloss": "अधिक प्रबल"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "इनसे भी"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आएगी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब तो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोलूँगा"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "न्याय-विधान"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "उन पर"
+    }
+  ],
+  "timestamp": "2026-08-08T01:11:09.708374205Z",
+  "model": "glm-5.2"
+}

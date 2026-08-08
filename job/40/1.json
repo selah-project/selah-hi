@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और यहवे ने अय्योब को उत्तर दिया और कहा।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "और उत्तर दिया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अय्योब"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:15.173642150Z",
+  "model": "glm-5.2"
+}

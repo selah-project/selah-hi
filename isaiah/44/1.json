@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 44,
+  "translation": "और अब सुन, याकोब मेरे दास, और इस्राएल जिसे मैंने चुना है:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "मेरे दास"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "और इस्राएल"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "मैंने चुना है"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:04:48.894085299Z",
+  "model": "glm-5.2"
+}

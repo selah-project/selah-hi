@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और हवी उसे वेदी पर धून बनाए — यहवे के लिए अग्निभेंट का भोजन —",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "और-हवी-उसे-धून-बनाए"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हवी"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "वेदी-पर"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अग्निभेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे-के-लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:59.512340600Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और शमूएल ने यहवे के समस्त वचन ⟨את⟩ ⟨उस⟩ जनता को बताए जो उससे एक राजा माँगते थे।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और बताए"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "समस्त वचन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "समस्त"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "जो माँगते थे"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "एक राजा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:14:18.926459241Z",
+  "model": "glm-5.2"
+}

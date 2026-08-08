@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "सब जिसके जल में पंख और शल्क नहीं हैं — वह तुम्हारे लिए घृणित है।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसके"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं हैं"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पंख"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "और शल्क"
+    },
+    {
+      "surface": "במים",
+      "gloss": "जल में"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:49.706312491Z",
+  "model": "glm-5.2"
+}

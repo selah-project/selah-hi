@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "नीचे रूआच वाले होना ⟨את⟩ दीनों के साथ, ⟨उससे⟩ बेहतर ⟨है⟩ ⟨जो⟩ ⟨את⟩ घमंडीलों के साथ लूट का बाँटना।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "बेहतर"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआच"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दीनों"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दीनों"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "बाँटना"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घमंडीलों"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "घमंडीलों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:19.018559825Z",
+  "model": "glm-5.2"
+}

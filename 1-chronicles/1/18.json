@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और अर्पकशद ने ⟨את⟩ शेलाह को जन्म दिया, और शेलाह ने ⟨את⟩ एबेर को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "और अर्पकशद"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेलाह को"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलाह"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "और शेलाह"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एबेर को"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:36.901130162Z",
+  "model": "glm-5.2"
+}

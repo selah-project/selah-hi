@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्या वह ⟨मेरे⟩ साथ सँजोया नहीं ⟨है⟩, मेरे भण्डारों में अंकित ⟨है⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "क्या नहीं"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "सँजोया गया"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "अंकित"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "मेरे भण्डारों में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:24.259317487Z",
+  "model": "glm-5.2"
+}

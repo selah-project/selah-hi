@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बकरियों का एक बाबर बकरा, पाप-बलि के लिए;",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "बाबर बकरा"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "बकरियों"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "पाप-बलि के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:19.552733730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "धर्मी तू ⟨है⟩, यहवे, और उधर ⟨हैं⟩ तेरे निर्णय।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "और उधर"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तेरे निर्णय"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:22.155253287Z",
+  "model": "glm-5.2"
+}

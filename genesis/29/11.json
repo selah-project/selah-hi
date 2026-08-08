@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और याकोब ने राहेल को चूमा और अपने ⟨את⟩ शब्द को ऊँचा उठाया और विलाप किया।",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "चूमा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब ने"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "राहेल को"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "उठाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शब्द"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "अपने शब्द"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "विलाप किया"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:27.611445878Z",
+  "model": "glm-5.2"
+}

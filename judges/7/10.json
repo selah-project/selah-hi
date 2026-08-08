@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यदि तू उतरने से डरता है, तो तू और तेरा नौकर पूरा छावनी में उतरो।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरता है"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "उतरने से"
+    },
+    {
+      "surface": "רד",
+      "gloss": "उतरो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "और पूरा"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "तेरा नौकर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी"
+    }
+  ],
+  "timestamp": "2026-08-07T21:06:49.801808942Z",
+  "model": "glm-5.2"
+}

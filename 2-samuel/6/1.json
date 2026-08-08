@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और दावीद ने फिर यिस्राएल के सब चुने हुओं को इकट्ठा किया — तीस हज़ार।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "और इकट्ठा किया"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब चुने हुओं को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "चुने हुए"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएल के"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T21:26:12.071495257Z",
+  "model": "glm-5.2"
+}

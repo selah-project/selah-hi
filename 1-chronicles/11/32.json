@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "हुरय, गाअश की नदियों से, अबीएल ⟨वह⟩ अरबती",
+  "tokens": [
+    {
+      "surface": "חוּרַי֙",
+      "gloss": "हुरय"
+    },
+    {
+      "surface": "מִנַּ֣חֲלֵי",
+      "gloss": "नदियों से"
+    },
+    {
+      "surface": "גָ֔עַשׁ",
+      "gloss": "गाअश"
+    },
+    {
+      "surface": "אֲבִיאֵ֖ל",
+      "gloss": "अबीएल"
+    },
+    {
+      "surface": "הָעַרְבָתִֽי",
+      "gloss": "अरबती"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:17.314628212Z",
+  "model": "glm-5.2"
+}

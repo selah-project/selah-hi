@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 31:31",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और मोशे और एलअज़र हाकोहेन ने वैसा ही किया जैसा यहवे ने मोशे को आज्ञा दी थी।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और … किया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "और एलअज़र"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हाकोहेन"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी थी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे को"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे को"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:01.645114910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 87,
+  "translation": "लब्नी-कोरह का मज़मूर, एक गीत। उसकी नींव पवित्र पर्वतों में ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "लब्नी"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "उसकी नींव"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "पर्वतों में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:16.170581104Z",
+  "model": "glm-5.2"
+}

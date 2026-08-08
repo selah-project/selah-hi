@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "मतन्याह, मतनय, और यासौव।",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "मतन्याह"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "मतनय"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "और यासौव"
+    }
+  ],
+  "timestamp": "2026-08-07T23:50:12.812182809Z",
+  "model": "glm-5.2"
+}

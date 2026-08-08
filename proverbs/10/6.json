@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "बरकतें धर्मी के सिर पर ⟨होती हैं⟩, और दुष्टों का मुँह दबर ⟨को छिपाता है⟩।",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "बरकतें"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "सिर पर"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "और मुँह"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों का"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "छिपाता है"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "दबर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:25.819264015Z",
+  "model": "glm-5.2"
+}

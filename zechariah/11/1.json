@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "खोल, हे लबनोन, अपने द्वार, और आग तेरे देवदारों को खा जाए।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "हे लबनोन"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "अपने द्वार"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "और खा जाए"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "तेरे देवदारों को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:52:12.663475958Z",
+  "model": "glm-5.2"
+}

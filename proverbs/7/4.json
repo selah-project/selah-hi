@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "चतुराई से कह: “तू मेरी बहिन ⟨है⟩”; और समझ को तू परिचिता कह।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "कह"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "चतुराई से"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "मेरी बहिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "और परिचिता"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "समझ को"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "कह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:03.929959570Z",
+  "model": "glm-5.2"
+}

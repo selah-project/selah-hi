@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्योंकि मैं यहवे के नाम का स्मरण करूँगा; देवत्व बताओ हमारे एलोहीम के लिए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "मैं स्मरण करूँगा"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "बताओ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "देवत्व"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "हमारे एलोहीम के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:21.151456462Z",
+  "model": "glm-5.2"
+}

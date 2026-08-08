@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "“और याजक ⟨את⟩ उस स्त्री को समीप लाए, और उसे यहवे के सामने खड़ा करे।",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "और समीप लाए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उस स्त्री"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "और उसे खड़ा करे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:50.080252360Z",
+  "model": "glm-5.2"
+}

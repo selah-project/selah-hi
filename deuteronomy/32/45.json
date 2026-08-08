@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और मोशेह ने समाप्त किया ⟨את⟩ सब इन वचनों को सम्पूर्ण इस्राएल के प्रति बोलना।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "और समाप्त किया"
+    },
+    {
+      "surface": "मשה",
+      "gloss": "मोशेह ने"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोलना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब इन वचनों को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "इन वचनों को"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के प्रति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:58.489820051Z",
+  "model": "glm-5.2"
+}

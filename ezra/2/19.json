@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "खशुम के बेटे, दो सौ तेईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "खशुम"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:51.389849464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और गिबोन में बसे गिबोन के पिता येउएल, और उसकी पत्नी का नाम माअाहा था।",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "और गिबोन में"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबोन"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "येउएल"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उसकी पत्नी"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअाहा"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:39.956013943Z",
+  "model": "glm-5.2"
+}

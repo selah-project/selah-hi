@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "एप्रैम मूर्तियों के साथ जुड़ा हुआ ⟨है⟩; उसे छोड़ दो।",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "जुड़ा हुआ"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "मूर्तियों के साथ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "छोड़ दो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:34.176341790Z",
+  "model": "glm-5.2"
+}

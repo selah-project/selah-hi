@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यहवे का वचन मेरे पास आया, कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:30:47.490137158Z",
+  "model": "glm-5.2"
+}

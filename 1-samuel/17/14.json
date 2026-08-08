@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और दावीद ⟨वही⟩ सबसे छोटा ⟨था⟩; और तीन बड़े शाउल के पीछे गए।",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "और दावीद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨वही⟩"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "सबसे छोटा"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "गए"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के पीछे"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:18:51.020683546Z",
+  "model": "glm-5.2"
+}

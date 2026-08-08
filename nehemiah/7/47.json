@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "केरोस के बेटे, सीआ के बेटे, पदोन के बेटे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "केरोस"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "सीआ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "पदोन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:27.711676159Z",
+  "model": "glm-5.2"
+}

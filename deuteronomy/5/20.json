@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और तू अपने निकट के विरुद्ध खोटा साक्षी ⟨नहीं⟩ देगा।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "देगा"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "अपने निकट के विरुद्ध"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "खोटा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:34.084633671Z",
+  "model": "glm-5.2"
+}

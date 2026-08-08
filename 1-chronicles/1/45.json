@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और योबाब की मृत्यु हुई, और उसके स्थान पर तेमानी देश का हूशाम राजा बना।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मृत्यु हुई"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबाब"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "और राजा बना"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसके स्थान पर"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "हूशाम"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश का"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "तेमानी"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:21.272399317Z",
+  "model": "glm-5.2"
+}

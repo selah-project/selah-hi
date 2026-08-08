@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 66,
+  "translation": "अनृत— यदि मैंने देखा होता ⟨अपने⟩ हृदय में, तो अदोनाय न सुनता।",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "अनृत"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखा होता"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "हृदय में"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुनता"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:36.162310332Z",
+  "model": "glm-5.2"
+}

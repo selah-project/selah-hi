@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और माप-रेखा आगे निकलेगी — उसके सामने गारेब की पहाड़ी पर — और गोअह तक घूम जाएगी।",
+  "tokens": [
+    {
+      "surface": "ונבנתה",
+      "gloss": "और निकलेगी"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "माप-रेखा"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "माप की"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "उसके सामने"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "पहाड़ी"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "गारेब"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "और घूम जाएगी"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "गोअह तक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:19:02.716778301Z",
+  "model": "glm-5.2"
+}

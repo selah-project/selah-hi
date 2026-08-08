@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "क्योंकि त्सोअन में उसके सरदार थे, और उसके दूत खानेस पहुँचे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "त्सोअन में"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "उसके सरदार"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "और उसके दूत"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "खानेस"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "पहुँचे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:01:17.819122466Z",
+  "model": "glm-5.2"
+}

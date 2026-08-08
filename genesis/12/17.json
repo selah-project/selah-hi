@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "तब यहवे ने फरौह को ⟨את⟩ बड़े नेग लगाए और ⟨את⟩ उसके घर को — शरय के बारे में, अवराम की पत्नी के।",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "तब…लगाए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फरौह"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "नेग"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके घर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "उसके घर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "शरय"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अवराम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:14:05.358361612Z",
+  "model": "glm-5.2"
+}

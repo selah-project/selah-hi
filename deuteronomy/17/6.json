@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "दो साक्षियों के मुख पर या तीन साक्षियों के मुख पर मरने वाला मारा जाएगा; एक साक्षी के मुख पर वह न मारा जाएगा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "साक्षियों"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "साक्षियों"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मारा जाएगा"
+    },
+    {
+      "surface": "המת",
+      "gloss": "मरने वाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मारा जाएगा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:34.171450245Z",
+  "model": "glm-5.2"
+}

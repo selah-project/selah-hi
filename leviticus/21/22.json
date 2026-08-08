@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "अपने एलोहीम का भोजन, पवित्रों के पवित्र से और पवित्रों से वह खा सकता है।",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "अपने एलोहीम का"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "पवित्रों के"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "और से"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्रों"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खा सकता है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:58.301586377Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "क्योंकि रक्त का खोजी ⟨उन्हें⟩ स्मरण करता है; वह दीनों की चीख नहीं भूलता।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "खोजी"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "उन्हें"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "स्मरण करता है"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "भूलता"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "चीख"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "दीनों की"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:54.643608152Z",
+  "model": "glm-5.2"
+}

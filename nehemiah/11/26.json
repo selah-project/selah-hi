@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और येशूआ में, और मोलादा में, और बेत-पालेत में।",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "और येशूआ में"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "और मोलादा में"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "और बेत-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पालेत में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:42.473564021Z",
+  "model": "glm-5.2"
+}

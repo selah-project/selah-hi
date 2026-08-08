@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "यहवे ने मेरी प्रार्थना सुनी है; यहवे मेरी विनती ग्रहण करेगा।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनी है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "मेरी प्रार्थना"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "मेरी विनती"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ग्रहण करेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:25.223090675Z",
+  "model": "glm-5.2"
+}

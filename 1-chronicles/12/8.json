@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और योएलाह और ज़बद्याह, यरोहाम के बेटे, गेदोर से —",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "और योएलाह"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "और ज़बद्याह"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोहाम"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "गेदोर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:09.158744788Z",
+  "model": "glm-5.2"
+}

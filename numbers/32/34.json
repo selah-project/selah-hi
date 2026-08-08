@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और गाद के बेटों ने बनाए ⟨את⟩ दीबोन को और ⟨את⟩ अतारोत को और ⟨את⟩ अरोएर को।",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "और बनाए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों ने"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दीबोन"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "दीबोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अतारोत"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अतारोत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अरोएर"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "अरोएर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:25.227826241Z",
+  "model": "glm-5.2"
+}

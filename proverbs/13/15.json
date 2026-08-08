@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "अच्छा बुद्धि अनुग्रह देता है, परन्तु बेवफ़ाओं का मार्ग कठिन है।",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देता है"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "परन्तु मार्ग"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "बेवफ़ाओं का"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "कठिन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:16.496950897Z",
+  "model": "glm-5.2"
+}

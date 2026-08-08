@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "तब यहवे ने मूशा से बात की, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब … ने बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूशा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:58.671447123Z",
+  "model": "glm-5.2"
+}

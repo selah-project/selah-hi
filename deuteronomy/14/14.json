@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और ⟨את⟩ हर कौआ — उसके अपने प्रकार के अनुसार।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हर कौआ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "कौआ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "उसके प्रकार के अनुसार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:42.001801971Z",
+  "model": "glm-5.2"
+}

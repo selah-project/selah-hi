@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "भय और फन्दा हमारे लिए ⟨हो गया⟩ है — व्यापक विनाश और टूटना।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "और फन्दा"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨हो गया⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "व्यापक विनाश"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "और टूटना"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:16.190382190Z",
+  "model": "glm-5.2"
+}

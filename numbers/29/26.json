@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और पाँचवें दिन नौ बैल, दो मेढ़े, और चौदाह एक वर्ष के मेमने, निर्दोष।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और-दिन पर"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचवें"
+    },
+    {
+      "surface": "परים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "मेढ़े"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बच्चे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष के"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:03.986459976Z",
+  "model": "glm-5.2"
+}

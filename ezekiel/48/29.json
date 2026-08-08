@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 48:29",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "זֹ֥את הָאָ֛רֶץ אֲשֶר־תַּפִּ֥ילוּ לְנַחֲלָ֖ה לְשִׁבְטֵ֣י יִשְׂרָאֵ֑ל וְאֵ֨לֶּה֙ מַחְלְקוֹתָ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "זֹאת",
+      "transliteration": "zo't",
+      "lemma": "זֹאת",
+      "strong": "H2063",
+      "morph": "Pdcs",
+      "gloss_en": "this",
+      "gloss_hi": "यह"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "הָאָרֶץ",
+      "transliteration": "ha'aretz",
+      "lemma": "אֶרֶץ",
+      "strong": "H776",
+      "morph": "Ncbsa",
+      "gloss_en": "the land",
+      "gloss_hi": "भूमि"
+    },
+    {
+      "surface": "אֲשֶר",
+      "gloss": "אֲשֶׁר",
+      "transliteration": "asher",
+      "lemma": "אֲשֶׁר",
+      "strong": "H0834",
+      "morph": "Tr",
+      "gloss_en": "which",
+      "gloss_hi": "जो"
+    },
+    {
+      "surface": "תַפִּילוּ",
+      "gloss": "תַפִּילוּ",
+      "transliteration": "tappilu",
+      "lemma": "נָפַל",
+      "strong": "H5307",
+      "morph": "Vhi2mp",
+      "gloss_en": "you shall cause to fall",
+      "gloss_hi": "तुम गिराओ"
+    },
+    {
+      "surface": "מִנַּחֲלָה",
+      "gloss": "מִּנַּחֲלָה",
+      "transliteration": "minachalah",
+      "lemma": "נַחֲלָה",
+      "strong": "H5159",
+      "morph": "Ncfsa:Sd",
+      "gloss_en": "for an inheritance",
+      "gloss_hi": "विरासत के लिए"
+    },
+    {
+      "surface": "לְשִׁבְטֵי",
+      "gloss": "לְשִׁבְטֵי",
+      "transliteration": "leshivtei",
+      "lemma": "שֵׁבֶט",
+      "strong": "H7626",
+      "morph": "Ncmpc:Rd",
+      "gloss_en": "to the tribes of",
+      "gloss_hi": "के गोत्रों के लिए"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "יִשְׂרָאֵל",
+      "transliteration": "Yisra'el",
+      "lemma": "יִשְׂרָאֵל",
+      "strong": "H3478",
+      "morph": "Np",
+      "gloss_en": "Israel",
+      "gloss_hi": "इस्राएल"
+    },
+    {
+      "surface": "וְאֵלֶּה",
+      "gloss": "וְאֵלֶּה",
+      "transliteration": "ve'elleh",
+      "lemma": "אֵלֶּה",
+      "strong": "H0428",
+      "morph": "Pdpc:C",
+      "gloss_en": "and these",
+      "gloss_hi": "और ये"
+    },
+    {
+      "surface": "מַחְלְקוֹתָם",
+      "gloss": "מַחְלְקוֹתָם",
+      "transliteration": "machleqotam",
+      "lemma": "מַחֲלֹקֶת",
+      "strong": "H4256",
+      "morph": "Ncfpc:Sp3mp",
+      "gloss_en": "their portions",
+      "gloss_hi": "उनके भाग"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "נְאֻם",
+      "transliteration": "ne'um",
+      "lemma": "נְאֻם",
+      "strong": "H5002",
+      "morph": "Ncmsc",
+      "gloss_en": "oracle of",
+      "gloss_hi": "वचन"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "אֲדֹנָי",
+      "transliteration": "Adonai",
+      "lemma": "אֲדֹנָי",
+      "strong": "H0136",
+      "morph": "Ncmpa:Sp1cs",
+      "gloss_en": "the Lord",
+      "gloss_hi": "प्रभु"
+    },
+    {
+      "surface": "יְהוִה",
+      "gloss": "יְהוָה",
+      "transliteration": "YHWH",
+      "lemma": "יְהֹוָה",
+      "strong": "H3068",
+      "morph": "Np",
+      "gloss_en": "YHWH",
+      "gloss_hi": "यहोवा"
+    }
+  ],
+  "timestamp": "2026-08-08T02:57:43.484486047Z",
+  "model": "glm-5.2"
+}

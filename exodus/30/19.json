@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और अहरोन और उसके बेटे उससे अपने हाथ और अपने पाँव धोएँ।",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "और धोएँ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "और उसके बेटे"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने हाथ"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "अपने हाथ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अपने पाँव"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "अपने पाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T20:11:05.603264157Z",
+  "model": "glm-5.2"
+}

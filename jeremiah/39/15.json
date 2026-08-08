@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "और यिर्मयाहू के पास यहवे का वचन हुआ, जब वह चौकी-प्रांगण में बंद था, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "और की ओर"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "जब वह था"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "बंद"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "में"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "चौकी-प्रांगण"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:21:33.880858902Z",
+  "model": "glm-5.2"
+}

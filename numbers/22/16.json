@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 22:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और वे बिलाम के पास आए और उससे कहा, “बालाक त्सिप्पोर के बेटे का यह कथन है: ‘मुझ तक आने से कृपया रुको मत।’”",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "और वे आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कथन है"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "त्सिप्पोर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "रुको"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "आने से"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझ तक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:40.690406112Z",
+  "model": "glm-5.2"
+}

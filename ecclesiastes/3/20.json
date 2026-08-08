@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "सब एक स्थान की ओर जाता है; सब धूल से ⟨हुआ⟩, और सब धूल की ओर लौटता है।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जाता है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨हुआ⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "धूल"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटता है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "धूल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:50.412408209Z",
+  "model": "glm-5.2"
+}

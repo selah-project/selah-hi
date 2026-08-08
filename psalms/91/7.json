@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 91,
+  "translation": "तेरे साथ सहस्र गिरें, और दस हज़ार तेरे दाहिनी ओर; परन्तु वह तेरे निकट न आए।",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "गिरें"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "तेरे साथ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "सहस्र"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "और दस हज़ार"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "तेरे दाहिनी ओर"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे निकट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "आए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:21.717816215Z",
+  "model": "glm-5.2"
+}

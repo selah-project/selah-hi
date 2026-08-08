@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "वृद्ध फाटक से विराम पाए, बच्चे अपने वादन से।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "משער",
+      "gloss": "फाटक से"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "विराम पाए"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "बच्चे"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "अपने वादन से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:26.054151179Z",
+  "model": "glm-5.2"
+}

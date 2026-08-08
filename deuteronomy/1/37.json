@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और मुझ पर भी यहवे तुम्हारे कारण क्रोधित हुआ, कहकर: तुम भी वहाँ न आओ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझ पर"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "क्रोधित हुआ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "तुम्हारे कारण"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "आओ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:27.803660652Z",
+  "model": "glm-5.2"
+}

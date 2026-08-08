@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨हुआ⟩ सारी पृथ्वी ⟨की⟩ एक वाणी और एक-से शब्द।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨हुआ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "वाणी"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "और शब्द"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "एक-से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:08.701261482Z",
+  "model": "glm-5.2"
+}

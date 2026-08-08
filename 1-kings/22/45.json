@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और यहोशाफात ने इस्राएल के राजा के साथ शान्ति की।",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "और की शान्ति"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:44:51.018999911Z",
+  "model": "glm-5.2"
+}

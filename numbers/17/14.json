@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और महामारी में मरने वाले चौदह हज़ार और सात सौ हुए, कोरह के विषय पर मरने वालों के अतिरिक्त।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरने वाले"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारी में"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौदह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "के अतिरिक्त"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरने वालों"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "विषय"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:34:21.219165638Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "तब अन्धों की आँखें खुलेंगी और बधिरों के कान खोले जाएँगे।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "खुलेंगी"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखें"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "अन्धों की"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "और कान"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "बधिरों के"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "खोले जाएँगे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:02:02.941302513Z",
+  "model": "glm-5.2"
+}

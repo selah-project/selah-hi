@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "जो बदले में भलाई के बदले बुराई लौटाता है, उसके घर से बुराई नहीं हटेगी।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "लौटाता है"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "हटेगी"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "उसके घर से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:56.187081125Z",
+  "model": "glm-5.2"
+}

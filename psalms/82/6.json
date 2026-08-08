@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 82,
+  "translation": "मैं ने कहा: “एलोहीम तुम हो, और एल्योन के बेटे तुम सब हो।”",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ने कहा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम हो"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन के"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तुम सब"
+    }
+  ],
+  "timestamp": "2026-08-07T23:05:40.019129332Z",
+  "model": "glm-5.2"
+}

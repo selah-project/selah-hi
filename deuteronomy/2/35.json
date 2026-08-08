@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "केवल ढोर-पशु ही हम ने अपने लिए लूटे, और उन नगरों का लूट हम ने ले लिया जिन्हें हम ने जीता।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ढोर-पशु"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "हम-ने-लूटा"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "और लूट"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "नगरों का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिन्हें"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "हम-ने-जीता"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:51.624641846Z",
+  "model": "glm-5.2"
+}

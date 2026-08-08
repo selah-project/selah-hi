@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और मोशे ⟨की⟩ ओर ⟨से⟩ जाता हुआ नीचे उतरा ⟨लोगों⟩ के पास, और उनसे कहा।",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "और उतरा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगों के पास"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:05:05.975642923Z",
+  "model": "glm-5.2"
+}

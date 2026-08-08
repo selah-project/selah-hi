@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "तब त्सोपर हन्नामाती ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब उत्तर दिया"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सोपर"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "हन्नामाती"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:28:35.254639614Z",
+  "model": "glm-5.2"
+}

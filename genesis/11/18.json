@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और पेलेग ने तीस वर्ष जीवित रहा, और उसने ⟨את⟩ रेऊ को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "और जीवित रहा"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पेलेग"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रेऊ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेऊ"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:52.273968754Z",
+  "model": "glm-5.2"
+}

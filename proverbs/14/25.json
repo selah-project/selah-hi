@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "सच्चा साक्षी ⟨ने⟩ प्राणों को बचाया, और जो झूठ फूँकता है वह ⟨है⟩ धोखा।",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "बचाता है"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "प्राणों को"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सच्चा"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "और फूँकता है"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:44.325007865Z",
+  "model": "glm-5.2"
+}

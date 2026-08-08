@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और बेथ-पाओर, और हाप्सिग्गा की ढलानें, और बेथ-हयशिमोत।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "और बेथ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "पाओर"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "और ढलानें"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "हाप्सिग्गा"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेथ"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "हयशिमोत"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:11.683117612Z",
+  "model": "glm-5.2"
+}

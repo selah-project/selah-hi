@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "जो ⟨कोई⟩ पत्नी पाता है, वह भलाई पाता है, और उसने यहवे से अनुग्रह प्राप्त किया।",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "पाता है"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "पाता है"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "और प्राप्त किया"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:58.823374231Z",
+  "model": "glm-5.2"
+}

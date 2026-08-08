@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "मेरा अनुशासन लो ⟨और⟩ चाँदी नहीं, और ज्ञान चुने हुए सोने से ⟨बढ़कर।⟩",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "लो"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "मेरा अनुशासन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "और ज्ञान"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "सोने से"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "चुने हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:05.718060177Z",
+  "model": "glm-5.2"
+}

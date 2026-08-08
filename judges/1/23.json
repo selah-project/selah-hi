@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और योसेफ के कुल ने बेथ-एल में जासूसी करवाई; और उस नगर का नाम पहले लूज़ था।",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "और जासूसी करवाई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "कुल ने"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेथ में"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "और नाम"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर का"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "लूज़"
+    }
+  ],
+  "timestamp": "2026-08-07T21:04:16.378287730Z",
+  "model": "glm-5.2"
+}

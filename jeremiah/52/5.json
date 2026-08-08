@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 52,
+  "translation": "और ⟨आई⟩ ⟨अवरोध में⟩ नगर, तक ग्यारहवें वर्ष ⟨के⟩ राजा त्सिद्कियाहू के।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "और ⟨आई⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "⟨अवरोध में⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ग्यारह-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "वें"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिद्कियाहू"
+    }
+  ],
+  "timestamp": "2026-08-08T00:30:18.813237516Z",
+  "model": "glm-5.2"
+}

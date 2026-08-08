@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यिश्मायाह गिबाओनी, तीस में एक बहादुर, और तीस के ऊपर।",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "और यिश्मायाह"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "गिबाओनी"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बहादुर"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "तीस में"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और ऊपर"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "तीस के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:59.245389823Z",
+  "model": "glm-5.2"
+}

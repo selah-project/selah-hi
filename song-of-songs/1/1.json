@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "गीतों का गीत, जो शलोमोह का ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "गीतों का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:25.378301637Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और हीराम ने ⟨राजा के पास⟩ एक सौ बीस किक्कर सोना भेजा।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "और उसने भेजा"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "हीराम"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा के पास"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    }
+  ],
+  "timestamp": "2026-08-07T21:38:57.097490472Z",
+  "model": "glm-5.2"
+}

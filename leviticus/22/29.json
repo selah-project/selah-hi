@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 22:29",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और जब तुम यहवे के लिए धन्यवाद का बलि बलि करो, तो अपनी इच्छा से बलि करो।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और जब"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "तुम बलि करो"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "धन्यवाद का"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "अपनी इच्छा से"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "तुम बलि करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:30.031152062Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 81,
+  "translation": "काश मेरी प्रजा मेरी सुनती, यिस्राएल मेरे मार्गों में चलते!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "काश"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरी प्रजा"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनती"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरी"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "मेरे मार्गों में"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "चलते"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:03.647606335Z",
+  "model": "glm-5.2"
+}

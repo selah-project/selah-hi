@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 104,
+  "translation": "पहाड़ चढ़े, घाटियाँ उतरीं — उस स्थान की ओर जो तूने उनके लिए नियुक्त किया।",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "चढ़े"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "उतरीं"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "घाटियाँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "זה",
+      "gloss": "उस"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "तूने नियुक्त किया"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:25.329564743Z",
+  "model": "glm-5.2"
+}

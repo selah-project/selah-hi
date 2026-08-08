@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨את⟩ पोराता और ⟨את⟩ अदल्या और ⟨את⟩ अरीदाता।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "पोराता"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "पोराता"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अदल्या"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "अदल्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अरीदाता"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "अरीदाता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:41:49.726383057Z",
+  "model": "glm-5.2"
+}

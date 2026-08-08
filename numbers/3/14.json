@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और यहवे ने सीनय के मरुभूमि में मोशे से कहा, यों कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमि में"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनय के"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:28:37.180144904Z",
+  "model": "glm-5.2"
+}

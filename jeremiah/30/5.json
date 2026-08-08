@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "क्योंकि यहवे ने इस प्रकार कहा: “हमने एक ध्रुति का स्वर सुना है — भय ⟨है⟩, और कोई शलोम नहीं।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "इस प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "ध्रुति"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "हमने सुना है"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शलोम"
+    }
+  ],
+  "timestamp": "2026-08-08T02:43:47.060041674Z",
+  "model": "glm-5.2"
+}

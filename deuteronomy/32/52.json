@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्योंकि तू दूर से ⟨את⟩ देश को देखेगा, और वहाँ उस देश में नहीं आएगा जो मैं इस्राएल के बेटों को दे रहा हूँ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "तू देखेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "देश को"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "और वहाँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "तू आएगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दे रहा हूँ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों को"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:27.416885252Z",
+  "model": "glm-5.2"
+}

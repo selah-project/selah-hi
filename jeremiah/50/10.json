@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 50:10",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "“और कस्दिम लूट के लिए होगी, उसके सब लुटेरे तृप्त होंगे” — יהוה का ओरकल।",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "और ⟨वह⟩ होगी"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कस्दिम"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "लूट के लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "उसके सब"
+    },
+    {
+      "surface": "שלליה",
+      "gloss": "लुटेरे"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "तृप्त होंगे"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ओरकल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-08-08T02:49:39.048577753Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उसने फिर से सात दिन और रुका, और उसने ⟨את⟩ कबूतर को भेजा; और उसने फिर से उसके पास लौटना नहीं जोड़ा।",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "और रुका"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर से"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "और"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "और भेजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कबूतर को"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "कबूतर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "जोड़ा"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौटना"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसके पास"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:10.602143026Z",
+  "model": "glm-5.2"
+}

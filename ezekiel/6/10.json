@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और वे जान लेंगे कि मैं ही यहवे हूँ; व्यर्थ नहीं कि मैंने यह बुराई उनके लिए करने की बात कही थी।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "और वे जान लेंगे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "व्यर्थ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "मैंने कही"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने की"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "यह बुराई"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T22:26:43.816749682Z",
+  "model": "glm-5.2"
+}

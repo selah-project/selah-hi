@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और मीका के पुत्र थे: पिथोन और मेलेक और तहरेआ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और … के पुत्र"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीका"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पिथोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "और मेलेक"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "और तहरेआ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:40.001071561Z",
+  "model": "glm-5.2"
+}

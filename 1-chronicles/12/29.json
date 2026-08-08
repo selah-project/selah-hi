@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और त्सादोक, एक बालक, सामर्थ्यवान योद्धा, और उसके पिता के घर के बाईस सरदार।",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "और त्सादोक"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "सामर्थ्यवान योद्धा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बल"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और ⟨के⟩ घर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "उसके पिता"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:36.574941582Z",
+  "model": "glm-5.2"
+}

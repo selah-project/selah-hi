@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "तू अपने लिए गुँजे बनाएँ — उस वस्त्र की चारों छोरों पर जिससे तू ढकता है।",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "गुँजे"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "बनाएँ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "छोरों"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "तेरे वस्त्र"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिससे"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "तू ढकता है"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:47.331826062Z",
+  "model": "glm-5.2"
+}

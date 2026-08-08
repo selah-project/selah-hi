@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और खमोर, शखेम का पिता, याकोब के पास निकला उससे बात करने।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "खमोर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शखेम का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बात करने"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:14:13.448233241Z",
+  "model": "glm-5.2"
+}

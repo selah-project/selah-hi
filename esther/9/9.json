@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨את⟩ पर्मश्ता, और ⟨את⟩ अरिसय, और ⟨את⟩ अरिदय, और ⟨את⟩ वयजता।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "पर्मश्ता"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "पर्मश्ता"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अरिसय"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "अरिसय"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अरिदय"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "अरिदय"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "वयजता"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "वयजता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:41:53.848557438Z",
+  "model": "glm-5.2"
+}

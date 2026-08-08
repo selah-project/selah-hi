@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "मेरे एलोहीम, मुझे भलाई के लिए स्मरण करना — सब कुछ जो मैंने इस जनता के लिए किया है।",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "स्मरण करना"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "मेरे एलोहीम"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भलाई के लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "मैंने किया है"
+    },
+    {
+      "surface": "על",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "इस जनता"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:51:27.983450391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "धिक्कारित ⟨हो⟩ वह जो अपने पिता और अपनी माता का तिरस्कार करता है; और सब लोग कहें: आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कारित"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "तिरस्कार करता है जो"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "अपने पिता"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "और अपनी माता"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और कहें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:49.035114939Z",
+  "model": "glm-5.2"
+}

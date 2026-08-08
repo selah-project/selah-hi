@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "⟨नतीनिम⟩: त्सीखा के बेटे, खसुफा के बेटे, तब्बाओत के बेटे।",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "⟨नतीनिम⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "त्सीखा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "खसुफा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "तब्बाओत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:27.711564450Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 114,
+  "translation": "तुझे क्या हुआ, हे समुद्र, कि तू भागा? हे यर्दन, कि तू पीछे ⟨मुड़ा⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "הים",
+      "gloss": "हे समुद्र"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "तू भागा"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "हे यर्दन"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "तू मुड़ा"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "पीछे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:12.908377425Z",
+  "model": "glm-5.2"
+}

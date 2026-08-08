@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "“कौन भोला ⟨है⟩? वह यहाँ आ जाए।” हृदय से रहित को वह कहती है:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "भोला"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "मुड़े"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "रहित"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय से"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "वह कहती है"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:30.989518633Z",
+  "model": "glm-5.2"
+}

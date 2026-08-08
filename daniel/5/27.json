@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "तेकेल — तू तराजू में तोला गया, और तू कमी वाला पाया गया।",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "तेकेल"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "तू तोला गया"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "तराजू में"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "और तू पाया गया"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "कमी वाला"
+    }
+  ],
+  "timestamp": "2026-08-07T23:43:03.679575294Z",
+  "model": "glm-5.2"
+}

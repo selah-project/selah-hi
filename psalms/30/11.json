@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "“सुन, यहवे, और मुझ पर अनुग्रह कर; यहवे, मेरे लिए सहायक बन।”",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "और मुझ पर अनुग्रह कर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बन"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "सहायक"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:03.401959044Z",
+  "model": "glm-5.2"
+}

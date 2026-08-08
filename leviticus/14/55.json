@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और वस्त्र के त्वचा-रोग के लिए और घर के लिए।",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "और त्वचा-रोग के लिए"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "और घर के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:22.679865895Z",
+  "model": "glm-5.2"
+}

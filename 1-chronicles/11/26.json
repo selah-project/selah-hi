@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और सेनाओं के शूरवीर ⟨थे⟩: असाहेल योआब का भाई, एलहानान दोदो का पुत्र बेत-लेहेम का,",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "और शूरवीर"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "सेनाओं के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "असाहेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "असाहेल"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "का भाई"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "एलहानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "दोदो"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेहेम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:20.662383591Z",
+  "model": "glm-5.2"
+}

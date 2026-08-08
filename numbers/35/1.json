@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और यहवे ने मोशे से बात की, मोआब के अराबों में, यर्देन के पार यरीहो के सामने, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "अराबों में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पार"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "यर्देन"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:41.661375635Z",
+  "model": "glm-5.2"
+}

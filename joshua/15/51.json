@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और गोशेन, और चोलोन, और गिलोह — ग्यारह नगर ⟨और⟩ उनके गाँव।",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "और गोशेन"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "और चोलोन"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "और गिलोह"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ग्यारह"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "और उनके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:06.037397084Z",
+  "model": "glm-5.2"
+}

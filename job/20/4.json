@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "क्या तुम यह जानते हो प्राचीन काल से, मनुष्य को पृथ्वी पर रखे जाने से?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "तुम जानते हो"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "प्राचीन काल"
+    },
+    {
+      "surface": "מני",
+      "gloss": "से"
+    },
+    {
+      "surface": "שים",
+      "gloss": "रखे जाने"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:28:35.255260588Z",
+  "model": "glm-5.2"
+}

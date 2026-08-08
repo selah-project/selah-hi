@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "⟨तीन⟩ में से ⟨दो⟩ में ⟨वह⟩ अधिक माननीय था, और वह उनके लिए सरदार बना; और तीन ⟨के⟩ तक ⟨वह⟩ नहीं पहुँचा।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "दो में"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "माननीय था"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और वह बना"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और तक"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "בא",
+      "gloss": "पहुँचा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:13.934579194Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और उसके भाइयों के बीच उसके लिए कोई भाग्य नहीं ⟨होगा⟩; यहवे ही उसका भाग्य है, जैसा उसने उससे कहा।",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "और भाग्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसके भाइयों"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ही"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "उसका भाग्य"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "उसने कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:23.654344535Z",
+  "model": "glm-5.2"
+}

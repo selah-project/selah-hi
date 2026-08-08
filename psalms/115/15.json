@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 115,
+  "translation": "धन्य ⟨हैं⟩ तुम यहवे के ⟨लिए⟩, बनानेवाले आकाश और पृथ्वी के।",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनानेवाले"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "और पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:01.271746115Z",
+  "model": "glm-5.2"
+}

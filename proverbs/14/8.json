@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "चतुर ⟨की⟩ बुद्धि ⟨उसका⟩ अपना मार्ग समझना है, और मूर्खों की मूर्खता धोखा है।",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "समझना"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "अपना-मार्ग"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "और-मूर्खता"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खों"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:48.476625027Z",
+  "model": "glm-5.2"
+}

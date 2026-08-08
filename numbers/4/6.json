@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 4:6",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उस पर रखें तख़श चर्म-आवरण, और फैलाएँ पूरी तखेलेत की वस्त्र, ऊपर से, और उसके बडे लगाएँ।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "और रखें"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "आवरण"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चर्म"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "तख़श"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "और फैलाएँ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरी"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "तखेलेत"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ऊपर से"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "और लगाएँ"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "उसके बडे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:05.909704962Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "ये राहेल के पुत्र हैं जो याकोव के लिए जन्मे; सब नफश चौदह थीं।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… के पुत्र"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मे"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोव के लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफश"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    }
+  ],
+  "timestamp": "2026-08-07T19:57:08.490326859Z",
+  "model": "glm-5.2"
+}

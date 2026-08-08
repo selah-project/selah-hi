@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "क्योंकि खेत में वह उसे पाया — मँगाई गई छोकरी ने चीखा, और उसे बचाने वाला कोई नहीं था।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "वह पाया उसे"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "चीखा"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "छोकरी"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "मँगाई गई"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं था"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचाने वाला"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:33.275505385Z",
+  "model": "glm-5.2"
+}

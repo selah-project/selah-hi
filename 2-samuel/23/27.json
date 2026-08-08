@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "अबीएज़ेर ⟨हा⟩अनातोती, मबुन्नाय ⟨हा⟩हुशाती",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "अबीएज़ेर"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "अनातोती"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "मबुन्नाय"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "हुशाती"
+    }
+  ],
+  "timestamp": "2026-08-07T21:32:49.878987585Z",
+  "model": "glm-5.2"
+}

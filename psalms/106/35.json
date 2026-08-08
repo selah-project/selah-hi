@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 106,
+  "translation": "और वे जातियों में मिल गए, और उनके काम सीखे।",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "और वे मिल गए"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जातियों में"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "और सीखे"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "उनके काम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:00.929044727Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "जोंक के लिए दो बेटियाँ हैं: दे, दे! तीन चीज़ें ऐसी हैं जो नहं संतुष्ट होतीं — चार नहं कहती “बस!”",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "जोंक के लिए"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दो"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियाँ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "दे"
+    },
+    {
+      "surface": "הב",
+      "gloss": "दे"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "चीज़ें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहं"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "संतुष्ट होतीं"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहं"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "कहती"
+    },
+    {
+      "surface": "הון",
+      "gloss": "बस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:24.224456561Z",
+  "model": "glm-5.2"
+}

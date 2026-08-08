@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 23:3",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "बड़े जलों पर शिहोर का अनाज ⟨है⟩, नदी की कटाई उसकी आय ⟨थी⟩; वह गोयों का बाज़ार बन गई।",
+  "tokens": [
+    {
+      "surface": "ובמים",
+      "gloss": "जलों पर"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बड़े"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "अनाज"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "शिहोर"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "कटाई"
+    },
+    {
+      "surface": "יאור",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "उसकी आय"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "और वह बन गई"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "बाज़ार"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयों"
+    }
+  ],
+  "timestamp": "2026-08-07T21:59:26.945407784Z",
+  "model": "glm-5.2"
+}

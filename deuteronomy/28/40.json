@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "तेरे सब सीमाओं में जैतून ⟨होंगे⟩ तेरे लिए, और तू तेल न लगाएगा, क्योंकि तेरा जैतून झड़ जाएगा।",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "वे होंगे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "तेरी सब में"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "सीमाओं"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "और तेल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "तू लगाएगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "वह झड़ जाएगा"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "तेरा जैतून"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:32.147109107Z",
+  "model": "glm-5.2"
+}

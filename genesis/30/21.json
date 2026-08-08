@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और बाद में उसने एक बेटी को जना और उसने ⟨את⟩ उसका नाम दीना बुलाया।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "और बाद में"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "उसने जना"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी को"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "और उसने बुलाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसका नाम"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "दीना"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:58.650480261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और अबीमेलेक ने अवराहाम से कहा, “तुमने क्या देखा, कि तुमने ⟨את⟩ यह बात की?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबीमेलेक ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "तुमने देखा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "तुमने की"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यह बात"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:38.806534182Z",
+  "model": "glm-5.2"
+}

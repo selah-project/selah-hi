@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यहोशुए, नून का बेटा, यहवे का दास, एक सौ और दस वर्ष का बेटा होकर, मर गया।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मर गया"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुए"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून का"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "और दस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T21:04:45.150771024Z",
+  "model": "glm-5.2"
+}

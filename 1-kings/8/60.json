@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "इसलिए कि पृथ्वी के सब लोग जानें कि यहवे ही ⟨है⟩ एलोहीम; ⟨उसके अतिरिक्त⟩ और कोई नहीं।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "इसलिए कि"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "जानें"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ही"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और कोई"
+    }
+  ],
+  "timestamp": "2026-08-07T21:37:56.667576149Z",
+  "model": "glm-5.2"
+}

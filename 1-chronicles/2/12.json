@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और बोअज़ ने जन्म दिया ⟨את⟩ ओबेद को, और ओबेद ने जन्म दिया ⟨את⟩ यिशय को।",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "और बोअज़"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "और ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशय"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.048810051Z",
+  "model": "glm-5.2"
+}

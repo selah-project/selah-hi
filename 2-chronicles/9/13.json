@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और उस स्वर्ण का भार जो एक वर्ष में शलोमोह के पास आया था, छह सौ छियासठ स्वर्ण-किकरों के बराबर था।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "भार"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "उस स्वर्ण का"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आया था"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह के पास"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और छह"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "किकरों के बराबर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "स्वर्ण"
+    }
+  ],
+  "timestamp": "2026-08-08T01:17:14.985710765Z",
+  "model": "glm-5.2"
+}

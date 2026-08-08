@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और सल्मोन ने ⟨את⟩ बोअ्ज़ को जन्या, और बोअ्ज़ ने ⟨את⟩ ओबेद को जन्या।",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "और सल्मोन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअ्ज़"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअ्ज़"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "और बोअ्ज़"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:37.248627862Z",
+  "model": "glm-5.2"
+}

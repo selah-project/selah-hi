@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "यहवे, उद्धार कर! ⟨हमारे⟩ राजा जब हम पुकारें तब हमें उत्तर दे!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "उद्धार कर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "हमें उत्तर दे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "जब"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "हम पुकारें"
+    }
+  ],
+  "timestamp": "2026-08-07T22:55:47.858909496Z",
+  "model": "glm-5.2"
+}

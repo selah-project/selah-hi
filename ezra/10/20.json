@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और इम्मेर के बेटों में से: हननी और ज़बद्याह।",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "और बेटों में से"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हननी"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "और ज़बद्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:50:05.125036507Z",
+  "model": "glm-5.2"
+}

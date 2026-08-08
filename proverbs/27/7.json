@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "तृप्त प्राणी रौंदती है शहद को, और भूखी प्राणी को हर कड़वी चीज़ मीठी ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "तृप्त"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "रौंदती है"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "शहद को"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "और प्राणी को"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "भूखी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מר",
+      "gloss": "कड़वी चीज़"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "मीठी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:47.024354322Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और वे रपीदीम से यात्रा करके मरूबूम सीनय में डेरे।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "और वे यात्रा करके"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "रपीदीम से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और डेरे"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरूबूम में"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सीनय"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:57.778141902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "इसलिए, हे रखवालो, सुनो यहवे का वचन।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "हे रखवालो"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:34:34.275527627Z",
+  "model": "glm-5.2"
+}

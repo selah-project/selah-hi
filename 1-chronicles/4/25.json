@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "शल्लूम उसका पुत्र, मिब्साम उसका पुत्र, मिश्मा उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "शल्लूम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "मिब्साम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "मिश्मा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:38.350754526Z",
+  "model": "glm-5.2"
+}

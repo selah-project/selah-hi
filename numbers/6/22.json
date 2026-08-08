@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे ने मोशे से बात की, लेमर:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और ... बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "लेमर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:36.194894158Z",
+  "model": "glm-5.2"
+}

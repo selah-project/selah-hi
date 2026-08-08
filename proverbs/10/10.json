@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "आँख चुभाने वाला दुःख देता है, और बेवकूफ ओठों वाला गिर जाएगा।",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "चुभाने वाला"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देता है"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "और बेवकूफ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठों वाला"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "गिर जाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:37.209949992Z",
+  "model": "glm-5.2"
+}

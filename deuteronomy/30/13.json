@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 30:13",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और न वह समुद्र के पार ⟨है⟩, तुझे कहना, कौन हमारे लिए समुद्र के पार जाए और उसे हमारे लिए ले आए और उसे हमें सुनाए, कि हम ⟨את⟩ उसे करें?",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "पार"
+    },
+    {
+      "surface": "לים",
+      "gloss": "समुद्र के"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहना"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "जाए"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र के"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "और ले आए"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "और सुनाए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "कि हम करें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:24.800262234Z",
+  "model": "glm-5.2"
+}

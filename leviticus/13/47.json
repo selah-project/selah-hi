@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और ⟨जब⟩ वस्त्र में चर्मरोग का नेगा होगा — ऊन के वस्त्र में या सन के वस्त्र में —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "और ⟨जब⟩ वस्त्र"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨जब⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "में"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "नेगा"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "चर्मरोग का"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "वस्त्र में"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ऊन के"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "वस्त्र में"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "सन के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:27.657544797Z",
+  "model": "glm-5.2"
+}

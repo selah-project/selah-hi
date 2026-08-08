@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और उसकी सेना और उनके गणित — तिरेपन हज़ार और चार सौ।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "और उसकी सेना"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "और उनके गणित"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "और पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:28:15.002666493Z",
+  "model": "glm-5.2"
+}

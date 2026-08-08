@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यहवे आचाज से बात करते हुए फिर बोला:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "और फिर बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात करना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आचाज"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:18:32.219828679Z",
+  "model": "glm-5.2"
+}

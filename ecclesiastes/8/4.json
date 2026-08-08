@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "जहाँ राजा का वचन ⟨है⟩ वहाँ अधिकार ⟨है⟩, और उससे कौन कहेगा, “तू क्या करता ⟨है⟩?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "अधिकार"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "और कौन"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "कहेगा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू करता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:18.419139867Z",
+  "model": "glm-5.2"
+}

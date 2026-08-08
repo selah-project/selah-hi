@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 92,
+  "translation": "और तू ऊँचाई पर ⟨है⟩ लेआलाम, हे यहवे।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ऊँचाई पर"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "लेआलाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:55.409353482Z",
+  "model": "glm-5.2"
+}

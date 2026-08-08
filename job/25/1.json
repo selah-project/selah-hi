@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "तब बिल्दद हशूही ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब…ने उत्तर दिया"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "बिल्दद"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "हशूही"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:29:16.265690420Z",
+  "model": "glm-5.2"
+}

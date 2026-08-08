@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "भटके अन्धे चौकों में, रक्त में मलिन हुए; उनके वस्त्रों को स्पर्श न ⟨सके⟩।",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "भटके"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "अन्धे"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "चौकों में"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "मलिन हुए"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "रक्त में"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "⟨सके⟩"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "स्पर्श"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "उनके वस्त्रों को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:39.372449010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "नष्ट हो जाएगी शोमरोन, उसका राजा, जल के तल पर झाग के समान।",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "नष्ट हो जाएगी"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "उसका राजा"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "झाग के समान"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "פני",
+      "gloss": "तल"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:41:22.360206381Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "सुनो ⟨את⟩ ⟨है⟩ वह वचन जो यहवे ने तुम्हारे लिए बोला है, हे बेत यिस्राएल के घर:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वह वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "है वह वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोला है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "בית",
+      "gloss": "हे ... घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:13:53.955155534Z",
+  "model": "glm-5.2"
+}

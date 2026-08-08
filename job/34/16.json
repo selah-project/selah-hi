@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "और यदि तेरी समझ है, तो यह सुन; मेरे वचनों के स्वर को कान लगा।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "कान लगा"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "स्वर को"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "मेरे वचनों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:31:29.446025247Z",
+  "model": "glm-5.2"
+}

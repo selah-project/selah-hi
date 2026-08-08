@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "मैं मेरे प्रिय की ⟨हूँ⟩, और मुझ पर उसकी तृष्णा ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "मेरे प्रिय की"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "और मुझ पर"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "उसकी तृष्णा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:50.449384488Z",
+  "model": "glm-5.2"
+}

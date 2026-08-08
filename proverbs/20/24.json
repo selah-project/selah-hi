@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "यहवे की ओर से ⟨हैं⟩ पुरुष के कदम, और मनुष्य — वह अपना मार्ग कैसे समझे?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवे की ओर से"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "कदम"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष के"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "और मनुष्य"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "वह समझे"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "अपना मार्ग"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:57.240010051Z",
+  "model": "glm-5.2"
+}

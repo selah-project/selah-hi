@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "तेईसवाँ दलायाहू ⟨के लिए⟩, चौबीसवाँ माअज्याहू ⟨के लिए⟩।",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "दलायाहू"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तेईसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "माअज्याहू"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौबीसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:17.592306012Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "क्योंकि तू गहरी ओंठ और कठिन जीभ वाले लोग के पास नहीं भेजा गया ⟨है⟩ — बल्कि यिस्राएल के घर के पास।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "गहरी"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओंठ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "और कठिन"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "भेजा गया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:26:46.314272607Z",
+  "model": "glm-5.2"
+}

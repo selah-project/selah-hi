@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "कहीे ऐसा न हो कि तू खाए और तृप्त हो, और अच्छे घर बनाए और उनमें बस जाए;",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कहीे ऐसा न हो कि"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तू खाए"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "और तृप्त हो"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "और घर"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "अच्छे"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "और बस जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:45:47.262347384Z",
+  "model": "glm-5.2"
+}

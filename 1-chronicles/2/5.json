@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "पेरेस के बेटे: चेत्स्रोन और चामूल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेस"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "चेत्स्रोन"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "और चामूल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:37.140359942Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और ⟨यह⟩ हुआ उसी रात को, और एलोहीम का वचन नतन के पास आया, यो कहने:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨यह⟩ हुआ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात को"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और ... आया"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नतन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो कहने"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:44.576130759Z",
+  "model": "glm-5.2"
+}

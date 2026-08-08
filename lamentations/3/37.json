@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "कौन ⟨है⟩ वह ⟨जो⟩ बोलता है और वह हो जाती है — यदि अदोनाय ने ⟨उसे⟩ नहीं आज्ञा दी?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "बोलता है"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "और वह हो जाती है"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:21.529066276Z",
+  "model": "glm-5.2"
+}

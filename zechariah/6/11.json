@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 6:11",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और तू चाँदी और सुना ले, और मुकुट बना, और यहोशू बेन यहोत्सादाक, महायाजक के सिर पर रख।",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "और तू ले"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "और बना"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "और रख"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "सिर पर"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "यहोत्सादाक"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "महायाजक"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "महान्"
+    }
+  ],
+  "timestamp": "2026-08-08T00:40:39.891231392Z",
+  "model": "glm-5.2"
+}

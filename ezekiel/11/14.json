@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 11:14",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यहवे का वचन मेरे पास ⟨आया⟩, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:28:57.428815241Z",
+  "model": "glm-5.2"
+}

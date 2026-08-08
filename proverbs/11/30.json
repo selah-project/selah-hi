@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "धर्मी का फल जीवन का वृक्ष है, और प्राणों को लेने वाला बुद्धिमान है।",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी का"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन का"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "और लेने वाला"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "प्राणों को"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:02.063618702Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मैं जानता हूँ कि उनमें कोई भी अच्छाई नहीं है — केवल आनन्द लेना और अपने जीवन में अच्छा करना।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "मैं जानता हूँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छाई"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनमें"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "आनन्द लेना"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "और करना"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "अपने जीवन में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:18.219126079Z",
+  "model": "glm-5.2"
+}

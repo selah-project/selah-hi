@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "एक कोमल उत्तर क्रोध को फेर देता ⟨है⟩, और एक दुखद शब्द क्रोध को चढ़ाता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "רך",
+      "gloss": "कोमल"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "फेर देता है"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "और शब्द"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "दुखद"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "चढ़ाता है"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:32.571202617Z",
+  "model": "glm-5.2"
+}

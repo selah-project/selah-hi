@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और उसने उसे बेटे जने — ⟨את⟩ येउश, और ⟨את⟩ शमर्याह, और ⟨את⟩ जहम।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "और उसने जने"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "बנים",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येउश"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "येउश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "शमर्याह"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "शमर्याह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "जहम"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "जहम"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:16.775551850Z",
+  "model": "glm-5.2"
+}

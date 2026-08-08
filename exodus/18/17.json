@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और मोशे के ससुर ने उससे कहा, “जो व्यवहार तू कर रहा है वह अच्छा नहीं है।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ससुर ने"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे के"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "व्यवहार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर रहा है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:08.691198233Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨את⟩ बालात और ⟨את⟩ तामार को, जो मरुभूमि में है, उस देश में।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बालाथ"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "बालाथ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "तामार"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "तामार"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमि में"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:37:55.732089534Z",
+  "model": "glm-5.2"
+}

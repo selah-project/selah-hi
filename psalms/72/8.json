@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 72,
+  "translation": "और वह अधिकार रखेगा समुद्र से समुद्र तक, और नदी से पृथ्वी के सीमों तक।",
+  "tokens": [
+    {
+      "surface": "ולרד",
+      "gloss": "और वह अधिकार रखेगा"
+    },
+    {
+      "surface": "מים",
+      "gloss": "समुद्र से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "और नदी से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "सीमों"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:48.569098216Z",
+  "model": "glm-5.2"
+}

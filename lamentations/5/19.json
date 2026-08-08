@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "तू, हे यहवे, सदा के लिए आसीन ⟨हैं⟩; तेरा सिंहासन पीढ़ी और पीढ़ी तक रहता है।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "आसीन ⟨हैं⟩"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "तेरा सिंहासन"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "पीढ़ी तक"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "और पीढ़ी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.179343219Z",
+  "model": "glm-5.2"
+}

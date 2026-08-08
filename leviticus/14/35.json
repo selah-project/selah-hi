@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "“और जिसका वह घर ⟨है⟩ वह आए, और याजक को बताए, कहके, “नगेनुए के समान मुझे घर में दिखाई दिया है।”",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसका"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "वह घर"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "और बताए"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "याजक को"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहके"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "नगेनुए के समान"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "दिखाई दिया है"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    }
+  ],
+  "timestamp": "2026-08-08T02:12:14.167122433Z",
+  "model": "glm-5.2"
+}

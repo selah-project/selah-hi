@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और याजक घर से घर के द्वार की ओर निकले, और वह ⟨את⟩ घर को सात दिन के लिए बन्द कर दे।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकले"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर के"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "और बन्द कर दे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर को"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-08T02:12:27.772300005Z",
+  "model": "glm-5.2"
+}

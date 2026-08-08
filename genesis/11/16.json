@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और एवर चौंतीस वर्ष जीवित रहा, और उसने ⟨את⟩ पलेग को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "और जीवित रहा"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पलेग को"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पलेग"
+    }
+  ],
+  "timestamp": "2026-08-08T02:02:00.999290017Z",
+  "model": "glm-5.2"
+}

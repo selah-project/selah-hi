@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "ये हैं यिस्साकार के कुल, उनके गिने गए ⟨के अनुसार⟩ — चौंसठ हज़ार और तीन सौ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साकार"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "उनके गिने गए"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "और तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:01.322613039Z",
+  "model": "glm-5.2"
+}

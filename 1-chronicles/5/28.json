@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और कहात के बेटे — अमराम, यित्हार, और खेबरोन, और उज्जिएल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहात"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्हार"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "और खेबरोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "और उज्जिएल"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:01.721169971Z",
+  "model": "glm-5.2"
+}

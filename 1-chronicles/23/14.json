@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और मोशे — एलोहीम का अनुष्ठाता — उसके बेटे लेवी के वंश पर नामित किए गए।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "और मोशे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "अनुष्ठाता"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके बेटे"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "नामित किए गए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "वंश"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लेवी के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:44.647291376Z",
+  "model": "glm-5.2"
+}

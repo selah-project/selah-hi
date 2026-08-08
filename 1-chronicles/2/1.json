@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "ये ⟨हैं⟩ यिस्राएल के बेटे: रूबेन, शिमोन, लेवी और यहूदा, यिस्साकार और ज़बूलून।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "और यहूदा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साकार"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "और ज़बूलून"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:04.908132470Z",
+  "model": "glm-5.2"
+}

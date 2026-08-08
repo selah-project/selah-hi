@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और ज़बूलून के सीमा के साथ, पूरव ओर से लेकर पश्चिम ओर तक, गाद ⟨होगा⟩ एक ⟨हिस्सा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … के साथ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बूलून"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:53.951199770Z",
+  "model": "glm-5.2"
+}

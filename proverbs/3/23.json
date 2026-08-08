@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तब तुम अपने मार्ग पर सुरक्षित चलोगे और तुम्हारा पैर न ठोकर खाएगा।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "तुम चलोगे"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "सुरक्षित"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "अपने मार्ग पर"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "और तुम्हारा पैर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ठोकर खाएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:49.466303912Z",
+  "model": "glm-5.2"
+}

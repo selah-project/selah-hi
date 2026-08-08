@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बेबाय के बेटे — छह सौ बीस ⟨और⟩ तीन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "बेबाय"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "और तीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:01.252603248Z",
+  "model": "glm-5.2"
+}

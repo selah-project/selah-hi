@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "तब देश के वृद्धों में से कुछ पुरुष उठे और सारी जन-सभा से, पूरे लोग से, कहने लगे:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "तब उठे"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "वृद्धों में से"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश के"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "और कहने लगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "जन-सभा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "पूरे लोग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:26:50.614005900Z",
+  "model": "glm-5.2"
+}

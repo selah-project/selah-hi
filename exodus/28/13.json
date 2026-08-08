@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और तू स्वर्ण की जड़ें बनाए;",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बनाए"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "जड़ें"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "स्वर्ण की"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:04.948030039Z",
+  "model": "glm-5.2"
+}

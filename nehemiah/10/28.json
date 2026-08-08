@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "मल्लूक, चरीम, बाना",
+  "tokens": [
+    {
+      "surface": "מַלּ֥וּךְ",
+      "gloss": "मल्लूक"
+    },
+    {
+      "surface": "חָרִ֖ם",
+      "gloss": "चरीम"
+    },
+    {
+      "surface": "בַּעֲנָֽה",
+      "gloss": "बाना"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:58.088201634Z",
+  "model": "glm-5.2"
+}

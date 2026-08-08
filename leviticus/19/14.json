@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तू बधिर को श्राप न दे और अन्धे के सामने ठोकर का पत्थर न रख; और तू अपने एलोहीम से डर — मैं यहवे ⟨हूँ⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "श्राप दे"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बधिर को"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "और के सामने"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अन्धे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "रख"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "ठोकर का पत्थर"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "और डर"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "अपने एलोहीम से"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:34.554220085Z",
+  "model": "glm-5.2"
+}

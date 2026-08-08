@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 27:2",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "पहले दल पर, पहले महीने के लिए, यशोबाम ज़ब्दीएल का पुत्र था; और उसके दल में चौबीस हजार थे।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "दल"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "पहली"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के लिए"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "ישבעם",
+      "gloss": "यशोबाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זבדיאל",
+      "gloss": "ज़ब्दीएल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "उसके दल"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-08T01:05:19.750805490Z",
+  "model": "glm-5.2"
+}

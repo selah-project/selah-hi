@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 33:13",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और वे दप्का से यात्रा करके अलूश में डेरे।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "और वे यात्रा करके"
+    },
+    {
+      "surface": "מדפקה",
+      "gloss": "दप्का से"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "और डेरे"
+    },
+    {
+      "surface": "באלוש",
+      "gloss": "अलूश में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:57.777836826Z",
+  "model": "glm-5.2"
+}

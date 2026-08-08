@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "उत्तम है जो तुम नेदर न लो, उससे कि नेदर लो और उसे पूरा न करो।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम है"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "तुम नेदर लो"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "नेदर लो"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "पूरा करो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:59.634329190Z",
+  "model": "glm-5.2"
+}

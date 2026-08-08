@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बानी के बेटे — छह सौ उनतालीस ⟨और⟩ दो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "उनतालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:01.252494926Z",
+  "model": "glm-5.2"
+}

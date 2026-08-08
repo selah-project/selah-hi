@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "स्तनों पर, ⟨वे⟩ विलाप करेंगे — वाञ्छित खेतों पर, फलवती दाखलता पर।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "स्तनों"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "⟨वे⟩ विलाप करेंगे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेतों"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "वाञ्छित"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "दाखलता"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "फलवती"
+    }
+  ],
+  "timestamp": "2026-08-07T22:00:47.660609739Z",
+  "model": "glm-5.2"
+}

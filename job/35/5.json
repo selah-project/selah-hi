@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 35:5",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "आकाश की ओर देख और देख, और बादलों को देख — ⟨वे⟩ तुझसे ऊँचे हैं।",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "देख"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश की ओर"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "ושור",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादलों को"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ऊँचे हैं"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुझसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:32:07.760754228Z",
+  "model": "glm-5.2"
+}

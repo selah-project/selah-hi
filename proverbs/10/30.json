@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "धर्मी ⟨व्यक्ति⟩ सदा बिलकुल नहीं डिगेगा, और दुष्ट ⟨लोग⟩ पृथ्वी में नहीं बसेंगे।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "בל",
+      "gloss": "बिलकुल नहीं"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "डिगेगा"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "और दुष्ट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "बसेंगे"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:06.358332447Z",
+  "model": "glm-5.2"
+}

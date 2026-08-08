@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "रोने के लिए ओत, और हँसने के लिए ओत; विलाप करने के लिए ओत, और नाचने के लिए ओत।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ओत"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "रोने के लिए"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और ओत"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "हँसने के लिए"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ओत"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "विलाप करने के लिए"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "और ओत"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "नाचने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:40.035753105Z",
+  "model": "glm-5.2"
+}

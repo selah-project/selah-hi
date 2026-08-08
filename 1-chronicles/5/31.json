@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और अबीशूआ ने ⟨את⟩ बुक्की को जन्म दिया, और बुक्की ने ⟨את⟩ उज्जी को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "और अबीशूआ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने … जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुक्की"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "और बुक्की"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने … जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उज्जी"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:37.217470808Z",
+  "model": "glm-5.2"
+}

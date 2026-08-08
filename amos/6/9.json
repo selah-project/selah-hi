@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यह होगा, यदि दस पुरुष एक घर में बचे रहें, तो ⟨वे⟩ मर जाएँगे।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और यह होगा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "बचे रहें"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "एक घर में"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "तो ⟨वे⟩ मर जाएँगे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:37:42.134748880Z",
+  "model": "glm-5.2"
+}

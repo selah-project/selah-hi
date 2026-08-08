@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और मण्डली के लिए जल नहीं था, और वे मोशे और अहरोन पर एकत्रित हुए।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "मण्डली के लिए"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "और एकत्रित हुए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:35:39.317164608Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और एलिएनाय, और ज़िल्लेथाय, और एलिएल।",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "और एलिएनाय"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "और ज़िल्लेथाय"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "और एलिएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:30.317556530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "देखो, वे मुझसे कह रहे हैं, “कहाँ है यहवे का वचन? आओ, वह आए!”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "कह रहे हैं"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ है"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "वह आए"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आओ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:15:31.107695396Z",
+  "model": "glm-5.2"
+}

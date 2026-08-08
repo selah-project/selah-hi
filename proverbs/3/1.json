@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हे मेरे पुत्र, मेरी तोराह न भूल, और मेरी मित्स्वात का तेरा लेब ⟨रक्षक⟩ रहे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हे मेरे पुत्र"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "मेरी तोराह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "भूल"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "और मेरी मित्स्वात"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "रक्षक रहे"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तेरा लेब"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:59.317405828Z",
+  "model": "glm-5.2"
+}

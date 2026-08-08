@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "या जब मांस के त्वचा में अग्नि-दाह हो, और दाह का जीवित-उभार श्वेत दाग़ बने — लालिमायुक्त या श्वेत।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "त्वचा में"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "अग्नि-दाह"
+    },
+    {
+      "surface": "אש",
+      "gloss": "अग्नि"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "और बने"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "जीवित-उभार"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "दाह का"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "दाग़"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "श्वेत"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "लालिमायुक्त"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "श्वेत"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:32.673845907Z",
+  "model": "glm-5.2"
+}

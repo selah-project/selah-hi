@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहवे ने यिस्राएल से काट दिया — सिर और पूँछ, ताड़पत्ता और गाह — एक दिन में।",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "और काट दिया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएल से"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "और पूँछ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ताड़पत्ता"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "और गाह"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-08T00:18:59.924839146Z",
+  "model": "glm-5.2"
+}

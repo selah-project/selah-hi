@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "कैसे अकेला उठाऊँ तुम्हारा बोझ और तुम्हारा भार और तुम्हारा विवाद?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठाऊँ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "अकेला"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "तुम्हारा बोझ"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "और तुम्हारा भार"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "और तुम्हारा विवाद"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:16.143221396Z",
+  "model": "glm-5.2"
+}

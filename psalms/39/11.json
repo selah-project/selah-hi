@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "अपना प्रहार मुझ से दूर हटा; तेरी हथेली के बल से मैं समाप्त ⟨हो गया⟩।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "हटा"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "मुझ से दूर"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "अपना प्रहार"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "हथेली के बल से"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तेरी"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "समाप्त"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:58.823691553Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और मोशे ने माखीर बेटे मनश्शे को ⟨את⟩ गिलाद दिया, और वह उसमें बस गया।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और … दिया"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिलाद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "माखीर को"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और … बस गया"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:39:51.601816216Z",
+  "model": "glm-5.2"
+}

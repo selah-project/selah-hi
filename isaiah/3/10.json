@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "कहो धर्मी को, कि ⟨उसे⟩ भलाई होगी, क्योंकि उनके कर्मों का फल वे खाएँगे।",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "कहो"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी को"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "उनके कर्मों का"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "वे खाएँगे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:55:17.406908295Z",
+  "model": "glm-5.2"
+}

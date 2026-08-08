@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "क्योंकि निश्चय एक अन्त है, और तेरी आशा कटी नहीं जाएगी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "निश्चय"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "एक अन्त"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "और तेरी आशा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "कटी जाएगी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:52:03.831728791Z",
+  "model": "glm-5.2"
+}

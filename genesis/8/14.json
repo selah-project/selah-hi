@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और दूसरे महीने में, महीने के सत्ताईसवें दिन, पृथ्वी सूख ⟨गई⟩।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "और महीने में"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दूसरे"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "सात में"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "और बीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "सूख"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:52.077531596Z",
+  "model": "glm-5.2"
+}

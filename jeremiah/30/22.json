@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "और तुम मेरे लिए प्रजा बनोगे, और मैं तुम्हारे लिए एलोहीम बनूँगा।",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "और तुम बनोगे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "बनूँगा"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-08T01:11:43.076311404Z",
+  "model": "glm-5.2"
+}

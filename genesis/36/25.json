@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ये हैं अनाह के बेटे: दिशोन, और अहोलीबामा, अनाह की बेटी।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाह"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "और अहोलीबामा"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाह"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:20.385133325Z",
+  "model": "glm-5.2"
+}

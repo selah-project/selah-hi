@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "दान के ⟨गोत्र हेतु⟩ — अम्मीएल, गमल्ली का पुत्र।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "गोत्र हेतु"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "अम्मीएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "गमल्ली"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:15.756752872Z",
+  "model": "glm-5.2"
+}

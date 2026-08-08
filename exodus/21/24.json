@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "आँख के बदले आँख, दाँत के बदले दाँत, हाथ के बदले हाथ, पैर के बदले पैर।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँख"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "पैर"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के बदले"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "पैर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:23.540042265Z",
+  "model": "glm-5.2"
+}

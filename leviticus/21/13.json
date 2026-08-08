@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और वह एक स्त्री को उसकी कुँवारी में ले।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "और वह"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक स्त्री को"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "उसकी कुँवारी में"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ले"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:47.087818110Z",
+  "model": "glm-5.2"
+}

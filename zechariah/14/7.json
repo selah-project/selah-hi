@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और ⟨होगा⟩ एक दिन — वह यहवे को ज्ञात ⟨होगा⟩; न दिन और न रात; और ⟨होगा⟩, लगभग साँझ के समय ⟨होगा⟩ प्रकाश।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और ⟨होगा⟩"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ज्ञात ⟨होगा⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "और ⟨होगा⟩"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "लगभग…के समय"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨होगा⟩"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-08T00:41:43.724474561Z",
+  "model": "glm-5.2"
+}

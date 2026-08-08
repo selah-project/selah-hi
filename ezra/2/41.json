@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "⟨The⟩ गायक: असाप के पुत्र, एक सौ बीस और आठ।",
+  "tokens": [
+    {
+      "surface": "הַֽמְשֹׁרְרִ֑ים",
+      "gloss": "गायक"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אָסָ֔ף",
+      "gloss": "असाप"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "עֶשְׂרִ֥ים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וּשְׁמֹנָֽה",
+      "gloss": "और आठ"
+    }
+  ],
+  "timestamp": "2026-08-08T03:12:11.798776475Z",
+  "model": "glm-5.2"
+}

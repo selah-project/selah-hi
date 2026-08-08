@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उसने कहा: हे प्रभो, आप ⟨ने⟩ जिसके हाथ से ⟨भेजना⟩ चाहें, उसे भेजिए।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "בי",
+      "gloss": "हे"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "प्रभो"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजिए"
+    },
+    {
+      "surface": "נא",
+      "gloss": "आप"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "⟨भेजना⟩ चाहें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:28.224685181Z",
+  "model": "glm-5.2"
+}

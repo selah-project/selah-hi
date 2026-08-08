@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और अहरोन के बेटे, ⟨ह⟩याजक, वेदी पर आग रखें, और आग पर लकड़ियाँ व्यवस्थित करें।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "और-रखें"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨ह⟩याजक"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "और-व्यवस्थित-करें"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "लकड़ियाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:09.208943807Z",
+  "model": "glm-5.2"
+}

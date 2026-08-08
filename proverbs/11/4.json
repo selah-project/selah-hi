@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "क्रोध के दिन धन लाभ नहीं देता, और धार्मिकता मृत्यु से छुड़ाती ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "लाभ देता"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "के दिन"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "और धार्मिकता"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "छुड़ाती"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "मृत्यु से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:27.544388685Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यित्सहार के बेटे ⟨थे⟩: कोरह, और नेफेग, और जिखरी।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और … के बेटे"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "और नेफेग"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "और जिखरी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:32.736627387Z",
+  "model": "glm-5.2"
+}

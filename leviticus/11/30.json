@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और गिरगिट, और गोधा, और छिपकली, और गोअ, और छिपकली-प्रकार।",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "और गिरगिट"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "और गोधा"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "और छिपकली"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "और गोअ"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "और छिपकली-प्रकार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:35.272671382Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "अनादि सीमा को न खिसका, और यतीमों के खेतों में न जा।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "खिसका"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा को"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनादि"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "और खेतों में"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "यतीमों के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "जा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:43.681406788Z",
+  "model": "glm-5.2"
+}

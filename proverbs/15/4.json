@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "उपचार देने वाली जीभ जीवन का वृक्ष है, पर ⟨उसमें⟩ टेढ़ है ⟨रूह में⟩ टूटन।",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "उपचार देने वाली"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "वृक्ष"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन का"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "पर टेढ़"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूटन"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "रूह में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:29.549962344Z",
+  "model": "glm-5.2"
+}

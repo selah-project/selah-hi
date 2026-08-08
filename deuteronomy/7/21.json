@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "उनके कारण तुम न डरो, क्योंकि यहवे तेरा एलोहीम तेरे बीच ⟨है⟩ — ⟨एक⟩ एल महान् और भयानक।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "तुम डरो"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "उनके कारण"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरा एलोहीम"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तेरे बीच"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान्"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "और भयानक"
+    }
+  ],
+  "timestamp": "2026-08-07T20:45:54.663050488Z",
+  "model": "glm-5.2"
+}

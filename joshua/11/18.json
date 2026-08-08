@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "बहुत दिनों तक यहोशू ने ⟨את⟩ इन सब राजाओं के साथ युद्ध किया।",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "दिनों"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इन सब राजाओं को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:13.868930295Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और लेवी और बिन्यामीन को उनके बीच गिना नहीं, क्योंकि राजा का आदेश योआब को घृणित था।",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "और लेवी"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "और बिन्यामीन को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "गिना"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "उनके बीच"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "घृणित था"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "आदेश"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योआब"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:12.972043683Z",
+  "model": "glm-5.2"
+}

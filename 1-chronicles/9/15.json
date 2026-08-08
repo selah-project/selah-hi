@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और बकबक्कर, हेरेश और गलल, और मतन्याह मीका का पुत्र, ज़िक्री का पुत्र, असफ का पुत्र।",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "और बकबक्कर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "हेरेश"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "और गलल"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "और मतन्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "मीका का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ज़िक्री का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "असफ का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:37.764499860Z",
+  "model": "glm-5.2"
+}

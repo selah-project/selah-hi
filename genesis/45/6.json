@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "क्योंकि ये दो वर्ष अकाल पृथ्वी के बीच है, और अब尚 पाँच वर्ष शेष हैं जिनमें न कहाई होगी और न कटाई।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दो वर्ष"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अकाल"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "और अब尚"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनमें"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "कहाई"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "और कटाई"
+    }
+  ],
+  "timestamp": "2026-08-07T19:57:58.752644991Z",
+  "model": "glm-5.2"
+}

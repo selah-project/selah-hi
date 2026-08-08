@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और तेबा सातवें मास में, मास के सत्रह दिन में, अरारात के पर्वतों पर ठहरी।",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "और ठहरी"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "तेबा"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "मास में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवें"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "मास के"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "पर्वतों"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "अरारात के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.587983497Z",
+  "model": "glm-5.2"
+}

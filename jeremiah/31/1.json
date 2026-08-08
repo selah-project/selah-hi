@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "उस समय, यहवे का वचन, मैं यिस्राएल के सब कुटुम्बों का एलोहीम बनूँगा, और वे मेरा जन बनेंगे।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "उस समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "मैं बनूँगा"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "कुटुम्बों"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "और वे"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "बनेंगे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरा"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "जन"
+    }
+  ],
+  "timestamp": "2026-08-07T22:19:36.939090656Z",
+  "model": "glm-5.2"
+}

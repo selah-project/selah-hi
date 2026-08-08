@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "“यह प्रकार कहता है यहवे, यिस्राएल का एलोहीम, तेरे विषय में, हे बारूक:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यह प्रकार"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तेरे विषय में"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:17.850327220Z",
+  "model": "glm-5.2"
+}

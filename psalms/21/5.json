@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "जीवन उसने तुझसे माँगा, तूने उसे दिया; दिनों की लम्बाई, अनन्तकाल और सदा।",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "माँगा"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "तूने दिया"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाई"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों की"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "अनन्तकाल"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और सदा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:36.884466078Z",
+  "model": "glm-5.2"
+}

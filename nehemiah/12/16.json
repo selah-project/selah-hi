@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "ले-इद्दो के लिए ज़खर्याह, ले-गिन्नेतोन के लिए मशुल्लाम।",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "ले-इद्दो"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ज़खर्याह"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "ले-गिन्नेतोन"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "मशुल्लाम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:18.828296060Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "वे महान परीक्षाएँ जो तुम्हारी आँखों ने देखीं, वे चिह्न और वे महान निशान:",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "वे परीक्षाएँ"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखीं"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तुम्हारी आँखों ने"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "वे चिह्न"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "और वे निशान"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "महान"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "वे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:23.323387345Z",
+  "model": "glm-5.2"
+}

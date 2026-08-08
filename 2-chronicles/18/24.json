@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और मिखायाहू ने कहा, “देख, तू उस दिन देखेगा जब तू छिपने के लिए कक्ष में-कक्ष में जाएगा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "मिखायाहू"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "देख"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "तू देखेगा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसमें"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "तू जाएगा"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "कक्ष"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "कक्ष में"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "छिपने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:44.193998064Z",
+  "model": "glm-5.2"
+}

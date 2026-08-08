@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "धन्य ⟨है⟩ तू, हे यहवे; मुझे अपने विधान सिखा।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "मुझे सिखा"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "अपने विधान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:18.542883379Z",
+  "model": "glm-5.2"
+}

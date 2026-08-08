@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "टूटने के आगे घमंड ⟨होता है⟩, और ठोकर खाने के आगे उठा हुआ रूआच ⟨होती है⟩।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "आगे"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "टूटने"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "और आगे"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "ठोकर खाने"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "उठा हुआ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूआच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:19.018461693Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "और उसने ⟨את⟩ एफोद बनाया — सोना, नीला, बैंजनी, कीट-लाल और मरी हुई सनी।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने बनाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफोद"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोना"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीला"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "और बैंजनी"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "और कीट-लाल"
+    },
+    {
+      "surface": "שני",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और सनी"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "मरी हुई"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:10.623797473Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "तेरे लिए ⟨कोई⟩ अन्य एलोहीम मेरे देखते न हों।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हों"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अन्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "देखते"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मेरे सामने"
+    }
+  ],
+  "timestamp": "2026-08-07T20:43:58.990769261Z",
+  "model": "glm-5.2"
+}

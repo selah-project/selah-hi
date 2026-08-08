@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यहवे का वचन मेरे पास आया, कहने को:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:10:44.352012881Z",
+  "model": "glm-5.2"
+}

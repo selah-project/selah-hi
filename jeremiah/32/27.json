@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "सुन, मैं यहवे हूँ, सारे मांस का एलोहीम। क्या मुझसे कोई भी बात अद्भुत होगी?”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस का"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "क्या मुझसे"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "अद्भुत होगी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई भी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:06.763975474Z",
+  "model": "glm-5.2"
+}

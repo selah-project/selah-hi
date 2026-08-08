@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और कनान ने ⟨את⟩ अपने ज्येष्ठ त्सीदोन और ⟨את⟩ खेत को जना।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "और कनान"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सीदोन"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "त्सीदोन"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "अपने ज्येष्ठ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:10.193361646Z",
+  "model": "glm-5.2"
+}

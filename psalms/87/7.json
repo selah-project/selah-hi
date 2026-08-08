@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 87,
+  "translation": "और गायक नर्तकों की भाँति ⟨गाएँगे⟩: सब मेरे स्रोत तुझमें हैं।",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "और गायक"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "नर्तकों की भाँति"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "मेरे स्रोत"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझमें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:10.915814743Z",
+  "model": "glm-5.2"
+}

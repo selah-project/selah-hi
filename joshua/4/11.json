@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 4:11",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और जब सारा लोग पार हो गया, तब यहवे के सन्दूक और याजक लोगों के आगे पार गए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और जब हुआ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תם",
+      "gloss": "पूरा हुआ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "पार होना"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "तब पार गया"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "और याजक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के आगे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगों के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:56:40.878411096Z",
+  "model": "glm-5.2"
+}

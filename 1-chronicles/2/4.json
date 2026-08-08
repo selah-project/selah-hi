@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और तामार, उसकी बहू ने, उसके लिए ⟨את⟩ पेरेत्स और ⟨את⟩ ज़ेरह को जन्म दिया। यहूदा के सब बेटे पाँच थे।",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "और तामार"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "उसकी बहू"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेरेत्स"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेत्स"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "ज़ेरह"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ज़ेरह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:04.908576069Z",
+  "model": "glm-5.2"
+}

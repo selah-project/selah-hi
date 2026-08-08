@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "एक इस्सारोन एक मेमने के लिए, सात मेमनों के लिए;",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "इस्सारोन"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "इस्सारोन"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "मेमने के लिए"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सात के लिए"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "मेमनों"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:48.838233317Z",
+  "model": "glm-5.2"
+}

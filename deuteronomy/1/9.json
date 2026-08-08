@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और मैंने उस समय तुम से कहा, यह कि: नहीं, मैं ⟨समर्थ⟩ अकेला तुम्हें उठाने।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "और मैंने कहा"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तुम से"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "उस समय"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "मैं ⟨समर्थ⟩"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "अकेला"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठाने"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "तुम्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:16.142854599Z",
+  "model": "glm-5.2"
+}

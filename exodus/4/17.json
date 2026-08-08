@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और ⟨את⟩ इस लाठी को अपने हाथ में ले, जिससे तू ⟨את⟩ चिह्नियों को करेगा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "इस लाठी को"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "इस लाठी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "तू ले"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "अपने हाथ में"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिससे"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "तू करेगा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसके द्वारा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चिह्नियों को"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "चिह्नि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:30.912261701Z",
+  "model": "glm-5.2"
+}

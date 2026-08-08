@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "सब हाथ ढीले होंगे और सब घुटने जल बहाएँगे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ढीले होंगे"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "घुटने"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "बहाएँगे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:27:17.290911491Z",
+  "model": "glm-5.2"
+}

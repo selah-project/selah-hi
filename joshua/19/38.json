@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 19:38",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और यिरओन, और मिग्दल-एल, चोरेम, और बेत-अनात, और बेत-शमेश; उन्नीस नगर और उनके गाँव।",
+  "tokens": [
+    {
+      "surface": "ויראון",
+      "gloss": "और यिरओन"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "और मिग्दल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "चोरेम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेत"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "अनात"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेत"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "शमेश"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "और उनके गाँव"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:19.979817798Z",
+  "model": "glm-5.2"
+}

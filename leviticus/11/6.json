@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨את⟩ अरनबेत को, क्योंकि वह गरा चबाती है परन्तु फरसा नहीं फाड़ती — वह तुम्हारे लिए अशुद्ध है।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "अरनबेत"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "अरनबेत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "चबाती है"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "गरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "और फरसा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "फाड़ती"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:55.066255505Z",
+  "model": "glm-5.2"
+}

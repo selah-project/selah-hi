@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "कैसे गिरे वीर और नष्ट हो गए युद्ध के शस्त्र!”",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "वीर"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "और नष्ट हो गए"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "शस्त्र"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:24:22.121634696Z",
+  "model": "glm-5.2"
+}

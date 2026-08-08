@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बत्सलुत के पुत्र, महिदा के पुत्र, हरशा के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "बत्सलुत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "महिदा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "हरशा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.484388311Z",
+  "model": "glm-5.2"
+}

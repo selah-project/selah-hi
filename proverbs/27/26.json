@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "मेमने ⟨हैं⟩ तेरे वस्त्र के लिए, और बकरे ⟨हैं⟩ खेत का मूल्य।",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "मेमने"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "तेरे वस्त्र के लिए"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "और मूल्य"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "बकरे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:44.699748844Z",
+  "model": "glm-5.2"
+}

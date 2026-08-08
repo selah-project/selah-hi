@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यदि उनके मृत-शरीर में से कुछ गिरे किसी बीज-रूप बोए जाने वाले बीज पर जो बोया जाता है, तो वह शुद्ध है।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "गिरे"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "उनके मृत-शरीर में से"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "बीज-रूप"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "बोया जाता है"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:55.544279929Z",
+  "model": "glm-5.2"
+}

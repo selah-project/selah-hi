@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और ऊलाम के बेटे बेदान थे। ये गिलाद के बेटे थे, माखीर का बेटा, मनश्शे का बेटा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "ऊलाम के"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "बेदान"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "माखीर का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:02.076382427Z",
+  "model": "glm-5.2"
+}

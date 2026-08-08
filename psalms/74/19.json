@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 74,
+  "translation": "तेरी तूरी के प्राण को वन्य जीव को न दे; तेरे दीनों की मण्डली को सदा के लिए न भूल।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "वन्य जीव को"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "तेरी तूरी"
+    },
+    {
+      "surface": "חית",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "तेरे दीनों"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "भूल"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "सदा के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:36.540331960Z",
+  "model": "glm-5.2"
+}

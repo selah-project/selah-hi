@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "भोलों को चतुराई देने के लिए, बालक को ज्ञान और विचारशीलता देने के लिए—",
+  "tokens": [
+    {
+      "surface": "लתת",
+      "gloss": "देने के लिए"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "भोलों को"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "चतुराई"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "बालक को"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "और विचारशीलता"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:35.848240588Z",
+  "model": "glm-5.2"
+}

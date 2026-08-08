@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "जब तुम में कोई पुरुष हो जो रात की घटना से पवित्र न हो, तो वह छावनी के बाहर निकल जाए; वह छावनी के भीतर न आए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुम में"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोई पुरुष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "से"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात की घटना"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "तो वह निकल जाए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छावनी के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "वह आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.507712935Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "उत्तर से सुनहरा ⟨स्पलंदर⟩ आता है; एलोअह पर भयंकर ⟨है⟩ वैभव।",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तर से"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनहरा"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "आता है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोअह"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भयंकर"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "वैभव"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:16.185677125Z",
+  "model": "glm-5.2"
+}

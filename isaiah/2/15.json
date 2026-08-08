@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ⟨हर एक⟩ ऊँचे मीनार के ऊपर, और ⟨हर एक⟩ दुर्गित दीवार के ऊपर —",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और ... ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "मीनार"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ऊँचे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और ... ऊपर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "दीवार"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "दुर्गित"
+    }
+  ],
+  "timestamp": "2026-08-07T21:54:41.398780522Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "और एसाव ने कहा, “मेरे पास बहुतायत है, मेरे भाई; तेरा वह तेरे पास रहे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव ने"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुतायत"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "मेरे भाई"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:52:21.475785416Z",
+  "model": "glm-5.2"
+}

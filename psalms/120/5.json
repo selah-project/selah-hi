@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 120,
+  "translation": "हाय ⟨मेरे लिए⟩, कि मैं मेशेक में परदेशी रहा, मैंने केदार के डेरों के साथ निवास किया!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "परदेशी रहा"
+    },
+    {
+      "surface": "משך",
+      "gloss": "मेशेक"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "निवास किया"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "डेरों"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "केदार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:17.945794339Z",
+  "model": "glm-5.2"
+}

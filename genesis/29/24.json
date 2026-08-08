@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और लाबान ने उसे अपनी दासी ज़िल्पा को दिया — अपनी बेटी लेआह को, दासी ⟨बनकर⟩।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और दिया"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान ने"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ज़िल्पा को"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ज़िल्पा"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "अपनी दासी"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "लेआह को"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "अपनी बेटी"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "दासी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:57.515317436Z",
+  "model": "glm-5.2"
+}

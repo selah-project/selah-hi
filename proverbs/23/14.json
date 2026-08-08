@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तू उसे छड़ी से पीटेगा और उसके प्राण को शिओल से छुड़ा लेगा।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "छड़ी से"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "उसे पीटेगा"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "और उसके प्राण को"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "शिओल से"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "छुड़ा लेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:52.492369498Z",
+  "model": "glm-5.2"
+}

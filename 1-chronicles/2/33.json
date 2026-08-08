@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और योनातन के बेटे: पेलेत और ज़ाज़ा। ये यरहमएल के बेटे थे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और … के बेटे"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "पेलेत"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "और ज़ाज़ा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "… के बेटे"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:55.767189463Z",
+  "model": "glm-5.2"
+}

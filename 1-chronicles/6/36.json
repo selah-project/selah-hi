@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "बुक्की उसका पुत्र, उज्जी उसका पुत्र, ज़ेरह्याह उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ज़ेरह्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:46.055078677Z",
+  "model": "glm-5.2"
+}

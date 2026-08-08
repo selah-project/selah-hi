@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "तब ⟨the⟩ लोग मोशेह पर शिकायत करने लगे, कहते हुए, “हम क्या पिएँ?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "तब...शिकायत करने लगे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ लोग"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "हम पिएँ"
+    }
+  ],
+  "timestamp": "2026-08-08T02:05:57.143222681Z",
+  "model": "glm-5.2"
+}

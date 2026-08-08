@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 64,
+  "translation": "महिल गायन-संगीत के लिए, दाऊद का।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महिल गायन-संगीत के लिए"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊद का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:47.979506934Z",
+  "model": "glm-5.2"
+}

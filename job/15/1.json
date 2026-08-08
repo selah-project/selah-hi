@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "तब एलीफज़ हत्तेमानी ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब उत्तर दिया"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलीफज़"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "हत्तेमानी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:27:12.424517685Z",
+  "model": "glm-5.2"
+}

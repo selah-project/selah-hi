@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "दिन को सूर्य तुझे न मारे, और रात को चन्द्रमा।",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिन को"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "मारे"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "और चन्द्रमा"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:49.729156767Z",
+  "model": "glm-5.2"
+}

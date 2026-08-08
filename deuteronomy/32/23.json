@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "मैं उन पर बुराइयाँ ढेर करूँगा, मेरे बाण मैं उनमें ख़त्म करूँगा।",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "मैं ढेर करूँगा"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "बुराइयाँ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "मेरे बाण"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "मैं ख़त्म करूँगा"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनमें"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:05.464310290Z",
+  "model": "glm-5.2"
+}

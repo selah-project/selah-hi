@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और अव्राहम ने देश के लोगों के सामने दण्डवत् प्रणाम किया।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "और दण्डवत् प्रणाम किया"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अव्राहम ने"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "עם",
+      "gloss": "लोगों"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:54.113479303Z",
+  "model": "glm-5.2"
+}

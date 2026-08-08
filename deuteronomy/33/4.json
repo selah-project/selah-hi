@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "तौरात मोशे ने हमें आज्ञा दी, याकोब की सभा की निधि।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "तौरात"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमें"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे ने"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "निधि"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "सभा की"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-08-07T20:55:58.381375197Z",
+  "model": "glm-5.2"
+}

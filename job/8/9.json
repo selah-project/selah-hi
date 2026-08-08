@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "कि हम तो कल के हैं और कुछ नहीं जानते, कि पृथ्वी पर हमारे दिन छाया हैं।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "कल"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "जानते"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "צל",
+      "gloss": "छाया"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "हमारे दिन"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:25:19.171332131Z",
+  "model": "glm-5.2"
+}

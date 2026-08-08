@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "एलाम के बेटे, एक हज़ार दो सौ चौवन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हज़ार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "और चार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:02.501973422Z",
+  "model": "glm-5.2"
+}

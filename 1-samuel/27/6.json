@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और अकीश ने उसे उस दिन ⟨את⟩ त्सिक्लग दिया; इसलिए त्सिक्लग यहूदा के राजाओं का ⟨रहा⟩ इस दिन तक।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और दिया"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीश"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सिक्लग"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "त्सिक्लग"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "हुआ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "त्सिक्लग"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजाओं के लिए"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-07T21:23:49.556064314Z",
+  "model": "glm-5.2"
+}

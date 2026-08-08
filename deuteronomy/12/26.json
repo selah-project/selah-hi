@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "केवल तेरी पवित्र-वस्तुएँ जो तेरी होंगी, और तेरी मानतें, तू उठाना और उस स्थान पर आना जिसे यहवे चुनेगा।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "तेरी पवित्र-वस्तुएँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होंगी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरी"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "और तेरी मानतें"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "तू उठाना"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "और आना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "चुनेगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:40.602704880Z",
+  "model": "glm-5.2"
+}

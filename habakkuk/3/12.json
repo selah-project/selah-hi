@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "क्रोध से तू पृथ्वी पर कदम रखता है; प्रकोप से तू जातियों को पीसता है।",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "क्रोध से"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "तू कदम रखता है"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी पर"
+    },
+    {
+      "surface": "באף",
+      "gloss": "प्रकोप से"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "तू पीसता है"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातियों को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:55.780415547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तब अय्योब ने उत्तर दिया और कहा:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "तब … उत्तर दिया"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योब"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:27:59.409804782Z",
+  "model": "glm-5.2"
+}

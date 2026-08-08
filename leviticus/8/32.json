@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और जो माँस और रोटी में शेष रहे, उसे तुम आग में जलाओ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "और जो शेष रहे"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "माँस में"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "और रोटी में"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आग में"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "तुम जलाओ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:19:27.547343773Z",
+  "model": "glm-5.2"
+}

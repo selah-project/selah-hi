@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "“बन्य इस्राएल से बात करो और उनसे कहो: मैं यहवे तुम्हारा एलोहीम हूँ।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बात करो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बन्य"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "और कहो"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तुम्हारा एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:33.788140024Z",
+  "model": "glm-5.2"
+}

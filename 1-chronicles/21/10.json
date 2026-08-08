@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "जा और दावीद से बोल, कहते हुए: यह कहता है यहवे: तीन ⟨चीज़ें⟩ मैं तुझ पर फैला रहा हूँ; इनमें से एक को चुन, और मैं तेरे लिए ⟨वह⟩ करूँगा।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "और बोल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "फैला रहा हूँ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ पर"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चुन"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "इनमें से"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "और करूँगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:27.501124252Z",
+  "model": "glm-5.2"
+}

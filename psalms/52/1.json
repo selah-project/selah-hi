@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 52,
+  "translation": "महागायक के लिए। दाविद का एक बोधगम्य ⟨गीत⟩।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महागायक के लिए"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बोधगम्य ⟨गीत⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:44:43.675515683Z",
+  "model": "glm-5.2"
+}

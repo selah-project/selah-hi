@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यहवे का वचन मेरे पास आया, यह कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यह कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:28:19.341173073Z",
+  "model": "glm-5.2"
+}

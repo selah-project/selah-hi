@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "तो मैं गया और उसे फ़रात में छिपाया, जैसा यहवे ने मुझे आज्ञा दी थी।",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "तो मैं गया"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "और उसे छिपाया"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "फ़रात में"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी थी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "मुझे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:14:33.110332531Z",
+  "model": "glm-5.2"
+}

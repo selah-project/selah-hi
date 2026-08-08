@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "मबनिय्या में से — बनी, मादय, अम्राम, उएल।",
+  "tokens": [
+    {
+      "surface": "מִבְּנֵי",
+      "gloss": "मबनिय्या में से"
+    },
+    {
+      "surface": "בָּנִי",
+      "gloss": "बनी"
+    },
+    {
+      "surface": "מַעֲדַי",
+      "gloss": "मादय"
+    },
+    {
+      "surface": "עַמְרָם",
+      "gloss": "अम्राम"
+    },
+    {
+      "surface": "וְאוּאֵל",
+      "gloss": "उएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:50:13.325061329Z",
+  "model": "glm-5.2"
+}

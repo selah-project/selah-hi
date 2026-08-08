@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "तू नहि अपने पड़ोसी के विरुद्ध झूठा साक्षी बनेगा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहि"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "बनेगा"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "अपने पड़ोसी के विरुद्ध"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:20.217191004Z",
+  "model": "glm-5.2"
+}

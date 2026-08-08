@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 24:17",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और यहोयादा के मरण के पश्चात यहूदा के सरदार आए और राजा को दण्डवत् की; तब राजा ने उनकी बात सुनी।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "और…के पश्चात"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मरण"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "और दण्डवत् की"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा को"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनी"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनकी ओर"
+    }
+  ],
+  "timestamp": "2026-08-08T01:07:12.840977716Z",
+  "model": "glm-5.2"
+}

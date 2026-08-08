@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "सलमा, बेथलेहेम के पिता; खारेफ़, बेथ-गादेर के पिता।",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "सलमा"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथलेहेम"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "के"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "खारेफ़"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-गादेर"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:00.051276953Z",
+  "model": "glm-5.2"
+}

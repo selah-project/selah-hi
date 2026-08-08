@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 14:17",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और अब, कृपया मेरे अदोनाय का बल महान हो, जैसा तू ने कहा था, यों कि:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "महान हो"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बल"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "मेरे अदोनाय"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "तू ने कहा था"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यों कि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:33:28.079297075Z",
+  "model": "glm-5.2"
+}

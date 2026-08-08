@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "मैं कोहेलेत यरूशलयिम में इस्राएल के ऊपर राजा रह चुका हूँ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "रह चुका हूँ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलयिम में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.456380371Z",
+  "model": "glm-5.2"
+}

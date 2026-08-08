@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तब अबिमेल्क ने कहा, “मुझे नहीं पता कि इस काम को ⟨את⟩ किसने किया है; न ही तुमने मुझे बताया, और न ही मैंने सुना — आज को छोड़कर।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अबिमेल्क ने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "मैंने जाना"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस काम को"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तुम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "बताया"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मुझे"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "लא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "मैंने सुना"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "छोड़कर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:20.748489287Z",
+  "model": "glm-5.2"
+}

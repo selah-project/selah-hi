@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "महायाजक को, एक मज़मूर दावीद का।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महायाजक को"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "एक मज़मूर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दावीद का"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:17.163818034Z",
+  "model": "glm-5.2"
+}

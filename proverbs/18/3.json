@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "दुष्ट के आने पर तिरस्कार भी आता है, और लाज के साथ अपमान ⟨आता है⟩।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "आने पर"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आता है"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "तिरस्कार"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "और के साथ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "लाज"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "अपमान"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:46.457873693Z",
+  "model": "glm-5.2"
+}

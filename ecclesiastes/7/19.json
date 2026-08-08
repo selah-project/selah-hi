@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "चेतावनी बुद्धिमान को बल देती है — उस नगर में रहनेवाले दस शासकों से अधिक।",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "चेतावनी"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "बल देती है"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "बुद्धिमान को"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "दस से अधिक"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "शासकों"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहते थे"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:18.717458142Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "मेरी आँखें सदा यहवे की ओर ⟨हैं⟩, क्योंकि वही मेरे पाँव को जाल से निकालेगा।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "मेरी आँखें"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "निकालेगा"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "जाल से"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "मेरे पाँव को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:43:00.286521055Z",
+  "model": "glm-5.2"
+}

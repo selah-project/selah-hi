@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "यही ⟨है⟩ वह वचन जो यहवे ने पहिले से मोआब के विषय में बोला था।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोला था"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "पहिले से"
+    }
+  ],
+  "timestamp": "2026-08-08T00:19:18.207936517Z",
+  "model": "glm-5.2"
+}

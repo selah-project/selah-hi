@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨उसने⟩ कहा, “धिक्कार हो कनान का; दासों का दास वह अपने भाइयों का बने।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कार हो"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दासों का"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "वह बने"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "अपने भाइयों का"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:39.895955721Z",
+  "model": "glm-5.2"
+}

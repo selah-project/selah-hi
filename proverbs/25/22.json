@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "क्योंकि तू उसके सिर पर अंगारे बटोर रहा ⟨है⟩, और यहवे तुझे प्रतिफल देगा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "अंगारे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "बटोर रहा है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "उसके सिर"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "प्रतिफल देगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:29.880862746Z",
+  "model": "glm-5.2"
+}

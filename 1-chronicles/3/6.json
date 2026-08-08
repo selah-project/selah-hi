@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और यिब्हार और एलिशामा और एलिफलेत।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "और यिब्हार"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "और एलिशामा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "और एलिफलेत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:34.312973192Z",
+  "model": "glm-5.2"
+}

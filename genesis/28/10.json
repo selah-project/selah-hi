@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "तो याकोव बेेर-शबेा से निकला, और खारान की ओर गया।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "तो निकला"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोव"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "से"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "बेेर-शबेा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "खारान की ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:59.420751883Z",
+  "model": "glm-5.2"
+}

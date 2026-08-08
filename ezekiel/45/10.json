@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 45,
+  "translation": "धार्मिक तराज़ू और धार्मिक एपा और धार्मिक बत तुम्हारे लिए हो।",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "तराज़ू"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "और एपा"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "और बत"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धार्मिक"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:38:16.998892012Z",
+  "model": "glm-5.2"
+}

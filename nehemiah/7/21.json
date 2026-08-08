@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "आटेर के बन्धुओं के, हिज़्किय्याह के, निन्यानवे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बन्धुओं के"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "आटेर"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "हिज़्किय्याह के"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "निन्यानवे"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:13.136430727Z",
+  "model": "glm-5.2"
+}

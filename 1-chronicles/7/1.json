@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और यिसास्खर के बेटों ⟨के⟩: तोला, और पुआ, याशूब, और शिम्रोन — चार।",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "और … के बेटों"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खर"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "तोला"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "और पुआ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "याशूब"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "और शिम्रोन"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:01.461346078Z",
+  "model": "glm-5.2"
+}

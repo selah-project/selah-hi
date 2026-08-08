@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "jeremiah 51:61",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 51,
+  "translation": "और यिर्मयाहू ने सरायाह से कहा: तेरे बाबेल में आने पर, तू देख और इन सब ⟨את⟩ दबरों को पढ़।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "सरायाह"
+    },
+    {
+      "surface": "כבאך",
+      "gloss": "तेरे आने पर"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "और तू देख"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "और तू पढ़"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब दबरों को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "दबरों"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:30:27.416095759Z",
+  "model": "glm-5.2"
+}

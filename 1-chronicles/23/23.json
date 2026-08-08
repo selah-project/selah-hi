@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "मूशी के बेटे: महली और एदेर और यरमोत — तीन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "मूशी"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "महली"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "और एदेर"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "और यरमोत"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-08T01:04:32.949650503Z",
+  "model": "glm-5.2"
+}

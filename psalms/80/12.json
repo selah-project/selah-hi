@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 80,
+  "translation": "वह अपनी शाखाएँ समुद्र तक भेजती ⟨थी⟩, और अपनी कोंपलें नदी तक।",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "वह भेजती"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "अपनी शाखाएँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी तक"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "अपनी कोंपलें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:12.641069274Z",
+  "model": "glm-5.2"
+}

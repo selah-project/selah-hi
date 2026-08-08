@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 9:21",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨את⟩ छातियाँ और ⟨את⟩ दाहिनी जाँघ को अहरोन ने यहवे के सामने लहराया, जैसा मोशे ने आज्ञा दी थी।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "छातियाँ"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "छातियाँ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "जाँघ"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "जाँघ"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "दाहिनी"
+    },
+    {
+      "surface": "הניף",
+      "gloss": "लहराया"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "लहराकर"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:48.320042725Z",
+  "model": "glm-5.2"
+}

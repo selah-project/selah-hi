@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "गहरे जल ⟨हैं⟩ एक मनुष्य के मुख के वचन; बहता हुआ नाला बुद्धि का स्रोत ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "गहरे"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक मनुष्य"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नाला"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "बहता हुआ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:46.457991333Z",
+  "model": "glm-5.2"
+}

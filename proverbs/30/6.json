@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "उसके वचनों पर मत जोड़ो, कहीं वह तुझे न डांटे और तू झूठा न पाया जाए।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "जोड़ो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "उसके वचनों"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कहीं न"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "डांटे"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तुझे"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "और तू झूठा पाया जाए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:20.676289573Z",
+  "model": "glm-5.2"
+}

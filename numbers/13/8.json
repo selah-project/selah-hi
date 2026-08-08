@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "एप्राइम के ⟨कबीले से⟩ होशेया, नून का पुत्र।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "कबीले से"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्राइम"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "होशेया"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नून"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:17.065428393Z",
+  "model": "glm-5.2"
+}

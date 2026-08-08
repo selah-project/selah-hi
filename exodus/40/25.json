@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और उसने यहवे के सामने दीपों को जलाया, जैसा यहवे ने मोशे को आज्ञा दी थी।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "और उसने जलाया"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "दीपों को"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसा"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दी थी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोशे को"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:18.003326716Z",
+  "model": "glm-5.2"
+}

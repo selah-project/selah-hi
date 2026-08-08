@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और कय्न यहवे के दर्शन से निकला, और नोद देश में, एदेन के पूर्व में बस गया।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कय्न"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "के दर्शन से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "और बस गया"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "नोद"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "के पूर्व में"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "एदेन"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:24.258445519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और करूबों में मनुष्य के हाथ की सरूप दिखाई दी, उनके पंखों के नीचे।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "और दिखाई दी"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "करूबों में"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "सरूप"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य के"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "उनके पंखों के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:28:05.111824574Z",
+  "model": "glm-5.2"
+}

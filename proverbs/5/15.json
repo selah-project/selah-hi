@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "पी जल अपने कुएँ से, और बहते हुए ⟨जल⟩ अपने बोर से!",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "पी"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "अपने कुएँ से"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "और बहते हुए"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "से"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "अपने बोर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:05.058254281Z",
+  "model": "glm-5.2"
+}

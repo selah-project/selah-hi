@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और मैं उतर गया कुम्हार के घर में, और सुन! वह काम कर रहा था चाकों पर।",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "और मैं उतर गया"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "कुम्हार के"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "और सुन! वह"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर रहा था"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "चाकों"
+    }
+  ],
+  "timestamp": "2026-08-08T00:26:01.699569996Z",
+  "model": "glm-5.2"
+}

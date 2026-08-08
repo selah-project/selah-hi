@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "मेरे वचनों को कान लगाओ, यहवे; मेरी गुनगुनाहट को समझो।",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "मेरे वचनों को"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "कान लगाओ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझो"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "मेरी गुनगुनाहट को"
+    }
+  ],
+  "timestamp": "2026-08-08T00:40:41.845836909Z",
+  "model": "glm-5.2"
+}

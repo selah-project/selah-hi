@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और चनन्याह हनबी उसी वर्ष, सातवें मास में मरा।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "और मरा"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "चनन्याह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "हनबी"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्ष में"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "मास में"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातवें"
+    }
+  ],
+  "timestamp": "2026-08-07T22:17:57.357354829Z",
+  "model": "glm-5.2"
+}

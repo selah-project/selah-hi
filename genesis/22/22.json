@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और ⟨את⟩ केसेद, और ⟨את⟩ हज़ो, और ⟨את⟩ पिल्दाश, और ⟨את⟩ यिद्लाफ, और ⟨את⟩ बतूएल —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "केसेद"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "केसेद"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हज़ो"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "हज़ो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "पिल्दाश"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "पिल्दाश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "यिद्लाफ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "यिद्लाफ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बतूएल"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "बतूएल"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:58.382112007Z",
+  "model": "glm-5.2"
+}

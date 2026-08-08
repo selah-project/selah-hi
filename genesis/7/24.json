@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और जल ने पृथ्वी पर प्रबल होकर छा गए पचास और सौ दिन तक।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "और प्रबल होकर छा गए"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "और सौ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:36.025969948Z",
+  "model": "glm-5.2"
+}

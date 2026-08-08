@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "मनुष्य का हृदय अपना मार्ग विचारता है, और यहवे उसका कदम तैयार करता है।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "विचारता है"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "अपना मार्ग"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "तैयार करता है"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "उसका कदम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:59.731428642Z",
+  "model": "glm-5.2"
+}

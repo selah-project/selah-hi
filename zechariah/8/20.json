@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "यहो सा यहवे सेनाओत कहता है: फिर होगा कि जातियाँ आएँगे और बहुत नगरों के निवासी:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यहो सा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "कहता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "फिर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आएँगे"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "जातियाँ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "और निवासी"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरों के"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:21.448679248Z",
+  "model": "glm-5.2"
+}

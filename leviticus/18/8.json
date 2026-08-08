@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तेरे पिता की पत्नी की नग्नता — तू खोल नहीं; तेरे पिता की नग्नता वही है।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी की"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरे पिता की"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तू खोल"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरे पिता की"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:13.720368287Z",
+  "model": "glm-5.2"
+}

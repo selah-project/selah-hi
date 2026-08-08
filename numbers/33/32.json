@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "वे बने-याकान से निकले और चोर-हग्गिद्गाद में डेरे में ठहरे।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "बने-याकान से"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरे में ठहरे"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "चोर-हग्गिद्गाद में"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:56.400035166Z",
+  "model": "glm-5.2"
+}

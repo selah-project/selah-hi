@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 53,
+  "translation": "महलत पर ⟨को⟩ गायकप्रमुख ⟨के लिए⟩, एक बोधक, दाविद ⟨का⟩।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "गायकप्रमुख ⟨के लिए⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "महलत"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "एक बोधक"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद ⟨का⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:43.761376583Z",
+  "model": "glm-5.2"
+}

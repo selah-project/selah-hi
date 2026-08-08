@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और हर वस्त्र और हर चमड़े का बर्तन और हर बकरियों का काम और हर लकड़ी का बर्तन — शुद्ध करो।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़े का"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरियों का"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "लकड़ी का"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "शुद्ध करो"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:17.446984850Z",
+  "model": "glm-5.2"
+}

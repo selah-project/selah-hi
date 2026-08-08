@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "אשר था ׯहवे का वचन यिर्मयाहू हनबी के पास, ⟨के बारे में⟩ गोयों के:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "हनबी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के बारे में"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "गोयों"
+    }
+  ],
+  "timestamp": "2026-08-08T02:47:56.130005088Z",
+  "model": "glm-5.2"
+}

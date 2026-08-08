@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "इस पर हमारा हृदय बीमार है; इन बातों पर हमारी आँखें अँधेरी हैं।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "इस पर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨है⟩"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "बीमार"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हमारा हृदय"
+    },
+    {
+      "surface": "על",
+      "gloss": "इन पर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "अँधेरी हैं"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "हमारी आँखें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:01.179071648Z",
+  "model": "glm-5.2"
+}

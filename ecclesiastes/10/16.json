@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "हाय तेरे लिए, हे भूमि, जब तेरा राजा बालक ⟨हो⟩, और तेरे सरदार बिहान को खाते हों!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "हे भूमि"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "तेरा राजा"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "और तेरे सरदार"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान को"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाते हों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:21.948118181Z",
+  "model": "glm-5.2"
+}

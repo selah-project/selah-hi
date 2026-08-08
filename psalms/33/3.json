@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "उसे एक नया गीत गाओ; कौशल से बाद्य-वादन करो, तुरहे-नाद के साथ।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नया"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "कौशल से करो"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "बाद्य-वादन"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "तुरहे-नाद के साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:16.347027543Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और तू उस सब पर जो हम पर आया धर्मी है, क्योंकि तू ने सत्य किया और हम दुष्टता कर बैठे।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "जो आया"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "तू ने किया"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "और हम"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "दुष्टता कर बैठे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:47.585649315Z",
+  "model": "glm-5.2"
+}

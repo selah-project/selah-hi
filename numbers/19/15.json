@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और हर वह खुला बर्तन जिस पर कोई बँधा हुआ ढक्कन नहीं है — वह अशुद्ध है।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और हर वह"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "बर्तन"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं है"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "बँधा हुआ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ढक्कन"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:16.519527788Z",
+  "model": "glm-5.2"
+}

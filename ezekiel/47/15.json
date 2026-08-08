@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 47,
+  "translation": "“और यह ⟨है⟩ भूमि की सीमा: उत्तर की ओर से, महासागर से—हेतलोन का मार्ग, त्सेदाद के प्रवेश तक।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הים",
+      "gloss": "सागर"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "हेतलोन"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "प्रवेश"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "त्सेदाद"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:27.880384691Z",
+  "model": "glm-5.2"
+}

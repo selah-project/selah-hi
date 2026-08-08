@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तुम्हारे पितर, वे कहाँ ⟨हैं⟩? और ⟨क्या⟩ नबी सदा जीवित रहेंगे?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "तुम्हारे पितर"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "वे"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "और नबी"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "जीवित रहेंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:49:01.574087747Z",
+  "model": "glm-5.2"
+}

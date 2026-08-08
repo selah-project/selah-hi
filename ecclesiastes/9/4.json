@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "क्योंकि जो कोई सब जीवियों के साथ जुड़ा है उसे जीवित कुत्ता उससे अच्छा है जो मृत शेर है, उसमें भरोसा है; क्योंकि ⟨हर⟩ जीवित कुत्ता मृत शेर से बेहतर है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "जो कोई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "जुड़ा है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवियों"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "कुत्ते को"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "बेहतर है"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "शेर"
+    },
+    {
+      "surface": "המת",
+      "gloss": "मृत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:57.609569121Z",
+  "model": "glm-5.2"
+}

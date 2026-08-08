@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 82,
+  "translation": "दीन और अभावग्रस्त को छुड़ाओ; दुष्टों के हाथ से बचाओ।”",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "छुड़ाओ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "और अभावग्रस्त"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "हाथ से"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों के"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "बचाओ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:05:41.587373431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और शम्मय का पुत्र माओन था, और माओन बेथ-त्सूर का पिता था।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्मय"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "माओन"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "और माओन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सूर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:41.035436930Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तुम कादेश में ठहरे, बहुत दिनों तक, जितने दिन तुम ⟨वहाँ⟩ ठहरे थे।",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "तुम ठहरे"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "कादेश में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों तक"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "जितने दिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "तुम ठहरे थे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:00.499946729Z",
+  "model": "glm-5.2"
+}

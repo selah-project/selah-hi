@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "एक ही घर में ⟨वह⟩ खाया जाएगा; उस मांस में से कुछ ⟨भी⟩ उस घर से बाहर न निकालो, और उसकी कोई हड्डी न तोड़ो।",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाया जाएगा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "निकालो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "उस घर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "उस मांस"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "और हड्डी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "तोड़ो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसकी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:03:41.200618172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "शब्बात के दिन अपने सब निवासों में आग न जलाओ।”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "जलाओ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "अपने निवासों में"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन में"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बात के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:13:25.961272120Z",
+  "model": "glm-5.2"
+}

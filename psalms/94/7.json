@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 94,
+  "translation": "और वे कहते हैं, “याह नहीं देखता, और याकोब का एलोहीम समझता नहीं।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "और वे कहते हैं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखता"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझता"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:11.189374427Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "जो वचन नबी यहवे के नाम में बोले और वह वचन न हो और न आवे — वह वह वचन है जिसे यहवे ने नहीं बोला; बलपूर्वक नबी ने उसे बोला है; उससे तू न डर।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "बोले"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वह वचन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वह वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "बलपूर्वक"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोला है"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी ने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגור",
+      "gloss": "डर"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:49:27.283043147Z",
+  "model": "glm-5.2"
+}

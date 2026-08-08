@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और वह ⟨את⟩ दहन-बलि को छिलके, और उसे उसके टुकड़ों में काटे।",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "और-छिलके"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दहन-बलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "दहन-बलि"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "और-काटे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "उसे",
+      "marks": "टुकड़ों"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "उसके-टुकड़ों-में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:09.208821247Z",
+  "model": "glm-5.2"
+}

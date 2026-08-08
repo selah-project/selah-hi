@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "एक बुराई है जो मैंने सूर्य के नीचे देखी, और वह मनुष्य पर भारी है।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "एक बुराई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखी"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "और भारी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:30.361761208Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "क्योंकि वे ⟨एक⟩ ऐसा गोय हैं जो सलाह खो चुका है, और उनमें कोई समझ नहीं है।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "गोय"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "खो चुका है"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "सलाह"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और नहीं है"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनमें"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:54.315809571Z",
+  "model": "glm-5.2"
+}

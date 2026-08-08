@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "बुद्धि और अनुशासन को जानने के लिए, बोध के वचनों को समझने के लिए—",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "जानने के लिए"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "और अनुशासन"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "समझने के लिए"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बोध"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:35.847907800Z",
+  "model": "glm-5.2"
+}

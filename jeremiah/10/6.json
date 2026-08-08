@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "तेरे समान ⟨कोई⟩ नहीं, हे यहवे; तू महान् है, और तेरा नाम बल में महान् है।",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "⟨कोई⟩ नहीं"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "तेरे समान"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान्"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "और महान्"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तेरा नाम"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "बल में"
+    }
+  ],
+  "timestamp": "2026-08-07T22:13:15.412880642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और कार्य सारे कार्य को ⟨את⟩ उसे करने के लिए पर्याप्त था, और बच गया।",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "और कार्य"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "था"
+    },
+    {
+      "surface": "דים",
+      "gloss": "पर्याप्त"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "कार्य को"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने के लिए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "और बच गया"
+    }
+  ],
+  "timestamp": "2026-08-08T02:09:20.450529219Z",
+  "model": "glm-5.2"
+}

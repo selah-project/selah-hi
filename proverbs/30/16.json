@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "शेओल, और बन्द गर्भ, जल से न संतुष्ट पृथ्वी, और आग जो नहं कहती “बस!”",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "और बन्द"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "गर्भ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "संतुष्ट"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल से"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "और आग"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहं"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "कहती"
+    },
+    {
+      "surface": "הון",
+      "gloss": "बस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:24.224562458Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 107,
+  "translation": "भूखे और निराश, उनका प्राण उनमें थक गया।",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "भूखे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "और"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "निराश"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "उनका प्राण"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनमें"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "थक गया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:10:35.597862732Z",
+  "model": "glm-5.2"
+}

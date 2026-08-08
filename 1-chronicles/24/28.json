@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "महली के लिए एलाज़ार, और उसके लिए बेटे नहीं थे।",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "महली के लिए"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़ार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके लिए"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बेटे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:59.628309350Z",
+  "model": "glm-5.2"
+}

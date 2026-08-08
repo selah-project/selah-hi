@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ये ⟨हैं⟩ एसाव की वंशावली — वह ⟨ही⟩ एदोम है।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह ⟨ही⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:15.715874486Z",
+  "model": "glm-5.2"
+}

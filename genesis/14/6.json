@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और ⟨את⟩ हाखोरी को उनके पहाड़ सेइर में, एल-पारान तक, जो मरुभूमि के समीप है।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हाखोरी"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "हाखोरी"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "उनके पहाड़ में"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "איל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "पारान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "के समीप"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "मरुभूमि"
+    }
+  ],
+  "timestamp": "2026-08-07T19:43:27.518171999Z",
+  "model": "glm-5.2"
+}

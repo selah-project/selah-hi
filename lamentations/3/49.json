@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "मेरी आँख बहती ⟨है⟩ और नहीं थमती, बिना किसी राहत के।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "मेरी आँख"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "बहती ⟨है⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "थमती"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "किसी राहत के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:35:52.017726534Z",
+  "model": "glm-5.2"
+}

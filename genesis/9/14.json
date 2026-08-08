@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यह होगा, जब मैं ⟨ה⟩ पृथ्वी पर बादल लाऊँ और ⟨ה⟩ धनुष बादल में दिखाई दे:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और यह होगा"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "जब मैं लाऊँ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ה⟩ पृथ्वी"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "और दिखाई दे"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "⟨ה⟩ धनुष"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादल में"
+    }
+  ],
+  "timestamp": "2026-08-08T02:01:49.612633506Z",
+  "model": "glm-5.2"
+}

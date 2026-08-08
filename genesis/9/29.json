@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और सम्पूर्ण नोह़ के दिनों के ⟨सय⟩ नौ सौ वर्ष और पचास वर्ष, और वह मर गया।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और ⟨सय⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनों के"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोह़"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "और पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और वह मर गया"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:05.985372091Z",
+  "model": "glm-5.2"
+}

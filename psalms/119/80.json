@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "मेरा हिया तेरे विधानों में सावधान रहे, ताकि मैं लज्जित न होऊँ।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "रहे"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "मेरा हिया"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "सावधान"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "तेरे विधानों में"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "लज्जित होऊँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:12:41.641000270Z",
+  "model": "glm-5.2"
+}

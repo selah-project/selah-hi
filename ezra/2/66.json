@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "ezra 2:66",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "उनके घोड़े सात सौ छत्तीस, उनके खच्चर दो सौ पैंतालिस।",
+  "tokens": [
+    {
+      "surface": "סוסיהם",
+      "gloss": "उनके घोड़े"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "और छह"
+    },
+    {
+      "surface": "פרדיהם",
+      "gloss": "उनके खच्चर"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    },
+    {
+      "surface": "ארबעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "और पाँच"
+    }
+  ],
+  "timestamp": "2026-08-07T23:49:31.949799535Z",
+  "model": "glm-5.2"
+}

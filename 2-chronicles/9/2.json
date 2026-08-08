@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और शलोमोह ने उसे ⟨את⟩ उसके सभी वचन बताए, और शलोमोह से कोई बात छिपी न रही जो उसने उसे न बताई हो।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "और बताया"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सभी वचन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सभी"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "उसके वचन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "छिपी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "शलोमोह से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "बताई"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:18.725515848Z",
+  "model": "glm-5.2"
+}

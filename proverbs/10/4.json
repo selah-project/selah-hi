@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "कंजूस हाथ गरीब बनाता है, परन्तु परिश्रमियों का हाथ धनवान बनाता है।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "गरीब"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाता है"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कंजूस"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "परन्तु हाथ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "परिश्रमियों का"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "धनवान बनाता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:47.045148229Z",
+  "model": "glm-5.2"
+}

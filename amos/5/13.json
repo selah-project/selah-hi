@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "इसलिए बुद्धिमान उस समय मौन रहेगा, क्योंकि वह बुरा समय ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "उस समय"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "मौन रहेगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:44:38.882730786Z",
+  "model": "glm-5.2"
+}

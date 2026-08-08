@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और बिन्यामिन के बेटों में से: सल्लू बेटा मशुल्लाम का, बेटा होदव्याह का, बेटा हस्सेनुआह का।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "और … से"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "सल्लू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "मशुल्लाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "होदव्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "हस्सेनुआह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:36.423477371Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और शलोमोह ने यरूशलम में सम्पूर्ण यिस्राएल पर चालीस वर्ष राज किया।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "और राज किया"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह ने"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलम में"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:14.840153847Z",
+  "model": "glm-5.2"
+}

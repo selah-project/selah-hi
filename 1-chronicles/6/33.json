@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और उनके भाई लेवीय मशकन ⟨की⟩ सब सेवा के लिए दिए गए थे — एलोहीम के भवन के।",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "और उनके भाई"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीय"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "दिए गए थे"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सब के लिए"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "मशकन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:46.054600821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और एप्रैम की सीमा के साथ, पूर्व ओर से लेकर पश्चिम ओर तक, रूबेन ⟨की एक भागीदारी⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … के साथ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एप्रैम"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ओर से"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और … तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ओर"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:38:59.536748728Z",
+  "model": "glm-5.2"
+}

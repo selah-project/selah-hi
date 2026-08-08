@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यिस्राएल का मलक चला अपने घर, रुखा और क्रोधित, और शोमरोन आया।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और चला"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "मलक"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "על",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "अपने घर"
+    },
+    {
+      "surface": "סר",
+      "gloss": "रुखा"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "और क्रोधित"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "शोमरोन"
+    }
+  ],
+  "timestamp": "2026-08-07T21:43:13.513642999Z",
+  "model": "glm-5.2"
+}

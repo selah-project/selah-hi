@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और मूशा ने अपने बनबेटे की बात सुनी और उसने सब कुछ किया जो उसने कहा था।",
+  "tokens": [
+    {
+      "surface": "ושימע",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मूशा ने"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "बात"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "अपने बनबेटे की"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने किया"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "उसने कहा था"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:01.787477114Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "तब मैं यरूशलम आया, और वहाँ तीन दिन रहा।",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "तब मैं आया"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलम"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "और मैं था"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:52:27.799230105Z",
+  "model": "glm-5.2"
+}

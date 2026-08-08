@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "मनुष्य के बेटे, अपना मुख सेईर पर्वत की ओर लगा और उसके विरुद्ध भविष्यवाणी कर।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "שים",
+      "gloss": "लगा"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तेरा मुख"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेईर"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "और भविष्यवाणी कर"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसके विरुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-07T22:35:21.289712502Z",
+  "model": "glm-5.2"
+}

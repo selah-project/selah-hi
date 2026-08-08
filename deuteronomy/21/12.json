@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तो तू उसे अपने घर के भीतर ले जाएगा, और वह ⟨את⟩ अपना सिर मुँडाएगी और वह ⟨את⟩ अपने नख करेगी,",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "तो तू ले जाएगा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "भीतर"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "अपने घर"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "और वह मुँडाएगी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपना सिर"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "अपना सिर"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "और वह करेगी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने नख"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "अपने नख"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:50.411024657Z",
+  "model": "glm-5.2"
+}

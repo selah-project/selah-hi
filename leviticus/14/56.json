@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और शएत के लिए और सप्पाखत के लिए और बहेरेत के लिए।",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "और शएत के लिए"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "और सप्पाखत के लिए"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "और बहेरेत के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:22.679975590Z",
+  "model": "glm-5.2"
+}

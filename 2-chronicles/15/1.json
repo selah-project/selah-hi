@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और अज़र्याहू बेटे ओदेद के — उस पर एलोहीम की रूह थी।",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "और अज़र्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ओदेद"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "थी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:17.975643769Z",
+  "model": "glm-5.2"
+}

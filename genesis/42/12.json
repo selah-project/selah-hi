@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "और उसने उनसे कहा, “नहीं, बल्कि ⟨आप⟩ ⟨इस⟩ देश की नग्नता देखने ⟨आए⟩ हो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बल्कि"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नग्नता"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश की"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "आप आए हो"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देखने"
+    }
+  ],
+  "timestamp": "2026-08-08T02:04:17.392104671Z",
+  "model": "glm-5.2"
+}

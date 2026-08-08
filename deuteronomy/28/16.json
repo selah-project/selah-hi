@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "धिक्कृत ⟨तू है⟩ नगर में और धिक्कृत ⟨तू है⟩ खेत में।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "नगर में"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "और धिक्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेत में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:26.367352866Z",
+  "model": "glm-5.2"
+}

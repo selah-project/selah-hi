@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "दुष्ट बुराइयों के जाल को चाहता है, परन्तु धर्मियों की जड़ देती है।",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "चाहता है"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुराइयों के"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "परन्तु जड़"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मियों की"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "देती है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:49.574700512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और दन्ना, और किर्यत-सन्ना — वह ⟨है⟩ दबीर।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "और दन्ना"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "और किर्यत"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "सन्ना"
+    },
+    {
+      "surface": "היא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "दबीर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:01:06.037143104Z",
+  "model": "glm-5.2"
+}

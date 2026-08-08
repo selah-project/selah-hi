@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "भोला प्रत्येक बात पर विश्वास करता है, और चतुर अपने कदम को समझता है।",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "भोला"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "विश्वास करता है"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात पर"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "और चतुर"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "समझता है"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "अपने कदम को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:27.383241608Z",
+  "model": "glm-5.2"
+}

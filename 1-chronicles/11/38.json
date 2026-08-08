@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "योएल नतन का भाई, मिब्खर हग्री का पुत्र।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "का भाई"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नतन"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "मिब्खर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "का पुत्र"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "हग्री"
+    }
+  ],
+  "timestamp": "2026-08-08T03:14:49.205751252Z",
+  "model": "glm-5.2"
+}

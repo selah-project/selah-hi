@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 55,
+  "translation": "सुन! मैं दूर भाग जाऊँ, मैं जंगल में डेर डालूँ। सेला।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "मैं दूर भाग जाऊँ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "भटकता हूँ"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "मैं डेर डालूँ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगल में"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:14.010599226Z",
+  "model": "glm-5.2"
+}

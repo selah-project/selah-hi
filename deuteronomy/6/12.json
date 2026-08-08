@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "तू ⟨ले आगे⟩ अपना ध्यान रख, तेरा यहवे को न भूले — जिसने तुझे मिस्रयिम की भूमि से, दासों के घर से निकाला।",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "तू ध्यान रख"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपना"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कि न"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "तू भूले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे को"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसने"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "तुझे निकाला"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "भूमि से"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम की"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घर से"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दासों के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:48.606043656Z",
+  "model": "glm-5.2"
+}

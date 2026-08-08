@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "महलेते वाले के लिए, कोरह के बेटों का ⟨का⟩ मज़मूर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महलेते वाले के लिए"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "बेटों का"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मज़मूर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:00:44.337855360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "हे यहवे, मुझे अपने मार्ग बता; अपनी राहें मुझे सिखा।",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "तेरे मार्ग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "हे यहवे"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "मुझे बता"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "तेरी राहें"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "मुझे सिखा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:06.767752382Z",
+  "model": "glm-5.2"
+}

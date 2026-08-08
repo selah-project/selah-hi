@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "अगर मैं बर्फ से धोऊँ और अपने हाथों को ऋजु करूँ,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "अगर"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "मैं धोऊँ"
+    },
+    {
+      "surface": "במו",
+      "gloss": "से"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "बर्फ"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "और ऋजु करूँ"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "…"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "मेरे हाथों को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:26:10.998738996Z",
+  "model": "glm-5.2"
+}

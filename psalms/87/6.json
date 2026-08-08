@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 87,
+  "translation": "यहवे गिनेगा, लोगों को लिखते समय: यह वहीं जन्मा। सेला।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "गिनेगा"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "लिखते समय"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "लोगों को"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहीं"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:10.915729425Z",
+  "model": "glm-5.2"
+}

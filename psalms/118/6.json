@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 118,
+  "translation": "यहवे मेरे लिए ⟨है⟩ — मैं नहीं डरूँगा; मनुष्य मेरा क्या करेगा?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "मैं डरूँगा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेगा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:11:38.880378943Z",
+  "model": "glm-5.2"
+}

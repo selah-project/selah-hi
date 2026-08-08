@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और ये उनके नाम हैं: रूबेन के कुल के लिए — शम्मूअ, ज़क्कूर का बेटा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "उनके नाम"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुल के लिए"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मूअ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ज़क्कूर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:48.982689841Z",
+  "model": "glm-5.2"
+}

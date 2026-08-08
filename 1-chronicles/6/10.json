@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और एल्काना के पुत्र: अमासै और अहीमोत।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और ⟨के⟩ पुत्र"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "अमासै"
+    },
+    {
+      "surface": "वאחימות",
+      "gloss": "और अहीमोत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:04.915868926Z",
+  "model": "glm-5.2"
+}

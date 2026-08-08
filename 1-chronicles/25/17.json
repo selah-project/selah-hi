@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "दसवाँ शिमी, उसके पुत्र और उसके भाई — बारह।",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "दसवाँ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:46.274535406Z",
+  "model": "glm-5.2"
+}

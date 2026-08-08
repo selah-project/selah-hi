@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 85,
+  "translation": "तू प्रसन्न हुआ यहवे, ⟨हेतु⟩ तेरी भूमि का; तू लौटा दी याकोव की शवूत।",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "तू प्रसन्न हुआ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "तेरी भूमि"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "तू लौटा दी"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "शवूत"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:07.034887569Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "इस कारण टाट बाँधो, विलाप करो और विलाप करो, क्योंकि यहवे का भड़का हुआ क्रोध हम से नहीं लौटा है।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "बाँधो"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "टाट"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "विलाप करो"
+    },
+    {
+      "surface": "והילילו",
+      "gloss": "और विलाप करो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שב",
+      "gloss": "लौटा है"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "भड़का हुआ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "हम से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:11:41.772046020Z",
+  "model": "glm-5.2"
+}

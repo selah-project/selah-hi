@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और काँटा और दूबड़ वह तेरे लिए उगाएगी, और तू ⟨את⟩ खेत की घास खाएगा।",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "और काँटा"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "और दूबड़"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "वह उगाएगी"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "और तू खाएगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत की घास"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घास"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत की"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:40.951740743Z",
+  "model": "glm-5.2"
+}

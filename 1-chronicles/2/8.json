@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और एतान के बेटे: अज़र्याह।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एतान"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अज़र्याह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:37.140798121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यहूदा ने कहा: “भारवाहकों का बल डगमगा रहा है, और मलबा बहुत है, और हम दीवार नहीं बना सकते।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा ने"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "डगमगा रहा है"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बल"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "भारवाहकों का"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "और मलबा"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "बहुत है"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "और हम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "सकते"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बना"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "दीवार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:51:44.823540586Z",
+  "model": "glm-5.2"
+}

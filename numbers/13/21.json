@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "वे चढ़े और ⟨את⟩ देश का अन्वेषण किया — मिदबार त्सिन से लेकर रचोब तक, खामात के प्रवेश तक।",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "वे चढ़े"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "और अन्वेषण किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "देश"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "मिदबार से"
+    },
+    {
+      "surface": "צן",
+      "gloss": "त्सिन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "रचोब"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "प्रवेश"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खामात"
+    }
+  ],
+  "timestamp": "2026-08-08T02:15:30.100573843Z",
+  "model": "glm-5.2"
+}

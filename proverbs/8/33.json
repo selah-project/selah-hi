@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "सुनो अनुशासन और बुद्धिमान बनो, और ⟨इसकी⟩ उपेक्षा न करो।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुनो"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासन"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "और बुद्धिमान बनो"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "उपेक्षा करो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:19.862945273Z",
+  "model": "glm-5.2"
+}

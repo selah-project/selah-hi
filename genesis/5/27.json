@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और मतूशेलख के सब दिन हुए नौ और साठ वर्ष और नौ सौ वर्ष, और वह मरा।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "मतूशेलख के"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "और नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मरा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:11.531215126Z",
+  "model": "glm-5.2"
+}

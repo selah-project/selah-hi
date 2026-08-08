@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और यरहमएल के बेटे हुए — चेत्सरोन का बकोर — हब्कोर राम, और बूना, और ओरेन, और ओत्सेम, अखिया।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और हुए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरहमएल"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "बकोर"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "चेत्सरोन"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "हब्कोर"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "और बूना"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "और ओरेन"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "और ओत्सेम"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "अखिया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:43.530858780Z",
+  "model": "glm-5.2"
+}

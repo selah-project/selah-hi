@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "क्या वर्षा का कोई पिता है? या किसने ओस की बूँदों को जन्म दिया?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "क्या है"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "वर्षा का"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מי",
+      "gloss": "किसने"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "बूँदों को"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ओस की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:25.447968460Z",
+  "model": "glm-5.2"
+}

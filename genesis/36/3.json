@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और ⟨את⟩ बसेमत को, यिश्माएल की बेटी, नबायोत की बहन।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बसेमत को"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बसेमत"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएल"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहन"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "नबायोत"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:15.716273558Z",
+  "model": "glm-5.2"
+}

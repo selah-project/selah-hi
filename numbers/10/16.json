@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और ज़बूलुन के बेटों के कुल की सेना पर एलियाब, खेलोन का बेटा ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बूलुन"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "खेलोन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:22.107969516Z",
+  "model": "glm-5.2"
+}

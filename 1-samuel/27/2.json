@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "तब दावीद उठा, और वह और उसके साथ के छह सौ पुरुष, जो उसके साथ थे, गत के राजा माओक के बेटे अकीश के पास गए।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "और उठा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "और छह"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ थे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीश"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "माओक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:23:34.100432336Z",
+  "model": "glm-5.2"
+}

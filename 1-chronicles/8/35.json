@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और मीका के पुत्र पीतोन और मेलेक और तअरा और अहाज।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीका"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पीतोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "और मेलेक"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "और तअरा"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "और अहाज"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:21.038815855Z",
+  "model": "glm-5.2"
+}

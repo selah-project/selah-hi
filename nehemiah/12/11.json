@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और योयादा ने ⟨את⟩ योनातन को जन्या, और योनातन ने ⟨את⟩ यद्दूआ को जन्या।",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "और योयादा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योनातन"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातन"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "और योनातन"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यद्दूआ"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "यद्दूआ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:26.944153019Z",
+  "model": "glm-5.2"
+}

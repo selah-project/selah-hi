@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "महराय नेतोफाथी, खेलेद बन-बाअना नेतोफाथी,",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "महराय"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "नेतोफाथी"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "खेलेद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बन"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "बाअना"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "नेतोफाथी"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:28.348501324Z",
+  "model": "glm-5.2"
+}

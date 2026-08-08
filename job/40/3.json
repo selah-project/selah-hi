@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "और अय्यूब ने यहवे का उत्तर दिया और कहा,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "और उत्तर दिया"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूब ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे का"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:55:46.513493437Z",
+  "model": "glm-5.2"
+}

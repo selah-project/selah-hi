@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यह ⟨है⟩ मन्थ की तोराह: उसे लाओ, अहरोन के बेटों, यहवे के सामने, मेज़बह के सामने।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "और यह"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोराह"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "मन्थ की"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "लाओ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटों"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन के"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "אל",
+      "gloss": "अर्थात्"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "मेज़बह के"
+    }
+  ],
+  "timestamp": "2026-08-07T20:16:56.444709487Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "सुन्दर हैं तेरे गाल, गलहरियों से; तेरी गर्दन, मणियों से।",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "सुन्दर हैं"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "तेरे गाल"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "गलहरियों से"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "तेरी गर्दन"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "मणियों से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:29.846072166Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "क्योंकि वह वचन तेरे बहुत निकट ⟨है⟩, तेरे मुँह में और तेरे हृदय में, उसे करने के लिए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "निकट"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तेरे"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "तेरे मुँह में"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "और तेरे हृदय में"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "उसे करने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:54:24.800428980Z",
+  "model": "glm-5.2"
+}

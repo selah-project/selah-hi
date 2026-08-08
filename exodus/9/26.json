@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "केवल गोशेन के देश में, जहाँ इस्राएल के पुत्र थे, ओले नहीं थे।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "गोशेन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थे"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओले"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:44.930484257Z",
+  "model": "glm-5.2"
+}

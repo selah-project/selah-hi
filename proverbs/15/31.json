@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "जो कान जीवन की ताड़ना सुनता ⟨है⟩, वह बुद्धिमानों के बीच ठहराव रखेगा।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "जो …सुनता है"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ताड़ना"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन की"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "के बीच"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "बुद्धिमानों"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ठहराव रखेगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:57.187138079Z",
+  "model": "glm-5.2"
+}

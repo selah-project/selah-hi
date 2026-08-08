@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 49,
+  "translation": "दाखरस से चमकते आँखें, और दूध से उजले दाँत।",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "चमकते"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखें"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "दाखरस से"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "और उजले"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "दूध से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:58:36.643250416Z",
+  "model": "glm-5.2"
+}

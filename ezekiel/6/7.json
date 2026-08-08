@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और वध हुआ तुम्हारे बीच गिरेगा, और तुम जानोगे कि मैं यहवे हूँ।",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "और गिरेगा"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "वध हुआ"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "तुम्हारे बीच"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "और तुम जानोगे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:27:19.231221933Z",
+  "model": "glm-5.2"
+}

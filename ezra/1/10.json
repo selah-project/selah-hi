@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "स्वर्ण के काफोरी तीस, रजत के काफोरी मिशनीम चार सौ और दस, अन्य केलीम एक हज़ार।",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "काफोरी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "स्वर्ण"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "काफोरी"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "रजत"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "मिशनीम"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "और दस"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "केलीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अन्य"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:47:50.509827677Z",
+  "model": "glm-5.2"
+}

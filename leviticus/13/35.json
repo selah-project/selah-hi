@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और यदि चर्म-रोग बहुत फैल ⟨जाए⟩ त्वचा में उसके शुद्ध होने के बाद",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैलना"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "बहुत फैल ⟨जाए⟩"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "चर्म-रोग"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "त्वचा में"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "उसके शुद्ध होने"
+    }
+  ],
+  "timestamp": "2026-08-08T02:11:18.924910308Z",
+  "model": "glm-5.2"
+}

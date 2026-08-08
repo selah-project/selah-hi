@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और जब कोई मनुष्य गड्ढा खोले या जब कोई मनुष्य गड्ढा खोदे और उसे ढके नहीं, और वहाँ गिर जाए बैल या गधा,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और जब"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोले"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोई मनुष्य"
+    },
+    {
+      "surface": "בור",
+      "gloss": "गड्ढा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "खोदे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कोई मनुष्य"
+    },
+    {
+      "surface": "בר",
+      "gloss": "गड्ढा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "उसे ढके"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "और गिर जाए"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "गधा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:07:35.721409649Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और हर वस्त्र और हर चमड़ा जिस पर उसका स्राव-वीर्य हो, जल में धोया जाएगा और अशुद्ध ⟨होगा⟩ साँझ तक।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "עור",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिस पर"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसके ऊपर"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "स्राव"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "वीर्य"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "धोया जाएगा"
+    },
+    {
+      "surface": "במים",
+      "gloss": "जल में"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "और अशुद्ध"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:48.379462026Z",
+  "model": "glm-5.2"
+}

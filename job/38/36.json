@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 38,
+  "translation": "ने बुद्धि भीतर के भागों में रखी, या ने सेम (मुर्गे) को समझ दी?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "किसने"
+    },
+    {
+      "surface": "שת",
+      "gloss": "रखी"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "भीतर के भागों में"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מי",
+      "gloss": "किसने"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दी"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": "सेम (मुर्गे) को"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "समझ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:32:04.568384941Z",
+  "model": "glm-5.2"
+}

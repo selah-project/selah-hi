@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "לַצַּדִּיק को कोई अविधि नहीं आ पाती, और दुष्ट ⟨are⟩ बुराई से भरे ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "आ पाती"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ल-צדיק को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई"
+    },
+    {
+      "surface": "און",
+      "gloss": "अविधि"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "और-רשעים"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरे"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुराई"
+    }
+  ],
+  "timestamp": "2026-08-08T03:07:45.297933976Z",
+  "model": "glm-5.2"
+}

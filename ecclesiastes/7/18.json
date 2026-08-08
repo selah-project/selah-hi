@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "अच्छा ⟨है⟩ कि तुम इसे पकड़ो, और इससे भी अपना हाथ मत छोड़ो; क्योंकि एलोहीम से भय माननेवाला ⟨वह⟩ उन सब में से निकलेगा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "तुम पकड़ो"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "इसे"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "इससे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "तुम छोड़ो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तुम्हारा हाथ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तुम्हारा हाथ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "भय माननेवाला"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "वह निकलेगा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उन सब को"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "उन सब को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:18.717364999Z",
+  "model": "glm-5.2"
+}

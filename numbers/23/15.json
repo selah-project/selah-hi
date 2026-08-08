@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और उसने बलाक से कहा, “यहीं अपने चढ़ावी बलि के पास खड़ा रहो, और मैं यहीं मिलूँगा।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बलाक"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "खड़ा रहो"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यहीं"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "तेरी चढ़ावी बलि"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "मिलूँगा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यहीं"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:12.633321257Z",
+  "model": "glm-5.2"
+}

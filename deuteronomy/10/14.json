@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "देखो, यहवे तेरे एलोहीम के हैं आकाश और आकाशों के आकाश, पृथ्वी और सब कुछ जो उसमें है।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के हैं"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "और आकाशों"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "के आकाश"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सब कुछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:00.927165369Z",
+  "model": "glm-5.2"
+}

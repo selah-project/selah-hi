@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "एक बुद्धिमान पुरुष ⟨बलवान⟩ है, और ज्ञान का पुरुष सामर्थ्य को सबल करता है।",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "और पुरुष"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "सबल करता है"
+    },
+    {
+      "surface": "כח",
+      "gloss": "सामर्थ्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:13.871101464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "जब तू ⟨अपने⟩ शत्रुओं के विरुद्ध छावनी से बाहर जाए, तो तू हर बुरी बात से चौकन्ना रहे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "तू बाहर जाए"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "छावनी"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विरुद्ध"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "तेरे शत्रुओं"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "तो तू चौकन्ना रहे"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:36.507631246Z",
+  "model": "glm-5.2"
+}

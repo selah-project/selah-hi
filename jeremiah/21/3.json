@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "तब यिर्मयाहू ने उनसे कहा, “तुम त्सिद्कियाहू से यों कहो:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब…कहा"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यों"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "तुम…कहो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिद्कियाहू"
+    }
+  ],
+  "timestamp": "2026-08-08T02:41:42.640894862Z",
+  "model": "glm-5.2"
+}

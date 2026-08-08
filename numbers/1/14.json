@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "गाद के ⟨लिए⟩: एल्यासाफ बेन देउएल।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "गाद के ⟨लिए⟩"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएल"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:53.848304848Z",
+  "model": "glm-5.2"
+}

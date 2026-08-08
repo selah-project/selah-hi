@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ⟨את⟩ खिलेज और ⟨את⟩ उसके चारागाह, ⟨את⟩ दबीर और ⟨את⟩ उसके चारागाह।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "खिलेज"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "खिलेज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके चारागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "उसके चारागाह"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दबीर"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "दबीर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके चारागाह"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "उसके चारागाह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:50.401143568Z",
+  "model": "glm-5.2"
+}

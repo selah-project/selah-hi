@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "⟨उसने⟩ अपनी दासियाँ भेजीं, वह पुकारती है नगर के ऊँचे स्थानों पर:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "भेजीं"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "अपनी दासियाँ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "वह पुकारती है"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "ऊँचे स्थानों"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ऊँचाइयों"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "नगर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:30.989441633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "हर परिश्रम में लाभ होता है, परन्तु होंठों का शब्द केवल न्यूनता की ओर है।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "परिश्रम में"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होता है"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "परन्तु शब्द"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "होंठों का"
+    },
+    {
+      "surface": "אך",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "न्यूनता की ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:48.754862537Z",
+  "model": "glm-5.2"
+}

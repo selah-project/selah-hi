@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "बकबुक के पुत्र, हकूफा के पुत्र, हरहूर के पुत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "बकबुक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "हकूफा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "हरहूर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:42.484292544Z",
+  "model": "glm-5.2"
+}

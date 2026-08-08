@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "शफत्याह के बेटे — तीन सौ, और बहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शफत्याह के"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:23.662168302Z",
+  "model": "glm-5.2"
+}

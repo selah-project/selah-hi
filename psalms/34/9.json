@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "चखो और देखो कि यहवे भला ⟨है⟩; धन्य ⟨है⟩ वह पुरुष जो उसमें शरण लेता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "चखो"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "वह पुरुष"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "शरण लेता"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:17.512593353Z",
+  "model": "glm-5.2"
+}

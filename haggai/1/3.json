@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "तब यहवे का वचन ख़ग्गी नबी के हाथ ⟨द्वारा⟩ हुआ, कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ख़ग्गी"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:48:52.436525954Z",
+  "model": "glm-5.2"
+}

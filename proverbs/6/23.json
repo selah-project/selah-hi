@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "क्योंकि आज्ञा एक दीपक है और तोराह प्रकाश, और जीवन-मार्ग अनुशासन की ताड़नाएँ हैं।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נר",
+      "gloss": "दीपक"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "और तोराह"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "और मार्ग"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ताड़नाएँ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:01.596268308Z",
+  "model": "glm-5.2"
+}

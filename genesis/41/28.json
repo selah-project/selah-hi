@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 41,
+  "translation": "“यही वह बात है जो मैंने फरौह से कही है; जो कुछ एलोहीम कर रहा ⟨है⟩ उसका ⟨את⟩ फरौह को दिखाया है।”",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "यही"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वह बात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "मैंने कही है"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो कुछ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "कर रहा है"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "दिखाया है"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "फरौह"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फरौह को"
+    }
+  ],
+  "timestamp": "2026-08-07T19:55:13.578960816Z",
+  "model": "glm-5.2"
+}

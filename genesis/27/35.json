@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और उसने कहा, तेरा भाई छल से आया और तेरा आशीर्वाद ले गया।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आया"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरा भाई"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "छल से"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "और ले गया"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "तेरा आशीर्वाद"
+    }
+  ],
+  "timestamp": "2026-08-07T19:50:00.171466477Z",
+  "model": "glm-5.2"
+}

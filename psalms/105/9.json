@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 105,
+  "translation": "जो उसने अवराहाम के साथ ⟨את⟩ काटा, और उसकी शपथ यिसहाक के लिए,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अवराहाम"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "और उसकी शपथ"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "यिसहाक के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:09:57.891016907Z",
+  "model": "glm-5.2"
+}

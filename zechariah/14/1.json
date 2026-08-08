@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "देखो, यहवे के लिए एक दिन आ रहा है, और तेरा लूटमाल तेरे बीच बाँटा जाएगा।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "יום",
+      "gloss": "एक दिन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा है"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "और बाँटा जाएगा"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "तेरा लूटमाल"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तेरे बीच"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:31.885442992Z",
+  "model": "glm-5.2"
+}

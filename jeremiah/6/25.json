@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "मैदान मत निकलो और मार्ग पर मत चलो, क्योंकि शत्रु की ⟨है⟩ तलवार, चारों ओर ⟨है⟩ भय।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "निकलो"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "मैदान"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "और मार्ग पर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "चलो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "शत्रु की"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "भय"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "चारों ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T22:11:09.339831460Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और सन और जौ प्रहारित थे, क्योंकि जौ ⟨कलियों में⟩ था और सन ⟨फूल रहा⟩ था।",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "और सन"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "और जौ"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "प्रहारित थे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "जौ"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "कलियों में"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "और सन"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "फूल रहा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:09.089685173Z",
+  "model": "glm-5.2"
+}

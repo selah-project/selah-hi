@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और उसके हाथ ⟨के⟩ पास यरीहो ⟨के⟩ लोगों ने बनाया; और उसके हाथ ⟨के⟩ पास ज़क्कूर ने बनाया, इम्री ⟨का⟩ बेटा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसके हाथ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "लोगों"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसके हाथ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ज़क्कूर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "इम्री"
+    }
+  ],
+  "timestamp": "2026-08-07T23:52:30.939217294Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और उसके हथियार-वाहक ने देखा कि शाऊल मर गया, और वह भी तलवार पर गिरा और मर गया।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "और देखा"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "वाहक ने"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "उसके हथियार-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मर गया"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "और गिरा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तलवार"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और मर गया"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:14.200045764Z",
+  "model": "glm-5.2"
+}

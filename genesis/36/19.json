@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "ये हैं एसाव के बेटे, और ये हैं उनके सरदार; वही एदोम है।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "उनके सरदार"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:15.381172933Z",
+  "model": "glm-5.2"
+}

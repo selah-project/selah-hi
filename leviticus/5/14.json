@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और यहवे ने मोशे से कहा, यह कहते हुए:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "से"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "यह कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:17:08.061461333Z",
+  "model": "glm-5.2"
+}

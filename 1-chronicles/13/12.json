@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और दाऊद उस दिन एलोहीम से डरा, कहते हुए, “कैसे मैं अपने पास एलोहीम का अर्क लाऊँ?”",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "और-डरा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "उस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उस"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    },
+    {
+      "surface": "היך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "मैं लाऊँ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "अपने पास"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीम का अर्क"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "अर्क"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:34.711640955Z",
+  "model": "glm-5.2"
+}

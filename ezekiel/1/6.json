@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और प्रत्येक के चार चेहरे ⟨थे⟩, और उनमें से प्रत्येक के चार पक्ष ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "चेहरे"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "प्रत्येक के"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "पक्ष"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "प्रत्येक के"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनमें से"
+    }
+  ],
+  "timestamp": "2026-08-07T22:25:22.086804492Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "जल के गन्ध से ⟨वह⟩ फूलेगा और कलम की तरह ⟨एक⟩ पैदावार करेगा।",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "गन्ध से"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "फूलेगा"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "और करेगा"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "पैदावार"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "की तरह"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "कलम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:27:03.362754778Z",
+  "model": "glm-5.2"
+}

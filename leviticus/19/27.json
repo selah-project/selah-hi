@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "तुम अपने सिर के किनारे को गोल न करो और अपनी दाढ़ी के ⟨את⟩ किनारे को न नष्ट करो।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "तुम काटो\/गोल करो"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "तुम्हारे सिर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "तू नष्ट करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "किनारे को"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "तेरी दाढ़ी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:23:29.758306184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 53,
+  "translation": "सब मुड़ गए, साथ मिलकर दूषित हो गए; कोई भला करने वाला नहीं, वरन् एक भी नहीं।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "सब"
+    },
+    {
+      "surface": "סג",
+      "gloss": "मुड़ गए"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "साथ मिलकर"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "दूषित हो गए"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "करने वाला"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भला"
+    },
+    {
+      "surface": "אין",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "גם",
+      "gloss": "वरन्"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक भी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:43.761728102Z",
+  "model": "glm-5.2"
+}

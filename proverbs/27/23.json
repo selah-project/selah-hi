@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "भली-भाँति जानना अपनी भेड़ों के चेहरे ⟨को⟩; अपना हृदय लगाना झुण्डों पर।",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "जानना"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "तू जानना"
+    },
+    {
+      "surface": "פני",
+      "gloss": "चेहरे"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "अपनी भेड़ों"
+    },
+    {
+      "surface": "שית",
+      "gloss": "लगाना"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "अपना हृदय"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "झुण्डों पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:49.378702285Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "परोश के बेटे — दो हज़ार, एक सौ, और बहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "परोश के"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "और दो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:23.662073166Z",
+  "model": "glm-5.2"
+}

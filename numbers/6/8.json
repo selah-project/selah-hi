@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "“उसके अलगाव के सब दिन वह यहवे के लिए पवित्र ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "उसके अलगाव"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:30:04.172565284Z",
+  "model": "glm-5.2"
+}

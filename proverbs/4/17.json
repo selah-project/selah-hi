@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "क्योंकि दुष्टता का भोजन उनका खाना ⟨है⟩, और हिंसा की दाखरस वे पीते हैं।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "उनका खाना"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "भोजन"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टता"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "और दाखरस"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "हिंसा की"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "वे पीते हैं"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:29.163089567Z",
+  "model": "glm-5.2"
+}

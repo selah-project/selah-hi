@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "मेरे साथ चाँदी के एलोहीम और सोने के एलोहीम न बनाना; तुम अपने लिए ⟨ऐसे⟩ न बनाना।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "बनाना"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी के"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "और एलोहीम"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने के"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "बनाना"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम अपने लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:50.770444600Z",
+  "model": "glm-5.2"
+}

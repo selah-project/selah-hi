@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और राजा शलोमोह सम्पूर्ण यिस्राएल पर राजा ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨था⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-07T21:35:05.525942860Z",
+  "model": "glm-5.2"
+}

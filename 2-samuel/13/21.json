@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और राजा दाऊद ने ⟨את⟩ सब ⟨the⟩ ये बातें सुनीं, और उसे अत्यन्त बुरा लगा।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "और राजा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद ने"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुनीं"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातें"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "और बुरा लगा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    }
+  ],
+  "timestamp": "2026-08-08T02:28:41.582270522Z",
+  "model": "glm-5.2"
+}

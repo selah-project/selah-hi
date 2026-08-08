@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "बेटे अनाह के ⟨ने⟩: दीशोन। और बेटे दीशोन के ⟨ने⟩: हमरान और एशबान और यितरान और करान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाह"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दीशोन"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दीशोन"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "हमरान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "और एशबान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "और यितरान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "और करान"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:38.920547478Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और मिद्यान के बेटे थे — एयफा और एफेर और हनोख और अवीदा और एल्दााह; ये सब केतुराह के बेटे थे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "एयफा"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "और एफेर"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "और हनोख"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "और अवीदा"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "और एल्दााह"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "केतुराह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:34.106391968Z",
+  "model": "glm-5.2"
+}

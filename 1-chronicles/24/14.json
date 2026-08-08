@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "पंद्रहवाँ बिल्गाह के लिए, सोलहवाँ इम्मेर के लिए।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "बिल्गाह के लिए"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—पंद्रहवाँ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "इम्मेर के लिए"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—सोलहवाँ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:25.524608549Z",
+  "model": "glm-5.2"
+}

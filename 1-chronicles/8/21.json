@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और अदायाह, और बेरायाह, और शिमरात — शिमी के पुत्र।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "और अदायाह"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "और बेरायाह"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "और शिमरात"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:33.157543349Z",
+  "model": "glm-5.2"
+}

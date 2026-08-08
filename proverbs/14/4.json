@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "जहाँ बैल नहीं होते, वहाँ बाड़ा साफ़ रहता है, और बैल के बल से उपज बहुत होती है।",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "जहाँ नहीं होते"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "बाड़ा"
+    },
+    {
+      "surface": "בר",
+      "gloss": "साफ़ रहता है"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "और बहुत"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "उपज"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "के बल से"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बैल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:39.994988905Z",
+  "model": "glm-5.2"
+}

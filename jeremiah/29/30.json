@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "तब यहवे का वचन यिर्मयाहू के पास ⟨आया⟩, ये कहते हुए:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब ⟨आया⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ये कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:19:15.665634353Z",
+  "model": "glm-5.2"
+}

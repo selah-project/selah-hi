@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और यहोनातन का पुत्र मरीब-बाल; और मरीब-बाल ने जन्म दिया ⟨את⟩ मीका को।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "और पुत्र"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "मरीब"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "और मरीब"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मीका"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मीका"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:21.038695429Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और उसके बाद ⟨था⟩ एलाज़र, दोदो का पुत्र, अहोही — वह तीन शूरवीरों में ⟨से एक था⟩।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "और उसके बाद"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाज़र"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "दोदो का"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "अहोही"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "तीन में"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "शूरवीरों"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:48.601182082Z",
+  "model": "glm-5.2"
+}

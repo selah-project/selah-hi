@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "हृदय का बुद्धिमान आज्ञाएँ ग्रहण करता है, और बड़बोले मूर्ख का पतन होगा।",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय का"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ग्रहण करता है"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "आज्ञाएँ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "और मूर्ख"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "बड़बोले"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "पतन होगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:18:25.819456971Z",
+  "model": "glm-5.2"
+}

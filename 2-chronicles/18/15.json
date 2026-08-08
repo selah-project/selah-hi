@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और राजा ने उससे कहा, “कितनी बार मैं तुम्हें शपथ दिलाऊँ कि तुम मुझसे केवल सत्य बोलो, यहवे के नाम में?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कितनी"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "बार"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "तुम्हें शपथ दिलाऊँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तुम बोलो"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    }
+  ],
+  "timestamp": "2026-08-08T00:07:56.133658874Z",
+  "model": "glm-5.2"
+}

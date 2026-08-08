@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 26:7",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "ये हैं रूबेनियों के कुल; और उनके गिने गए तैंतालीस हज़ार सात सौ तैंतीस थे।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "הראובני",
+      "gloss": "रूबेनियों के"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "और वे थे"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "उनके गिने गए"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "और चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:01.953633096Z",
+  "model": "glm-5.2"
+}

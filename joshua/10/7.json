@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यहोशु गिलगल से चढ़ गया — वह और सारा युद्ध-जन उसके साथ — और सारे वीर शूरवीर।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "और चढ़ गया"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशु"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "गिलगल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारे"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "वीर"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "शूरवीर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:59:32.250851593Z",
+  "model": "glm-5.2"
+}

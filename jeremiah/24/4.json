@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और यहवे का वचन मेरे पास ⟨आया⟩ ⟨के लिए⟩ कहना:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨आया⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहना"
+    }
+  ],
+  "timestamp": "2026-08-08T00:26:16.086846022Z",
+  "model": "glm-5.2"
+}

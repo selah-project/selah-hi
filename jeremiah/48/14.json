@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "“तुम कैसे कहते हो, ‘हम शूरवीर हैं, और युद्ध के लिए साहसी पुरुष हैं’?”",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कैसे"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "तुम कहते हो"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "शूरवीर"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हम"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "और पुरुष"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "साहसी"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "युद्ध के लिए"
+    }
+  ],
+  "timestamp": "2026-08-08T00:28:55.329848878Z",
+  "model": "glm-5.2"
+}

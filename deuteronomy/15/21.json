@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "और यदि उसमें कोई दोष हो — लँगड़ा या अँधा, कोई भी बुरा दोष — तो उसे तू यहवे अपने एलोहीम के लिए न बलि करें।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "लँगड़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अँधा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कोई भी"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "רע",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "तू उसे बलि करें"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "अपने एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:48:18.298991706Z",
+  "model": "glm-5.2"
+}

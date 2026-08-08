@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 30:29",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "השיר הזה יהיה לכם כשירת קידוש החג ושמחת לבב כמי שהולך בחליל לבוא בהר יהוה אל צור ישראל",
+  "tokens": [
+    {
+      "surface": "השיר",
+      "gloss": "השיר"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "יהיה"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "לכם"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "כשירת"
+    },
+    {
+      "surface": "התקדש",
+      "gloss": "קידוש"
+    },
+    {
+      "surface": "חג",
+      "gloss": "החג"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "ושמחת"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "לבב"
+    },
+    {
+      "surface": "כהולך",
+      "gloss": "כמי שהולך"
+    },
+    {
+      "surface": "בחליל",
+      "gloss": "בחליל"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "לבוא"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "בהר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "צור",
+      "gloss": "צור"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישראל"
+    }
+  ],
+  "timestamp": "2026-08-08T02:36:24.193976672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "तीन बार तुम मेरे लिए वर्ष में चर्ग करो।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "बार (पैर)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "तुम चर्ग करो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्ष में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:07.035007368Z",
+  "model": "glm-5.2"
+}

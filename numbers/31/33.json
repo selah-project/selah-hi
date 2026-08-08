@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और बड़े मवेशी दो और सत्तर हज़ार।",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "और बड़े मवेशी"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "और सत्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:40:05.134410757Z",
+  "model": "glm-5.2"
+}

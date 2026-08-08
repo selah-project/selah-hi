@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 11:18",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और रहबअम ने अपने लिए एक पत्नी ली — ⟨את⟩ महलत, यरिमोत की बेटी, दाविद के बेटे, और अबिहैल, एलिआब की बेटी, यिशै के बेटे।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "और उसने ली"
+    },
+    {
+      "surface": "לו",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रहबअम"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक पत्नी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महलत"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "महलत"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "यरिमोत"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "अबिहैल"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:16.775425132Z",
+  "model": "glm-5.2"
+}

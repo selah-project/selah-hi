@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और उन्होंने मार्द्राकै को ⟨את⟩ एस्तेर के वचन बताए।",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "और बताए"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "मार्द्राकै को"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एस्तेर के वचन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:40:04.043776004Z",
+  "model": "glm-5.2"
+}

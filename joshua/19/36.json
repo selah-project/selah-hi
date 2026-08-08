@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और अदामा, और हारामा, और चात्सोर।",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "और अदामा"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "और हारामा"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "और चात्सोर"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:33.734911352Z",
+  "model": "glm-5.2"
+}

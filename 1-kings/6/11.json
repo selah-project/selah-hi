@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और यहवे का वचन शलोमह के पास आया, कहने को:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमह"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहने को"
+    }
+  ],
+  "timestamp": "2026-08-07T21:36:10.822841702Z",
+  "model": "glm-5.2"
+}

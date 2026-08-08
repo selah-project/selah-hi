@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "अपनी आँखों को नींद न दे, और अपनी पलकों को ऊँघ न दे।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "नींद"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "अपनी आँखों को"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "और ऊँघ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "अपनी पलकों को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:41.672871649Z",
+  "model": "glm-5.2"
+}

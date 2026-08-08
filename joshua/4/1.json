@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यह हुआ — जैसे ही सारी जाति ⟨את⟩ यर्दन को पार कर चुकी, तो यहवे ने यहोशू से कहा:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और यह हुआ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसे ही"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "समाप्त कर चुकी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "पार करना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "तो कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहते हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:57:15.097001358Z",
+  "model": "glm-5.2"
+}

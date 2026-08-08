@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और आशेर के गबूल पर: मफ़्आत से पूर्व की, और मफ़्आत तक समुद्र की — नफ़्ताली ⟨है⟩ एक।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और … पर"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "गबूल"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर के"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "मफ़्आत से"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व की"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और … तक"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "फ़्आत"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "समुद्र की"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नफ़्ताली"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:03.005090817Z",
+  "model": "glm-5.2"
+}

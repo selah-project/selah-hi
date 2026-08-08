@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और देखेगा हर सम्पूर्ण प्राणी कि मैं यहवे हूँ; मैंने उसे सुलगाया; वह बुझेगी नहीं।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "और देखेंगे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "मैंने उसे सुलगाया"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "वह बुझेगी"
+    }
+  ],
+  "timestamp": "2026-08-08T00:32:35.093793964Z",
+  "model": "glm-5.2"
+}

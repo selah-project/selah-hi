@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "कटाई बीत गई, ग्रीष्म समाप्त हुआ, और हम नहीं बचाए गए।",
+  "tokens": [
+    {
+      "surface": "עָבַר",
+      "gloss": "बीत गई"
+    },
+    {
+      "surface": "קָצִיר",
+      "gloss": "कटाई"
+    },
+    {
+      "surface": "כָּלָה",
+      "gloss": "समाप्त हुआ"
+    },
+    {
+      "surface": "קָיִץ",
+      "gloss": "ग्रीष्म"
+    },
+    {
+      "surface": "וַאֲנַחְנוּ",
+      "gloss": "और हम"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "נוֹשָׁעְנוּ",
+      "gloss": "बचाए गए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:12:51.238472865Z",
+  "model": "glm-5.2"
+}

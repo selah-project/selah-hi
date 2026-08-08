@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 137,
+  "translation": "उसके बीच के विलावृक्षों पर हमने अपने किन्नोर लटकाए।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "विलावृक्षों"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "उसके बीच"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "हमने लटकाए"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "अपने किन्नोर"
+    }
+  ],
+  "timestamp": "2026-08-08T00:49:23.146185828Z",
+  "model": "glm-5.2"
+}

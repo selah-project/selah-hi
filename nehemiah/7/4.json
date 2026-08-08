@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 7:4",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और हुई चौड़ी थी हाथों में और बड़ी, और उसके भीतर जन थोड़े थे, और उसमें बने हुए मकान न थे।",
+  "tokens": [
+    {
+      "surface": "והעיר",
+      "gloss": "और हुई"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "चौड़ी"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हाथों में"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "और बड़ी"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "और जन"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़े"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "उसके भीतर"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "और न थे"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "मकान"
+    },
+    {
+      "surface": "בנוים",
+      "gloss": "बने हुए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:52:12.051608854Z",
+  "model": "glm-5.2"
+}

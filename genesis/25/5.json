@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और अवराहाम ने ⟨את⟩ सब ⟨जो⟩ उसका था यित्सहाक को दिया।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और दिया"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका था"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सहाक को"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:07.617895891Z",
+  "model": "glm-5.2"
+}

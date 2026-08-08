@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और अर्पक्षद ने ⟨את⟩ शलाख को जन्म दिया, और शलाख ने ⟨את⟩ एवर को जन्म दिया।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "और अर्पक्षद"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शलाख"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शलाख"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "और शलाख"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एवर"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवर"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:52.017528005Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "यफत के बेटे: गोमर और मागोग और मादय और यवन और तुबल और मशेक और तिरास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "यफत के"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमर"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "और मागोग"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "और मादय"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "और यवन"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "और तुबल"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "और मशेक"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "और तिरास"
+    }
+  ],
+  "timestamp": "2026-08-08T01:02:02.963093430Z",
+  "model": "glm-5.2"
+}

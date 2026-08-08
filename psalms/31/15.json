@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और मैं तुझ पर भरोसा ⟨है⟩, हे यहवे; मैं ने कहा, “तुम मेरे एलोहीम हो।”",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तुझ पर"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मैं ने कहा"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "मेरे एलोहीम"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तुम"
+    }
+  ],
+  "timestamp": "2026-08-08T03:03:48.649166780Z",
+  "model": "glm-5.2"
+}

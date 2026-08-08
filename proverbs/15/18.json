@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "क्रोध का मनुष्य विवाद भड़काता ⟨है⟩, और क्रोध में धीर विवाद शान्त करता ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "क्रोध का"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "भड़काता"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "विवाद"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "और धीर"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "क्रोध में"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "शान्त करता"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "विवाद"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:57.733303405Z",
+  "model": "glm-5.2"
+}

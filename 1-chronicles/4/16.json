@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यहललेल के पुत्र ⟨हैं⟩ ज़ीफ और ज़ीफाह, तिर्याह और अशरएल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और … के पुत्र"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "यहललेल"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ज़ीफ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "और ज़ीफाह"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "तिर्याह"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "और अशरएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:56.466302214Z",
+  "model": "glm-5.2"
+}

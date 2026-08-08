@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ⟨את⟩ नगर के खेत और ⟨את⟩ उसके आँगन उन्होंने यपुन्ने के पुत्र कालेब को दिए।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "नगर के खेत"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके आँगन"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "उसके आँगन"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "उन्होंने दिए"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "कालेब को"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "यपुन्ने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:50.400762001Z",
+  "model": "glm-5.2"
+}

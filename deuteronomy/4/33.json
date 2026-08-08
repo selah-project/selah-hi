@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "क्या ⟨का⟩ किसी जाति ने एलोहीम के वाणी को आग के मध्य से बोलते हुए सुना — जैसे तू ने सुना, और वह जीवित रहा?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "क्या सुना"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति ने"
+    },
+    {
+      "surface": "קול",
+      "gloss": "वाणी को"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोलते हुए"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "के मध्य से"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जैसे"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "तू ने सुना"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तू"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "और वह जीवित रहा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:40.055341378Z",
+  "model": "glm-5.2"
+}

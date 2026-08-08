@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और रेमेत, और एन-गन्नीम, और एन-चद्दा, और बेइत-पात्सेत्स।",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "और रेमेत"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "और एन"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "गन्नीम"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "और एन"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "चद्दा"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "और बेइत"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "पात्सेत्स"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:13.259260982Z",
+  "model": "glm-5.2"
+}

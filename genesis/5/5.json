@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और आदम के सब दिन जो उसने जिये, नौ सौ वर्ष और तीस वर्ष ⟨हुए⟩, और वह मर गया।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "और ⟨वे⟩ हुए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदम के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חי",
+      "gloss": "उसने जिये"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "और तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और वह मर गया"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:01.352910704Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और जल पृथ्वी से लौटते गए, लौटते-जाते, और जल डेढ़ सौ दिन के अन्त में घटे।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "और लौटे"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "हארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "जाते"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "लौटते"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "और घटे"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "मקצה",
+      "gloss": "अन्त में"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "और सौ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:42.587808455Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और उसने कहा, यदि एसाव एक छावनी पर आए और उसे मारे, तो बची हुई छावनी बच जाएगी।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और उसने कहा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "אל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "और उसे मारे"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तो होगा"
+    },
+    {
+      "surface": "हम्चनह",
+      "gloss": "छावनी"
+    },
+    {
+      "surface": "हנשאר",
+      "gloss": "बची हुई"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "बच जाएगी"
+    }
+  ],
+  "timestamp": "2026-08-07T19:51:36.829906115Z",
+  "model": "glm-5.2"
+}

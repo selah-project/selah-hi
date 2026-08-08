@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और यहवे ने ⟨एक⟩ समय नियत किया, कहकर: “कल यहवे ⟨यह⟩ बात देश में करेगा।”",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "और नियत किया"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कहकर"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "कल"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "करेगा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:02:44.874747579Z",
+  "model": "glm-5.2"
+}

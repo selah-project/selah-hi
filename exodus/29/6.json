@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और तू पगड़ी को उसके सिर पर रखना, और तू ⟨את⟩ पवित्र मुकुट को पगड़ी पर लगाना।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "और तू रखना"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "उसके सिर"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "और तू लगाना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुकुट को"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "मुकुट"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "पगड़ी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:10:11.780674630Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "जो शोध को बलवान पर चमकाता है, और शोध दुर्ग पर आता है।",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "जो चमकाता है"
+    },
+    {
+      "surface": "שד",
+      "gloss": "शोध"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "और शोध"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "दुर्ग"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आता है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:44:22.364526619Z",
+  "model": "glm-5.2"
+}

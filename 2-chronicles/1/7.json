@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "उसी रात में एलोहीम शलोमोह को दिखाई दिए, और उससे कहा: “माँग, मैं तुझे क्या दूँ?”",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "दिखाई दिए"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोह को"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "माँग"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "दूँ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:03:19.359789299Z",
+  "model": "glm-5.2"
+}

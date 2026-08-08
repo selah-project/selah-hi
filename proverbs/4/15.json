@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "उससे बचो, उसमें मत जाओ; उससे हट जाओ और ⟨आगे⟩ बढ़ जाओ।",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "उससे बचो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "जाओ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमें"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "हट जाओ"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "और बढ़ जाओ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:22.446291255Z",
+  "model": "glm-5.2"
+}

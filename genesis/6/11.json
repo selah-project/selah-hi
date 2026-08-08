@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और पृथ्वी एलोहीम के सामने भ्रष्ट हो गई, और पृथ्वी हिंसा से भर गई।",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "और भ्रष्ट हो गई"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "और भर गई"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:06.646385033Z",
+  "model": "glm-5.2"
+}

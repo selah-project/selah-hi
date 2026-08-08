@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 39,
+  "translation": "और उसने एफोद के मेल को बनाया, बुनाई का काम, सर्वांग तील का।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने बनाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेल को"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "मेल"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद के"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "बुनाई का"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "सर्वांग"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "तील का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:15:11.224322904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तू उन्हें हृदय का आवरण देगा, तेरा अभिशाप उन्हें।",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "तू देगा"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "आवरण"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय का"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "तेरा अभिशाप"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उन्हें"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:40.914264966Z",
+  "model": "glm-5.2"
+}

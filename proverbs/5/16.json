@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "बाहर फैल जाएँ तेरे सोते, चौकों में जल की नहरें?",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "फैल जाएँ"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "तेरे सोते"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "चौकों में"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "नहरें"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:05.058346351Z",
+  "model": "glm-5.2"
+}

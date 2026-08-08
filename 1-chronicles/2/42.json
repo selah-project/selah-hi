@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और कलेब के बेटे — यरह्मएल के भाई — मैशा उसका जेठा; वह जीफ का पिता था; और मरेशा के बेटे — अबी-हेब्रोन।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कलेब"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "के भाई"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरह्मएल"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "मैशा"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "उसका जेठा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जीफ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "मरेशा"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "हेब्रोन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:53.899303522Z",
+  "model": "glm-5.2"
+}

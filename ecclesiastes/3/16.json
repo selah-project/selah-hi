@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और मैंने सूर्य के नीचे देखा: न्याय के स्थान पर वहाँ दुष्टता थी, और धर्म के स्थान पर वहाँ दुष्टता थी।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैंने देखा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान पर"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "न्याय के"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "दुष्टता थी"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "और स्थान पर"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "धर्म के"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "दुष्टता थी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:32.337837603Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 20:18",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "क्योंकि यहवे ने अविमेलेक के घर के सब गर्भों के लिए रोक रखा था, सारा के विषय पर, अवराहाम की पत्नी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "रोक"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "रखा था"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "के लिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "गर्भों"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "के घर"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अविमेलेक"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विषय पर"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "विषय"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अवराहाम की"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:04.112741719Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "daniel 5:28",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "परेस — तेरा राज्य बाँटा गया और मादय और पारस को दिया गया।",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "परेस"
+    },
+    {
+      "surface": "פריסת",
+      "gloss": "बाँटा गया"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "तेरा राज्य"
+    },
+    {
+      "surface": "ויהיבת",
+      "gloss": "और दिया गया"
+    },
+    {
+      "surface": "למדי",
+      "gloss": "मादय को"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "और पारस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:43:03.679675360Z",
+  "model": "glm-5.2"
+}

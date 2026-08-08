@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और दावीद चलता गया, बढ़ता और महान होता गया, और सेनाओं का यहवे उसके साथ था।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "और चला"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "बढ़ते हुए"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "और महान होते हुए"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाओं का"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:48.600717351Z",
+  "model": "glm-5.2"
+}

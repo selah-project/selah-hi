@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "ठण्डे जल थकी हुई नफ़्श पर, और दूर देश से आई अच्छी सुनाई — ⟨ये एक समान हैं⟩।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ठण्डे"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नफ़्श"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "थकी हुई"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "और सुनाई"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "अच्छी"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देश से"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:26.792438864Z",
+  "model": "glm-5.2"
+}

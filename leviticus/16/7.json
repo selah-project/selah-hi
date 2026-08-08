@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और वह दोनों बकरों को ⟨את⟩ ले, और उन्हें यहवे के सामने, मिलनवाले तम्बू के द्वार पर खड़ा करे।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "और ले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दोनों बकरों को"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दो"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "बकरों"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "और खड़ा करे"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "द्वार पर"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बू"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलनवाले"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:46.780287228Z",
+  "model": "glm-5.2"
+}

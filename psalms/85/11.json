@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 85,
+  "translation": "हेसेद और सत्य मिले; दिक्‍कार और शान्ति ने एक-दूसरे को चूमा।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "हेसेद"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "और सत्य"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "मिले"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "दिक्‍कार"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "और शान्ति"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "चूमा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:08.263456185Z",
+  "model": "glm-5.2"
+}

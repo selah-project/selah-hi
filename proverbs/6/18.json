@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "आवन के विचार गढ़ता हृदय, बुराई की ओर दौड़ने में उतावली करते पाँव,",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "गढ़ता"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "विचार"
+    },
+    {
+      "surface": "און",
+      "gloss": "आवन"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पाँव"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "उतावली करते"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "दौड़ने में"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "बुराई की ओर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:46.540437231Z",
+  "model": "glm-5.2"
+}

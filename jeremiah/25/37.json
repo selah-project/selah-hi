@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और शान्ति की चरागाहें शून्य हो गईं यहवे के जलते हुए क्रोध के सामने से।",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "और शून्य हो गईं"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "चरागाहें"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "शान्ति की"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "के सामने से"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "जलते हुए"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:16:59.892269506Z",
+  "model": "glm-5.2"
+}

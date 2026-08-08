@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "क्योंकि वह कहता है: क्या मेरे सरदार एकत्र — सबै राजा ⟨हैं⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "वह कहता है"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "मेरे सरदार"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकत्र"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:56:56.578008294Z",
+  "model": "glm-5.2"
+}

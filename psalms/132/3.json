@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 132,
+  "translation": "“यदि मैं अपने घर के तम्बू में आऊँ, यदि मैं अपने बिछौने की शैया पर चढ़ूँ,”",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "मैं आऊँ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "अपने घर के"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "मैं चढ़ूँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "शैया"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "अपने बिछौने की"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:09.998829864Z",
+  "model": "glm-5.2"
+}

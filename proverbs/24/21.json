@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "हे बेटा, यहवे और राजा से डर; बदलने वालों के साथ मत मिल:",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "डर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे बेटा"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "और राजा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "बदलने वालों"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "मिल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:21:58.665116449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और वे मेरे लिए प्रजा बनेंगे, और मैं उनके लिए एलोहीम बनूँगा।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "और वे बनेंगे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "प्रजा"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "बनूँगा"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:09.816718530Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "यहवे और उसके सामर्थ्य को खोजो, उसके दर्शन को सदा तलाशो।",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "खोजो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "और उसके सामर्थ्य"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "तलाशो"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "उसके दर्शन"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सदा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:38.082004710Z",
+  "model": "glm-5.2"
+}

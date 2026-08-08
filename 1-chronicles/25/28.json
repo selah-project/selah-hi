@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "इक्कीसवाँ लहोतीर के लिए, ⟨उसके⟩ पुत्र और ⟨उसके⟩ भाई — बारह:",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "इक्कीसवाँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "−इक्कीस"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "लहोतीर के लिए"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसके पुत्र"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−बारह"
+    }
+  ],
+  "timestamp": "2026-08-08T00:01:41.259227797Z",
+  "model": "glm-5.2"
+}

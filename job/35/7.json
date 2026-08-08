@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "यदि तू धर्मी हुआ, तू उसे क्या देता है? या वह तेरे हाथ से क्या लेता है?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "तू धर्मी हुआ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "तू देता है"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "तेरे हाथ से"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "वह लेता है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:32:07.761106827Z",
+  "model": "glm-5.2"
+}

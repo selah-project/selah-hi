@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और यहवे की रूह शाऊल के पास से हट गई, और यहवे की ओर से एक बुरी रूह ने उसे सताया।",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "और रूह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "हट गई"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "के पास से"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "और सताया उसे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "बुरी"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:18:30.755092714Z",
+  "model": "glm-5.2"
+}

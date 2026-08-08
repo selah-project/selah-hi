@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "सात को हिस्सा दे और आठ को भी, क्योंकि तू नहीं जानता कि पृथ्वी पर क्या बुरा होगा।",
+  "tokens": [
+    {
+      "surface": "תֶּן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "לְשִׁבְעָ֖ה",
+      "gloss": "सात को"
+    },
+    {
+      "surface": "וְגַ֣ם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "לִשְׁמוֹנָ֑ה",
+      "gloss": "आठ को"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תֵדַ֔ע",
+      "gloss": "तू जानता"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יִּהְיֶ֥ה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "बुरा"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:48.208948924Z",
+  "model": "glm-5.2"
+}

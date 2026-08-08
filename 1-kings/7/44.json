@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "और ⟨את⟩ एक समुद्र को, और ⟨את⟩ बारह बैलों को, उस समुद्र के नीचे।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र को"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "बैलों को"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बारह"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "नीचे"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र के"
+    }
+  ],
+  "timestamp": "2026-08-07T21:36:44.588708237Z",
+  "model": "glm-5.2"
+}

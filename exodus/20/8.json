@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "शब्बात के दिन को ⟨את⟩ याद रखो, उसे पवित्र करने के लिए।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "याद रखो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बात के"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "उसे पवित्र करने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:33.853162846Z",
+  "model": "glm-5.2"
+}

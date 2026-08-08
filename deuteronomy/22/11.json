@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "शाटनेज़ वस्त्र न पहनना — ऊन और सन एक साथ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "पहनना"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "शाटनेज़"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ऊन"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "और सन"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एक साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:47.331753851Z",
+  "model": "glm-5.2"
+}

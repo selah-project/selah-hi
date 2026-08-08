@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और खाम के बेटे: कूश और मिस्रयिम और पूट और कनान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और के बेटे"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "और मिस्रयिम"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "और पूट"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "और कनान"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:25.479781871Z",
+  "model": "glm-5.2"
+}

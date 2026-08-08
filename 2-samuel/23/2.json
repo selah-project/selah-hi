@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "“यहवे की रूह ने मुझ से बोला, और ⟨उसका⟩ वचन मेरी जीभ पर है।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ने बोला"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझ से"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "और उसका वचन"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "मेरी जीभ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:33:15.456335361Z",
+  "model": "glm-5.2"
+}

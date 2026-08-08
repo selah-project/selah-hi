@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और याअरेशयाह, और एलियाह, और ज़िक्री, यरोचाम के पुत्र ⟨थे⟩।",
+  "tokens": [
+    {
+      "surface": "וסיערשיה",
+      "gloss": "और याअरेशयाह"
+    },
+    {
+      "surface": "וסאליה",
+      "gloss": "और एलियाह"
+    },
+    {
+      "surface": "וסזכרי",
+      "gloss": "और ज़िक्री"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोचाम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.152201657Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और लाबान ने कहा, “यह ढेर आज मेरे और तेरे बीच गवाह ⟨है⟩।” इसलिए उसका नाम गलएद पड़ा।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और ... कहा"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाबान ने"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "यह ढेर"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाह"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "मेरे बीच"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "और तेरे"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इस कारण"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "नाम पड़ा"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गलएद"
+    }
+  ],
+  "timestamp": "2026-08-07T19:51:01.939240205Z",
+  "model": "glm-5.2"
+}

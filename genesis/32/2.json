@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और याकोव अपने रास्ते पर चला; और एलोहीम के दूत उससे मिले।",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "और याकोह"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "चला"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "अपने रास्ते पर"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "और मिले"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम के"
+    }
+  ],
+  "timestamp": "2026-08-07T19:51:21.409019258Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और अह्यो, शाशक और यरेमोत;",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "और अह्यो"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "शाशक"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "और यरेमोत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:02.519652722Z",
+  "model": "glm-5.2"
+}

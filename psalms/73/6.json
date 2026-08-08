@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 73,
+  "translation": "इसलिए घमंड उनका हार ⟨है⟩, हिंसा उन्हें एक वस्त्र ⟨की तरह⟩ ढकती ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "इसलिए"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "उनका हार"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "घमंड"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ढकती है"
+    },
+    {
+      "surface": "שית",
+      "gloss": "एक वस्त्र"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसा"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उन्हें"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:23.566870871Z",
+  "model": "glm-5.2"
+}

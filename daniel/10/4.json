@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और पहले महीने के चौबीसवें दिन ⟨में⟩, और मैं उस महान नदी के किनारे पर था, ⟨अर्थात⟩ हिद्देकेल।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "और दिन में"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महीने के"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहले"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "और मैं"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "था"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יד",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "हिद्देकेल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:45:54.182039990Z",
+  "model": "glm-5.2"
+}

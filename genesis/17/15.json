@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और एलोहीम ने अबराहाम से कहा, सारई तेरी इश्शा — उसका नाम सारई न बुलाना, क्योंकि सारा उसका नाम है।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अबराहाम"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सारई"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "तेरी इश्शा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "बुलाना"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सारई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उसका नाम है"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:54.417810705Z",
+  "model": "glm-5.2"
+}

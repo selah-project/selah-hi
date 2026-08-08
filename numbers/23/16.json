@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 23,
+  "translation": "और यहवे बिल्आम से मिला, और उसके मुँह में वचन रखा, और कहा, “बलाक के पास लौट जा, और यहो कहना।”",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "और मिला"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिल्आम"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "और रखा"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "उसके मुँह में"
+    },
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "लौट जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बलाक"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "और यहो"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तू कहना"
+    }
+  ],
+  "timestamp": "2026-08-07T20:37:12.633418267Z",
+  "model": "glm-5.2"
+}

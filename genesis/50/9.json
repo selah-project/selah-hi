@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 50,
+  "translation": "और उसके साथ रथ भी और सवार भी चढ़े, और ⟨वह⟩ शिविर अत्यन्त भारी था।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "और चढ़ा"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसके साथ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "भी"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "सवार"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨वह⟩ था"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "शिविर"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "भारी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    }
+  ],
+  "timestamp": "2026-08-07T19:59:08.245750745Z",
+  "model": "glm-5.2"
+}

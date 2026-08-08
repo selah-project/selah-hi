@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और पलिश्तियों का चौकी-दल निकला मिकमास के दर्रे की ओर।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और … निकला"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "चौकी-दल"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तियों का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "दर्रे"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "मिकमास"
+    }
+  ],
+  "timestamp": "2026-08-07T21:16:05.045763772Z",
+  "model": "glm-5.2"
+}

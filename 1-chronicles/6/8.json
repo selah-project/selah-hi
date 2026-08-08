@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "एलकाना उसका पुत्र, और एब्यासाफ उसका पुत्र, और अस्सीर उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "एलकाना"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "और एब्यासाफ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "और अस्सीर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:02.732440033Z",
+  "model": "glm-5.2"
+}

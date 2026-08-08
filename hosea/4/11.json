@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "व्यभिचार और दाखरस और नया दाखरस — हृदय को छीन लेते हैं।",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "व्यभिचार"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "और दाखरस"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "और नया दाखरस"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "छीन लेते हैं"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय को"
+    }
+  ],
+  "timestamp": "2026-08-07T22:39:46.941630767Z",
+  "model": "glm-5.2"
+}

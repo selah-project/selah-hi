@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "अपना जल हम ने चाँदी में पीया, अपनी लकड़ी दाम में आती है।",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "अपना जल"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "चाँदी में"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "हम ने पीया"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "अपनी लकड़ी"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "दाम में"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आती है"
+    }
+  ],
+  "timestamp": "2026-08-07T23:37:55.346403170Z",
+  "model": "glm-5.2"
+}

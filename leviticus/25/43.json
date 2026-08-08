@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "उस पर कठोरता से राज न करो, और अपने एलोहीम से डरो।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "तू राज करे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उस पर"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "कठोरता से"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "और तू डरे"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "अपने एलोहीम से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:25:39.205153306Z",
+  "model": "glm-5.2"
+}

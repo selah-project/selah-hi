@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और तुम फलो और बढ़ो, पृथ्वी पर भर जाओ और उसमें बढ़ो।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "और तुम"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "फलो"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "और बढ़ो"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "भर जाओ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वी पर"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "और बढ़ो"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमें"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:27.048386190Z",
+  "model": "glm-5.2"
+}

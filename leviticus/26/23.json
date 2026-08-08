@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और यदि इन ⟨बातों⟩ से तुम मेरे द्वारा न शिक्षित हो और तुम मेरे साथ विरोध में चलो,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "इन से"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "तुम शिक्षित हो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे द्वारा"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "और तुम चलो"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरे साथ"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "विरोध में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:26:33.861130991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यहवे ने होर पर्वत पर, एदोम देश की सीमा के पास, मोशे और अहरोन से कहा:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन से"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वत पर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "על",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "कि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:35:22.429674584Z",
+  "model": "glm-5.2"
+}

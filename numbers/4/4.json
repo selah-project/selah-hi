@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "“मिलाप के तम्बू में कहत मूल के पुत्रों की सेवा यह ⟨है⟩, पवित्रों का पवित्र ⟨वस्तु⟩।”",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्रों"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "कहत"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "तम्बू में"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मिलाप के"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्रों का"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:06.053258185Z",
+  "model": "glm-5.2"
+}

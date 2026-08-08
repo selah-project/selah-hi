@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "योशियाहु के राज्य के अठारहवें वर्ष में यह पेसह किया गया।",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "अठारह में"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(आठ)-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "राज्य के"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाहु के"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "किया गया"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पेसह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-08T00:12:39.499715033Z",
+  "model": "glm-5.2"
+}

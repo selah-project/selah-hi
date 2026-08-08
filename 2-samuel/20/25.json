@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और शेया ⟨था⟩ सूत्रधर, और त्सादोक और एब्यातर ⟨थे⟩ याजक —",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "और शेया"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "सूत्रधर"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "और त्सादोक"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "और एब्यातर"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "याजक"
+    }
+  ],
+  "timestamp": "2026-08-07T21:31:04.834102881Z",
+  "model": "glm-5.2"
+}

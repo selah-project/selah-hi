@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और यहवे ने मुझसे कहा: “अब और तू अपने लिए एक मूर्ख चरवाहे का सामान ले।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब और"
+    },
+    {
+      "surface": "קח",
+      "gloss": "तू ले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "सामान"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "चरवाहे का"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "मूर्ख"
+    }
+  ],
+  "timestamp": "2026-08-08T01:14:06.303158418Z",
+  "model": "glm-5.2"
+}

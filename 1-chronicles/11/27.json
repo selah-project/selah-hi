@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "शम्मोत हहरोरी, खेलेत्स हपलोनी,",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "शम्मोत"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "हहरोरी"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "खेलेत्स"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "हपलोनी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:58:20.662498927Z",
+  "model": "glm-5.2"
+}

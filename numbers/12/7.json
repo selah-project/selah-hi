@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "ऐसा नहीं — मेरा दास मोशे; मेरे सम्पूर्ण भवन में वह भरोसेमन्द है।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "मेरा दास"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सम्पूर्ण में"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "मेरे भवन"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "भरोसेमन्द"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:32:49.739371622Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और यह हो कि वह जो पहलौठा जन्म लेगी वह मरे हुए भाई के नाम पर खड़ा हो, और उसका नाम यिस्राएल से मिटाया न जाए।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "और यह हो"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहलौठा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "वह जन्म लेगी"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "खड़ा हो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "המת",
+      "gloss": "मरे हुए"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "मिटाया जाए"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएल से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:26.424375270Z",
+  "model": "glm-5.2"
+}

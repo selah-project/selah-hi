@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "वह अपना गाल उसे दे जो उसे प्रहार करे, वह अपमान से तृप्त हो।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "वह दे"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "उसे जो उसे प्रहार करे"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "गाल"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "वह तृप्त हो"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "अपमान से"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:18.220455025Z",
+  "model": "glm-5.2"
+}

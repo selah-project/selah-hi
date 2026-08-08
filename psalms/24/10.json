@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "कौन ⟨है⟩ वह, यह महिमा के राजा? यहवे त्सबाओत — वही ⟨है⟩ महिमा के राजा! सेला।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कौन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨है⟩ वह"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वही ⟨है⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमा के"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "सेला"
+    }
+  ],
+  "timestamp": "2026-08-07T22:56:44.803367879Z",
+  "model": "glm-5.2"
+}

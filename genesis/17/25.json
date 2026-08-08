@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और यिश्माएल उसका पुत्र तेरह वर्ष का था जब ⟨את⟩ उसकी खलना का मांस खतना किया गया।",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "और यिश्माएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "जब खतना किया गया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मांस"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "उसकी खलना का"
+    }
+  ],
+  "timestamp": "2026-08-07T19:44:51.921036696Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 81,
+  "translation": "गीत उठाओ और ढोल दो; नेइम वाला किन्नोर के साथ, नावेल के साथ!",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "उठाओ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "और दो"
+    },
+    {
+      "surface": "תף",
+      "gloss": "ढोल"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "किन्नोर"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "नेइम वाला"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नावेल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:02.376011827Z",
+  "model": "glm-5.2"
+}

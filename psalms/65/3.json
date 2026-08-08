@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 65,
+  "translation": "तफिल्लाह सुनने वाले, तेरे पास सब बसर आएगा।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुनने वाले"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "तफिल्लाह"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "तेरे पास"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "बसर"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आएगा"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:17.625601666Z",
+  "model": "glm-5.2"
+}

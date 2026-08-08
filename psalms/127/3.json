@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 127,
+  "translation": "देखो, बालक यहवे की विरासत ⟨हैं⟩, गर्भ का फल ⟨उसका⟩ प्रतिफल ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "विरासत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "प्रतिफल"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "गर्भ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:48:03.013775989Z",
+  "model": "glm-5.2"
+}

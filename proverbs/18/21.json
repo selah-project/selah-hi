@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "मृत्यु और जीवन ⟨हैं⟩ जीभ के हाथ में, और उसके प्रेमी उसका फल खाएँगे।",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "मृत्यु"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "और जीवन"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हाथ में"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जीभ के"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "और उसके प्रेमी"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाएँगे"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "उसका फल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:58.823205862Z",
+  "model": "glm-5.2"
+}

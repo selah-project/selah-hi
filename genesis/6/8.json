@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और नोअ ने यहवे की दृष्टि में अनुग्रह पाया।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "और नोअ ने"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "पाया"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "दृष्टि में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:06.988027796Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 100,
+  "translation": "सेवा करो ⟨את⟩ यहवे को आनन्द के साथ; उसके सामने आओ गान के साथ।",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा करो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "आनन्द के साथ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आओ"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "उसके सामने"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "गान के साथ"
+    }
+  ],
+  "timestamp": "2026-08-08T00:46:18.881270736Z",
+  "model": "glm-5.2"
+}

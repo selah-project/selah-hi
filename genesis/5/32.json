@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और नोअ पाँच सौ वर्ष का बेटा था, और नोअ ने उत्पन्न किया ⟨את⟩ शेम, ⟨את⟩ खाम, और ⟨את⟩ यफेत।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और था"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोअ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "और उत्पन्न किया"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोअ ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "यफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "यफेत"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:28.249257582Z",
+  "model": "glm-5.2"
+}

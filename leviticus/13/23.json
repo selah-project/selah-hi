@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 13:23",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और यदि उसके नीचे दाग़ खड़ा रहे, ⟨जो⟩ न फैला हो — वह फोड़े का अस्तान ⟨है⟩; और हकीम उसे शुद्ध ठहराए।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "उसके नीचे"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "खड़ा रहे"
+    },
+    {
+      "surface": "הבהרת",
+      "gloss": "दाग़"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "फैला"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "अस्तान"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "फोड़े का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "है"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "और शुद्ध ठहराए"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हकीम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:20:32.673739619Z",
+  "model": "glm-5.2"
+}

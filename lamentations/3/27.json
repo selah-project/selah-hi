@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "भला है पुरुष के लिए कि वह अपनी जवानी में जुआ उठाए।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "भला है"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "पुरुष के लिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "वह उठाए"
+    },
+    {
+      "surface": "על",
+      "gloss": "जुआ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "अपनी जवानी में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:19.514580649Z",
+  "model": "glm-5.2"
+}

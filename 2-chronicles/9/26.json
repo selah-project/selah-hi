@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨वह⟩ सब राजाओं पर शासन करता था, उस नदी से लेकर पलिश्ती भूमि तक और मिस्रयिम की सीमा तक।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और ⟨वह शासन करता था⟩"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "शासन करता"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजाओं पर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से लेकर"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "उस नदी"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम की"
+    }
+  ],
+  "timestamp": "2026-08-08T01:06:04.737644297Z",
+  "model": "glm-5.2"
+}

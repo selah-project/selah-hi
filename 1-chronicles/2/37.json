@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और ज़बद ने ⟨את⟩ एप्लल को जन्य दिया, और एप्लल ने ⟨את⟩ ओबेद को जन्य दिया।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "और ज़बद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्य दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एप्लल को"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "एप्लल"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "और एप्लल"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ने जन्य दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद को"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:38.313862841Z",
+  "model": "glm-5.2"
+}

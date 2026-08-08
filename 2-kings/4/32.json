@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और एलीशा घर में आया, और देखो — बालक मरा हुआ, उसकी चारपाई पर पड़ा ⟨हुआ⟩।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आया"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलीशा"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरा हुआ"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "पड़ा हुआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "उसकी चारपाई"
+    }
+  ],
+  "timestamp": "2026-08-07T21:46:38.589252942Z",
+  "model": "glm-5.2"
+}

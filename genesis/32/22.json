@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 32,
+  "translation": "और वह भेंट उसके सामने से गुज़र गई, और वह उसी रात को छावनी में ठहरा।",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "और गुज़र गई"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "वह भेंट"
+    },
+    {
+      "surface": "על",
+      "gloss": "के ऊपर से"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "उसके चेहरे"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "और वह"
+    },
+    {
+      "surface": "לן",
+      "gloss": "ठहरा"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात में"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "छावनी में"
+    }
+  ],
+  "timestamp": "2026-08-07T19:51:14.629377135Z",
+  "model": "glm-5.2"
+}

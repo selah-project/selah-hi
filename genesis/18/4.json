@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "थोड़ा जल लाया जाए, और तुम अपने चरण धोओ, और वृक्ष के नीचे आराम करो।",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "लाया जाए"
+    },
+    {
+      "surface": "נא",
+      "gloss": "बिनती है"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोड़ा"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "और धोओ"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "तुम अपने चरण"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "और आराम करो"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "के नीचे"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "वृक्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:45.994849681Z",
+  "model": "glm-5.2"
+}

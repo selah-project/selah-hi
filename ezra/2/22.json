@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "नेतोफा के पुरुष, पचास और छह।",
+  "tokens": [
+    {
+      "surface": "אַנְשֵׁ֥י",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "נְטֹפָ֖ה",
+      "gloss": "नेतोफा"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וְשִׁשָּֽׁה",
+      "gloss": "और छह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:48:03.428641404Z",
+  "model": "glm-5.2"
+}

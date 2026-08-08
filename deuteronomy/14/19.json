@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और सब उड़ने वाला रेंगने वाला प्राणी, वह तुम्हारे लिए अशुद्ध ⟨है⟩; वे न खाए जाएँ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "और सब"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "रेंगने वाला प्राणी"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड़ने वाला"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तुम्हारे लिए"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाए जाएँ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:47:38.670692096Z",
+  "model": "glm-5.2"
+}

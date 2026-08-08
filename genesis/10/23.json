@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और अराम के बेटे: उत्स, और हूल, और गेतर, और मश।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और बेटे"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "और हूल"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "और गेतर"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "और मश"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:52.017377200Z",
+  "model": "glm-5.2"
+}

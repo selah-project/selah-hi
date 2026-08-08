@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "बकरी-वर्ग का एक बोदना-बाला बकरा, पाप-बलि के लिए।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोदना-बाला बकरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बकरी-वर्ग"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलि के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:02.007961149Z",
+  "model": "glm-5.2"
+}

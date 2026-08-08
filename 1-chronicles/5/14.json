@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "ये ⟨थे⟩ अवीहैल के पुत्र — हूरी का पुत्र, यरोअ का पुत्र, गिलअद का पुत्र, मिछाएल का पुत्र, यशीशय का पुत्र, यहदो का पुत्र, बूज का पुत्र।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "अवीहैल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "हूरी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "यरोअ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलअद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "मिछाएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "यशीशय"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "यहदो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बूज"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:29.487048121Z",
+  "model": "glm-5.2"
+}

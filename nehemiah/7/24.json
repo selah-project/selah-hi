@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "खारीफ के बन्धुओं के, एक सौ बारह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बन्धुओं के"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "खारीफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सौ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-दस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:53:13.136807124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और उत्तर देंगे और कहेंगे: “हमारे हाथों ने नहीं बहाया ⟨את⟩ इस रक्त को, और हमारी आँखों ने नहीं देखा।”",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "और उत्तर देंगे"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "और कहेंगे"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "हमारे हाथों"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "बहाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस रक्त को"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "और हमारी आँखों"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:50:54.652823755Z",
+  "model": "glm-5.2"
+}

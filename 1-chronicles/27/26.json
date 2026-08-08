@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और खेत के कार्य के कर्मकरों पर — भूमि की सेवा के लिए — एज्री बेन-कलूब ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और ... पर"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "कर्मकरों"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "कार्य के"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत के"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "सेवा के लिए"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "भूमि की"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "एज्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन-"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "कलूब"
+    }
+  ],
+  "timestamp": "2026-08-08T01:05:14.796326971Z",
+  "model": "glm-5.2"
+}

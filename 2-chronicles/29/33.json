@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और ⟨the⟩ पवित्र वस्तुएँ — बैल छः सौ और भेड़ें तीन हज़ार।",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "और पवित्र वस्तुएँ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छः"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "और भेड़ें"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हज़ार"
+    }
+  ],
+  "timestamp": "2026-08-08T03:18:59.650757355Z",
+  "model": "glm-5.2"
+}

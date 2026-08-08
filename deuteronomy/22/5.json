@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 22:5",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "ला-⟨होगा⟩ पुरुष का सामान स्त्री पर, और न पुरुष स्त्री का वस्त्र पहने; क्योंकि यहवे तेरे एलोहीम के लिए घृणित ⟨है⟩ हर वह ⟨जो⟩ ये सब करता है।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होगा"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "सामान"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "पहने"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "שמלת",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तेरे एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर वह"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "जो करता है"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ये"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:04.885098053Z",
+  "model": "glm-5.2"
+}

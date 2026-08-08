@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और सम्पूर्ण कहल ने ऐसा करने के लिए कहा, क्योंकि सम्पूर्ण प्रजा की आँखों में ⟨यह⟩ बात सीधी थी।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "कहल ने"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने के लिए"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ऐसा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधी थी"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बात"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखों में"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजा की"
+    }
+  ],
+  "timestamp": "2026-08-08T00:00:10.879463598Z",
+  "model": "glm-5.2"
+}

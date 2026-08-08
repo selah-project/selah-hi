@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 78,
+  "translation": "उसने समुद्र फाड़ा और उन्हें पार कराया, और जल को ढेर के समान खड़ा किया।",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "फाड़ा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "और उन्हें पार कराया"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "और खड़ा किया"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "के समान"
+    },
+    {
+      "surface": "נד",
+      "gloss": "ढेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:46.732721028Z",
+  "model": "glm-5.2"
+}

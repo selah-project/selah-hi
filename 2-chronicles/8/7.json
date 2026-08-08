@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "सब ⟨the⟩ लोग, जो शेष थे — हित्ती और एमोरी और परिज्जी और हिव्वी और यबूसी में से — जो इस्राएल में से नहीं, वे थे —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ लोग"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "जो शेष थे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "में से"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "और एमोरी"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "और परिज्जी"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "और हिव्वी"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "और यबूसी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इस्राएल में से"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे थे"
+    }
+  ],
+  "timestamp": "2026-08-08T03:17:41.670136278Z",
+  "model": "glm-5.2"
+}

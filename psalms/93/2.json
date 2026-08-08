@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 93,
+  "translation": "स्थित ⟨है⟩ आपका सिंहासन तब से, अनादि काल से आप ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "स्थित"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "आपका सिंहासन"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "तब से"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "अनादि काल से"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "आप"
+    }
+  ],
+  "timestamp": "2026-08-07T23:08:00.148160962Z",
+  "model": "glm-5.2"
+}

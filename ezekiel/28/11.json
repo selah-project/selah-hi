@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "और यहवे का वचन मेरे पास हुआ, कहने के लिए:",
+  "tokens": [
+    {
+      "surface": "वיהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरे पास"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "कहने के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:34:01.868738590Z",
+  "model": "glm-5.2"
+}

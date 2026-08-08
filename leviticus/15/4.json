@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "“'हर वह बिछौना जिस पर स्रावी लेटता है अशुद्ध हो जाएगा, और हर वह बर्तन जिस पर वह बैठता है अशुद्ध हो जाएगा।'",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "वह बिछौना"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिस"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "लेटता है"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "स्रावी"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध होगा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और हर"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "वह बर्तन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिस"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बैठता है"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "पर"
+    },
+    {
+      "surface": "יטमא",
+      "gloss": "अशुद्ध होगा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:26.985930676Z",
+  "model": "glm-5.2"
+}

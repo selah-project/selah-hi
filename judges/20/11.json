@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "तब इकट्ठा हुआ सब इस्राएल का पुरुष उस नगर के पास, एक पुरुष की तरह — साथी।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "तब इकट्ठा हुआ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "उस नगर"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "एक पुरुष की तरह"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "साथी"
+    }
+  ],
+  "timestamp": "2026-08-07T21:11:40.287251630Z",
+  "model": "glm-5.2"
+}

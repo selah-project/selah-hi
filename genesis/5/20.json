@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "“तो यरेद के सब दिन दो और साठ वर्ष और नौ सौ वर्ष ⟨हुए⟩, और ⟨वह⟩ मर गया।”",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "“तो ⟨वे⟩ हुए”"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…के दिन"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "यरेद"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "और साठ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "और नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "और ⟨वह⟩ मर गया”"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:18.206404471Z",
+  "model": "glm-5.2"
+}

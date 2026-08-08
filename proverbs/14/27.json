@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "यहवे का भय ⟨है⟩ जीवन का स्रोत, मृत्यु के फंदों से हटने के लिए।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन का"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "हटने के लिए"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "फंदों से"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्यु के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:44.325335164Z",
+  "model": "glm-5.2"
+}

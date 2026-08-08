@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "पन्द्रह अम्मा ऊपर की ओर जल प्रबल हुए, और पहाड़ ढके गए।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-दस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "अम्मा"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ऊपर की ओर"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "प्रबल हुए"
+    },
+    {
+      "surface": "המים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "और ढके गए"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाड़"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:21.313991745Z",
+  "model": "glm-5.2"
+}

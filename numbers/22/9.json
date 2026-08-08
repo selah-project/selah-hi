@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और एलोहीम बिलाम के पास आए और ⟨उसने⟩ कहा: ये कौन-से मनुष्य तेरे साथ हैं?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और ⟨उसने⟩ कहा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कौन-से"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तेरे साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:36:37.358581898Z",
+  "model": "glm-5.2"
+}

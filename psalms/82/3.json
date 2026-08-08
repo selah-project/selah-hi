@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 82,
+  "translation": "दीन और अनाथ का न्याय करो; पीड़ित और दरिद्र को धर्मी ठहराओ।",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "न्याय करो"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "और अनाथ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "पीड़ित"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "और दरिद्र"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "धर्मी ठहराओ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:05:41.587284297Z",
+  "model": "glm-5.2"
+}

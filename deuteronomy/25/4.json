@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "तू अपने बैल को उसके मड़ाई करते समय न बाँध।",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תַחְסֹ֥ם",
+      "gloss": "तू बाँध"
+    },
+    {
+      "surface": "שׁ֖וֹר",
+      "gloss": "बैल"
+    },
+    {
+      "surface": "בְּדִישֽׁוֹ",
+      "gloss": "उसके मड़ाई करते समय"
+    }
+  ],
+  "timestamp": "2026-08-07T20:51:58.173370996Z",
+  "model": "glm-5.2"
+}

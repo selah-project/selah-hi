@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और मोशेह ने उनसे कहा, “हँ कोई भी उसमें से भोर तक बढ़ाकर न रखे।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह ने"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "हँ कोई भी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "बढ़ाकर रखे"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उसमें से"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-08-07T20:05:22.883461762Z",
+  "model": "glm-5.2"
+}

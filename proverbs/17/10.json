@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 17:10",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "समझदार में एक गाली गहरी उतरती है, सौ कोड़े मूर्ख में।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "उतरती है"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "गाली"
+    },
+    {
+      "surface": "במבין",
+      "gloss": "समझदार में"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "से अधिक"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:52.586755108Z",
+  "model": "glm-5.2"
+}

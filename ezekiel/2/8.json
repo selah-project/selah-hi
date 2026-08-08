@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "“और तू, हे मनुष्य के पुत्र, ⟨את⟩ वह सुन जो मैं तुझसे बोल रहा ⟨हूँ⟩; बिद्रोही मत बन, बिद्रोह के घर के समान। अपना मुँह खोल और ⟨את⟩ वह खा जो मैं तुझे देता ⟨हूँ⟩।”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "और तू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोल रहा"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बन"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "बिद्रोही"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "घर के समान"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "बिद्रोह"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "अपना मुँह"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "और खा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "देता"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तुझे"
+    }
+  ],
+  "timestamp": "2026-08-07T22:25:38.858080481Z",
+  "model": "glm-5.2"
+}

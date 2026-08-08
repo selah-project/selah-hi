@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और यित्सहाक बेर-लहै-रोई के मार्ग से आ रहा था, क्योंकि वह दक्षिण देश में बस रहा था।",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "और यित्सहाक"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आ रहा था"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "मार्ग से"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "लहै"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "रोई"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "क्योंकि वह"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बस रहा था"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "दक्षिण"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:17.614957908Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 121,
+  "translation": "यहवे तेरे निकलने और तेरे आने को रखेगा, अब से और उस ओलाम तक।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "रखेगा"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "तेरे निकलने"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "और तेरे आने"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अब से"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और … तक"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "उस ओलाम"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:49.729317622Z",
+  "model": "glm-5.2"
+}

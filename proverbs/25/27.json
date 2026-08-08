@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "बहुत मधु खाना अच्छा नहीं है, और ⟨अपने⟩ भार का अन्वेषण ⟨भी⟩ भार ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मधु"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "और अन्वेषण"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "उनके भार का"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "भार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:26.792685616Z",
+  "model": "glm-5.2"
+}

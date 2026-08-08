@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 16,
+  "translation": "और ⟨ה⟩ ओमर ⟨है⟩ ईफा का दसवाँ भाग ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "और ⟨ह⟩ ओमर"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "दसवाँ भाग"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ईफा का"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨है⟩"
+    }
+  ],
+  "timestamp": "2026-08-08T02:06:14.018306811Z",
+  "model": "glm-5.2"
+}

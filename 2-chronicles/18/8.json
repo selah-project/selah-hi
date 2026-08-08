@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "तब यिस्राएल के राजा ने एक सरीस को बुलाया और कहा, “महेर यिमला के बेटे मीखायहू को।”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "तब...बुलाया"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "सरीस"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "महेर"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "मीखायहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "यिमला"
+    }
+  ],
+  "timestamp": "2026-08-08T00:08:26.202773626Z",
+  "model": "glm-5.2"
+}

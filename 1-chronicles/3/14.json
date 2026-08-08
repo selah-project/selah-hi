@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "अमोन उसका पुत्र, योशियाहू उसका पुत्र।",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "अमोन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाहू"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसका पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-07T23:56:36.010303033Z",
+  "model": "glm-5.2"
+}

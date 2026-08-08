@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "बलवानों के नगर में बुद्धिमान चढ़ता है, और उसके भरोसे के बल को गिरा देता है।",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "बलवानों के"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ता है"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "और गिरा देता है"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बल"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "उसके भरोसे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:57.044524968Z",
+  "model": "glm-5.2"
+}

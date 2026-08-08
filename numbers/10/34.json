@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यहवे का बादल उन पर दिन के समय ⟨था⟩, उनके छावनी से प्रस्थान करने पर।",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "और बादल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे का"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन के समय"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "उनके प्रस्थान करने पर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छावनी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:31:39.422776933Z",
+  "model": "glm-5.2"
+}

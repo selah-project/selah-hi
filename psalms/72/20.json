@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 72,
+  "translation": "समाप्त हुईं दाऊद की प्रार्थनाएँ, यिशै के पुत्र की।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "समाप्त हुईं"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "प्रार्थनाएँ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    }
+  ],
+  "timestamp": "2026-08-07T23:04:03.600819154Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और कलूब, शूहा के भाई ने, ⟨את⟩ महीर को जन्म दिया; वह एश्तोन का पिता था।",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "और कलूब ने"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाई"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "शूहा के"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महीर को"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "महीर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "एश्तोन का"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:04.852598654Z",
+  "model": "glm-5.2"
+}

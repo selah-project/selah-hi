@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "हाय, रक्त की ⟨रही⟩ नगरी, सम्पूर्ण झूठ और लूट से भरी ⟨है⟩; लूटा हुआ शिकार नहीं हटता।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रक्त की"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "झूठ"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "लूट"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "हटता"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "लूटा हुआ शिकार"
+    }
+  ],
+  "timestamp": "2026-08-07T22:47:15.728694588Z",
+  "model": "glm-5.2"
+}

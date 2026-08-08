@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 40,
+  "translation": "किसने यहवे के ⟨את⟩ रूह को तौला? और कौन ⟨उसका⟩ परामर्शी ⟨उसे⟩ बताता है?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "किसने"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "तौला"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रूह"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "और कौन"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "उसका परामर्शी"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "उसे बताता है"
+    }
+  ],
+  "timestamp": "2026-08-07T22:03:40.860728230Z",
+  "model": "glm-5.2"
+}

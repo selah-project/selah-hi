@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और एलपाल के पुत्र — एवेर और मिशाम और शमेर; ⟨वह⟩ बनाया ⟨את⟩ ओनो और ⟨את⟩ लोद और उसकी बेटियों को।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और के पुत्र"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एलपाल"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवेर"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "और मिशाम"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "और शमेर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओनो"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "ओनो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "लोद"
+    },
+    {
+      "surface": "לד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "और उसकी बेटियों को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:49.993037052Z",
+  "model": "glm-5.2"
+}

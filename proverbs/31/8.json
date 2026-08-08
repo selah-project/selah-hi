@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "मूक के लिए अपना मुख खोल, हर एक खो जाने वाले-पुत्र के न्याय की ओर।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "अपना मुख"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "मूक के लिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "खो जाने वाले"
+    }
+  ],
+  "timestamp": "2026-08-07T23:24:12.022449468Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "ढाल और बड़ी ढाल को पकड़, और मेरी सहायता के लिए खड़ा हो।",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "पकड़"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "और बड़ी ढाल"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "और खड़ा हो"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "मेरी सहायता के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T22:58:30.758751219Z",
+  "model": "glm-5.2"
+}

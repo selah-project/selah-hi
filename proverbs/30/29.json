@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 30,
+  "translation": "तीन ⟨हैं⟩ वे जो चाल में उत्कृष्ट ⟨हैं⟩, और चार जो चलने में उत्कृष्ट ⟨हैं⟩:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "उत्कृष्ट"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "चाल"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "और चार"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "उत्कृष्ट"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "चलने"
+    }
+  ],
+  "timestamp": "2026-08-07T23:23:22.926556720Z",
+  "model": "glm-5.2"
+}

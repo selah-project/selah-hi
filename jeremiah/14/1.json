@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "जो यहवे का वचन यिर्मयाहू के पास आया, सूखों के विषय में:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "था"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "על",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "विषयों"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "सूखों"
+    }
+  ],
+  "timestamp": "2026-08-07T22:14:37.980915391Z",
+  "model": "glm-5.2"
+}

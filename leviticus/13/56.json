@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और यदि हकोहेन देखे, और देख, ⟨ה⟩ नेगा धुंधला हो ⟨את⟩-उसके धुलने के बाद, तो वह ⟨את⟩-उसे फाड़े — वस्त्र से या चमड़ा से या ताने से या बाने से।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखे"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हकोहेन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देख"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "धुंधला हो"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "नेगा"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "के बाद"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "धुलने"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसके"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "तो वह फाड़े"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "वस्त्र"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "העור",
+      "gloss": "चमड़ा"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "ताना"
+    },
+    {
+      "surface": "או",
+      "gloss": "या"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "बाना"
+    }
+  ],
+  "timestamp": "2026-08-08T02:11:58.932052993Z",
+  "model": "glm-5.2"
+}

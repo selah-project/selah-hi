@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 28,
+  "translation": "तू बहुत बीज खेत में निकालेगा, और तू थोड़ा बटोरेगा, क्योंकि टिड्डा उसे खा जाएगा।",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "बीज"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "तू निकालेगा"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत में"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "और थोड़ा"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "तू बटोरेगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "वह उसे समाप्त कर देगा"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "टिड्डा"
+    }
+  ],
+  "timestamp": "2026-08-07T20:53:32.146876672Z",
+  "model": "glm-5.2"
+}

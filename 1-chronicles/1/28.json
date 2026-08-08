@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "अब्राहाम के पुत्र ⟨थे⟩ यित्सहाक और यिश्माएल ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अब्राहाम"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सहाक"
+    },
+    {
+      "surface": "וע",
+      "gloss": "और"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:25.758828431Z",
+  "model": "glm-5.2"
+}

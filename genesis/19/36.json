@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और लोत की दोनों बेटियों ने अपने पिता से गर्भ धारण किया।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "और गर्भ धारण किया"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दोनों"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बेटियों ने"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोत की"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "अपने पिता से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:46:14.678486913Z",
+  "model": "glm-5.2"
+}

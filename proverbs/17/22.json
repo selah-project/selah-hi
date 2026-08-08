@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "आनन्दित हृदय चिकित्सा करता ⟨है⟩, और दीन आत्मा अस्थियों को सुखाती है।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "आनन्दित"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "भला करता"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "चिकित्सा"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "और आत्मा"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "सुखाती है"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "अस्थि"
+    }
+  ],
+  "timestamp": "2026-08-07T23:20:05.433844989Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "क्या लाभ ⟨है⟩ ⟨उस⟩ करने वाले को, उस में जिसका ⟨वह⟩ परिश्रम ⟨करता है⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יִּתְרוֹן",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "הָֽעוֹשֶׂה",
+      "gloss": "करने वाले को"
+    },
+    {
+      "surface": "בַּאֲשֶׁר",
+      "gloss": "उस में जिसका"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "עָמֵֽל",
+      "gloss": "परिश्रम"
+    }
+  ],
+  "timestamp": "2026-08-08T03:09:27.265050097Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 31:12",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 31,
+  "translation": "और वे मोशेह और एलע्ज़र ⟨the⟩ याजक और बन्ने इस्राएल की ⟨the⟩ मण्डली के पास ⟨את⟩ ⟨the⟩ बन्दियों और ⟨את⟩ ⟨the⟩ लूट और ⟨את⟩ ⟨the⟩ लुट्पाट ले आए, ⟨the⟩ छावनी में, मोआब के अरबों में, जो यर्दन पर यरीहो के सामने ⟨are⟩।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "और वे ले आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और के पास"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलע्ज़र"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨the⟩ याजक"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और के पास"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "⟨the⟩ मण्डली"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बन्ने"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ बन्दियों"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "⟨the⟩ बन्दियों"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "⟨the⟩ लूट"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "⟨the⟩ लूट"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "⟨the⟩ लुट्पाट"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "⟨the⟩ लुट्पाट"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨the⟩ छावनी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "में"
+    },
+    {
+      "surface": "ערबת",
+      "gloss": "अरबों"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरीहो"
+    }
+  ],
+  "timestamp": "2026-08-08T02:17:12.099477749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "“और तू शिट्टीम की लकड़ी के डण्डे बनाए, और तू उन्हें सोने से मढ़े।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "और तू बनाए"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "डण्डे"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "लकड़ी के"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शिट्टीम"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "और तू मढ़े"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "उन्हें",
+      "marks": "डण्डे"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने से"
+    }
+  ],
+  "timestamp": "2026-08-07T20:08:40.275418554Z",
+  "model": "glm-5.2"
+}

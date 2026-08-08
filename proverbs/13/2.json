@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "मुख के फल से मनुष्य अच्छाई खाएगा, और विश्वासघातियों की ⟨नफेश⟩ — उत्पीड़न।",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "फल से"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख के"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाएगा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छाई"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "और ⟨नफेश⟩"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "विश्वासघातियों की"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "उत्पीड़न"
+    }
+  ],
+  "timestamp": "2026-08-07T23:19:28.837698931Z",
+  "model": "glm-5.2"
+}

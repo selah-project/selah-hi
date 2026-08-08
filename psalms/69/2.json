@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 69,
+  "translation": "मुझे बचा, एलोहीम, क्योंकि जल ⟨मेरी⟩ प्राण तक आ गए हैं।",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "मुझे बचा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आ गए हैं"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-08-07T23:03:27.976719323Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और यहवे ने सदोम और अमोरा पर गन्धक और आग ⟨मारी⟩, यहवे की ओर से, आकाशों से।",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "और यहवे ने"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "बरसाया"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "अमोरा"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "गन्धक"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "और आग"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "की ओर से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशों"
+    }
+  ],
+  "timestamp": "2026-08-07T19:45:48.897139592Z",
+  "model": "glm-5.2"
+}

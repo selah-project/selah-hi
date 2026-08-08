@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और यहवे ने मोशे से कहा, जा, जन-समूह के पास और उन्हें आज और कल पवित्र कर, और वे अपने वस्त्र धोएँ।",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जन-समूह"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "पवित्र कर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "और कल"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "धोएँ"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "वस्त्र"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:12.621723859Z",
+  "model": "glm-5.2"
+}

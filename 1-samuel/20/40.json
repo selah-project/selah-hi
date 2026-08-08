@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यहोनातान ने ⟨את⟩ अपने हथियार अपने लड़के को दिए, और उससे कहा, “जा, नगर में ले जा।”",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "और दिए"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातान ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अपने हथियार"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "अपने हथियार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "को"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "लड़के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके थे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उससे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "ले जा"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर में"
+    }
+  ],
+  "timestamp": "2026-08-07T21:20:43.009809569Z",
+  "model": "glm-5.2"
+}

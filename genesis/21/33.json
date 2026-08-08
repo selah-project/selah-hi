@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "और ⟨उसने⟩ बेरेशबा में एक एशेल रोपा, और उसने वहाँ यहवे के नाम में, एल ओलाम को, पुकारा।",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "और रोपा"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "एक एशेल"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "बेरेशबा में"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ""
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "और उसने पुकारा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ओलाम"
+    }
+  ],
+  "timestamp": "2026-08-08T02:02:57.818633168Z",
+  "model": "glm-5.2"
+}

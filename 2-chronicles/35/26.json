@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 35:26",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और योशियाहू के शेष वचन और उसके हेसेद, जैसा लिखा है यहवे की तोरा में —",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "और शेष"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "योशियाहू के"
+    },
+    {
+      "surface": "וחסדיו",
+      "gloss": "और उसके हेसेद"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "जैसा लिखा है"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "में"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की तोरा"
+    }
+  ],
+  "timestamp": "2026-08-08T00:12:05.717311564Z",
+  "model": "glm-5.2"
+}

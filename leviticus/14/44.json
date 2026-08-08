@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "तब याजक आए और देखे, और देखो, वह दावत घर में फैली है — यह घर में कठोर चर्म-रोग है; वह अशुद्ध है।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "तब आए"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देखे"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "और देखो"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैली है"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "वह दावत"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "चर्म-रोग"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "कठोर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "यह"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घर में"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह है"
+    }
+  ],
+  "timestamp": "2026-08-07T20:21:04.886462201Z",
+  "model": "glm-5.2"
+}

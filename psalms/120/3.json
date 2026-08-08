@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 120,
+  "translation": "तुम्हें क्या दिया जाएगा, और तुम्हें क्या और जोड़ा जाएगा, हे कपटी जीभ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिया जाएगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और क्या"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "जोड़ा जाएगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "हे जीभ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कपटी"
+    }
+  ],
+  "timestamp": "2026-08-07T23:13:11.749822074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 15:8",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "एलीत्साफान के बेटों के लिए, शमायाह ⟨का⟩ प्रमुख, और उसके भाई दो सौ।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "के बेटों के लिए"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "एलीत्साफान"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शमायाह"
+    },
+    {
+      "surface": "השר",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "और उसके भाई"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दो सौ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:34.720224087Z",
+  "model": "glm-5.2"
+}

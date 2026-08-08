@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "और तुम मेरे आज्ञाओं को मानना रखो और ⟨את⟩ उन्हें करो; मैं यहवे हूँ।",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "और तुम मानना रखो"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "मेरे आज्ञाओं को"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "और तुम करो"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "उन्हें"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-07T20:24:30.031472820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ⟨את⟩ हुक्कोक और ⟨את⟩ उसके मगराश, और ⟨את⟩ रेखोब और ⟨את⟩ उसके मगराश।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "हुक्कोक"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "हुक्कोक"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके मगराश"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "उसके मगराश"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "रेखोब"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "रेखोब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "उसके मगराश"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "उसके मगराश"
+    }
+  ],
+  "timestamp": "2026-08-08T01:03:03.376751362Z",
+  "model": "glm-5.2"
+}

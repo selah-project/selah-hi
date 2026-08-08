@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "और ⟨את⟩ गिद्ध, और ⟨את⟩ बाज़ — उसकी प्रजाति के अनुसार।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "गिद्ध"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "गिद्ध"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "और ⟨את⟩",
+      "marks": "बाज़"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "बाज़"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "उसकी प्रजाति के अनुसार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:18:40.583908020Z",
+  "model": "glm-5.2"
+}

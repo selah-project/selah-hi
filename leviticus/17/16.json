@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "hi",
+  "chapter": 17,
+  "translation": "और यदि वह न धोए, और उसका बसर न स्नान करे, तो वह अपना अवन उठाएगा।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "वह धोए"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "और उसका बसर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "स्नान करे"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "तो वह उठाएगा"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "अपना अवन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:22:47.772170926Z",
+  "model": "glm-5.2"
+}

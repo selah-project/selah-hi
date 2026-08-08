@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "אज तू यहवे का भय समझेगा, और एलोहीम का ज्ञान पाएगा।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "तू समझेगा"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "का भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "और … का ज्ञान"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "तू पाएगा"
+    }
+  ],
+  "timestamp": "2026-08-08T03:07:01.031267545Z",
+  "model": "glm-5.2"
+}

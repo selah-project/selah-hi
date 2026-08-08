@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और दावीद पार भागा, और पहाड़ के सिर पर दूर से खड़ा हुआ — उनके बीच बड़ी दूरी थी।",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "और पार भागा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "पार"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "और खड़ा हुआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "सिर"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड़"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "दूर से"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बड़ी"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "दूरी"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "उनके बीच"
+    }
+  ],
+  "timestamp": "2026-08-07T21:23:16.136430752Z",
+  "model": "glm-5.2"
+}

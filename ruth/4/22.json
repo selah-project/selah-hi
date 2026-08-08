@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और ओबेद ने ⟨את⟩ यिशै को जन्या, और यिशै ने ⟨את⟩ दाऊद को जन्या।",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "और ओबेद"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशै"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "और यिशै"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्या"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाऊद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:34:37.248903511Z",
+  "model": "glm-5.2"
+}

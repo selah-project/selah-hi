@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 3:10",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और पवित्रतम भवन में उसने दो करूबिम बनाए, तराशे हुए काम के, और उन्हें ⟨את⟩ सोने से मढ़ा।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "और उसने बनाया"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "भवन में"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "पवित्रतम"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "करूबिम"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "צעצעים",
+      "gloss": "तराशे हुए"
+    },
+    {
+      "surface": "ויצפו",
+      "gloss": "और मढ़ा"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "उन्हें"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सोने"
+    }
+  ],
+  "timestamp": "2026-08-08T01:05:29.622138820Z",
+  "model": "glm-5.2"
+}

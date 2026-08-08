@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "दो, एक से बेहतर हैं, जिनके लिए उनके परिश्रम में अच्छा प्रतिफल है।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "बेहतर हैं"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "दो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनके लिए"
+    },
+    {
+      "surface": "יש",
+      "gloss": "है"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "प्रतिफल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "उनके परिश्रम में"
+    }
+  ],
+  "timestamp": "2026-08-08T00:56:43.810814977Z",
+  "model": "glm-5.2"
+}

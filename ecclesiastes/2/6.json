@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "मैंने अपने लिए जल-कुण्ड बनाए, कि उनसे उस वन को सींचूँ जिसमें वृक्ष उगते हैं।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "मैंने बनाए"
+    },
+    {
+      "surface": "לי",
+      "gloss": "अपने लिए"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "जल-कुण्ड"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "कि सींचूँ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "יער",
+      "gloss": "वन"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "उगते हैं"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "वृक्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:20.838783419Z",
+  "model": "glm-5.2"
+}

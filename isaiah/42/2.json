@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 42,
+  "translation": "वह चिल्लाएगा नहीं, और न उठाएगा, और न बाहर अपना कोल सुनाएगा।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "चिल्लाएगा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उठाएगा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "सुनाएगा"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहर"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "अपना कोल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:04:25.318739716Z",
+  "model": "glm-5.2"
+}

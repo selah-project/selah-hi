@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 34,
+  "translation": "“और एक नासी, एक नासी, प्रत्येक गोत्र से, तुम लो भूमि के अधिभोग हेतु ⟨आगे⟩।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "और एक नासी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "प्रत्येक गोत्र से"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "तुम लो"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "अधिभोग हेतु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भूमि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    }
+  ],
+  "timestamp": "2026-08-07T20:41:47.945564722Z",
+  "model": "glm-5.2"
+}

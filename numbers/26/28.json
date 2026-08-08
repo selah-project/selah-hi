@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 26:28",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "यूसुफ़ के बेटे — उनके कुलों ⟨के अनुसार⟩: मनश्शे और एफ्रायिम।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसुफ़"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "उनके कुलों"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "और एफ्रायिम"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:01.323057957Z",
+  "model": "glm-5.2"
+}

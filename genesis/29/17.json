@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 29,
+  "translation": "और लेआह की आँखें नरम थीं, और राहेल ⟨थी⟩ सुन्दर आकृति और सुन्दर दर्शन।",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "और आँखें"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह की"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "नरम"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "और राहेल"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "थी"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "और सुन्दर"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "दर्शन"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:19.387836601Z",
+  "model": "glm-5.2"
+}

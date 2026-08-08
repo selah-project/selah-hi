@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और मर्दकय ने ⟨कार्य⟩ किया, और उसने वह सब किया जो एस्तर ने उसे आज्ञा दिया था।",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "और गया"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मर्दकय"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "और किया"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सब के अनुसार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "आज्ञा दिया"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसे"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:39:39.083938707Z",
+  "model": "glm-5.2"
+}

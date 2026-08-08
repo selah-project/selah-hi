@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 48,
+  "translation": "और करीयोत पर, और बोत्स्रा पर, और मोआब देश के सब नगरों पर — दूर के और निकट के।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "करीयोत"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "बोत्स्रा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगरों"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "दूर के"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "और निकट के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:23:35.514308073Z",
+  "model": "glm-5.2"
+}

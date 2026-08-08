@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 20,
+  "translation": "और यहवे ने यहोशुा से कहा, लेकर कहने लगे:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुा"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "लेकर कहने लगे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:38.835676252Z",
+  "model": "glm-5.2"
+}

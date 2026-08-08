@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 37,
+  "translation": "और याकोब उस देश में बसा जहाँ उसके पिता परदेशी थे, कनान देश में।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "और बसा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोब"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "उस देश में"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "परदेशी-वास के"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "उसके पिता के"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देश में"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-07T19:53:54.556373811Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "सम्पूर्ण मण्डली, मिलकर ⟨एक मन से⟩: चार मनु, दो हज़ार, तीन सौ, साठ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "मिलकर एक"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "मनु"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दो हज़ार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सौ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:49:09.044505242Z",
+  "model": "glm-5.2"
+}

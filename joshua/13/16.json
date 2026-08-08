@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 13:16",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 13,
+  "translation": "और उनका यह सीमा थी — अरोएर से, जो अरनोन नदी के किनारे पर है, और वह नगर जो नदी के बीच में है, और सारा मैदान मेदबा तक।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और थी"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनका"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מערוער",
+      "gloss": "अरोएर से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "अरनोन"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "और वह नगर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "के बीच में"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "नदी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "और सारा"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "मैदान"
+    },
+    {
+      "surface": "על",
+      "gloss": "तक"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "मेदबा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:00:03.872881344Z",
+  "model": "glm-5.2"
+}

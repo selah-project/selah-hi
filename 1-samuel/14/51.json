@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और कीश शाऊल का पिता, और नेर अब्नेर का पिता, अबीएल का बेटा।",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "और कीश"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "शाऊल का"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "और नेर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अब्नेर का"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "अबीएल का"
+    }
+  ],
+  "timestamp": "2026-08-07T21:17:55.583414986Z",
+  "model": "glm-5.2"
+}

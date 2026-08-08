@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यहवे ने मोशे से बात की, यो कह:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "और बात की"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो कह"
+    }
+  ],
+  "timestamp": "2026-08-07T20:29:18.292969425Z",
+  "model": "glm-5.2"
+}

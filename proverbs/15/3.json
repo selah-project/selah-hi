@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 15,
+  "translation": "हर जगह यहवे की आँखें ⟨हैं⟩, बुराई और भलाई को देखती हुईं।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "जगह"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखें"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे की"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "देखती हुईं"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "बुराई"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "और भलाई"
+    }
+  ],
+  "timestamp": "2026-08-08T00:50:29.549761030Z",
+  "model": "glm-5.2"
+}

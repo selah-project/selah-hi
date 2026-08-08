@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और देखो, सीसे का एक गोल तख्ता उठाया गया, और यह ⟨रही⟩ एक स्त्री बैठी थी एपा के बीच में।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "और-देखो"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "गोल-तख्ता"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "सीसे-का"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "उठाया-गया"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "और-यह"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "एक-स्त्री"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बैठी-थी"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीच-में"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एपा-के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:51:02.388864258Z",
+  "model": "glm-5.2"
+}

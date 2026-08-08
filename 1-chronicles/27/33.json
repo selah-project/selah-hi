@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और अखीतोपेल राजा का सलाहकार ⟨था⟩, और हूशै हाअर्की राजा का मित्र ⟨था⟩।",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "और अखीतोपेल"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सलाहकार"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "और हूशै"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "हाअर्की"
+    },
+    {
+      "surface": "רע",
+      "gloss": "मित्र"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा का"
+    }
+  ],
+  "timestamp": "2026-08-08T00:02:41.191602093Z",
+  "model": "glm-5.2"
+}

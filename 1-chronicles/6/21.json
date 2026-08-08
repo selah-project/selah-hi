@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "एल्काना का पुत्र, योएल का पुत्र, अज़रयाह का पुत्र, त्सफनयाह का पुत्र।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अज़रयाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "त्सफनयाह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:37.323683316Z",
+  "model": "glm-5.2"
+}

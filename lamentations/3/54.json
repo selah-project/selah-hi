@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "जल मेरे सिर के ऊपर बह गए; मैंने कहा, मैं कट गया हूँ।",
+  "tokens": [
+    {
+      "surface": "צָֽפוּ",
+      "gloss": "बह गए"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "जल"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "के ऊपर"
+    },
+    {
+      "surface": "רֹאשִׁ֖י",
+      "gloss": "मेरे सिर"
+    },
+    {
+      "surface": "אָמַ֥רְתִּי",
+      "gloss": "मैंने कहा"
+    },
+    {
+      "surface": "נִגְזָֽרְתִּי",
+      "gloss": "मैं कट गया हूँ"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:45.146957834Z",
+  "model": "glm-5.2"
+}

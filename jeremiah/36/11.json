@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "और मिकायाहू ने — शाफान के पुत्र गमर्याहू के पुत्र — सफर से यहवे के सारे ⟨את⟩ वचन सुने।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुने"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "मिकायाहू ने"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "गमर्याहू के"
+    },
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "शाफान के"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारे वचन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे के"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "से"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "सफर"
+    }
+  ],
+  "timestamp": "2026-08-07T22:20:58.703938341Z",
+  "model": "glm-5.2"
+}

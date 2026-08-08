@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "धिक्कार है वह जो ⟨את⟩ इस तोरह के वचनों को उन्हें करने के लिए नहीं टिकाता, और कहे कोल हाअम् आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कार है"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "टिकाता"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "इस तोरह के वचनों को"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनों"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "इस तोरह"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "इस"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "करने के लिए"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "उन्हें"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "और कहे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "העם",
+      "gloss": "हाअम्"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-07T20:52:48.448417876Z",
+  "model": "glm-5.2"
+}

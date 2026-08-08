@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "यहवे हमारे एलोहीम ने होरेब में हमारे साथ एक ब्रित काटी।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हमारे एलोहीम"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटी"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हमारे साथ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ब्रित"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "होरेब में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:01.749904943Z",
+  "model": "glm-5.2"
+}

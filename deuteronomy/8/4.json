@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "तेरा वस्त्र तुझसे पुराना नहीं हुआ और तेरा पैर नहीं सूजा, ये चालीस वर्ष ⟨तक⟩।",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "तेरा वस्त्र"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "पुराना हुआ"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "तुझसे"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "और तेरा पैर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "सूजा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ये"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-07T20:46:51.700118620Z",
+  "model": "glm-5.2"
+}

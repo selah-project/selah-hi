@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और ज्ञान से कक्ष भर जाते हैं, सारे धन से — बहुमूल्य और रमणीय।",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "और ज्ञान से"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "कक्ष"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भर जाते हैं"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन से"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "बहुमूल्य"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "और रमणीय"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:20.924091386Z",
+  "model": "glm-5.2"
+}

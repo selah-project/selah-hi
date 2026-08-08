@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 24:3",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 24,
+  "translation": "और म्री के घर के विषय में एक मशल कह और उनसे कह: 'कोह अमर अदोनाय यहवे: देगची को चढ़ा, चढ़ा और उस में जल भी उंडेलो।'",
+  "tokens": [
+    {
+      "surface": "ומשל",
+      "gloss": "और मशल कह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के विषय में"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "म्री के"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मशल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "और तू कह"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनसे"
+    },
+    {
+      "surface": "כה",
+      "gloss": "कोह"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "अमर"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "चढ़ा"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "देगची को"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "चढ़ा"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "उंडेलो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उस में"
+    },
+    {
+      "surface": "מים",
+      "gloss": "जल"
+    }
+  ],
+  "timestamp": "2026-08-07T22:32:27.466264367Z",
+  "model": "glm-5.2"
+}

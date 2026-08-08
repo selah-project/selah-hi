@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "गेर्शोन के बेटे: लिब्नी और शिमी, उनके कुलों के अनुसार।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "बेटे"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेर्शोन"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लिब्नी"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "और शिमी"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "उनके कुलों के अनुसार"
+    }
+  ],
+  "timestamp": "2026-08-07T20:00:45.945084524Z",
+  "model": "glm-5.2"
+}

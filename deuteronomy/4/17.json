@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "प्रतिरूप किसी भी पशु का जो पृथ्वी में ⟨है⟩, प्रतिरूप किसी भी पक्षी पंखों वाले का जो आकाश में उड़ता ⟨है⟩—",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "प्रतिरूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वी में"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "प्रतिरूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "किसी भी"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "पक्षी"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "पंखों वाले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "उड़ता"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाश में"
+    }
+  ],
+  "timestamp": "2026-08-07T20:44:31.849282753Z",
+  "model": "glm-5.2"
+}

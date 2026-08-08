@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "जिस वर्ष राजा आचाज का स्वर्गवास हुआ, उसी वर्ष यह भारिया ⟨प्रकट हुई⟩:",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "जिस वर्ष"
+    },
+    {
+      "surface": "מות",
+      "gloss": "स्वर्गवास"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आचाज"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨प्रकट हुई⟩"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "यह भारिया"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    }
+  ],
+  "timestamp": "2026-08-07T21:57:50.102873468Z",
+  "model": "glm-5.2"
+}

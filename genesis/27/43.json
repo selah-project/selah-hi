@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 27:43",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 27,
+  "translation": "और अब, मेरे बेटे, सुन मेरी बात, और उठ, भाग जा तू लवन के पास, मेरे भाई की ओर, हारान को।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "और अब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मेरे बेटे"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "मेरी बात"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "और उठ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भाग जा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लवन"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "मेरे भाई"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "हारान को"
+    }
+  ],
+  "timestamp": "2026-08-07T19:49:20.680251462Z",
+  "model": "glm-5.2"
+}

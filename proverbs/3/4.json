@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "और तू अनुग्रह और उत्तम सेकेल पाएगा — एलोहीम और मनुष्य की दृष्टि में।",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "और तू पाएगा"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "और सेकेल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "दृष्टि में"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "और मनुष्य"
+    }
+  ],
+  "timestamp": "2026-08-07T23:16:59.317753435Z",
+  "model": "glm-5.2"
+}

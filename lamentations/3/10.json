@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "एक भालू ⟨है⟩ घात लगाई मेरे लिए, एक सिंह ⟨है⟩ छिपने की जगहों में।",
+  "tokens": [
+    {
+      "surface": "דֹּ֣ב",
+      "gloss": "एक भालू"
+    },
+    {
+      "surface": "אֹרֵ֥ב",
+      "gloss": "घात लगाई"
+    },
+    {
+      "surface": "הוּא֙",
+      "gloss": "⟨है⟩"
+    },
+    {
+      "surface": "לִ֔י",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "एक सिंह"
+    },
+    {
+      "surface": "בְּמִסְתָּרִֽים",
+      "gloss": "छिपने की जगहों में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:10.709531377Z",
+  "model": "glm-5.2"
+}

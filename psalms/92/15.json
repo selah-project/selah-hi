@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 92,
+  "translation": "बुढ़ापे में भी फल लाएँगे, सरस और हरे-भरे रहेंगे,",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "अभी भी"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "वे फल लाएँगे"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "बुढ़ापे में"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "सरस"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "और हरे-भरे"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "होंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:07:38.985511595Z",
+  "model": "glm-5.2"
+}

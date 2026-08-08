@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "वह मेढ़ा जिसे तू ने सींगों वाला देखा — वे मादय और पारस के राजा ⟨हैं⟩।",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "वह मेढ़ा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिसे"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "तू ने देखा"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "स्वामी"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "सींगों"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "मादय"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "और पारस"
+    }
+  ],
+  "timestamp": "2026-08-07T23:45:03.925069433Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 26,
+  "translation": "और ये शूतलाख के पुत्र हैं — एरन के लिए, एरनी कुल।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "शूतलाख"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "एरन के लिए"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "एरनी"
+    }
+  ],
+  "timestamp": "2026-08-07T20:38:21.120370238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "घोड़ा-द्वार से ऊपर के भाग में याजकों ने मरम्मत की, अपने-अपने भवन के सामने।",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "ऊपर"
+    },
+    {
+      "surface": "שער",
+      "gloss": "द्वार"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "घोड़ा"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "मजबूती से पकड़ी"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "याजकों ने"
+    },
+    {
+      "surface": "איש",
+      "gloss": "अपने-अपने"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "सामने"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "भवन"
+    }
+  ],
+  "timestamp": "2026-08-07T23:51:23.467064247Z",
+  "model": "glm-5.2"
+}

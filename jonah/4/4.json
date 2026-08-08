@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और यहवे ने कहा, “क्या तेरा क्रोधित होना उचित है?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और … ने कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "क्या … उचित है"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "क्रोधित होना"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरा"
+    }
+  ],
+  "timestamp": "2026-08-07T22:45:55.435485731Z",
+  "model": "glm-5.2"
+}

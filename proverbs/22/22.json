@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 22,
+  "translation": "दीन को लूटना नहीं, क्योंकि वह दीन है, और फटकारे हुए को चौपार में नहीं कुचलना।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "लूटना"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन को"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "कुचलना"
+    },
+    {
+      "surface": "עני",
+      "gloss": "फटकारे हुए को"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "चौपार में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:22:00.143508929Z",
+  "model": "glm-5.2"
+}

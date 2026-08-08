@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 9,
+  "translation": "और ⟨उसने⟩ कहा, “धन्य हो यहवे, शेम का एलोहीम; और कनान उनका दास बने।”",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य हो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "और बने"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "למו",
+      "gloss": "उनका"
+    }
+  ],
+  "timestamp": "2026-08-07T19:41:39.896172075Z",
+  "model": "glm-5.2"
+}

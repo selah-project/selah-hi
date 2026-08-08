@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 2,
+  "translation": "और खूर ने ⟨את⟩ ऊरी को उत्पन्न किया, और ऊरी ने ⟨את⟩ बेत्सलेल को उत्पन्न किया।",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "और खूर"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "उत्पन्न किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊरी"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ऊरी"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "और ऊरी"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "उत्पन्न किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेत्सलेल"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "बेत्सलेल"
+    }
+  ],
+  "timestamp": "2026-08-07T23:55:55.988497280Z",
+  "model": "glm-5.2"
+}

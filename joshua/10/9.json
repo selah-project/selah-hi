@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "और यहोशू उन पर अचानक आ पड़ा; सारी रात वह गिल्गाल से चढ़ा था।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "और आ पड़ा"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशू"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ़ा था"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "गिल्गाल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:13:49.114849484Z",
+  "model": "glm-5.2"
+}

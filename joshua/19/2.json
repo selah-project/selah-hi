@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "और उनके लिए उनकी नहलत में बेर-शेबा और शेबा और मोलादा थे।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और थे"
+    },
+    {
+      "surface": "लהם",
+      "gloss": "उनके लिए"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "उनकी नहलत में"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "और शेबा"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "और मोलादा"
+    }
+  ],
+  "timestamp": "2026-08-07T21:02:02.556286329Z",
+  "model": "glm-5.2"
+}

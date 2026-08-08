@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "तब यहवे ने शमूएल को पुकारा, और उसने कहा — “देखो, मैं यहाँ।”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "तब पुकारा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "की ओर"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमूएल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "देखो मैं यहाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T21:13:35.557594406Z",
+  "model": "glm-5.2"
+}

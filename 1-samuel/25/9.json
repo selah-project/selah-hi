@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और दावीद के नौजवान आए और नाबल से इन सब बातों के अनुसार दावीद के नाम पर बोले, और ठहरे।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "और आए"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "नौजवान"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "और बोले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबल"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "के अनुसार"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "बातों"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "इन"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम पर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दावीद"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "और ठहरे"
+    }
+  ],
+  "timestamp": "2026-08-07T21:22:09.717603111Z",
+  "model": "glm-5.2"
+}

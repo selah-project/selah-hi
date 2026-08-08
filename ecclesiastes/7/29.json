@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "केवल देखो, यही मैंने पाया — कि एलोहीम ने ⟨את⟩ मनुष्य को सीधा बनाया, परन्तु वे बहुत बनावटी उपाय खोज लाए।",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखो"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "मैंने पाया"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मनुष्य को"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मनुष्य"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "परन्तु वे"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "खोज लाए"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "बनावटी उपाय"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "बहुत"
+    }
+  ],
+  "timestamp": "2026-08-07T23:38:48.638999807Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और उसने फिर से सात दिन और रुका, और उसने फिर कबूतर को तेबे से बाहर भेजा।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "और रुका"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फिर से"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "और"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "और फिर"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "भेजा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कबूतर को"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "कबूतर"
+    },
+    {
+      "surface": "מן",
+      "gloss": "से"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "तेबे"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:10.601799183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 21,
+  "translation": "ऊँची आँखें और चौड़ा हृदय — दुष्टों का जुता हुआ खेत — पाप ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ऊँचाई"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखें"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "और चौड़ा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "נר",
+      "gloss": "जुता हुआ खेत"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टों का"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:27.142295881Z",
+  "model": "glm-5.2"
+}

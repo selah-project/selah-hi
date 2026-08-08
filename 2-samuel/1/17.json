@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "hi",
+  "chapter": 1,
+  "translation": "और दाविद ने ⟨את⟩ यह कीनह गाई — शाऊल पर और यहोनातन पर, उसके पुत्र पर।",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "और विलाप किया"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यह कीनह"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "विलाप-गीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यह"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाऊल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "और पर"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसके पुत्र"
+    }
+  ],
+  "timestamp": "2026-08-08T02:27:41.258117079Z",
+  "model": "glm-5.2"
+}

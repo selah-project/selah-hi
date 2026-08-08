@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "तब शलोमह ने यहवे के लिए चढ़ावे चढ़ाए, यहवे के मेब पर, जो उसने आगन के सामने बनाया।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढ़ाए"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमह ने"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "चढ़ावे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "मेब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाया"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "आगन"
+    }
+  ],
+  "timestamp": "2026-08-08T00:06:04.225079862Z",
+  "model": "glm-5.2"
+}

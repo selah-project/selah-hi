@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "hi",
+  "chapter": 35,
+  "translation": "और यदि हत्यारा कभी बाहर निकले, ⟨את⟩ उस अपनी शरण-नगरी की सीमा जहाँ वह वहाँ भागता है,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "और यदि"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलना"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकले"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "हत्यारा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सीमा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "उसकी शरण"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भागता है"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "वहाँ"
+    }
+  ],
+  "timestamp": "2026-08-07T20:42:07.786628863Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "क्योंकि विदेशी स्त्री के ओठ शहद की भाँति टपकते हैं, और उसका तालू तेल से चिकना ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "शहद"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "टपकते हैं"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "विदेशी स्त्री के"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "और चिकना"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "तेल से"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "उसका तालू"
+    }
+  ],
+  "timestamp": "2026-08-07T23:17:35.199842071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 52,
+  "translation": "और देखेंगे धर्मी, और भय करेंगे, और उस पर हँसेंगे।",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "और देखेंगे"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "और भय करेंगे"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "और उस पर"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "हँसेंगे"
+    }
+  ],
+  "timestamp": "2026-08-07T23:01:07.168227223Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और कय्न ने यहवे से कहा: “मेरा अपराध उठाए जाने से बड़ा ⟨है⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कय्न"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "बड़ा ⟨है⟩"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "मेरा अपराध"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "उठाए जाने से"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:24.257912896Z",
+  "model": "glm-5.2"
+}

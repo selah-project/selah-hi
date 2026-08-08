@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "भेड़ और बैल, सब, और भी खेत के पशु,",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "भेड़"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "और बैल"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सब"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "और भी"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत के"
+    }
+  ],
+  "timestamp": "2026-08-07T22:54:31.655298855Z",
+  "model": "glm-5.2"
+}

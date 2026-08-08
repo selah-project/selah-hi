@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 136,
+  "translation": "आकाश के एल को धन्यवाद दो, क्योंकि सदा के लिए उसका हेसेद ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "धन्यवाद दो"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एल को"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाश के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदा के लिए"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "उसका हेसेद"
+    }
+  ],
+  "timestamp": "2026-08-07T23:14:49.120581112Z",
+  "model": "glm-5.2"
+}

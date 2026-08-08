@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 81,
+  "translation": "महासंगीतक के लिए, गित्तीत पर, ले-आसाफ के लिए।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महासंगीतक के लिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "गित्तीत"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ले-आसाफ के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T23:06:02.375737951Z",
+  "model": "glm-5.2"
+}

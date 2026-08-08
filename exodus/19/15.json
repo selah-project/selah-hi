@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "hi",
+  "chapter": 19,
+  "translation": "उसने लोगों से कहा: “तीन दिन के लिए तैयार रहो; स्त्री के पास न जाना।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "कहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "से"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोगों"
+    },
+    {
+      "surface": "היו",
+      "gloss": "रहो"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "तैयार"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "जाना"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    }
+  ],
+  "timestamp": "2026-08-07T20:06:39.108577681Z",
+  "model": "glm-5.2"
+}

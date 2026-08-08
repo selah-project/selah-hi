@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "सल्लै के लिए कल्लै; अमोक के लिए एवेर।",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "सल्लै के लिए"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "कल्लै"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "अमोक के लिए"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एवेर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:10.109243621Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "मैं नहीं जानता था; मेरी नफश ने मुझे रख दिया अपने उदार लोक के रथों में।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "मैं जानता था"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी नफश"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "ने मुझे रख दिया"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "रथों में"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "अपने लोक"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "उदार"
+    }
+  ],
+  "timestamp": "2026-08-07T23:33:36.154612398Z",
+  "model": "glm-5.2"
+}

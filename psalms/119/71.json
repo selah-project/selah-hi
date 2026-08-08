@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 119,
+  "translation": "मेरे लिए अच्छा ⟨है⟩ कि मैं दुःख उठाया, ताकि मैं तेरे विधान सीखूँ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "अच्छा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरे लिए"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "मैं दुःख उठाया"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "मैं सीखूँ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तेरे विधान"
+    }
+  ],
+  "timestamp": "2026-08-08T03:06:03.946369033Z",
+  "model": "glm-5.2"
+}

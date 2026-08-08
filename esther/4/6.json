@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और निकला लाहाताख मार्दकै के पास, नगर के चौक तक, जो राजा के फाटक के सम्मुख था।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "और निकला"
+    },
+    {
+      "surface": "התך",
+      "gloss": "लाहाताख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "के पास"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मार्दकै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तक"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "चौक"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगर के"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सम्मुख"
+    },
+    {
+      "surface": "שער",
+      "gloss": "फाटक"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा के"
+    }
+  ],
+  "timestamp": "2026-08-07T23:41:14.928091117Z",
+  "model": "glm-5.2"
+}

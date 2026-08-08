@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 5,
+  "translation": "और पृथ्वी का लाभ ⟨रखा गया है⟩—सब पर; एक राजा ⟨है⟩ ⟨के लिए⟩ एक कृषि किए हुए खेत के।",
+  "tokens": [
+    {
+      "surface": "ולתרון",
+      "gloss": "और ⟨का⟩ लाभ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सब पर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "एक राजा"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "एक खेत के"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "कृषि किए हुए"
+    }
+  ],
+  "timestamp": "2026-08-08T01:15:44.577901110Z",
+  "model": "glm-5.2"
+}

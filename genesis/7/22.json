@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 7,
+  "translation": "सब ⟨जिनके⟩ नथुनों में जीवन के रूह की साँस ⟨थी⟩ — सब में से जो चिल्ली भूमि पर ⟨थे⟩ — मर गए।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जिनके"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "साँस"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रूह"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "नथुनों में"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सब में से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "चिल्ली भूमि पर"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मर गए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:42:36.025593782Z",
+  "model": "glm-5.2"
+}

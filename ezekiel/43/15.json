@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "hi",
+  "chapter": 43,
+  "translation": "और हहरएल ⟨है⟩ चार ⟨हाथ⟩; और हारएल से और ऊपर की ओर ⟨हैं⟩ चार कर्नोत।",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "और हहरएल"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हाथ"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "और हारएल से"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "और ऊपर की ओर"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "कर्नोत"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-07T22:37:40.921732090Z",
+  "model": "glm-5.2"
+}

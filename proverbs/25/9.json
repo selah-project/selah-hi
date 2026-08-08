@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "अपना वाद अपने साथी से वाद विवाद कर, और ⟨את⟩ किसी दूसरे का भेद मत खोल।",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "तेरा वाद"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "विवाद कर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तेरे साथी"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "तेरे साथी से"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "और भेद"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "किसी दूसरे का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मत"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "खोल"
+    }
+  ],
+  "timestamp": "2026-08-08T00:51:59.086662324Z",
+  "model": "glm-5.2"
+}

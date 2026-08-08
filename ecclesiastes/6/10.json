@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "जो कुछ हुआ ⟨है⟩, उसका नाम पहले ही पुकारा गया, और ज्ञात ⟨है⟩ कि वह आदाम ⟨है⟩; और वह उसके साथ विवाद नहीं कर सकता जो उससे सहत्तर ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "जो कुछ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "हुआ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "पहले ही"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "पुकारा गया"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसका नाम"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "और ज्ञात"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदाम"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सकता"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "विवाद कर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "जो सहत्तर"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उससे"
+    }
+  ],
+  "timestamp": "2026-08-08T00:57:18.081725618Z",
+  "model": "glm-5.2"
+}

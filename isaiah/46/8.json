@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "hi",
+  "chapter": 46,
+  "translation": "इसे स्मरण करो और ⟨स्थिर⟩ बनो; लौट आओ, विद्रोही, हृदय पर!",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "स्मरण करो"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इसे"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "और ⟨स्थिर⟩ बनो"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "लौट आओ"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "विद्रोही"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-07T22:06:12.408321126Z",
+  "model": "glm-5.2"
+}

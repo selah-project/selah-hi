@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 4,
+  "translation": "और दिनों के अन्त में हुआ, और कैन भूमि के फल से यहवे के लिए अन्न-भेंट लाया।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुआ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अन्त में"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनों के"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "और लाया"
+    },
+    {
+      "surface": "קין",
+      "gloss": "कैन"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "फल से"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "भूमि के"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "अन्न-भेंट"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवे के लिए"
+    }
+  ],
+  "timestamp": "2026-08-07T19:40:10.890518548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 78,
+  "translation": "और उसने स्मरण किया कि वे मांस हैं, एक जाती हवा जो चली जाती है और ⟨जो⟩ लौटती नहीं।",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "और उसने स्मरण किया"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांस"
+    },
+    {
+      "surface": "המה",
+      "gloss": "वे"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हवा"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जाती है"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "लौटती"
+    }
+  ],
+  "timestamp": "2026-08-07T23:05:21.977214826Z",
+  "model": "glm-5.2"
+}

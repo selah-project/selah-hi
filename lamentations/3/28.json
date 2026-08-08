@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "hi",
+  "chapter": 3,
+  "translation": "अकेला बैठे और चुप रहे, क्योंकि ⟨उसने⟩ उस पर ⟨जुआ⟩ रखा है।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बैठे"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "अकेला"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "और चुप रहे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "उसने रखा है"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उस पर"
+    }
+  ],
+  "timestamp": "2026-08-07T23:36:19.514659443Z",
+  "model": "glm-5.2"
+}

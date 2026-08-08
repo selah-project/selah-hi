@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 25,
+  "translation": "और मिश्मा, और दूमा, और मस्सा।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "और मिश्मा"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "और दूमा"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "और मस्सा"
+    }
+  ],
+  "timestamp": "2026-08-07T19:48:04.659147460Z",
+  "model": "glm-5.2"
+}

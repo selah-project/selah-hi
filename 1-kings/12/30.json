@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 12,
+  "translation": "और यह बात पाप के लिए हुई, और लोग उस एक के सामने दान तक गए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "और हुई"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "यह बात"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यह"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप के लिए"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "और गए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "के सामने"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "उस एक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तक"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-08-07T21:40:23.638072087Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 36,
+  "translation": "वहाँ अविधि के कर्मी गिर ⟨हैं⟩ — धके गए और न उठ सकेंगे।",
+  "tokens": [
+    {
+      "surface": "שָׁ֣ם",
+      "gloss": "वहाँ"
+    },
+    {
+      "surface": "נָ֭פְלוּ",
+      "gloss": "गिर"
+    },
+    {
+      "surface": "פֹּ֣עֲלֵי",
+      "gloss": "कर्मी"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "अविधि"
+    },
+    {
+      "surface": "דֹּ֝ח֗וּ",
+      "gloss": "धके गए"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "और न"
+    },
+    {
+      "surface": "יָ֥כְלוּ",
+      "gloss": "सकेंगे"
+    },
+    {
+      "surface": "קֽוּם",
+      "gloss": "उठ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:57:47.673283207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 18,
+  "translation": "और तोऊ ने, चमात के राजा ने, सुना कि दावीद ने हददएजेर को, त्सोबा के राजा के, सम्पूर्ण सेना को पीटा।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "और सुना"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "तोऊ ने"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा ने"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "चमात के"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "पीटा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीद ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सम्पूर्ण सेना को"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "हददएजेर को"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा के"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोबा"
+    }
+  ],
+  "timestamp": "2026-08-08T01:17:07.131631956Z",
+  "model": "glm-5.2"
+}

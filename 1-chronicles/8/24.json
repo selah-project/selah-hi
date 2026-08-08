@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 8,
+  "translation": "और खानन्याह, और एलाम, और अनतोतीयाह —",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "और खानन्याह"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "और एलाम"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "और अनतोतीयाह"
+    }
+  ],
+  "timestamp": "2026-08-07T23:57:33.157915388Z",
+  "model": "glm-5.2"
+}

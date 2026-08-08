@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "hi",
+  "chapter": 10,
+  "translation": "उसी से कोना-पत्थर, उसी से खूँटा, उसी से युद्ध का धनुष; उसी से साथ-साथ हर एक उत्पीड़क निकलेगा।",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "उसी से"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "कोना-पत्थर"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उसी से"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "खूँटा"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उसी से"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "धनुष"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध का"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "उसी से"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निकलेगा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हर एक"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "उत्पीड़क"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "साथ-साथ"
+    }
+  ],
+  "timestamp": "2026-08-07T22:53:07.289692983Z",
+  "model": "glm-5.2"
+}

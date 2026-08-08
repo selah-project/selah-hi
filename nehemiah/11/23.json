@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "hi",
+  "chapter": 11,
+  "translation": "क्योंकि राजा की मित्स्वा उन पर थी, और गायकों के लिए अमाना — दिन-का-दबार उसके दिन में।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मित्स्वा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "उन पर"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "और अमाना"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "गायकों"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "दबार"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "उसके दिन में"
+    }
+  ],
+  "timestamp": "2026-08-07T23:54:58.403946485Z",
+  "model": "glm-5.2"
+}

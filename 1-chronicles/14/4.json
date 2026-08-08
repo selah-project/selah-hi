@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "hi",
+  "chapter": 14,
+  "translation": "और ये ⟨हैं⟩ उनके नाम जो उसके यरूशलम में जन्मे थे: शम्मूआ, और शोवाव, नतन, और शलोमो।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "और ये"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "जन्मे थे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसके"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "यरूशलम में"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मूआ"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "और शोवाव"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नतन"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "और शलोमो"
+    }
+  ],
+  "timestamp": "2026-08-07T23:59:40.506637918Z",
+  "model": "glm-5.2"
+}

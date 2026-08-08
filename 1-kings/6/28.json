@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "hi",
+  "chapter": 6,
+  "translation": "और ⟨उसने⟩ ⟨את⟩ करूबों को सुवर्ण आच्छादित किया।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "और आच्छादित किया"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "करूबों को"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "करूबों"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुवर्ण"
+    }
+  ],
+  "timestamp": "2026-08-07T21:36:54.647542075Z",
+  "model": "glm-5.2"
+}

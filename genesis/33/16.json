@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "hi",
+  "chapter": 33,
+  "translation": "तब एसाव उसी दिन अपने मार्ग पर सेईर को लौट गया।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "तब…लौट गया"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "उसी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाव"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "अपने मार्ग पर"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "सेईर को"
+    }
+  ],
+  "timestamp": "2026-08-08T02:03:25.524938179Z",
+  "model": "glm-5.2"
+}

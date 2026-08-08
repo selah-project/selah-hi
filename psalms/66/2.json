@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "hi",
+  "chapter": 66,
+  "translation": "उसके नाम के तेज़ को गाओ, उसकी स्तुति को तेज़स्वी बनाओ।",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "गाओ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज़ को"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसके नाम"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "बनाओ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "तेज़स्वी"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "उसकी स्तुति को"
+    }
+  ],
+  "timestamp": "2026-08-07T23:02:44.995573771Z",
+  "model": "glm-5.2"
+}
