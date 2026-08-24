@@ -5,68 +5,65 @@
   "book": "deuteronomy",
   "lang": "hi",
   "chapter": 12,
-  "translation": "क्योंकि तुम अब तक नहीं आए हो — ⟨तक⟩ विश्राम ⟨तक⟩ और ⟨तक⟩ नचलति ⟨की⟩ ओर, जो यहवे तेरा एलोहीम तुझे देता है।",
+  "translation": "क्योंकि तुम अब तक उस विश्राम और उस विरासत तक नहीं आए हो, जो यहवे तुम्हारा एलोहीम तुम्हें देता है।",
   "tokens": [
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "क्योंकि"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "नहीं"
     },
     {
-      "surface": "בָּאתֶ֖ם",
+      "surface": "באתם",
       "gloss": "तुम आए हो"
     },
     {
-      "surface": "עַד",
-      "gloss": "⟨तक⟩",
-      "marks": "विश्राम"
+      "surface": "עד",
+      "gloss": "तक"
     },
     {
-      "surface": "עָ֑תָּה",
+      "surface": "עתה",
       "gloss": "अब तक"
     },
     {
-      "surface": "אֶל",
-      "gloss": "⟤el⟩",
-      "marks": "विश्राम"
+      "surface": "אל",
+      "gloss": "उस…तक"
     },
     {
-      "surface": "הַמְּנוּחָה֙",
+      "surface": "המנוחה",
       "gloss": "विश्राम"
     },
     {
-      "surface": "וְאֶל",
-      "gloss": "और ⟨तक⟩",
-      "marks": "नचलति"
+      "surface": "ואל",
+      "gloss": "और उस…तक"
     },
     {
-      "surface": "הַֽנַּחֲלָ֔ה",
-      "gloss": "नचलति"
+      "surface": "הנחלה",
+      "gloss": "विरासत"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "gloss": "जो"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "gloss": "यहवे"
     },
     {
-      "surface": "אֱלֹהֶ֖יךָ",
-      "gloss": "तेरा एलोहीम"
+      "surface": "אלהיך",
+      "gloss": "तुम्हारा एलोहीम"
     },
     {
-      "surface": "נֹתֵ֥ן",
+      "surface": "נתן",
       "gloss": "देता है"
     },
     {
-      "surface": "לָֽךְ",
-      "gloss": "तुझे"
+      "surface": "לך",
+      "gloss": "तुम्हें"
     }
   ],
-  "timestamp": "2026-08-08T02:19:17.415305317Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:51:09.124702700Z",
+  "model": "glm-5.3"
 }

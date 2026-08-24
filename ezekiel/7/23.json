@@ -5,49 +5,49 @@
   "book": "ezekiel",
   "lang": "hi",
   "chapter": 7,
-  "translation": "हार-ताम्हा ⟨बना⟩, क्योंकि ⟨הארץ⟩ रक्त-न्याय से भरी है, और ⟨העיר⟩ हिंसा से भरी है।",
+  "translation": "ज़ंजीर बनाओ, क्योंकि ⟨ה⟩ ⟨the⟩ भूमि रक्त-न्याय से भरी है और ⟨ה⟩ ⟨the⟩ नगर हिंसा से भरी है।",
   "tokens": [
     {
-      "surface": "עֲשֵׂה",
-      "gloss": "बना"
+      "surface": "עשה",
+      "gloss": "बनाओ"
     },
     {
-      "surface": "הָרַתּוֹק",
-      "gloss": "हार-ताम्हा"
+      "surface": "הרתוק",
+      "gloss": "ज़ंजीर"
     },
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "gloss": "क्योंकि"
     },
     {
-      "surface": "הָאָרֶץ",
+      "surface": "הארץ",
       "gloss": "भूमि"
     },
     {
-      "surface": "מָלְאָה",
+      "surface": "מלאה",
       "gloss": "भरी है"
     },
     {
-      "surface": "מִשְׁפַּט",
+      "surface": "मשפט",
       "gloss": "न्याय"
     },
     {
-      "surface": "דָּמִים",
+      "surface": "דמים",
       "gloss": "रक्त"
     },
     {
-      "surface": "וְהָעִיר",
-      "gloss": "और ⟨हेयर⟩"
+      "surface": "והעיר",
+      "gloss": "और नगर"
     },
     {
-      "surface": "מָלְאָה",
+      "surface": "מלאה",
       "gloss": "भरी है"
     },
     {
-      "surface": "חָמָס",
+      "surface": "חמס",
       "gloss": "हिंसा"
     }
   ],
-  "timestamp": "2026-08-08T02:52:17.938378095Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:55:04.768557726Z",
+  "model": "glm-5.3"
 }

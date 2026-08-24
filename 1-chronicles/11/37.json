@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "hi",
   "chapter": 11,
-  "translation": "हेस्रो ⟨the⟩ कार्मेली, नाअराय एज़्बाय का पुत्र,",
+  "translation": "हेस्रो ⟨the⟩ कार्मली, नाअराय बेन-अज़्बाय का पुत्र।",
   "tokens": [
     {
-      "surface": "חֶצְרוֹ֙",
+      "surface": "חצרו",
       "gloss": "हेस्रो"
     },
     {
-      "surface": "הַֽכַּרְמְלִ֔י",
-      "gloss": "⟨the⟩ कार्मेली"
+      "surface": "הכרמלי",
+      "gloss": "कार्मली"
     },
     {
-      "surface": "נַעֲרַ֖י",
+      "surface": "נערי",
       "gloss": "नाअराय"
     },
     {
-      "surface": "בֶּן",
-      "gloss": "का पुत्र"
+      "surface": "בן",
+      "gloss": "पुत्र"
     },
     {
-      "surface": "אֶזְבָּֽי",
-      "gloss": "एज़्बाय"
+      "surface": "אזבי",
+      "gloss": "अज़्बाय"
     }
   ],
-  "timestamp": "2026-08-08T03:14:50.853420443Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:58:17.434285880Z",
+  "model": "glm-5.3"
 }

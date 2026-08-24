@@ -5,45 +5,45 @@
   "book": "nehemiah",
   "lang": "hi",
   "chapter": 7,
-  "translation": "सब ⟨ה⟩नेतीनिम और शलोमोह के दासों के पुत्र — तीन सौ बानवे।",
+  "translation": "सब नतीनीम और शलोमोह के दासों के पुत्र — तीन सौ बानवे।",
   "tokens": [
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "gloss": "सब"
     },
     {
-      "surface": "הַנְּתִינִים",
-      "gloss": "नेतीनिम"
+      "surface": "הנתינים",
+      "gloss": "नतीनीम"
     },
     {
-      "surface": "וּבְנֵי",
+      "surface": "ובני",
       "gloss": "और … के पुत्र"
     },
     {
-      "surface": "עַבְדֵי",
-      "gloss": "दासों"
+      "surface": "עבדי",
+      "gloss": "दासों के"
     },
     {
-      "surface": "שְׁלֹמֹה",
-      "gloss": "शलोमोह के"
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
     },
     {
-      "surface": "שְׁלֹשׁ",
+      "surface": "שלש",
       "gloss": "तीन"
     },
     {
-      "surface": "מֵאוֹת",
+      "surface": "מאות",
       "gloss": "सौ"
     },
     {
-      "surface": "תִּשְׁעִים",
+      "surface": "תשעים",
       "gloss": "बानवे"
     },
     {
-      "surface": "וּשְׁנָֽיִם",
+      "surface": "ושנים",
       "gloss": "और दो"
     }
   ],
-  "timestamp": "2026-08-08T03:13:48.516645940Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:58:29.610071400Z",
+  "model": "glm-5.3"
 }

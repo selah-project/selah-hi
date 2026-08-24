@@ -5,153 +5,73 @@
   "book": "amos",
   "lang": "hi",
   "chapter": 9,
-  "translation": "और אֲדֹנָי ׯהוה הַצְּבָאוֹת הַנּוֹגֵעַ בָּאָרֶץ הְ-תָמוֹג, וְכָל יוֹשְׁבֶיהָ יִתְאַבְּלוּ, וְעָלְתָה כֻּלָּהּ כְּיְאֹר וְשָׁקְעָה כְּיְאֹר מִצְרָיִם।",
+  "translation": "और अदोनाय यहवे सेनाओं का वह ⟨है⟩ जो पृथ्वी को छूता है और वह पिघल जाती है, और उसके सब निवासी शोक करते हैं; और वह पूरी की पूरी नदी की भाँति उठती है और मिस्रयिम (मिस्र) की नदी की भाँति धँस जाती है।",
   "tokens": [
     {
-      "surface": "וַאדֹנָ֨י",
-      "pos": "c",
-      "lemma": "אֲדֹנָי",
-      "phon": "waʾǎḏōnāy",
-      "form": "Ptcpc·Sg·m",
-      "gloss": "और",
-      "note": "הַשֵּׁם אֲדֹנָי; prefix וְ = and"
+      "surface": "ואדני",
+      "gloss": "और अदोनाय"
     },
     {
-      "surface": "יְהוִ֜ה",
-      "pos": "np",
-      "lemma": "יְהֹוָה",
-      "phon": "YHVH",
-      "form": "Prop·Sg·m",
-      "gloss": "יְהֹוָה",
-      "note": "הַשֵּׁם הַמְפֹרָשׁ; qere אֲדֹנָי"
+      "surface": "יהוה",
+      "gloss": "यहवे"
     },
     {
-      "surface": "הַצְּבָא֗וֹת",
-      "pos": "nc",
-      "lemma": "צָבָא",
-      "phon": "haṣṣəḇāʾōṯ",
-      "form": "Ncbpa·d",
-      "gloss": "הַצְּבָאוֹת",
-      "note": "הַ ה + צָבָא in plur"
+      "surface": "הצבאות",
+      "gloss": "सेनाओं का"
     },
     {
-      "surface": "הַנּוֹגֵ֤עַ",
-      "pos": "Vb",
-      "lemma": "נָגַע",
-      "phon": "hannōwḡēaʿ",
-      "form": "Vbqrmsa·d",
-      "gloss": "הַנּוֹגֵעַ",
-      "note": "הַ ה + נָגַע Q pt act Sg m"
+      "surface": "הנוגע",
+      "gloss": "जो छूता है"
     },
     {
-      "surface": "בָּאָ֨רֶץ֙",
-      "pos": "b",
-      "lemma": "אֶרֶץ",
-      "phon": "bāʾāreṣ",
-      "form": "Ncbsa·b",
-      "gloss": "בָּאָרֶץ",
-      "note": "prefix בְּ in; הַ ה absorbed"
+      "surface": "בארץ",
+      "gloss": "पृथ्वी को"
     },
     {
-      "surface": "וַתָּמ֔וֹג",
-      "pos": "c",
-      "lemma": "מוּג",
-      "phon": "wattāmōwḡ",
-      "form": "Vbqrw3fs",
-      "gloss": "ותמוג",
-      "note": "prefix וְ; תָּמוּג Q pf 3 fs (subj הָאָרֶץ)"
+      "surface": "ותמוג",
+      "gloss": "और वह पिघल जाती है"
     },
     {
-      "surface": "וְאָבְל֖וּ",
-      "pos": "c",
-      "lemma": "אָבַל",
-      "phon": "wəʾāḇəlû",
-      "form": "Vbqr3cp",
-      "gloss": "ואבלו",
-      "note": "prefix וְ; אָבַל Q pf 3 cp"
+      "surface": "ואבלו",
+      "gloss": "और शोक करते हैं"
     },
     {
-      "surface": "כָּל",
-      "pos": "A",
-      "lemma": "כֹּל",
-      "phon": "kōl",
-      "form": "Amsac",
-      "gloss": "כל",
-      "note": "כֹּל constr before noun"
+      "surface": "כל",
+      "gloss": "सब"
     },
     {
-      "surface": "י֣וֹשְׁבֵי",
-      "pos": "Vb",
-      "lemma": "יָשַׁב",
-      "phon": "yōwšəḇê",
-      "form": "Vbqrmpc",
-      "gloss": "יוֹשְׁבֵי",
-      "note": "יָשַׁב Q pt act mpl constr"
+      "surface": "יושבי",
+      "gloss": "निवासी"
     },
     {
-      "surface": "בָ֑הּ",
-      "pos": "b",
-      "lemma": "בְּ",
-      "phon": "ḇāh",
-      "form": "Pp·3fs",
-      "gloss": "בה",
-      "note": "prefix בְּ + 3 fs suffix → בָּהּ (אָרֶץ)"
+      "surface": "בה",
+      "gloss": "उसके"
     },
     {
-      "surface": "וְעָלְתָ֤ה",
-      "pos": "c",
-      "lemma": "עָלָה",
-      "phon": "wəʿāləṯāh",
-      "form": "Vbqrw3fs",
-      "gloss": "ועלתה",
-      "note": "prefix וְ; עָלָה Q pf 3 fs"
+      "surface": "ועלתה",
+      "gloss": "और वह उठती है"
     },
     {
-      "surface": "כַיְאֹר֙",
-      "pos": "K",
-      "lemma": "כְּ",
-      "phon": "kayəʾōr",
-      "form": "K·d",
-      "gloss": "כיאר",
-      "note": "כְּ + הַ + יְאֹר (Nile); הַ absorbed"
+      "surface": "כיאר",
+      "gloss": "नदी की भाँति"
     },
     {
-      "surface": "כֻלָּ֔הּ",
-      "pos": "A",
-      "lemma": "כֹּל",
-      "phon": "kullāh",
-      "form": "Amsaa·Pp3fs",
-      "gloss": "כלה",
-      "note": "כֹּל abs + 3 fs suffix → כֻּלָּהּ (אָרֶץ)"
+      "surface": "כלה",
+      "gloss": "पूरी की पूरी"
     },
     {
-      "surface": "וְשָׁקְעָ֖ה",
-      "pos": "c",
-      "lemma": "שָׁקַע",
-      "phon": "wəšāqəʿāh",
-      "form": "Vbqrw3fs",
-      "gloss": "ושקעה",
-      "note": "prefix וְ; שָׁקַע Q pf 3 fs"
+      "surface": "ושקעה",
+      "gloss": "और धँस जाती है"
     },
     {
-      "surface": "כִּיאֹ֥ר",
-      "pos": "K",
-      "lemma": "כְּ",
-      "phon": "kîyəʾōr",
-      "form": "K·d",
-      "gloss": "כיאר",
-      "note": "כְּ + יְאֹר; הַ ה absorbed"
+      "surface": "כיאר",
+      "gloss": "नदी की भाँति"
     },
     {
-      "surface": "מִצְרָֽיִם",
-      "pos": "np",
-      "lemma": "מִצְרַיִם",
-      "phon": "miṣrāyim",
-      "form": "Prop·Sg·m",
-      "gloss": "מִצְרָיִם",
-      "note": "Egypt"
+      "surface": "מצרים",
+      "gloss": "मिस्रयिम (मिस्र) की"
     }
   ],
-  "timestamp": "2026-08-08T02:59:37.599835571Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:57:36.175846431Z",
+  "model": "glm-5.3"
 }

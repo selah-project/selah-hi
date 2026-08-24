@@ -5,23 +5,23 @@
   "book": "zechariah",
   "lang": "hi",
   "chapter": 14,
-  "translation": "और उस दिन होगा ⟨कि⟩ ⟨there will⟩ न होगा प्रकाश — ⟨the⟩ बहुमूल्य ⟨lights⟩ जम ⟨जाएँगे⟩।",
+  "translation": "और उस दिन ऐसा होगा: प्रकाश नहीं होगा — ठण्ड और जमाव होगी।",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "और होगा"
+      "gloss": "और ऐसा होगा"
     },
     {
       "surface": "ביום",
       "gloss": "उस दिन"
     },
     {
-      "surface": "ההוא",
-      "gloss": "वह"
+      "surface": "हהוא",
+      "gloss": "उस"
     },
     {
       "surface": "לא",
-      "gloss": "न"
+      "gloss": "नहीं"
     },
     {
       "surface": "יהיה",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "יקרות",
-      "gloss": "बहुमूल्य"
+      "gloss": "ठण्ड"
     },
     {
       "surface": "יקפאון",
-      "gloss": "जम जाएँगे"
+      "gloss": "जमाव"
     }
   ],
-  "timestamp": "2026-08-08T06:10:30.891044502Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:57:37.716417345Z",
+  "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "hi",
   "chapter": 16,
-  "translation": "और ⟨ה⟩ ओमर ⟨है⟩ ईफा का दसवाँ भाग ⟨है⟩।",
+  "translation": "और ⟨ה⟩ओमर ⟨है⟩ एपा का दसवाँ भाग।",
   "tokens": [
     {
       "surface": "והעמר",
-      "gloss": "और ⟨ह⟩ ओमर"
+      "gloss": "और ⟨ה⟩ओमर"
     },
     {
       "surface": "עשרית",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "האיפה",
-      "gloss": "ईफा का"
+      "gloss": "एपा का"
     },
     {
       "surface": "הוא",
       "gloss": "⟨है⟩"
     }
   ],
-  "timestamp": "2026-08-08T02:06:14.018306811Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:48:11.123865422Z",
+  "model": "glm-5.3"
 }

@@ -5,21 +5,21 @@
   "book": "isaiah",
   "lang": "hi",
   "chapter": 3,
-  "translation": "⟨the⟩ अंगूठियाँ और ⟨the⟩ नाक के ⟨the⟩ आभूषण।",
+  "translation": "छल्ले, और नाक के आभूषण",
   "tokens": [
     {
       "surface": "הטבעות",
-      "gloss": "⟨the⟩ अंगूठियाँ"
+      "gloss": "छल्ले"
     },
     {
       "surface": "ונזמי",
-      "gloss": "और ⟨the⟩ आभूषण"
+      "gloss": "और आभूषण"
     },
     {
       "surface": "האף",
-      "gloss": "नाक"
+      "gloss": "नाक के"
     }
   ],
-  "timestamp": "2026-08-08T02:35:08.898429431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:53:07.393813883Z",
+  "model": "glm-5.3"
 }

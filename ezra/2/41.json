@@ -5,33 +5,33 @@
   "book": "ezra",
   "lang": "hi",
   "chapter": 2,
-  "translation": "⟨The⟩ गायक: असाप के पुत्र, एक सौ बीस और आठ।",
+  "translation": "הַמְשֹׁרְרִים — ⟨the⟩ गायक: असाफ के बेटे, एक सौ बीस और आठ।",
   "tokens": [
     {
-      "surface": "הַֽמְשֹׁרְרִ֑ים",
+      "surface": "המשררים",
       "gloss": "गायक"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "gloss": "पुत्र"
+      "surface": "בני",
+      "gloss": "के बेटे"
     },
     {
-      "surface": "אָסָ֔ף",
-      "gloss": "असाप"
+      "surface": "אסף",
+      "gloss": "असाफ"
     },
     {
-      "surface": "מֵאָ֖ה",
+      "surface": "मאה",
       "gloss": "एक सौ"
     },
     {
-      "surface": "עֶשְׂרִ֥ים",
+      "surface": "עשרים",
       "gloss": "बीस"
     },
     {
-      "surface": "וּשְׁמֹנָֽה",
+      "surface": "ושמנה",
       "gloss": "और आठ"
     }
   ],
-  "timestamp": "2026-08-08T03:12:11.798776475Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T19:58:21.570573943Z",
+  "model": "glm-5.3"
 }
