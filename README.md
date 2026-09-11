@@ -60,3 +60,9 @@
 हम पाठकों, इब्रानी के विद्यार्थियों, अनुवादकों और हिन्दी-भाषियों को
 इस संस्करण को सुधारने के लिए आमंत्रित करते हैं। issue या pull request
 खोलने से पहले [CONTRIBUTING.md](CONTRIBUTING.md) पढ़ें।
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
