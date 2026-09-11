@@ -57,3 +57,8 @@ python3 -m json.tool genesis/1/1.json >/dev/null
 पंक्तिबद्धता से करता है; वह स्वीकार कर सकता है, आपके साथ संशोधित कर
 सकता है, और प्रमाण की प्रतीक्षा या कारण सहित अस्वीकार कर सकता है।
 पाठ की आलोचना कीजिए, व्यक्ति की नहीं।
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
